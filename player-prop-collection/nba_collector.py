@@ -1,15 +1,17 @@
 import os
-from dotenv import load_dotenv
+# from dotenv import load_dotenv
 import requests
 import json
 import re
 from datetime import date
 import csv
 
-load_dotenv()
+# load_dotenv()
 
-API_KEY = os.getenv('API_KEY')
-HISTORICAL_API_KEY = os.getenv('HISTORICAL_API_KEY')
+# API_KEY = os.getenv('API_KEY')
+# HISTORICAL_API_KEY = os.getenv('HISTORICAL_API_KEY')
+API_KEY = "bc7791c727dae92fcf26b6e1338575e9"
+HISTORICAL_API_KEY = "668b5200589eb79da855b2f68cd0749a"
 BASE = "https://api.the-odds-api.com/v4"
 
 
@@ -18,8 +20,10 @@ class Collector:
     sports_titles = []
     sports_keys = []
 
-    def __init__(self) -> None:
-        pass
+    @staticmethod
+    def getAPIKey():
+        print("testing")
+
 
     @staticmethod
     def getEvents(sport):
@@ -46,13 +50,13 @@ class Collector:
         if not Collector.validateDate(date):
             print(f"Invalid date: {date}")
             return
-        
-        date += "T10:00:00Z" # auto collect at 10 AM
+
+        orig_date = date
+        date += "T10:00:00Z"  # auto collect at 10 AM
 
         url = f"{BASE}/historical/sports/{sport}/events?apiKey={HISTORICAL_API_KEY}&date={date}"
 
         print(url)
-
 
         response = requests.request("GET", url, headers={}, data={})
 
@@ -65,12 +69,13 @@ class Collector:
         print(data)
 
         if data is not None:
-            with open(f"basketball-events/{sport}-event-{date}.json", "w") as json_file:
+            with open(f"basketball-events/{sport}-event-{orig_date}.json", "w") as json_file:
                 json.dump(data, json_file, indent=4)
 
 
     @staticmethod
     def getPropByEventFiles(dir, sport, markets, regions):
+        # gets all props for every single event in basketball-events
         for file in os.listdir(dir):
             if os.path.isfile(os.path.join(dir, file)) and file.endswith('.json'):
                 with open(os.path.join(dir, file), "r") as f:
@@ -80,20 +85,65 @@ class Collector:
 
                 for event in data["data"]:
                     eventId = event["id"]
-                    props = Collector.getHistoricalNbaPropsByEventId(sport, eventId, markets, regions, timestamp, True)
-
+                    Collector.getHistoricalNbaPropsByEventId(sport, eventId, markets, regions, timestamp, True)
         
+    @staticmethod
+    def convertPropFilesToSingularCSV(dir):
+        csv_player_data = []
+
+        for file in os.listdir(dir):
+            if os.path.isfile(os.path.join(dir, file)) and file.endswith('.json'):
+                with open(os.path.join(dir, file), "r") as f:
+                    data = json.load(f)
+
+                filename = os.path.join(dir, file)
+                date = filename.split("props-")[1].replace(".json", "")
 
 
+                data = data["data"]
+
+                player_data = {}
+
+                for market in data["bookmakers"][0]["markets"]:
+                    key = market["key"]
+
+                    for odds in market["outcomes"]:
+                        player = odds["description"]
+                        if player not in player_data:
+                            player_data[player] = {}
+
+                        if key not in player_data[player]:
+                            player_data[player][key] = {}
+
+                        player_data[player][key]["line"] = odds["point"]
+                        player_data[player][key][odds["name"].lower()] = odds["price"]
+                    
+
+                for player, lines in player_data.items():
+                    row = {'Player': player, 'Date': date}
+                    for prop_type, values in lines.items():
+                        for prop_info, value in values.items():
+                            row[f"{prop_type}_{prop_info}"] = value
+                    csv_player_data.append(row)
 
 
+        headers = set()
+        for row in csv_player_data:
+            headers.update(row.keys())
 
+        # Write CSV data to file
+        with open('odds_output.csv', 'w', newline='') as csvfile:
+            writer = csv.DictWriter(csvfile, fieldnames=sorted(headers))
+            writer.writeheader()
+            writer.writerows(csv_player_data)
 
 
     @staticmethod
     def getHistoricalNBAPropsByEventId(sport, eventId, markets, regions, date, testing):
         if (testing == True):
-            return "empty data"
+            with open("basketball-player-props/da359da99aa27e97d38f2df709343998-props-2023-11-29T10:00:00Z.json", "r") as file:
+                d = json.loads(file)
+                return d
 
         # ISO format: 2021-10-18T12:00:00Z
         # yyyy mm dd
@@ -102,6 +152,7 @@ class Collector:
             print(f"Invalid date: {date}")
             return
         
+        orig_date = date
         date += "T10:00:00Z" # auto collect at 10 AM
 
 
@@ -119,10 +170,14 @@ class Collector:
             print(f"Error Collecting Player Props Data for {eventId}. Status code: {response.status_code}")
             data = None
 
+            return None
+
 
         if data is not None:
-            with open(f"basketball-player-props/{eventId}-props-{date}.json", "w") as json_file:
+            with open(f"basketball-player-props/{eventId}-props-{orig_date}.json", "w") as json_file:
                 json.dump(data, json_file, indent=4)
+            
+        return data
 
 
     
@@ -144,18 +199,15 @@ class Collector:
 
     
     @staticmethod
-    def explorePropData(filename):
+    def exploreHistoricalPropData(filename):
+        date = filename.split("props-")[1].replace(".json", "")
+
         with open(filename) as f:
             data = json.load(f)
 
+        data = data["data"]
 
         player_data = {}
-
-        # for book in data["bookmakers"]:
-        #     markets = book["markets"]
-        #     for market in markets:
-        #         key = market["key"]
-        #         for odds in market["outcomes"]:
 
         for market in data["bookmakers"][0]["markets"]:
             key = market["key"]
@@ -174,7 +226,7 @@ class Collector:
 
         csv_player_data = []
         for player, lines in player_data.items():
-            row = {'Player': player}
+            row = {'Player': player, 'Date': date}
             for prop_type, values in lines.items():
                 for prop_info, value in values.items():
                     row[f"{prop_type}_{prop_info}"] = value
@@ -217,12 +269,16 @@ if __name__ == "__main__":
    
     #print(Collector.sports_keys)
 
-    Collector.getPropByEventFiles("basketball-events")
+    #Collector.getPropByEventFiles("basketball-events")
 
-    #Collector.getHistoricalEvents("basketball_nba", "2023-03-30")
+    Collector.getHistoricalEvents("basketball_nba", "2023-03-30")
 
     #Collector.getHistoricalNBAPropsByEventId("basketball_nba", "da359da99aa27e97d38f2df709343998", ["player_points"], ["us"], "2023-11-29")
 
-    #Collector.explorePropData("e7197eceb5146bd746348f3c861f4154-props-2024-02-12.json")
+    #Collector.exploreHistoricalPropData("basketball-player-props/da359da99aa27e97d38f2df709343998-props-2023-11-29.json")
+
+    #Collector.convertPropFilesToSingularCSV("basketball-player-props")
 
     #print("nothing running...")
+
+
