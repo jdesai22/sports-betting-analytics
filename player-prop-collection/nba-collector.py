@@ -9,6 +9,7 @@ import csv
 load_dotenv()
 
 API_KEY = os.getenv('API_KEY')
+HISTORICAL_API_KEY = os.getenv('HISTORICAL_API_KEY')
 BASE = "https://api.the-odds-api.com/v4"
 
 
@@ -35,6 +36,95 @@ class Collector:
         if data is not None:
             with open(f"{sport}-event-{date.today()}.json", "w") as json_file:
                 json.dump(data, json_file, indent=4)
+
+    @staticmethod
+    def getHistoricalEvents(sport, date):
+
+        # ISO format: 2021-10-18T12:00:00Z
+        # yyyy mm dd
+
+        if not Collector.validateDate(date):
+            print(f"Invalid date: {date}")
+            return
+        
+        date += "T10:00:00Z" # auto collect at 10 AM
+
+        url = f"{BASE}/historical/sports/{sport}/events?apiKey={HISTORICAL_API_KEY}&date={date}"
+
+        print(url)
+
+
+        response = requests.request("GET", url, headers={}, data={})
+
+        if response.status_code == 200:
+            data = response.json()
+        else:
+            print(f"Error Collecting Events Data. Status code: {response.status_code}")
+            data = None
+
+        print(data)
+
+        if data is not None:
+            with open(f"basketball-events/{sport}-event-{date}.json", "w") as json_file:
+                json.dump(data, json_file, indent=4)
+
+
+    @staticmethod
+    def getPropByEventFiles(dir, sport, markets, regions):
+        for file in os.listdir(dir):
+            if os.path.isfile(os.path.join(dir, file)) and file.endswith('.json'):
+                with open(os.path.join(dir, file), "r") as f:
+                    data = json.load(f)
+
+                timestamp = data["timestamp"]
+
+                for event in data["data"]:
+                    eventId = event["id"]
+                    props = Collector.getHistoricalNbaPropsByEventId(sport, eventId, markets, regions, timestamp, True)
+
+        
+
+
+
+
+
+
+
+    @staticmethod
+    def getHistoricalNBAPropsByEventId(sport, eventId, markets, regions, date, testing):
+        if (testing == True):
+            return "empty data"
+
+        # ISO format: 2021-10-18T12:00:00Z
+        # yyyy mm dd
+
+        if not Collector.validateDate(date):
+            print(f"Invalid date: {date}")
+            return
+        
+        date += "T10:00:00Z" # auto collect at 10 AM
+
+
+        # /v4/historical/sports/{sport}/events/{eventId}/odds?apiKey={apiKey}&regions={regions}&markets={markets}&dateFormat={dateFormat}&oddsFormat={oddsFormat}&date={date}
+        url = f'{BASE}/historical/sports/{sport}/events/{eventId}/odds?apiKey={HISTORICAL_API_KEY}&regions={",".join(regions)}&markets={",".join(markets)}&date={date}'
+
+        print(url)
+        response = requests.request("GET", url, headers={}, data={})
+        print(response.json())
+
+
+        if response.status_code == 200:
+            data = response.json()
+        else:
+            print(f"Error Collecting Player Props Data for {eventId}. Status code: {response.status_code}")
+            data = None
+
+
+        if data is not None:
+            with open(f"basketball-player-props/{eventId}-props-{date}.json", "w") as json_file:
+                json.dump(data, json_file, indent=4)
+
+
     
     @staticmethod
     def getNBAPropsByEventId(sport, eventId, markets, regions):
@@ -112,16 +202,27 @@ class Collector:
         regex_pattern = r'^(h2h|spreads|totals|outrights|h2h_lay|outrights_lay)(,(h2h|spreads|totals|outrights|h2h_lay|outrights_lay))*$'
         return bool(re.match(regex_pattern, market))
     
+    @staticmethod
+    def validateDate(date):
+        regex_pattern = r'^\d{4}-\d{2}-\d{2}$'
+        return bool(re.match(regex_pattern, date))
+    
 
 
 if __name__ == "__main__":
     # Collector.getOdds("basketball_nba", "us", "h2h", "basketball-us-odds.json")
 
     #Collector.getEvents("basketball_nba")
-    #Collector.getNBAPropsByEventId("basketball_nba", "04a4ea52daa7aa07eb08e449ed7f3e92", ["player_points", "player_rebounds", "player_assists", "player_blocks", "player_steals"], ["us"])
+    #Collector.getNBAPropsByEventId("basketball_nba", "c691aedfb0a90fd73aaa2d55250c9f37", ["player_points", "player_rebounds", "player_assists", "player_blocks", "player_steals"], ["us"])
    
     #print(Collector.sports_keys)
 
-    #Collector.explorePropData("04a4ea52daa7aa07eb08e449ed7f3e92-props-2024-02-11.json")
+    Collector.getPropByEventFiles("basketball-events")
 
-    print("nothing running...")
+    #Collector.getHistoricalEvents("basketball_nba", "2023-03-30")
+
+    #Collector.getHistoricalNBAPropsByEventId("basketball_nba", "da359da99aa27e97d38f2df709343998", ["player_points"], ["us"], "2023-11-29")
+
+    #Collector.explorePropData("e7197eceb5146bd746348f3c861f4154-props-2024-02-12.json")
+
+    #print("nothing running...")
