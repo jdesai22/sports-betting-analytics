@@ -1,0 +1,173 @@
+{
+    "timestamp": "2024-01-01T09:55:38Z",
+    "previous_timestamp": "2024-01-01T09:50:38Z",
+    "next_timestamp": "2024-01-01T10:00:38Z",
+    "data": {
+        "id": "adb2d384e2b7600cba88c429cc865c05",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-01-02T02:10:00Z",
+        "home_team": "Utah Jazz",
+        "away_team": "Dallas Mavericks",
+        "bookmakers": [
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2024-01-01T09:55:07Z",
+                "markets": [
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-01-01T09:52:26Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Collin Sexton",
+                                "price": 1.91,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Collin Sexton",
+                                "price": 1.83,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "John Collins",
+                                "price": 1.74,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "John Collins",
+                                "price": 2.05,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Lauri Markkanen",
+                                "price": 1.83,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Lauri Markkanen",
+                                "price": 1.91,
+                                "point": 24.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2024-01-01T09:54:44Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-01-01T09:54:21Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Collin Sexton",
+                                "price": 2.2,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Collin Sexton",
+                                "price": 1.65,
+                                "point": 4.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-01-01T09:54:21Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Collin Sexton",
+                                "price": 1.9,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Collin Sexton",
+                                "price": 1.87,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "John Collins",
+                                "price": 1.82,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "John Collins",
+                                "price": 1.96,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Lauri Markkanen",
+                                "price": 1.83,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Lauri Markkanen",
+                                "price": 1.94,
+                                "point": 24.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-01-01T09:54:21Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Collin Sexton",
+                                "price": 1.76,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Collin Sexton",
+                                "price": 2.04,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "John Collins",
+                                "price": 1.94,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "John Collins",
+                                "price": 1.83,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Lauri Markkanen",
+                                "price": 1.74,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Lauri Markkanen",
+                                "price": 2.06,
+                                "point": 8.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

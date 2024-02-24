@@ -1,0 +1,221 @@
+{
+    "timestamp": "2024-01-02T09:55:38Z",
+    "previous_timestamp": "2024-01-02T09:50:38Z",
+    "next_timestamp": "2024-01-02T10:00:38Z",
+    "data": {
+        "id": "e1ed979f59409ce7a6bd5c4c65d206b9",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-01-03T03:00:00Z",
+        "home_team": "Sacramento Kings",
+        "away_team": "Charlotte Hornets",
+        "bookmakers": [
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2024-01-02T09:54:52Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-01-02T09:52:22Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.83,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.94,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.85,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.93,
+                                "point": 5.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-01-02T09:52:22Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.94,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.83,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Harrison Barnes",
+                                "price": 2.02,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Harrison Barnes",
+                                "price": 1.77,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keegan Murray",
+                                "price": 1.9,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keegan Murray",
+                                "price": 1.87,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.82,
+                                "point": 29.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.96,
+                                "point": 29.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-01-02T09:52:22Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.72,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 2.08,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Harrison Barnes",
+                                "price": 1.62,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Harrison Barnes",
+                                "price": 2.26,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 2.0,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.78,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keegan Murray",
+                                "price": 1.82,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keegan Murray",
+                                "price": 1.96,
+                                "point": 4.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2024-01-02T09:55:09Z",
+                "markets": [
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-01-02T09:53:25Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.74,
+                                "point": 29.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 2.05,
+                                "point": 29.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.91,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.83,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Harrison Barnes",
+                                "price": 2.05,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Harrison Barnes",
+                                "price": 1.74,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keegan Murray",
+                                "price": 1.91,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keegan Murray",
+                                "price": 1.83,
+                                "point": 15.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

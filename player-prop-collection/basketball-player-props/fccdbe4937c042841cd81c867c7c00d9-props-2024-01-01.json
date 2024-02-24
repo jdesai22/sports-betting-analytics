@@ -1,0 +1,197 @@
+{
+    "timestamp": "2024-01-01T09:55:38Z",
+    "previous_timestamp": "2024-01-01T09:50:38Z",
+    "next_timestamp": "2024-01-01T10:00:38Z",
+    "data": {
+        "id": "fccdbe4937c042841cd81c867c7c00d9",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-01-02T03:30:00Z",
+        "home_team": "Los Angeles Clippers",
+        "away_team": "Miami Heat",
+        "bookmakers": [
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2024-01-01T09:54:44Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-01-01T09:50:48Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bam Adebayo",
+                                "price": 1.83,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bam Adebayo",
+                                "price": 1.94,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyler Herro",
+                                "price": 2.18,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyler Herro",
+                                "price": 1.68,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaime Jaquez Jr.",
+                                "price": 1.58,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaime Jaquez Jr.",
+                                "price": 2.34,
+                                "point": 2.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-01-01T09:50:48Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bam Adebayo",
+                                "price": 1.87,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bam Adebayo",
+                                "price": 1.9,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyler Herro",
+                                "price": 1.83,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyler Herro",
+                                "price": 1.96,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaime Jaquez Jr.",
+                                "price": 1.9,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaime Jaquez Jr.",
+                                "price": 1.87,
+                                "point": 16.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-01-01T09:50:48Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jaime Jaquez Jr.",
+                                "price": 1.82,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaime Jaquez Jr.",
+                                "price": 1.96,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyler Herro",
+                                "price": 1.68,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyler Herro",
+                                "price": 2.16,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bam Adebayo",
+                                "price": 2.02,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bam Adebayo",
+                                "price": 1.77,
+                                "point": 10.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2024-01-01T09:55:07Z",
+                "markets": [
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-01-01T09:52:36Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bam Adebayo",
+                                "price": 1.83,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bam Adebayo",
+                                "price": 1.91,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaime Jaquez Jr.",
+                                "price": 1.87,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaime Jaquez Jr.",
+                                "price": 1.87,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyler Herro",
+                                "price": 1.77,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyler Herro",
+                                "price": 2.0,
+                                "point": 23.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

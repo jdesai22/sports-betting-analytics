@@ -1,0 +1,2290 @@
+{
+    "timestamp": "2024-01-10T09:55:39Z",
+    "previous_timestamp": "2024-01-10T09:50:39Z",
+    "next_timestamp": "2024-01-10T10:00:39Z",
+    "data": {
+        "id": "935c2b7c94d7cafcf7a3f9ad368c2394",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-01-11T03:10:00Z",
+        "home_team": "Utah Jazz",
+        "away_team": "Denver Nuggets",
+        "bookmakers": [
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2024-01-10T09:54:04Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-01-10T09:54:43Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Aaron Gordon",
+                                "price": 1.77,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Aaron Gordon",
+                                "price": 2.0,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Collin Sexton",
+                                "price": 1.74,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Collin Sexton",
+                                "price": 2.05,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jamal Murray",
+                                "price": 1.74,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jamal Murray",
+                                "price": 2.05,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 2.0,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 1.77,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kris Dunn",
+                                "price": 2.2,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kris Dunn",
+                                "price": 1.67,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nikola Jokic",
+                                "price": 1.83,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Jokic",
+                                "price": 1.91,
+                                "point": 9.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-01-10T09:54:43Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Aaron Gordon",
+                                "price": 2.0,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Aaron Gordon",
+                                "price": 1.77,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Collin Sexton",
+                                "price": 1.91,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Collin Sexton",
+                                "price": 1.83,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jamal Murray",
+                                "price": 1.87,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jamal Murray",
+                                "price": 1.87,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "John Collins",
+                                "price": 1.95,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "John Collins",
+                                "price": 1.8,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 2.0,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 1.77,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Lauri Markkanen",
+                                "price": 1.77,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Lauri Markkanen",
+                                "price": 2.0,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Michael Porter Jr.",
+                                "price": 1.87,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Michael Porter Jr.",
+                                "price": 1.87,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nikola Jokic",
+                                "price": 1.8,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Jokic",
+                                "price": 1.95,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Simone Fontecchio",
+                                "price": 2.0,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Simone Fontecchio",
+                                "price": 1.77,
+                                "point": 8.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-01-10T09:54:43Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Aaron Gordon",
+                                "price": 2.1,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Aaron Gordon",
+                                "price": 1.71,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Collin Sexton",
+                                "price": 2.3,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Collin Sexton",
+                                "price": 1.6,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jamal Murray",
+                                "price": 1.8,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jamal Murray",
+                                "price": 1.95,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "John Collins",
+                                "price": 1.83,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "John Collins",
+                                "price": 1.91,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 2.0,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 1.77,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kris Dunn",
+                                "price": 1.62,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kris Dunn",
+                                "price": 2.24,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Lauri Markkanen",
+                                "price": 2.0,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Lauri Markkanen",
+                                "price": 1.77,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Michael Porter Jr.",
+                                "price": 2.1,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Michael Porter Jr.",
+                                "price": 1.71,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nikola Jokic",
+                                "price": 1.67,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Jokic",
+                                "price": 2.2,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Simone Fontecchio",
+                                "price": 2.3,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Simone Fontecchio",
+                                "price": 1.6,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betonlineag",
+                "title": "BetOnline.ag",
+                "last_update": "2024-01-10T09:54:48Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-01-10T09:55:19Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Nikola Jokic",
+                                "price": 1.88,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Jokic",
+                                "price": 1.88,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Aaron Gordon",
+                                "price": 1.76,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Aaron Gordon",
+                                "price": 2.02,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jamal Murray",
+                                "price": 1.77,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jamal Murray",
+                                "price": 2.01,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 2.0,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 1.77,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kris Dunn",
+                                "price": 2.17,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kris Dunn",
+                                "price": 1.66,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Collin Sexton",
+                                "price": 1.74,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Collin Sexton",
+                                "price": 2.05,
+                                "point": 3.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-01-10T09:55:19Z",
+                        "outcomes": [
+                            {
+                                "name": "Under",
+                                "description": "Nikola Jokic",
+                                "price": 1.91,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nikola Jokic",
+                                "price": 1.85,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Michael Porter Jr.",
+                                "price": 1.94,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Michael Porter Jr.",
+                                "price": 1.82,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jamal Murray",
+                                "price": 1.89,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jamal Murray",
+                                "price": 1.87,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Aaron Gordon",
+                                "price": 1.8,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Aaron Gordon",
+                                "price": 1.97,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 1.76,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 2.02,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Simone Fontecchio",
+                                "price": 1.99,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Simone Fontecchio",
+                                "price": 1.78,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kris Dunn",
+                                "price": 1.81,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kris Dunn",
+                                "price": 1.95,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Collin Sexton",
+                                "price": 1.83,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Collin Sexton",
+                                "price": 1.93,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Lauri Markkanen",
+                                "price": 1.81,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Lauri Markkanen",
+                                "price": 1.96,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "John Collins",
+                                "price": 2.0,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "John Collins",
+                                "price": 1.77,
+                                "point": 12.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-01-10T09:55:19Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Michael Porter Jr.",
+                                "price": 2.1,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Michael Porter Jr.",
+                                "price": 1.7,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Jokic",
+                                "price": 2.09,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nikola Jokic",
+                                "price": 1.71,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jamal Murray",
+                                "price": 1.96,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jamal Murray",
+                                "price": 1.81,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Aaron Gordon",
+                                "price": 2.12,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Aaron Gordon",
+                                "price": 1.69,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Simone Fontecchio",
+                                "price": 1.61,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Simone Fontecchio",
+                                "price": 2.26,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 2.0,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 1.77,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Lauri Markkanen",
+                                "price": 1.94,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Lauri Markkanen",
+                                "price": 1.82,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Collin Sexton",
+                                "price": 1.59,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Collin Sexton",
+                                "price": 2.3,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "John Collins",
+                                "price": 1.91,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "John Collins",
+                                "price": 1.85,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kris Dunn",
+                                "price": 2.23,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kris Dunn",
+                                "price": 1.62,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "Caesars",
+                "last_update": "2024-01-10T09:53:52Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-01-10T09:53:37Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Collin Sexton",
+                                "price": 1.68,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Collin Sexton",
+                                "price": 2.08,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Aaron Gordon",
+                                "price": 1.75,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Aaron Gordon",
+                                "price": 1.97,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Lauri Markkanen",
+                                "price": 1.92,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Lauri Markkanen",
+                                "price": 1.8,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jamal Murray",
+                                "price": 1.75,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jamal Murray",
+                                "price": 1.97,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "John Collins",
+                                "price": 1.56,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "John Collins",
+                                "price": 2.29,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 2.02,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 1.72,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nikola Jokic",
+                                "price": 1.99,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Jokic",
+                                "price": 1.74,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kris Dunn",
+                                "price": 2.12,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kris Dunn",
+                                "price": 1.65,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Simone Fontecchio",
+                                "price": 1.79,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Simone Fontecchio",
+                                "price": 1.93,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Michael Porter Jr.",
+                                "price": 2.72,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Michael Porter Jr.",
+                                "price": 1.41,
+                                "point": 1.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-01-10T09:53:37Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Lauri Markkanen",
+                                "price": 1.78,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Lauri Markkanen",
+                                "price": 1.94,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "John Collins",
+                                "price": 1.94,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "John Collins",
+                                "price": 1.78,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nikola Jokic",
+                                "price": 1.93,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Jokic",
+                                "price": 1.79,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Aaron Gordon",
+                                "price": 1.97,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Aaron Gordon",
+                                "price": 1.75,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jamal Murray",
+                                "price": 1.9,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jamal Murray",
+                                "price": 1.81,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Collin Sexton",
+                                "price": 1.87,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Collin Sexton",
+                                "price": 1.84,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Simone Fontecchio",
+                                "price": 2.02,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Simone Fontecchio",
+                                "price": 1.72,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kris Dunn",
+                                "price": 1.76,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kris Dunn",
+                                "price": 1.96,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Michael Porter Jr.",
+                                "price": 1.93,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Michael Porter Jr.",
+                                "price": 1.79,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 1.96,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 1.76,
+                                "point": 9.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-01-10T09:53:37Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Simone Fontecchio",
+                                "price": 2.26,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Simone Fontecchio",
+                                "price": 1.57,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nikola Jokic",
+                                "price": 1.73,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Jokic",
+                                "price": 2.0,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kris Dunn",
+                                "price": 1.57,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kris Dunn",
+                                "price": 2.26,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 1.97,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 1.75,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Aaron Gordon",
+                                "price": 2.06,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Aaron Gordon",
+                                "price": 1.69,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "John Collins",
+                                "price": 1.79,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "John Collins",
+                                "price": 1.93,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Lauri Markkanen",
+                                "price": 2.02,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Lauri Markkanen",
+                                "price": 1.72,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Michael Porter Jr.",
+                                "price": 2.0,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Michael Porter Jr.",
+                                "price": 1.73,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Collin Sexton",
+                                "price": 2.2,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Collin Sexton",
+                                "price": 1.6,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jamal Murray",
+                                "price": 1.76,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jamal Murray",
+                                "price": 1.96,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetus",
+                "title": "PointsBet (US)",
+                "last_update": "2024-01-10T09:54:04Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-01-10T09:54:49Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Aaron Gordon",
+                                "price": 1.8,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Aaron Gordon",
+                                "price": 1.95,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Collin Sexton",
+                                "price": 1.71,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Collin Sexton",
+                                "price": 2.05,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nikola Jokic",
+                                "price": 1.83,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Jokic",
+                                "price": 1.91,
+                                "point": 9.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-01-10T09:54:49Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Aaron Gordon",
+                                "price": 1.91,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Aaron Gordon",
+                                "price": 1.83,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Collin Sexton",
+                                "price": 1.87,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Collin Sexton",
+                                "price": 1.87,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jamal Murray",
+                                "price": 1.87,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jamal Murray",
+                                "price": 1.87,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "John Collins",
+                                "price": 1.91,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "John Collins",
+                                "price": 1.83,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Lauri Markkanen",
+                                "price": 1.95,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Lauri Markkanen",
+                                "price": 1.8,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Michael Porter",
+                                "price": 1.87,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Michael Porter",
+                                "price": 1.87,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nikola Jokic",
+                                "price": 1.8,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Jokic",
+                                "price": 1.95,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Simone Fontecchio",
+                                "price": 2.0,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Simone Fontecchio",
+                                "price": 1.77,
+                                "point": 8.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-01-10T09:54:49Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Aaron Gordon",
+                                "price": 2.05,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Aaron Gordon",
+                                "price": 1.71,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Collin Sexton",
+                                "price": 2.25,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Collin Sexton",
+                                "price": 1.61,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jamal Murray",
+                                "price": 1.8,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jamal Murray",
+                                "price": 1.95,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Lauri Markkanen",
+                                "price": 1.95,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Lauri Markkanen",
+                                "price": 1.8,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nikola Jokic",
+                                "price": 2.05,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Jokic",
+                                "price": 1.71,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Simone Fontecchio",
+                                "price": 2.3,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Simone Fontecchio",
+                                "price": 1.59,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2024-01-10T09:53:36Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-01-10T09:52:47Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Nikola Jokic",
+                                "price": 1.96,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Jokic",
+                                "price": 1.82,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Aaron Gordon",
+                                "price": 1.67,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Aaron Gordon",
+                                "price": 2.18,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Collin Sexton",
+                                "price": 1.68,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Collin Sexton",
+                                "price": 2.14,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jamal Murray",
+                                "price": 1.77,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jamal Murray",
+                                "price": 2.02,
+                                "point": 6.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-01-10T09:52:47Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Nikola Jokic",
+                                "price": 1.88,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Jokic",
+                                "price": 1.88,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Collin Sexton",
+                                "price": 1.82,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Collin Sexton",
+                                "price": 1.96,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Simone Fontecchio",
+                                "price": 1.96,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Simone Fontecchio",
+                                "price": 1.82,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "John Collins",
+                                "price": 1.96,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "John Collins",
+                                "price": 1.82,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Michael Porter Jr.",
+                                "price": 1.93,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Michael Porter Jr.",
+                                "price": 1.85,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 1.98,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 1.8,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Lauri Markkanen",
+                                "price": 1.96,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Lauri Markkanen",
+                                "price": 1.82,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Aaron Gordon",
+                                "price": 1.9,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Aaron Gordon",
+                                "price": 1.87,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jamal Murray",
+                                "price": 1.87,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jamal Murray",
+                                "price": 1.9,
+                                "point": 23.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-01-10T09:52:47Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Nikola Jokic",
+                                "price": 2.0,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Jokic",
+                                "price": 1.78,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Collin Sexton",
+                                "price": 2.4,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Collin Sexton",
+                                "price": 1.56,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "John Collins",
+                                "price": 1.83,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "John Collins",
+                                "price": 1.94,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jamal Murray",
+                                "price": 1.78,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jamal Murray",
+                                "price": 2.0,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Lauri Markkanen",
+                                "price": 1.9,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Lauri Markkanen",
+                                "price": 1.87,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Simone Fontecchio",
+                                "price": 2.24,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Simone Fontecchio",
+                                "price": 1.63,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 2.04,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 1.76,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Aaron Gordon",
+                                "price": 2.08,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Aaron Gordon",
+                                "price": 1.72,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Michael Porter Jr.",
+                                "price": 2.08,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Michael Porter Jr.",
+                                "price": 1.72,
+                                "point": 6.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2024-01-10T09:53:44Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-01-10T09:51:59Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Aaron Gordon",
+                                "price": 1.77,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Aaron Gordon",
+                                "price": 2.0,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Caldwell Pope Kentavious",
+                                "price": 2.0,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Caldwell Pope Kentavious",
+                                "price": 1.77,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Collin Sexton",
+                                "price": 1.74,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Collin Sexton",
+                                "price": 2.05,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jamal Murray",
+                                "price": 1.74,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jamal Murray",
+                                "price": 2.05,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kris Dunn",
+                                "price": 2.15,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kris Dunn",
+                                "price": 1.67,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nikola Jokic",
+                                "price": 1.83,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Jokic",
+                                "price": 1.91,
+                                "point": 9.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-01-10T09:51:59Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Aaron Gordon",
+                                "price": 1.91,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Aaron Gordon",
+                                "price": 1.83,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Caldwell Pope Kentavious",
+                                "price": 2.05,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Caldwell Pope Kentavious",
+                                "price": 1.74,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Collin Sexton",
+                                "price": 1.74,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Collin Sexton",
+                                "price": 2.05,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jamal Murray",
+                                "price": 1.83,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jamal Murray",
+                                "price": 1.91,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "John Collins",
+                                "price": 2.05,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "John Collins",
+                                "price": 1.74,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Lauri Markkanen",
+                                "price": 2.05,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Lauri Markkanen",
+                                "price": 1.74,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Michael Porter Jr.",
+                                "price": 1.91,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Michael Porter Jr.",
+                                "price": 1.83,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nikola Jokic",
+                                "price": 1.87,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Jokic",
+                                "price": 1.87,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Simone Fontecchio",
+                                "price": 2.05,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Simone Fontecchio",
+                                "price": 1.74,
+                                "point": 8.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-01-10T09:51:59Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Aaron Gordon",
+                                "price": 2.1,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Aaron Gordon",
+                                "price": 1.69,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Caldwell Pope Kentavious",
+                                "price": 2.0,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Caldwell Pope Kentavious",
+                                "price": 1.77,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Collin Sexton",
+                                "price": 2.3,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Collin Sexton",
+                                "price": 1.59,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jamal Murray",
+                                "price": 1.8,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jamal Murray",
+                                "price": 1.95,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "John Collins",
+                                "price": 1.83,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "John Collins",
+                                "price": 1.91,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kris Dunn",
+                                "price": 1.62,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kris Dunn",
+                                "price": 2.2,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Lauri Markkanen",
+                                "price": 2.0,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Lauri Markkanen",
+                                "price": 1.77,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Michael Porter Jr.",
+                                "price": 2.1,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Michael Porter Jr.",
+                                "price": 1.69,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nikola Jokic",
+                                "price": 1.67,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Jokic",
+                                "price": 2.15,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Simone Fontecchio",
+                                "price": 2.3,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Simone Fontecchio",
+                                "price": 1.59,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": "2024-01-10T09:55:19Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-01-10T09:51:25Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Michael Porter Jr.",
+                                "price": 2.8,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Michael Porter Jr.",
+                                "price": 1.4,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Lauri Markkanen",
+                                "price": 1.95,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Lauri Markkanen",
+                                "price": 1.8,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Collin Sexton",
+                                "price": 1.74,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Collin Sexton",
+                                "price": 2.0,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kris Dunn",
+                                "price": 2.15,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kris Dunn",
+                                "price": 1.65,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Aaron Gordon",
+                                "price": 1.77,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Aaron Gordon",
+                                "price": 1.95,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 1.95,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 1.77,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "John Collins",
+                                "price": 1.57,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "John Collins",
+                                "price": 2.35,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nikola Jokic",
+                                "price": 2.0,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Jokic",
+                                "price": 1.77,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Simone Fontecchio",
+                                "price": 1.8,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Simone Fontecchio",
+                                "price": 1.95,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jamal Murray",
+                                "price": 1.71,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jamal Murray",
+                                "price": 2.05,
+                                "point": 6.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-01-10T09:51:25Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Michael Porter Jr.",
+                                "price": 2.0,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Michael Porter Jr.",
+                                "price": 1.77,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Lauri Markkanen",
+                                "price": 1.83,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Lauri Markkanen",
+                                "price": 1.91,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Collin Sexton",
+                                "price": 1.87,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Collin Sexton",
+                                "price": 1.87,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kris Dunn",
+                                "price": 1.77,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kris Dunn",
+                                "price": 1.95,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Aaron Gordon",
+                                "price": 1.95,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Aaron Gordon",
+                                "price": 1.77,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 2.0,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 1.74,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "John Collins",
+                                "price": 1.95,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "John Collins",
+                                "price": 1.77,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nikola Jokic",
+                                "price": 1.91,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Jokic",
+                                "price": 1.83,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Simone Fontecchio",
+                                "price": 2.0,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Simone Fontecchio",
+                                "price": 1.74,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jamal Murray",
+                                "price": 1.91,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jamal Murray",
+                                "price": 1.83,
+                                "point": 23.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-01-10T09:51:25Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Michael Porter Jr.",
+                                "price": 2.1,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Michael Porter Jr.",
+                                "price": 1.69,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Lauri Markkanen",
+                                "price": 2.0,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Lauri Markkanen",
+                                "price": 1.74,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Collin Sexton",
+                                "price": 2.3,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Collin Sexton",
+                                "price": 1.61,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kris Dunn",
+                                "price": 1.61,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kris Dunn",
+                                "price": 2.25,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Aaron Gordon",
+                                "price": 2.1,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Aaron Gordon",
+                                "price": 1.67,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 1.95,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 1.8,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "John Collins",
+                                "price": 1.83,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "John Collins",
+                                "price": 1.91,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nikola Jokic",
+                                "price": 1.74,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Jokic",
+                                "price": 2.0,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Simone Fontecchio",
+                                "price": 2.25,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Simone Fontecchio",
+                                "price": 1.61,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jamal Murray",
+                                "price": 1.77,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jamal Murray",
+                                "price": 1.95,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

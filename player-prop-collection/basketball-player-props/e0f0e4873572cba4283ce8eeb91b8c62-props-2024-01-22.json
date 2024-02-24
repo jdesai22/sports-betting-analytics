@@ -1,0 +1,727 @@
+{
+    "timestamp": "2024-01-22T09:55:38Z",
+    "previous_timestamp": "2024-01-22T09:50:38Z",
+    "next_timestamp": "2024-01-22T10:00:38Z",
+    "data": {
+        "id": "e0f0e4873572cba4283ce8eeb91b8c62",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-01-23T00:10:00Z",
+        "home_team": "Orlando Magic",
+        "away_team": "Cleveland Cavaliers",
+        "bookmakers": [
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2024-01-22T09:54:49Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-01-22T09:55:28Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 1.62,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 2.24,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Max Strus",
+                                "price": 1.74,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Max Strus",
+                                "price": 2.06,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Donovan Mitchell",
+                                "price": 1.9,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Donovan Mitchell",
+                                "price": 1.87,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jarrett Allen",
+                                "price": 2.22,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jarrett Allen",
+                                "price": 1.64,
+                                "point": 3.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-01-22T09:55:28Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Donovan Mitchell",
+                                "price": 1.9,
+                                "point": 31.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Donovan Mitchell",
+                                "price": 1.87,
+                                "point": 31.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Wendell Carter Jr.",
+                                "price": 2.02,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Wendell Carter Jr.",
+                                "price": 1.77,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 1.85,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 1.93,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Isaac Okoro",
+                                "price": 1.87,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Isaac Okoro",
+                                "price": 1.9,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jarrett Allen",
+                                "price": 1.98,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jarrett Allen",
+                                "price": 1.8,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Max Strus",
+                                "price": 1.83,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Max Strus",
+                                "price": 1.94,
+                                "point": 12.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-01-22T09:55:28Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Max Strus",
+                                "price": 2.04,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Max Strus",
+                                "price": 1.76,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jarrett Allen",
+                                "price": 1.9,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jarrett Allen",
+                                "price": 1.87,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Wendell Carter Jr.",
+                                "price": 1.88,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Wendell Carter Jr.",
+                                "price": 1.88,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Donovan Mitchell",
+                                "price": 2.18,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Donovan Mitchell",
+                                "price": 1.68,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Isaac Okoro",
+                                "price": 1.96,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Isaac Okoro",
+                                "price": 1.82,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 1.68,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 2.14,
+                                "point": 6.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betrivers",
+                "title": "BetRivers",
+                "last_update": "2024-01-22T09:55:06Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-01-22T09:55:15Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Donovan Mitchell",
+                                "price": 1.85,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Donovan Mitchell",
+                                "price": 1.88,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jarrett Allen",
+                                "price": 2.17,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jarrett Allen",
+                                "price": 1.64,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 1.63,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 2.2,
+                                "point": 4.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-01-22T09:55:15Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Isaac Okoro",
+                                "price": 1.85,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Isaac Okoro",
+                                "price": 1.88,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jarrett Allen",
+                                "price": 2.0,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jarrett Allen",
+                                "price": 1.76,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Donovan Mitchell",
+                                "price": 1.88,
+                                "point": 31.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Donovan Mitchell",
+                                "price": 1.85,
+                                "point": 31.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Max Strus",
+                                "price": 1.8,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Max Strus",
+                                "price": 1.94,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 1.89,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 1.83,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Wendell Carter Jr.",
+                                "price": 2.0,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Wendell Carter Jr.",
+                                "price": 1.76,
+                                "point": 11.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-01-22T09:55:15Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Max Strus",
+                                "price": 2.08,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Max Strus",
+                                "price": 1.7,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jarrett Allen",
+                                "price": 1.91,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jarrett Allen",
+                                "price": 1.83,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Isaac Okoro",
+                                "price": 2.0,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Isaac Okoro",
+                                "price": 1.76,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Donovan Mitchell",
+                                "price": 1.61,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Donovan Mitchell",
+                                "price": 2.23,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Wendell Carter Jr.",
+                                "price": 1.88,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Wendell Carter Jr.",
+                                "price": 1.85,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 2.05,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 1.72,
+                                "point": 7.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet_us",
+                "title": "Unibet",
+                "last_update": "2024-01-22T09:55:05Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-01-22T09:55:29Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Donovan Mitchell",
+                                "price": 1.85,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Donovan Mitchell",
+                                "price": 1.88,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jarrett Allen",
+                                "price": 2.17,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jarrett Allen",
+                                "price": 1.64,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 1.63,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 2.2,
+                                "point": 4.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-01-22T09:55:29Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Isaac Okoro",
+                                "price": 1.85,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Isaac Okoro",
+                                "price": 1.88,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jarrett Allen",
+                                "price": 2.0,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jarrett Allen",
+                                "price": 1.76,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Donovan Mitchell",
+                                "price": 1.88,
+                                "point": 31.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Donovan Mitchell",
+                                "price": 1.85,
+                                "point": 31.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Max Strus",
+                                "price": 1.8,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Max Strus",
+                                "price": 1.94,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 1.89,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 1.83,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Wendell Carter Jr.",
+                                "price": 2.0,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Wendell Carter Jr.",
+                                "price": 1.76,
+                                "point": 11.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-01-22T09:55:29Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Max Strus",
+                                "price": 2.08,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Max Strus",
+                                "price": 1.7,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jarrett Allen",
+                                "price": 1.91,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jarrett Allen",
+                                "price": 1.83,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Isaac Okoro",
+                                "price": 2.0,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Isaac Okoro",
+                                "price": 1.76,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Donovan Mitchell",
+                                "price": 1.61,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Donovan Mitchell",
+                                "price": 2.23,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Wendell Carter Jr.",
+                                "price": 1.88,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Wendell Carter Jr.",
+                                "price": 1.85,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 2.05,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 1.72,
+                                "point": 7.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2024-01-22T09:54:26Z",
+                "markets": [
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-01-22T09:54:41Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Donovan Mitchell",
+                                "price": 1.87,
+                                "point": 31.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Donovan Mitchell",
+                                "price": 1.87,
+                                "point": 31.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Isaac Okoro",
+                                "price": 1.87,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Isaac Okoro",
+                                "price": 1.87,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jarrett Allen",
+                                "price": 2.05,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jarrett Allen",
+                                "price": 1.74,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Max Strus",
+                                "price": 1.83,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Max Strus",
+                                "price": 1.91,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 1.83,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 1.91,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Wendell Carter Jr.",
+                                "price": 2.05,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Wendell Carter Jr.",
+                                "price": 1.74,
+                                "point": 11.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

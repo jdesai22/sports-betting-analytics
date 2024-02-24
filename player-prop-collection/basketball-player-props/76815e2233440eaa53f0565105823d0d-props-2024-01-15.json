@@ -1,0 +1,633 @@
+{
+    "timestamp": "2024-01-15T09:55:38Z",
+    "previous_timestamp": "2024-01-15T09:50:39Z",
+    "next_timestamp": "2024-01-15T10:00:38Z",
+    "data": {
+        "id": "76815e2233440eaa53f0565105823d0d",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-01-15T23:10:00Z",
+        "home_team": "Memphis Grizzlies",
+        "away_team": "Golden State Warriors",
+        "bookmakers": [
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2024-01-15T09:54:37Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-01-15T09:53:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Klay Thompson",
+                                "price": 2.5,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Klay Thompson",
+                                "price": 1.51,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 1.69,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 2.14,
+                                "point": 4.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-01-15T09:53:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Klay Thompson",
+                                "price": 1.91,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Klay Thompson",
+                                "price": 1.83,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 1.77,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 2.0,
+                                "point": 26.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-01-15T09:53:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Klay Thompson",
+                                "price": 1.87,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Klay Thompson",
+                                "price": 1.87,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 1.51,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 2.5,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2024-01-15T09:55:07Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-01-15T09:47:04Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Draymond Green",
+                                "price": 1.72,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Draymond Green",
+                                "price": 2.08,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 2.26,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 1.62,
+                                "point": 5.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-01-15T09:47:04Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 1.8,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 1.98,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Klay Thompson",
+                                "price": 1.9,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Klay Thompson",
+                                "price": 1.87,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Draymond Green",
+                                "price": 2.02,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Draymond Green",
+                                "price": 1.77,
+                                "point": 8.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-01-15T09:47:04Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 2.18,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 1.67,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Draymond Green",
+                                "price": 1.96,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Draymond Green",
+                                "price": 1.82,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Klay Thompson",
+                                "price": 2.06,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Klay Thompson",
+                                "price": 1.76,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetus",
+                "title": "PointsBet (US)",
+                "last_update": "2024-01-15T09:54:36Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-01-15T09:54:02Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Klay Thompson",
+                                "price": 2.35,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Klay Thompson",
+                                "price": 1.57,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 1.67,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 2.15,
+                                "point": 4.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-01-15T09:54:02Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Klay Thompson",
+                                "price": 1.91,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Klay Thompson",
+                                "price": 1.83,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 1.91,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 1.83,
+                                "point": 27.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-01-15T09:54:02Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Klay Thompson",
+                                "price": 1.87,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Klay Thompson",
+                                "price": 1.87,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 2.05,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 1.71,
+                                "point": 4.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": "2024-01-15T09:55:08Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-01-15T09:55:17Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 1.77,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 1.95,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Klay Thompson",
+                                "price": 2.45,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Klay Thompson",
+                                "price": 1.53,
+                                "point": 2.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-01-15T09:55:17Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 1.91,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 1.83,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Klay Thompson",
+                                "price": 1.91,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Klay Thompson",
+                                "price": 1.83,
+                                "point": 18.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-01-15T09:55:17Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 1.61,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 2.25,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Klay Thompson",
+                                "price": 1.87,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Klay Thompson",
+                                "price": 1.83,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2024-01-15T09:53:48Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-01-15T09:54:32Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Klay Thompson",
+                                "price": 2.5,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Klay Thompson",
+                                "price": 1.5,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 1.69,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 2.1,
+                                "point": 4.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-01-15T09:54:32Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Draymond Green",
+                                "price": 2.05,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Draymond Green",
+                                "price": 1.74,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Klay Thompson",
+                                "price": 1.91,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Klay Thompson",
+                                "price": 1.83,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 1.74,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 2.05,
+                                "point": 26.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-01-15T09:54:32Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Klay Thompson",
+                                "price": 1.87,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Klay Thompson",
+                                "price": 1.87,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 1.5,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 2.5,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "Caesars",
+                "last_update": "2024-01-15T09:51:40Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-01-15T09:54:12Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 1.78,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 1.94,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Klay Thompson",
+                                "price": 2.43,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Klay Thompson",
+                                "price": 1.5,
+                                "point": 2.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-01-15T09:54:12Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Klay Thompson",
+                                "price": 1.84,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Klay Thompson",
+                                "price": 1.87,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 1.9,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 1.81,
+                                "point": 26.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-01-15T09:54:12Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Klay Thompson",
+                                "price": 1.83,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Klay Thompson",
+                                "price": 1.88,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 1.6,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 2.2,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

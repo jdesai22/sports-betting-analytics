@@ -1,0 +1,2158 @@
+{
+    "timestamp": "2024-01-27T09:55:40Z",
+    "previous_timestamp": "2024-01-27T09:50:39Z",
+    "next_timestamp": "2024-01-27T10:00:39Z",
+    "data": {
+        "id": "a6723e3e807097d7f2c9ddc86ef9e328",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-01-27T20:10:00Z",
+        "home_team": "New York Knicks",
+        "away_team": "Miami Heat",
+        "bookmakers": [
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2024-01-27T09:53:53Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-01-27T09:56:19Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bam Adebayo",
+                                "price": 2.14,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bam Adebayo",
+                                "price": 1.69,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Donte DiVincenzo",
+                                "price": 2.0,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Donte DiVincenzo",
+                                "price": 1.77,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Isaiah Hartenstein",
+                                "price": 2.2,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Isaiah Hartenstein",
+                                "price": 1.67,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Brunson",
+                                "price": 1.87,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Brunson",
+                                "price": 1.87,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jimmy Butler",
+                                "price": 1.95,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jimmy Butler",
+                                "price": 1.8,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Julius Randle",
+                                "price": 2.05,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Julius Randle",
+                                "price": 1.74,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyler Herro",
+                                "price": 2.1,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyler Herro",
+                                "price": 1.71,
+                                "point": 3.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-01-27T09:56:19Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bam Adebayo",
+                                "price": 1.91,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bam Adebayo",
+                                "price": 1.83,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Donte DiVincenzo",
+                                "price": 1.95,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Donte DiVincenzo",
+                                "price": 1.8,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Isaiah Hartenstein",
+                                "price": 1.95,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Isaiah Hartenstein",
+                                "price": 1.8,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Brunson",
+                                "price": 1.95,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Brunson",
+                                "price": 1.8,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jimmy Butler",
+                                "price": 1.8,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jimmy Butler",
+                                "price": 1.95,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Julius Randle",
+                                "price": 1.95,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Julius Randle",
+                                "price": 1.8,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "OG Anunoby",
+                                "price": 1.8,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "OG Anunoby",
+                                "price": 1.95,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyler Herro",
+                                "price": 1.95,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyler Herro",
+                                "price": 1.8,
+                                "point": 18.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-01-27T09:56:19Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bam Adebayo",
+                                "price": 1.69,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bam Adebayo",
+                                "price": 2.14,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Donte DiVincenzo",
+                                "price": 1.95,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Donte DiVincenzo",
+                                "price": 1.8,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Isaiah Hartenstein",
+                                "price": 1.69,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Isaiah Hartenstein",
+                                "price": 2.14,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Brunson",
+                                "price": 1.91,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Brunson",
+                                "price": 1.83,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jimmy Butler",
+                                "price": 1.95,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jimmy Butler",
+                                "price": 1.8,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Julius Randle",
+                                "price": 1.74,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Julius Randle",
+                                "price": 2.05,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "OG Anunoby",
+                                "price": 1.8,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "OG Anunoby",
+                                "price": 1.95,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyler Herro",
+                                "price": 1.95,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyler Herro",
+                                "price": 1.8,
+                                "point": 4.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betonlineag",
+                "title": "BetOnline.ag",
+                "last_update": "2024-01-27T09:55:20Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-01-27T09:56:04Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Tyler Herro",
+                                "price": 1.88,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyler Herro",
+                                "price": 1.88,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jimmy Butler III",
+                                "price": 1.95,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jimmy Butler III",
+                                "price": 1.81,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bam Adebayo",
+                                "price": 2.17,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bam Adebayo",
+                                "price": 1.66,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Julius Randle",
+                                "price": 2.1,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Julius Randle",
+                                "price": 1.7,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Isaiah Hartenstein",
+                                "price": 1.65,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Isaiah Hartenstein",
+                                "price": 2.18,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Brunson",
+                                "price": 1.88,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Brunson",
+                                "price": 1.88,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Donte DiVincenzo",
+                                "price": 1.76,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Donte DiVincenzo",
+                                "price": 2.02,
+                                "point": 2.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-01-27T09:56:04Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bam Adebayo",
+                                "price": 1.97,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bam Adebayo",
+                                "price": 1.8,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Donte DiVincenzo",
+                                "price": 1.82,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Donte DiVincenzo",
+                                "price": 1.94,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Isaiah Hartenstein",
+                                "price": 2.1,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Isaiah Hartenstein",
+                                "price": 1.7,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "OG Anunoby",
+                                "price": 1.79,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "OG Anunoby",
+                                "price": 1.98,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Brunson",
+                                "price": 1.88,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Brunson",
+                                "price": 1.88,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Julius Randle",
+                                "price": 1.79,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Julius Randle",
+                                "price": 1.98,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyler Herro",
+                                "price": 1.95,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyler Herro",
+                                "price": 1.81,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jimmy Butler III",
+                                "price": 1.81,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jimmy Butler III",
+                                "price": 1.96,
+                                "point": 17.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-01-27T09:56:04Z",
+                        "outcomes": [
+                            {
+                                "name": "Under",
+                                "description": "Jimmy Butler III",
+                                "price": 1.8,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jimmy Butler III",
+                                "price": 1.97,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyler Herro",
+                                "price": 1.99,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyler Herro",
+                                "price": 1.78,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bam Adebayo",
+                                "price": 2.09,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bam Adebayo",
+                                "price": 1.71,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Brunson",
+                                "price": 1.95,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Brunson",
+                                "price": 1.81,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Julius Randle",
+                                "price": 1.74,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Julius Randle",
+                                "price": 2.04,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "OG Anunoby",
+                                "price": 1.75,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "OG Anunoby",
+                                "price": 2.03,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Donte DiVincenzo",
+                                "price": 1.8,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Donte DiVincenzo",
+                                "price": 1.97,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Isaiah Hartenstein",
+                                "price": 1.8,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Isaiah Hartenstein",
+                                "price": 1.97,
+                                "point": 11.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetus",
+                "title": "PointsBet (US)",
+                "last_update": "2024-01-27T09:54:39Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-01-27T09:55:36Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bam Adebayo",
+                                "price": 2.1,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bam Adebayo",
+                                "price": 1.69,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Donte DiVincenzo",
+                                "price": 1.95,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Donte DiVincenzo",
+                                "price": 1.8,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Isaiah Hartenstein",
+                                "price": 2.15,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Isaiah Hartenstein",
+                                "price": 1.67,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Brunson",
+                                "price": 1.87,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Brunson",
+                                "price": 1.87,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jimmy Butler",
+                                "price": 2.0,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jimmy Butler",
+                                "price": 1.77,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Julius Randle",
+                                "price": 2.0,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Julius Randle",
+                                "price": 1.77,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyler Herro",
+                                "price": 2.15,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyler Herro",
+                                "price": 1.67,
+                                "point": 3.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-01-27T09:55:36Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bam Adebayo",
+                                "price": 1.95,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bam Adebayo",
+                                "price": 1.8,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Donte DiVincenzo",
+                                "price": 1.91,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Donte DiVincenzo",
+                                "price": 1.83,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Isaiah Hartenstein",
+                                "price": 1.91,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Isaiah Hartenstein",
+                                "price": 1.83,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Brunson",
+                                "price": 1.8,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Brunson",
+                                "price": 1.95,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jimmy Butler",
+                                "price": 1.83,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jimmy Butler",
+                                "price": 1.91,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Julius Randle",
+                                "price": 1.8,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Julius Randle",
+                                "price": 1.95,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "O.G. Anunoby",
+                                "price": 1.77,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "O.G. Anunoby",
+                                "price": 2.0,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyler Herro",
+                                "price": 1.91,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyler Herro",
+                                "price": 1.83,
+                                "point": 18.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-01-27T09:55:36Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bam Adebayo",
+                                "price": 1.67,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bam Adebayo",
+                                "price": 2.15,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Donte DiVincenzo",
+                                "price": 1.91,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Donte DiVincenzo",
+                                "price": 1.83,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Isaiah Hartenstein",
+                                "price": 2.05,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Isaiah Hartenstein",
+                                "price": 1.71,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Brunson",
+                                "price": 1.87,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Brunson",
+                                "price": 1.87,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jimmy Butler",
+                                "price": 1.91,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jimmy Butler",
+                                "price": 1.83,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Julius Randle",
+                                "price": 1.77,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Julius Randle",
+                                "price": 2.0,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "O.G. Anunoby",
+                                "price": 1.8,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "O.G. Anunoby",
+                                "price": 1.95,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyler Herro",
+                                "price": 1.91,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyler Herro",
+                                "price": 1.83,
+                                "point": 4.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "Caesars",
+                "last_update": "2024-01-27T09:54:52Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-01-27T09:55:21Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jimmy Butler",
+                                "price": 1.93,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jimmy Butler",
+                                "price": 1.79,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyler Herro",
+                                "price": 2.02,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyler Herro",
+                                "price": 1.72,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Isaiah Hartenstein",
+                                "price": 2.12,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Isaiah Hartenstein",
+                                "price": 1.65,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bam Adebayo",
+                                "price": 2.14,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bam Adebayo",
+                                "price": 1.64,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Donte DiVincenzo",
+                                "price": 1.99,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Donte DiVincenzo",
+                                "price": 1.74,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "OG Anunoby",
+                                "price": 1.97,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "OG Anunoby",
+                                "price": 1.75,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Julius Randle",
+                                "price": 2.08,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Julius Randle",
+                                "price": 1.68,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Brunson",
+                                "price": 1.76,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Brunson",
+                                "price": 1.96,
+                                "point": 6.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-01-27T09:55:21Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Donte DiVincenzo",
+                                "price": 1.94,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Donte DiVincenzo",
+                                "price": 1.78,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Isaiah Hartenstein",
+                                "price": 2.1,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Isaiah Hartenstein",
+                                "price": 1.66,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Brunson",
+                                "price": 1.93,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Brunson",
+                                "price": 1.79,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "OG Anunoby",
+                                "price": 1.78,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "OG Anunoby",
+                                "price": 1.94,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Julius Randle",
+                                "price": 1.94,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Julius Randle",
+                                "price": 1.78,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bam Adebayo",
+                                "price": 1.93,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bam Adebayo",
+                                "price": 1.79,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyler Herro",
+                                "price": 1.94,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyler Herro",
+                                "price": 1.78,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jimmy Butler",
+                                "price": 1.78,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jimmy Butler",
+                                "price": 1.94,
+                                "point": 17.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-01-27T09:55:21Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jimmy Butler",
+                                "price": 1.97,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jimmy Butler",
+                                "price": 1.75,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "OG Anunoby",
+                                "price": 1.84,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "OG Anunoby",
+                                "price": 1.87,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bam Adebayo",
+                                "price": 1.68,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bam Adebayo",
+                                "price": 2.08,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Julius Randle",
+                                "price": 1.7,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Julius Randle",
+                                "price": 2.04,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Donte DiVincenzo",
+                                "price": 1.88,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Donte DiVincenzo",
+                                "price": 1.83,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Isaiah Hartenstein",
+                                "price": 1.7,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Isaiah Hartenstein",
+                                "price": 2.04,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyler Herro",
+                                "price": 1.92,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyler Herro",
+                                "price": 1.8,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Brunson",
+                                "price": 1.85,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Brunson",
+                                "price": 1.85,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2024-01-27T09:54:22Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-01-27T09:54:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jalen Brunson",
+                                "price": 1.8,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Brunson",
+                                "price": 1.98,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bam Adebayo",
+                                "price": 2.14,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bam Adebayo",
+                                "price": 1.68,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terry Rozier",
+                                "price": 2.22,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terry Rozier",
+                                "price": 1.65,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Donte DiVincenzo",
+                                "price": 2.0,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Donte DiVincenzo",
+                                "price": 1.78,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jimmy Butler",
+                                "price": 2.04,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jimmy Butler",
+                                "price": 1.76,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Julius Randle",
+                                "price": 2.14,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Julius Randle",
+                                "price": 1.68,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyler Herro",
+                                "price": 1.96,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyler Herro",
+                                "price": 1.82,
+                                "point": 3.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-01-27T09:54:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Donte DiVincenzo",
+                                "price": 1.94,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Donte DiVincenzo",
+                                "price": 1.83,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jimmy Butler",
+                                "price": 1.9,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jimmy Butler",
+                                "price": 1.87,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "OG Anunoby",
+                                "price": 1.82,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "OG Anunoby",
+                                "price": 1.96,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bam Adebayo",
+                                "price": 1.96,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bam Adebayo",
+                                "price": 1.82,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Isaiah Hartenstein",
+                                "price": 1.76,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Isaiah Hartenstein",
+                                "price": 2.04,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terry Rozier",
+                                "price": 1.78,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terry Rozier",
+                                "price": 2.0,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyler Herro",
+                                "price": 1.83,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyler Herro",
+                                "price": 1.94,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Julius Randle",
+                                "price": 1.96,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Julius Randle",
+                                "price": 1.82,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Brunson",
+                                "price": 1.82,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Brunson",
+                                "price": 1.96,
+                                "point": 26.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-01-27T09:54:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jalen Brunson",
+                                "price": 2.04,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Brunson",
+                                "price": 1.76,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Isaiah Hartenstein",
+                                "price": 2.02,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Isaiah Hartenstein",
+                                "price": 1.77,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terry Rozier",
+                                "price": 1.59,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terry Rozier",
+                                "price": 2.32,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jimmy Butler",
+                                "price": 2.08,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jimmy Butler",
+                                "price": 1.72,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Julius Randle",
+                                "price": 1.77,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Julius Randle",
+                                "price": 2.02,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyler Herro",
+                                "price": 2.04,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyler Herro",
+                                "price": 1.76,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "OG Anunoby",
+                                "price": 1.82,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "OG Anunoby",
+                                "price": 1.96,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bam Adebayo",
+                                "price": 2.12,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bam Adebayo",
+                                "price": 1.7,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Donte DiVincenzo",
+                                "price": 2.08,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Donte DiVincenzo",
+                                "price": 1.72,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": "2024-01-27T09:54:12Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-01-27T09:56:19Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "OG Anunoby",
+                                "price": 2.0,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "OG Anunoby",
+                                "price": 1.74,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Donte DiVincenzo",
+                                "price": 2.05,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Donte DiVincenzo",
+                                "price": 1.71,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jimmy Butler",
+                                "price": 1.91,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jimmy Butler",
+                                "price": 1.83,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Julius Randle",
+                                "price": 2.15,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Julius Randle",
+                                "price": 1.65,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bam Adebayo",
+                                "price": 2.15,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bam Adebayo",
+                                "price": 1.65,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyler Herro",
+                                "price": 2.1,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyler Herro",
+                                "price": 1.67,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Brunson",
+                                "price": 1.87,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Brunson",
+                                "price": 1.83,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Isaiah Hartenstein",
+                                "price": 2.15,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Isaiah Hartenstein",
+                                "price": 1.65,
+                                "point": 2.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-01-27T09:56:19Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "OG Anunoby",
+                                "price": 1.77,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "OG Anunoby",
+                                "price": 2.0,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Donte DiVincenzo",
+                                "price": 1.95,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Donte DiVincenzo",
+                                "price": 1.77,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Julius Randle",
+                                "price": 1.95,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Julius Randle",
+                                "price": 1.77,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bam Adebayo",
+                                "price": 1.91,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bam Adebayo",
+                                "price": 1.83,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyler Herro",
+                                "price": 1.95,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyler Herro",
+                                "price": 1.77,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Brunson",
+                                "price": 1.95,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Brunson",
+                                "price": 1.8,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jimmy Butler",
+                                "price": 1.8,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jimmy Butler",
+                                "price": 1.95,
+                                "point": 17.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-01-27T09:56:19Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "OG Anunoby",
+                                "price": 1.83,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "OG Anunoby",
+                                "price": 1.91,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Donte DiVincenzo",
+                                "price": 1.95,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Donte DiVincenzo",
+                                "price": 1.8,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jimmy Butler",
+                                "price": 1.95,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jimmy Butler",
+                                "price": 1.8,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Julius Randle",
+                                "price": 1.69,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Julius Randle",
+                                "price": 2.1,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bam Adebayo",
+                                "price": 1.74,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bam Adebayo",
+                                "price": 2.0,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyler Herro",
+                                "price": 1.95,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyler Herro",
+                                "price": 1.77,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Brunson",
+                                "price": 1.87,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Brunson",
+                                "price": 1.83,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Isaiah Hartenstein",
+                                "price": 1.74,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Isaiah Hartenstein",
+                                "price": 2.0,
+                                "point": 10.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2024-01-27T09:54:35Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-01-27T09:54:29Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bam Adebayo",
+                                "price": 2.1,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bam Adebayo",
+                                "price": 1.69,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Donte DiVincenzo",
+                                "price": 2.0,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Donte DiVincenzo",
+                                "price": 1.77,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Isaiah Hartenstein",
+                                "price": 2.15,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Isaiah Hartenstein",
+                                "price": 1.67,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Brunson",
+                                "price": 1.87,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Brunson",
+                                "price": 1.87,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jimmy Butler III",
+                                "price": 1.95,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jimmy Butler III",
+                                "price": 1.8,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Julius Randle",
+                                "price": 2.05,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Julius Randle",
+                                "price": 1.74,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyler Herro",
+                                "price": 2.1,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyler Herro",
+                                "price": 1.69,
+                                "point": 3.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-01-27T09:54:29Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bam Adebayo",
+                                "price": 2.05,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bam Adebayo",
+                                "price": 1.74,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Donte DiVincenzo",
+                                "price": 1.91,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Donte DiVincenzo",
+                                "price": 1.83,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Isaiah Hartenstein",
+                                "price": 1.69,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Isaiah Hartenstein",
+                                "price": 2.1,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Brunson",
+                                "price": 1.74,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Brunson",
+                                "price": 2.05,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jimmy Butler III",
+                                "price": 1.91,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jimmy Butler III",
+                                "price": 1.83,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Julius Randle",
+                                "price": 2.05,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Julius Randle",
+                                "price": 1.74,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "OG Anunoby Jr.",
+                                "price": 1.74,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "OG Anunoby Jr.",
+                                "price": 2.05,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyler Herro",
+                                "price": 1.83,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyler Herro",
+                                "price": 1.91,
+                                "point": 17.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-01-27T09:54:29Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bam Adebayo",
+                                "price": 1.69,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bam Adebayo",
+                                "price": 2.1,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Donte DiVincenzo",
+                                "price": 1.95,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Donte DiVincenzo",
+                                "price": 1.8,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Isaiah Hartenstein",
+                                "price": 1.69,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Isaiah Hartenstein",
+                                "price": 2.1,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Brunson",
+                                "price": 1.91,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Brunson",
+                                "price": 1.83,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jimmy Butler III",
+                                "price": 1.95,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jimmy Butler III",
+                                "price": 1.8,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Julius Randle",
+                                "price": 1.74,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Julius Randle",
+                                "price": 2.05,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "OG Anunoby Jr.",
+                                "price": 1.8,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "OG Anunoby Jr.",
+                                "price": 1.95,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyler Herro",
+                                "price": 1.95,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyler Herro",
+                                "price": 1.8,
+                                "point": 4.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,2194 @@
+{
+    "timestamp": "2024-01-23T09:55:38Z",
+    "previous_timestamp": "2024-01-23T09:50:38Z",
+    "next_timestamp": "2024-01-23T10:00:39Z",
+    "data": {
+        "id": "71cdef74e2dda3636e0c7ff101b85427",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-01-24T03:10:00Z",
+        "home_team": "Los Angeles Clippers",
+        "away_team": "Los Angeles Lakers",
+        "bookmakers": [
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2024-01-23T09:54:18Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-01-23T09:56:04Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Anthony Davis",
+                                "price": 2.14,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Davis",
+                                "price": 1.69,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Austin Reaves",
+                                "price": 2.05,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Austin Reaves",
+                                "price": 1.74,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "D'Angelo Russell",
+                                "price": 2.05,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "D'Angelo Russell",
+                                "price": 1.74,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 1.57,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "James Harden",
+                                "price": 2.35,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.83,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.91,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 1.69,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paul George",
+                                "price": 2.14,
+                                "point": 2.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-01-23T09:56:04Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Anthony Davis",
+                                "price": 1.87,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Davis",
+                                "price": 1.87,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Austin Reaves",
+                                "price": 1.8,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Austin Reaves",
+                                "price": 1.95,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "D'Angelo Russell",
+                                "price": 1.87,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "D'Angelo Russell",
+                                "price": 1.87,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 1.77,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "James Harden",
+                                "price": 2.0,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.83,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.91,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 1.83,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paul George",
+                                "price": 1.91,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Taurean Prince",
+                                "price": 1.91,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Taurean Prince",
+                                "price": 1.83,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terance Mann",
+                                "price": 1.8,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terance Mann",
+                                "price": 1.95,
+                                "point": 7.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-01-23T09:56:04Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Anthony Davis",
+                                "price": 1.69,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Davis",
+                                "price": 2.14,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Austin Reaves",
+                                "price": 1.69,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Austin Reaves",
+                                "price": 2.14,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "D'Angelo Russell",
+                                "price": 1.74,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "D'Angelo Russell",
+                                "price": 2.05,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 1.74,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "James Harden",
+                                "price": 2.05,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 2.14,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.69,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 1.67,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paul George",
+                                "price": 2.2,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Taurean Prince",
+                                "price": 1.74,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Taurean Prince",
+                                "price": 2.05,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terance Mann",
+                                "price": 1.62,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terance Mann",
+                                "price": 2.24,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2024-01-23T09:53:59Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-01-23T09:54:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 2.04,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "James Harden",
+                                "price": 1.76,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.76,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 2.04,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 1.68,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paul George",
+                                "price": 2.14,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Anthony Davis",
+                                "price": 2.12,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Davis",
+                                "price": 1.7,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Austin Reaves",
+                                "price": 2.0,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Austin Reaves",
+                                "price": 1.78,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Russell Westbrook",
+                                "price": 1.96,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Russell Westbrook",
+                                "price": 1.82,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "D'Angelo Russell",
+                                "price": 1.98,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "D'Angelo Russell",
+                                "price": 1.8,
+                                "point": 7.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-01-23T09:54:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Austin Reaves",
+                                "price": 1.8,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Austin Reaves",
+                                "price": 1.98,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 1.83,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "James Harden",
+                                "price": 1.94,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terance Mann",
+                                "price": 1.83,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terance Mann",
+                                "price": 1.94,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Russell Westbrook",
+                                "price": 1.9,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Russell Westbrook",
+                                "price": 1.87,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Anthony Davis",
+                                "price": 1.85,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Davis",
+                                "price": 1.93,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.83,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.94,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 1.88,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paul George",
+                                "price": 1.88,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Norman Powell",
+                                "price": 1.88,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Norman Powell",
+                                "price": 1.88,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "D'Angelo Russell",
+                                "price": 1.9,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "D'Angelo Russell",
+                                "price": 1.87,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Taurean Prince",
+                                "price": 1.9,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Taurean Prince",
+                                "price": 1.87,
+                                "point": 10.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-01-23T09:54:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Taurean Prince",
+                                "price": 1.71,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Taurean Prince",
+                                "price": 2.1,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 2.08,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.72,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Anthony Davis",
+                                "price": 1.83,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Davis",
+                                "price": 1.94,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 1.71,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paul George",
+                                "price": 2.1,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Austin Reaves",
+                                "price": 2.24,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Austin Reaves",
+                                "price": 1.63,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Russell Westbrook",
+                                "price": 1.88,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Russell Westbrook",
+                                "price": 1.88,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "D'Angelo Russell",
+                                "price": 1.72,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "D'Angelo Russell",
+                                "price": 2.08,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terance Mann",
+                                "price": 1.67,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terance Mann",
+                                "price": 2.18,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 1.87,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "James Harden",
+                                "price": 1.9,
+                                "point": 4.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetus",
+                "title": "PointsBet (US)",
+                "last_update": "2024-01-23T09:54:18Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-01-23T09:55:27Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Anthony Davis",
+                                "price": 2.1,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Davis",
+                                "price": 1.69,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Austin Reaves",
+                                "price": 2.0,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Austin Reaves",
+                                "price": 1.77,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "D'Angelo Russell",
+                                "price": 2.05,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "D'Angelo Russell",
+                                "price": 1.71,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 1.91,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "James Harden",
+                                "price": 1.83,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.83,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.91,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 1.71,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paul George",
+                                "price": 2.05,
+                                "point": 2.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-01-23T09:55:27Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Anthony Davis",
+                                "price": 1.87,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Davis",
+                                "price": 1.87,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Austin Reaves",
+                                "price": 1.83,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Austin Reaves",
+                                "price": 1.91,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "D'Angelo Russell",
+                                "price": 1.87,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "D'Angelo Russell",
+                                "price": 1.87,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 1.95,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "James Harden",
+                                "price": 1.8,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.87,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.87,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 1.83,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paul George",
+                                "price": 1.91,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Taurean Prince",
+                                "price": 1.91,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Taurean Prince",
+                                "price": 1.83,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terance Mann",
+                                "price": 1.83,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terance Mann",
+                                "price": 1.91,
+                                "point": 7.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-01-23T09:55:27Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Anthony Davis",
+                                "price": 2.05,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Davis",
+                                "price": 1.71,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Austin Reaves",
+                                "price": 1.69,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Austin Reaves",
+                                "price": 2.1,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "D'Angelo Russell",
+                                "price": 1.71,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "D'Angelo Russell",
+                                "price": 2.05,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 1.71,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "James Harden",
+                                "price": 2.05,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 2.15,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.67,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 1.67,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paul George",
+                                "price": 2.15,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Taurean Prince",
+                                "price": 1.77,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Taurean Prince",
+                                "price": 2.0,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terance Mann",
+                                "price": 1.61,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terance Mann",
+                                "price": 2.25,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "Caesars",
+                "last_update": "2024-01-23T09:54:13Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-01-23T09:55:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Anthony Davis",
+                                "price": 2.08,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Davis",
+                                "price": 1.68,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Austin Reaves",
+                                "price": 1.99,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Austin Reaves",
+                                "price": 1.74,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Taurean Prince",
+                                "price": 1.84,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Taurean Prince",
+                                "price": 1.87,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terance Mann",
+                                "price": 2.29,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terance Mann",
+                                "price": 1.56,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "D'Angelo Russell",
+                                "price": 2.0,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "D'Angelo Russell",
+                                "price": 1.73,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 1.76,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paul George",
+                                "price": 1.96,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.8,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.92,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 1.68,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "James Harden",
+                                "price": 2.08,
+                                "point": 8.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-01-23T09:55:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.84,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.87,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Anthony Davis",
+                                "price": 1.88,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Davis",
+                                "price": 1.83,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 1.85,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paul George",
+                                "price": 1.85,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terance Mann",
+                                "price": 1.8,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terance Mann",
+                                "price": 1.92,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 1.85,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "James Harden",
+                                "price": 1.85,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Austin Reaves",
+                                "price": 1.94,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Austin Reaves",
+                                "price": 1.78,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "D'Angelo Russell",
+                                "price": 1.85,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "D'Angelo Russell",
+                                "price": 1.85,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Taurean Prince",
+                                "price": 1.93,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Taurean Prince",
+                                "price": 1.79,
+                                "point": 10.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-01-23T09:55:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 1.74,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paul George",
+                                "price": 1.99,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Anthony Davis",
+                                "price": 1.81,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Davis",
+                                "price": 1.9,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Austin Reaves",
+                                "price": 1.66,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Austin Reaves",
+                                "price": 2.1,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terance Mann",
+                                "price": 1.61,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terance Mann",
+                                "price": 2.18,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 2.1,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.66,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Taurean Prince",
+                                "price": 1.69,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Taurean Prince",
+                                "price": 2.06,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "D'Angelo Russell",
+                                "price": 1.73,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "D'Angelo Russell",
+                                "price": 2.0,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 1.72,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "James Harden",
+                                "price": 2.02,
+                                "point": 4.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": "2024-01-23T09:53:00Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-01-23T09:55:58Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Taurean Prince",
+                                "price": 1.91,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Taurean Prince",
+                                "price": 1.83,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Anthony Davis",
+                                "price": 2.1,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Davis",
+                                "price": 1.67,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Austin Reaves",
+                                "price": 2.05,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Austin Reaves",
+                                "price": 1.71,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "D'Angelo Russell",
+                                "price": 2.0,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "D'Angelo Russell",
+                                "price": 1.74,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terance Mann",
+                                "price": 2.35,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terance Mann",
+                                "price": 1.57,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.83,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.91,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 1.83,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paul George",
+                                "price": 1.91,
+                                "point": 2.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-01-23T09:55:58Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Taurean Prince",
+                                "price": 1.95,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Taurean Prince",
+                                "price": 1.8,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Austin Reaves",
+                                "price": 1.95,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Austin Reaves",
+                                "price": 1.8,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "D'Angelo Russell",
+                                "price": 1.87,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "D'Angelo Russell",
+                                "price": 1.87,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Anthony Davis",
+                                "price": 1.91,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Davis",
+                                "price": 1.83,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terance Mann",
+                                "price": 1.8,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terance Mann",
+                                "price": 1.95,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.83,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.91,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 1.91,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "James Harden",
+                                "price": 1.83,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 1.87,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paul George",
+                                "price": 1.87,
+                                "point": 24.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-01-23T09:55:58Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Anthony Davis",
+                                "price": 1.8,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Davis",
+                                "price": 1.95,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "D'Angelo Russell",
+                                "price": 1.74,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "D'Angelo Russell",
+                                "price": 2.0,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Austin Reaves",
+                                "price": 1.67,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Austin Reaves",
+                                "price": 2.1,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Taurean Prince",
+                                "price": 1.71,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Taurean Prince",
+                                "price": 2.05,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terance Mann",
+                                "price": 1.62,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terance Mann",
+                                "price": 2.2,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 2.15,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.65,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 1.74,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "James Harden",
+                                "price": 2.0,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 1.74,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paul George",
+                                "price": 2.0,
+                                "point": 5.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betonlineag",
+                "title": "BetOnline.ag",
+                "last_update": "2024-01-23T09:54:10Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-01-23T09:54:08Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Anthony Davis Jr.",
+                                "price": 2.15,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Davis Jr.",
+                                "price": 1.67,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paul George",
+                                "price": 2.15,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 1.67,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.91,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.85,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Austin Reaves",
+                                "price": 1.73,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Austin Reaves",
+                                "price": 2.06,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "D'Angelo Russell",
+                                "price": 2.03,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "D'Angelo Russell",
+                                "price": 1.75,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 1.6,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "James Harden",
+                                "price": 2.27,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Russell Westbrook",
+                                "price": 1.82,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Russell Westbrook",
+                                "price": 1.94,
+                                "point": 4.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-01-23T09:54:08Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.85,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.91,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "D'Angelo Russell",
+                                "price": 1.9,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "D'Angelo Russell",
+                                "price": 1.86,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terance Mann",
+                                "price": 1.81,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terance Mann",
+                                "price": 1.95,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paul George",
+                                "price": 1.88,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 1.88,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Davis Jr.",
+                                "price": 1.87,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Anthony Davis Jr.",
+                                "price": 1.89,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Austin Reaves",
+                                "price": 1.97,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Austin Reaves",
+                                "price": 1.8,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "James Harden",
+                                "price": 1.89,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 1.87,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Taurean Prince",
+                                "price": 1.83,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Taurean Prince",
+                                "price": 1.93,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Russell Westbrook",
+                                "price": 1.85,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Russell Westbrook",
+                                "price": 1.91,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Norman Powell",
+                                "price": 1.87,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Norman Powell",
+                                "price": 1.89,
+                                "point": 12.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-01-23T09:54:08Z",
+                        "outcomes": [
+                            {
+                                "name": "Under",
+                                "description": "Terance Mann",
+                                "price": 2.21,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terance Mann",
+                                "price": 1.64,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Davis Jr.",
+                                "price": 1.99,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Anthony Davis Jr.",
+                                "price": 1.78,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "D'Angelo Russell",
+                                "price": 1.75,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "D'Angelo Russell",
+                                "price": 2.03,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paul George",
+                                "price": 2.09,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 1.71,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.67,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 2.15,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Austin Reaves",
+                                "price": 1.69,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Austin Reaves",
+                                "price": 2.11,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Taurean Prince",
+                                "price": 2.07,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Taurean Prince",
+                                "price": 1.72,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 1.78,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "James Harden",
+                                "price": 1.99,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Russell Westbrook",
+                                "price": 1.88,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Russell Westbrook",
+                                "price": 1.88,
+                                "point": 5.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2024-01-23T09:53:49Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-01-23T09:54:20Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Anthony Davis Jr.",
+                                "price": 2.1,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Davis Jr.",
+                                "price": 1.69,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Austin Reaves",
+                                "price": 2.05,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Austin Reaves",
+                                "price": 1.74,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "D'Angelo Russell",
+                                "price": 2.05,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "D'Angelo Russell",
+                                "price": 1.74,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 1.56,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "James Harden",
+                                "price": 2.35,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.83,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.91,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 1.69,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paul George",
+                                "price": 2.1,
+                                "point": 2.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-01-23T09:54:20Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Anthony Davis Jr.",
+                                "price": 1.83,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Davis Jr.",
+                                "price": 1.91,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Austin Reaves",
+                                "price": 1.74,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Austin Reaves",
+                                "price": 2.05,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "D'Angelo Russell",
+                                "price": 1.91,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "D'Angelo Russell",
+                                "price": 1.83,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 1.83,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "James Harden",
+                                "price": 1.91,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.83,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.91,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Norman Powell",
+                                "price": 1.87,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Norman Powell",
+                                "price": 1.87,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 1.87,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paul George",
+                                "price": 1.87,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Russell Westbrook",
+                                "price": 1.87,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Russell Westbrook",
+                                "price": 1.87,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Taurean Prince",
+                                "price": 1.91,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Taurean Prince",
+                                "price": 1.83,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terance Mann",
+                                "price": 1.83,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terance Mann",
+                                "price": 1.91,
+                                "point": 7.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-01-23T09:54:20Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Anthony Davis Jr.",
+                                "price": 1.69,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Davis Jr.",
+                                "price": 2.1,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Austin Reaves",
+                                "price": 1.69,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Austin Reaves",
+                                "price": 2.1,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "D'Angelo Russell",
+                                "price": 1.74,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "D'Angelo Russell",
+                                "price": 2.05,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 1.74,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "James Harden",
+                                "price": 2.05,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 2.1,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.69,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 1.67,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paul George",
+                                "price": 2.15,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Taurean Prince",
+                                "price": 1.74,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Taurean Prince",
+                                "price": 2.05,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terance Mann",
+                                "price": 1.62,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terance Mann",
+                                "price": 2.2,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

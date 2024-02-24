@@ -1,0 +1,1834 @@
+{
+    "timestamp": "2024-01-14T09:55:38Z",
+    "previous_timestamp": "2024-01-14T09:50:38Z",
+    "next_timestamp": "2024-01-14T10:00:38Z",
+    "data": {
+        "id": "841b4f18365557037930b4cf5adfcbc1",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-01-15T00:10:00Z",
+        "home_team": "Milwaukee Bucks",
+        "away_team": "Sacramento Kings",
+        "bookmakers": [
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2024-01-14T09:53:47Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-01-14T09:54:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Damian Lillard",
+                                "price": 1.87,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Damian Lillard",
+                                "price": 1.87,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.91,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.83,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.77,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 2.0,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.91,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.83,
+                                "point": 6.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-01-14T09:54:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Brook Lopez",
+                                "price": 1.83,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brook Lopez",
+                                "price": 1.91,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Damian Lillard",
+                                "price": 1.87,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Damian Lillard",
+                                "price": 1.87,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.71,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 2.1,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.87,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.87,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.95,
+                                "point": 34.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.8,
+                                "point": 34.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keegan Murray",
+                                "price": 1.91,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keegan Murray",
+                                "price": 1.83,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malik Beasley",
+                                "price": 1.95,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malik Beasley",
+                                "price": 1.8,
+                                "point": 11.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-01-14T09:54:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Brook Lopez",
+                                "price": 1.91,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brook Lopez",
+                                "price": 1.83,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Damian Lillard",
+                                "price": 2.24,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Damian Lillard",
+                                "price": 1.62,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.71,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 2.1,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.83,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.91,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.71,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 2.1,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keegan Murray",
+                                "price": 1.87,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keegan Murray",
+                                "price": 1.87,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malik Beasley",
+                                "price": 1.71,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malik Beasley",
+                                "price": 2.1,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "Caesars",
+                "last_update": "2024-01-14T09:54:45Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-01-14T09:55:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.7,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 2.04,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brook Lopez",
+                                "price": 1.85,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brook Lopez",
+                                "price": 1.85,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Damian Lillard",
+                                "price": 1.93,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Damian Lillard",
+                                "price": 1.79,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 2.06,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.69,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keegan Murray",
+                                "price": 1.74,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keegan Murray",
+                                "price": 1.99,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.96,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.76,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malik Beasley",
+                                "price": 2.29,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malik Beasley",
+                                "price": 1.56,
+                                "point": 1.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-01-14T09:55:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Malik Beasley",
+                                "price": 1.94,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malik Beasley",
+                                "price": 1.78,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brook Lopez",
+                                "price": 1.83,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brook Lopez",
+                                "price": 1.88,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.93,
+                                "point": 34.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.79,
+                                "point": 34.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Damian Lillard",
+                                "price": 1.87,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Damian Lillard",
+                                "price": 1.84,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.69,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 2.06,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keegan Murray",
+                                "price": 1.84,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keegan Murray",
+                                "price": 1.87,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.84,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.87,
+                                "point": 21.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-01-14T09:55:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.83,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.88,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malik Beasley",
+                                "price": 1.7,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malik Beasley",
+                                "price": 2.04,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.69,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 2.06,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keegan Murray",
+                                "price": 1.81,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keegan Murray",
+                                "price": 1.9,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brook Lopez",
+                                "price": 1.88,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brook Lopez",
+                                "price": 1.83,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Damian Lillard",
+                                "price": 2.12,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Damian Lillard",
+                                "price": 1.65,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.84,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.87,
+                                "point": 12.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betonlineag",
+                "title": "BetOnline.ag",
+                "last_update": "2024-01-14T09:53:48Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-01-14T09:53:24Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.95,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.81,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.77,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 2.01,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.8,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.97,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Damian Lillard",
+                                "price": 1.9,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Damian Lillard",
+                                "price": 1.86,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malik Monk",
+                                "price": 1.86,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malik Monk",
+                                "price": 1.9,
+                                "point": 5.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-01-14T09:53:24Z",
+                        "outcomes": [
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.89,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.87,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.88,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.88,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brook Lopez",
+                                "price": 1.88,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brook Lopez",
+                                "price": 1.88,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keegan Murray",
+                                "price": 1.86,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keegan Murray",
+                                "price": 1.9,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malik Beasley",
+                                "price": 1.94,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malik Beasley",
+                                "price": 1.82,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Damian Lillard",
+                                "price": 1.88,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Damian Lillard",
+                                "price": 1.88,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Harrison Barnes",
+                                "price": 1.83,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Harrison Barnes",
+                                "price": 1.93,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malik Monk",
+                                "price": 1.76,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malik Monk",
+                                "price": 2.02,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.89,
+                                "point": 33.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.87,
+                                "point": 33.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-01-14T09:53:24Z",
+                        "outcomes": [
+                            {
+                                "name": "Under",
+                                "description": "Keegan Murray",
+                                "price": 1.87,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keegan Murray",
+                                "price": 1.89,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brook Lopez",
+                                "price": 1.93,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brook Lopez",
+                                "price": 1.83,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.93,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.83,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 2.02,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.76,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 2.1,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.7,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malik Beasley",
+                                "price": 1.74,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malik Beasley",
+                                "price": 2.05,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Damian Lillard",
+                                "price": 1.65,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Damian Lillard",
+                                "price": 2.18,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Harrison Barnes",
+                                "price": 1.91,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Harrison Barnes",
+                                "price": 1.85,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetus",
+                "title": "PointsBet (US)",
+                "last_update": "2024-01-14T09:53:47Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-01-14T09:55:20Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Damian Lillard",
+                                "price": 1.87,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Damian Lillard",
+                                "price": 1.87,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.95,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.8,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.77,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 2.0,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.87,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.87,
+                                "point": 6.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-01-14T09:55:20Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Brook Lopez",
+                                "price": 1.83,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brook Lopez",
+                                "price": 1.91,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Damian Lillard",
+                                "price": 1.87,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Damian Lillard",
+                                "price": 1.87,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.87,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.87,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.87,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.87,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.83,
+                                "point": 33.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.91,
+                                "point": 33.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keegan Murray",
+                                "price": 1.87,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keegan Murray",
+                                "price": 1.87,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malik Beasley",
+                                "price": 1.91,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malik Beasley",
+                                "price": 1.83,
+                                "point": 11.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-01-14T09:55:20Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Brook Lopez",
+                                "price": 1.87,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brook Lopez",
+                                "price": 1.87,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Damian Lillard",
+                                "price": 2.2,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Damian Lillard",
+                                "price": 1.62,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.69,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 2.1,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.83,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.91,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 2.05,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.71,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keegan Murray",
+                                "price": 1.87,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keegan Murray",
+                                "price": 1.87,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malik Beasley",
+                                "price": 1.71,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malik Beasley",
+                                "price": 2.05,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2024-01-14T09:54:18Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-01-14T09:54:14Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 2.0,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.78,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.77,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 2.02,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malik Monk",
+                                "price": 1.87,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malik Monk",
+                                "price": 1.9,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Damian Lillard",
+                                "price": 1.88,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Damian Lillard",
+                                "price": 1.88,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.96,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.82,
+                                "point": 5.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-01-14T09:54:14Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.87,
+                                "point": 33.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.9,
+                                "point": 33.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.85,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.93,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malik Monk",
+                                "price": 1.78,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malik Monk",
+                                "price": 2.0,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Harrison Barnes",
+                                "price": 1.94,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Harrison Barnes",
+                                "price": 1.83,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brook Lopez",
+                                "price": 1.94,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brook Lopez",
+                                "price": 1.83,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malik Beasley",
+                                "price": 1.94,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malik Beasley",
+                                "price": 1.83,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Damian Lillard",
+                                "price": 1.9,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Damian Lillard",
+                                "price": 1.87,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keegan Murray",
+                                "price": 1.88,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keegan Murray",
+                                "price": 1.88,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.87,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.9,
+                                "point": 21.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-01-14T09:54:11Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.72,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 2.08,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Damian Lillard",
+                                "price": 2.08,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Damian Lillard",
+                                "price": 1.72,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.82,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.96,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malik Beasley",
+                                "price": 1.83,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malik Beasley",
+                                "price": 1.94,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brook Lopez",
+                                "price": 1.98,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brook Lopez",
+                                "price": 1.8,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.85,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.93,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Harrison Barnes",
+                                "price": 1.93,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Harrison Barnes",
+                                "price": 1.85,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keegan Murray",
+                                "price": 1.9,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keegan Murray",
+                                "price": 1.87,
+                                "point": 5.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": "2024-01-14T09:53:48Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-01-14T09:51:57Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Damian Lillard",
+                                "price": 1.91,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Damian Lillard",
+                                "price": 1.83,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keegan Murray",
+                                "price": 1.74,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keegan Murray",
+                                "price": 2.0,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brook Lopez",
+                                "price": 1.83,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brook Lopez",
+                                "price": 1.91,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malik Beasley",
+                                "price": 2.35,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malik Beasley",
+                                "price": 1.54,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 2.1,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.67,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.95,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.77,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.71,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 2.05,
+                                "point": 7.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-01-14T09:51:57Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Damian Lillard",
+                                "price": 1.83,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Damian Lillard",
+                                "price": 1.91,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keegan Murray",
+                                "price": 1.91,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keegan Murray",
+                                "price": 1.83,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brook Lopez",
+                                "price": 1.83,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brook Lopez",
+                                "price": 1.91,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malik Beasley",
+                                "price": 1.95,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malik Beasley",
+                                "price": 1.8,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.83,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.87,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.83,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.91,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.95,
+                                "point": 34.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.8,
+                                "point": 34.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-01-14T09:51:57Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Damian Lillard",
+                                "price": 2.2,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Damian Lillard",
+                                "price": 1.62,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keegan Murray",
+                                "price": 1.87,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keegan Murray",
+                                "price": 1.87,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brook Lopez",
+                                "price": 1.91,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brook Lopez",
+                                "price": 1.83,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malik Beasley",
+                                "price": 1.67,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malik Beasley",
+                                "price": 2.1,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.83,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.91,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.67,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 2.1,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.8,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.95,
+                                "point": 11.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2024-01-14T09:54:33Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-01-14T09:51:32Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Damian Lillard",
+                                "price": 1.87,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Damian Lillard",
+                                "price": 1.87,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.91,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.83,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.77,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 2.0,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.91,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.83,
+                                "point": 6.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-01-14T09:51:32Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Brook Robert Lopez",
+                                "price": 1.91,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brook Robert Lopez",
+                                "price": 1.83,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Damian Lillard",
+                                "price": 1.87,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Damian Lillard",
+                                "price": 1.87,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.87,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.87,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.83,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.91,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.87,
+                                "point": 33.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.87,
+                                "point": 33.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Harrison Barnes",
+                                "price": 1.91,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Harrison Barnes",
+                                "price": 1.83,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keegan Murray",
+                                "price": 1.87,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keegan Murray",
+                                "price": 1.87,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malik Beasley",
+                                "price": 1.91,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malik Beasley",
+                                "price": 1.83,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malik Monk",
+                                "price": 1.74,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malik Monk",
+                                "price": 2.05,
+                                "point": 14.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-01-14T09:51:32Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Damian Lillard",
+                                "price": 2.2,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Damian Lillard",
+                                "price": 1.62,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.69,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 2.1,
+                                "point": 12.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

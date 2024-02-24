@@ -1,0 +1,3275 @@
+{
+    "timestamp": "2024-01-09T09:55:39Z",
+    "previous_timestamp": "2024-01-09T09:50:38Z",
+    "next_timestamp": "2024-01-09T10:00:38Z",
+    "data": {
+        "id": "2f73214b46643888affad9ddd9d903da",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-01-10T00:10:00Z",
+        "home_team": "Detroit Pistons",
+        "away_team": "Sacramento Kings",
+        "bookmakers": [
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2024-01-09T09:55:19Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-01-09T09:54:46Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.57,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 2.35,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.69,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 2.14,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.71,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 2.1,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaden Ivey",
+                                "price": 1.77,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaden Ivey",
+                                "price": 2.0,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Duren",
+                                "price": 2.24,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Duren",
+                                "price": 1.62,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Killian Hayes",
+                                "price": 1.67,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Killian Hayes",
+                                "price": 2.2,
+                                "point": 5.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-01-09T09:54:46Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.91,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.83,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.95,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.8,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.91,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.83,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Harrison Barnes",
+                                "price": 1.95,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Harrison Barnes",
+                                "price": 1.8,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Isaiah Livers",
+                                "price": 1.77,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Isaiah Livers",
+                                "price": 2.0,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaden Ivey",
+                                "price": 1.77,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaden Ivey",
+                                "price": 2.0,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Duren",
+                                "price": 1.83,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Duren",
+                                "price": 1.91,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keegan Murray",
+                                "price": 1.91,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keegan Murray",
+                                "price": 1.83,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Killian Hayes",
+                                "price": 1.83,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Killian Hayes",
+                                "price": 1.91,
+                                "point": 10.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-01-09T09:54:46Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.71,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 2.1,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 2.14,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.69,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.74,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 2.05,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Harrison Barnes",
+                                "price": 1.6,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Harrison Barnes",
+                                "price": 2.3,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Isaiah Livers",
+                                "price": 2.0,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Isaiah Livers",
+                                "price": 1.77,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaden Ivey",
+                                "price": 2.05,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaden Ivey",
+                                "price": 1.74,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Duren",
+                                "price": 1.87,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Duren",
+                                "price": 1.87,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keegan Murray",
+                                "price": 2.05,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keegan Murray",
+                                "price": 1.74,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Killian Hayes",
+                                "price": 1.77,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Killian Hayes",
+                                "price": 2.0,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2024-01-09T09:54:26Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-01-09T09:54:44Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jaden Ivey",
+                                "price": 1.82,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaden Ivey",
+                                "price": 1.96,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 2.26,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.62,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Killian Hayes",
+                                "price": 2.04,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Killian Hayes",
+                                "price": 1.76,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.68,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 2.16,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.85,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.93,
+                                "point": 7.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-01-09T09:54:46Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.9,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.87,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Harrison Barnes",
+                                "price": 1.9,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Harrison Barnes",
+                                "price": 1.87,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Duren",
+                                "price": 1.98,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Duren",
+                                "price": 1.8,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.94,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.83,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Isaiah Livers",
+                                "price": 1.77,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Isaiah Livers",
+                                "price": 2.02,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaden Ivey",
+                                "price": 1.78,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaden Ivey",
+                                "price": 2.0,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.83,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.94,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keegan Murray",
+                                "price": 1.82,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keegan Murray",
+                                "price": 1.96,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Killian Hayes",
+                                "price": 1.88,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Killian Hayes",
+                                "price": 1.88,
+                                "point": 10.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-01-09T09:54:46Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.74,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 2.06,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Harrison Barnes",
+                                "price": 1.7,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Harrison Barnes",
+                                "price": 2.12,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Killian Hayes",
+                                "price": 1.71,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Killian Hayes",
+                                "price": 2.1,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keegan Murray",
+                                "price": 2.14,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keegan Murray",
+                                "price": 1.68,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Isaiah Livers",
+                                "price": 2.2,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Isaiah Livers",
+                                "price": 1.65,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaden Ivey",
+                                "price": 2.12,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaden Ivey",
+                                "price": 1.7,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.8,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.98,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 2.06,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.74,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Duren",
+                                "price": 1.98,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Duren",
+                                "price": 1.8,
+                                "point": 11.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetus",
+                "title": "PointsBet (US)",
+                "last_update": "2024-01-09T09:55:10Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-01-09T09:51:24Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.61,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 2.25,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.71,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 2.05,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.69,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 2.1,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaden Ivey",
+                                "price": 1.8,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaden Ivey",
+                                "price": 1.95,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Duren",
+                                "price": 2.2,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Duren",
+                                "price": 1.62,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Killian Hayes",
+                                "price": 1.67,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Killian Hayes",
+                                "price": 2.15,
+                                "point": 5.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-01-09T09:51:24Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.95,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.8,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.95,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.8,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.87,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.87,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Harrison Barnes",
+                                "price": 1.91,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Harrison Barnes",
+                                "price": 1.83,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Isaiah Livers",
+                                "price": 1.8,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Isaiah Livers",
+                                "price": 1.95,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaden Ivey",
+                                "price": 1.8,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaden Ivey",
+                                "price": 1.95,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Duren",
+                                "price": 1.87,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Duren",
+                                "price": 1.87,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keegan Murray",
+                                "price": 1.8,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keegan Murray",
+                                "price": 1.95,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Killian Hayes",
+                                "price": 1.83,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Killian Hayes",
+                                "price": 1.91,
+                                "point": 10.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-01-09T09:51:24Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.71,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 2.05,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 2.15,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.67,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.77,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 2.0,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Harrison Barnes",
+                                "price": 1.61,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Harrison Barnes",
+                                "price": 2.25,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Isaiah Livers",
+                                "price": 2.0,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Isaiah Livers",
+                                "price": 1.77,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaden Ivey",
+                                "price": 2.0,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaden Ivey",
+                                "price": 1.77,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Duren",
+                                "price": 1.87,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Duren",
+                                "price": 1.87,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keegan Murray",
+                                "price": 2.05,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keegan Murray",
+                                "price": 1.71,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Killian Hayes",
+                                "price": 1.8,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Killian Hayes",
+                                "price": 1.95,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "Caesars",
+                "last_update": "2024-01-09T09:52:08Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-01-09T09:54:06Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Keegan Murray",
+                                "price": 2.26,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keegan Murray",
+                                "price": 1.57,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.68,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 2.08,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Harrison Barnes",
+                                "price": 1.41,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Harrison Barnes",
+                                "price": 2.72,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaden Ivey",
+                                "price": 1.9,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaden Ivey",
+                                "price": 1.81,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.56,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 2.29,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Duren",
+                                "price": 2.36,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Duren",
+                                "price": 1.53,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Isaiah Livers",
+                                "price": 2.0,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Isaiah Livers",
+                                "price": 1.73,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.68,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 2.08,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Killian Hayes",
+                                "price": 1.64,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Killian Hayes",
+                                "price": 2.14,
+                                "point": 5.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-01-09T09:54:06Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.9,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.81,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Isaiah Livers",
+                                "price": 1.74,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Isaiah Livers",
+                                "price": 1.99,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keegan Murray",
+                                "price": 2.02,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keegan Murray",
+                                "price": 1.72,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Duren",
+                                "price": 1.81,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Duren",
+                                "price": 1.9,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.88,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.83,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Harrison Barnes",
+                                "price": 1.93,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Harrison Barnes",
+                                "price": 1.79,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaden Ivey",
+                                "price": 1.9,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaden Ivey",
+                                "price": 1.81,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Killian Hayes",
+                                "price": 1.85,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Killian Hayes",
+                                "price": 1.85,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.8,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.92,
+                                "point": 27.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-01-09T09:54:06Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Killian Hayes",
+                                "price": 1.75,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Killian Hayes",
+                                "price": 1.97,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keegan Murray",
+                                "price": 2.04,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keegan Murray",
+                                "price": 1.7,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Isaiah Livers",
+                                "price": 1.94,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Isaiah Livers",
+                                "price": 1.78,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 2.14,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.64,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Harrison Barnes",
+                                "price": 1.56,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Harrison Barnes",
+                                "price": 2.29,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Duren",
+                                "price": 2.0,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Duren",
+                                "price": 1.73,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaden Ivey",
+                                "price": 2.02,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaden Ivey",
+                                "price": 1.72,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.73,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 2.0,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.65,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 2.12,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": "2024-01-09T09:53:48Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-01-09T09:54:19Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Isaiah Livers",
+                                "price": 2.1,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Isaiah Livers",
+                                "price": 1.69,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Duren",
+                                "price": 2.4,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Duren",
+                                "price": 1.53,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaden Ivey",
+                                "price": 1.87,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaden Ivey",
+                                "price": 1.83,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keegan Murray",
+                                "price": 2.25,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keegan Murray",
+                                "price": 1.62,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Killian Hayes",
+                                "price": 1.65,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Killian Hayes",
+                                "price": 2.15,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.67,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 2.15,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.69,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 2.1,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Harrison Barnes",
+                                "price": 1.4,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Harrison Barnes",
+                                "price": 2.8,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovich",
+                                "price": 1.57,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovich",
+                                "price": 2.35,
+                                "point": 2.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-01-09T09:54:19Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Isaiah Livers",
+                                "price": 1.74,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Isaiah Livers",
+                                "price": 2.0,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovich",
+                                "price": 1.91,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovich",
+                                "price": 1.83,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Duren",
+                                "price": 1.83,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Duren",
+                                "price": 1.91,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keegan Murray",
+                                "price": 1.91,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keegan Murray",
+                                "price": 1.8,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Killian Hayes",
+                                "price": 1.87,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Killian Hayes",
+                                "price": 1.87,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.95,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.8,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Harrison Barnes",
+                                "price": 1.95,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Harrison Barnes",
+                                "price": 1.8,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.83,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.91,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaden Ivey",
+                                "price": 1.87,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaden Ivey",
+                                "price": 1.83,
+                                "point": 15.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-01-09T09:54:19Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Isaiah Livers",
+                                "price": 2.0,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Isaiah Livers",
+                                "price": 1.77,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovich",
+                                "price": 1.67,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovich",
+                                "price": 2.1,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Duren",
+                                "price": 2.05,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Duren",
+                                "price": 1.71,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaden Ivey",
+                                "price": 2.0,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaden Ivey",
+                                "price": 1.74,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keegan Murray",
+                                "price": 2.05,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keegan Murray",
+                                "price": 1.71,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Killian Hayes",
+                                "price": 1.74,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Killian Hayes",
+                                "price": 2.0,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 2.15,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.65,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Harrison Barnes",
+                                "price": 1.61,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Harrison Barnes",
+                                "price": 2.25,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.71,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 2.05,
+                                "point": 13.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betonlineag",
+                "title": "BetOnline.ag",
+                "last_update": "2024-01-09T09:53:38Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-01-09T09:52:19Z",
+                        "outcomes": [
+                            {
+                                "name": "Under",
+                                "description": "Killian Hayes",
+                                "price": 2.16,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Killian Hayes",
+                                "price": 1.66,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.68,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 2.13,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Duren",
+                                "price": 2.28,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Duren",
+                                "price": 1.6,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 2.04,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.74,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaden Ivey",
+                                "price": 1.97,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaden Ivey",
+                                "price": 1.8,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 2.33,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.58,
+                                "point": 2.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-01-09T09:52:19Z",
+                        "outcomes": [
+                            {
+                                "name": "Under",
+                                "description": "Harrison Barnes",
+                                "price": 1.82,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Harrison Barnes",
+                                "price": 1.94,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Killian Hayes",
+                                "price": 1.9,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Killian Hayes",
+                                "price": 1.86,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Isaiah Livers",
+                                "price": 1.8,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Isaiah Livers",
+                                "price": 1.97,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Duren",
+                                "price": 1.77,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Duren",
+                                "price": 2.0,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaden Ivey",
+                                "price": 1.82,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaden Ivey",
+                                "price": 1.94,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keegan Murray",
+                                "price": 1.78,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keegan Murray",
+                                "price": 1.99,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.85,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.91,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.88,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.88,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.7,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 2.1,
+                                "point": 27.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-01-09T09:52:19Z",
+                        "outcomes": [
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.69,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 2.12,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Isaiah Livers",
+                                "price": 1.72,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Isaiah Livers",
+                                "price": 2.07,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Killian Hayes",
+                                "price": 2.01,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Killian Hayes",
+                                "price": 1.77,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Harrison Barnes",
+                                "price": 1.62,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Harrison Barnes",
+                                "price": 2.24,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Duren",
+                                "price": 1.81,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Duren",
+                                "price": 1.95,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaden Ivey",
+                                "price": 2.04,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaden Ivey",
+                                "price": 1.74,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keegan Murray",
+                                "price": 2.12,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keegan Murray",
+                                "price": 1.69,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 2.07,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.72,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.78,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.99,
+                                "point": 13.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2024-01-09T09:55:13Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-01-09T09:54:08Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.56,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 2.35,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.69,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 2.1,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.69,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 2.1,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaden Ivey",
+                                "price": 1.77,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaden Ivey",
+                                "price": 2.0,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Duren",
+                                "price": 2.2,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Duren",
+                                "price": 1.62,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Killian Hayes",
+                                "price": 1.67,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Killian Hayes",
+                                "price": 2.15,
+                                "point": 5.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-01-09T09:54:08Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.87,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.87,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.91,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.83,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.83,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.91,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Harrison Barnes",
+                                "price": 1.87,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Harrison Barnes",
+                                "price": 1.87,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaden Ivey",
+                                "price": 1.74,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaden Ivey",
+                                "price": 2.05,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Duren",
+                                "price": 2.05,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Duren",
+                                "price": 1.74,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keegan Murray",
+                                "price": 1.74,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keegan Murray",
+                                "price": 2.05,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Killian Hayes",
+                                "price": 1.87,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Killian Hayes",
+                                "price": 1.87,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Livers Isaiah",
+                                "price": 1.74,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Livers Isaiah",
+                                "price": 2.05,
+                                "point": 8.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-01-09T09:54:08Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.69,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 2.1,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 2.1,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.69,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.8,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.95,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Harrison Barnes",
+                                "price": 1.59,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Harrison Barnes",
+                                "price": 2.3,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaden Ivey",
+                                "price": 2.05,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaden Ivey",
+                                "price": 1.74,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Duren",
+                                "price": 1.87,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Duren",
+                                "price": 1.87,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keegan Murray",
+                                "price": 2.05,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keegan Murray",
+                                "price": 1.74,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Killian Hayes",
+                                "price": 1.77,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Killian Hayes",
+                                "price": 2.0,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Livers Isaiah",
+                                "price": 2.0,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Livers Isaiah",
+                                "price": 1.77,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betrivers",
+                "title": "BetRivers",
+                "last_update": "2024-01-09T09:53:38Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-01-09T09:53:45Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.85,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.88,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 2.3,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.57,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.66,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 2.15,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Killian Hayes",
+                                "price": 1.51,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Killian Hayes",
+                                "price": 2.43,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.45,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 2.6,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 2.23,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.62,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaden Ivey",
+                                "price": 1.75,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaden Ivey",
+                                "price": 2.0,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Killian Hayes",
+                                "price": 2.06,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Killian Hayes",
+                                "price": 1.71,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.45,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 2.6,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 2.55,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.47,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaden Ivey",
+                                "price": 2.6,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaden Ivey",
+                                "price": 1.47,
+                                "point": 5.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-01-09T09:53:45Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Keegan Murray",
+                                "price": 2.38,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keegan Murray",
+                                "price": 1.5,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.79,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.94,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Harrison Barnes",
+                                "price": 1.62,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Harrison Barnes",
+                                "price": 2.17,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 2.4,
+                                "point": 30.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.49,
+                                "point": 30.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.94,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.8,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keegan Murray",
+                                "price": 1.83,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keegan Murray",
+                                "price": 1.91,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Harrison Barnes",
+                                "price": 1.88,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Harrison Barnes",
+                                "price": 1.85,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.67,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 2.1,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Duren",
+                                "price": 1.77,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Duren",
+                                "price": 1.97,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Killian Hayes",
+                                "price": 1.38,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Killian Hayes",
+                                "price": 2.7,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaden Ivey",
+                                "price": 1.95,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaden Ivey",
+                                "price": 1.79,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.87,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.87,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Killian Hayes",
+                                "price": 1.85,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Killian Hayes",
+                                "price": 1.88,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.44,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 2.48,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Harrison Barnes",
+                                "price": 1.41,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Harrison Barnes",
+                                "price": 2.6,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keegan Murray",
+                                "price": 1.6,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keegan Murray",
+                                "price": 2.2,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Duren",
+                                "price": 1.34,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Duren",
+                                "price": 2.8,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.45,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 2.45,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keegan Murray",
+                                "price": 2.08,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keegan Murray",
+                                "price": 1.68,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 2.08,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.68,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 2.65,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.4,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 2.15,
+                                "point": 29.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.63,
+                                "point": 29.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Killian Hayes",
+                                "price": 2.18,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Killian Hayes",
+                                "price": 1.61,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.77,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.97,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keegan Murray",
+                                "price": 2.8,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keegan Murray",
+                                "price": 1.35,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 3.05,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.28,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Duren",
+                                "price": 2.4,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Duren",
+                                "price": 1.49,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Harrison Barnes",
+                                "price": 2.6,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Harrison Barnes",
+                                "price": 1.41,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaden Ivey",
+                                "price": 2.55,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaden Ivey",
+                                "price": 1.42,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Killian Hayes",
+                                "price": 1.57,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Killian Hayes",
+                                "price": 2.23,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.5,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 2.38,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 3.05,
+                                "point": 32.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.29,
+                                "point": 32.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 2.02,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.74,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 2.55,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.42,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keegan Murray",
+                                "price": 1.28,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keegan Murray",
+                                "price": 3.05,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaden Ivey",
+                                "price": 1.51,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaden Ivey",
+                                "price": 2.35,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Killian Hayes",
+                                "price": 2.6,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Killian Hayes",
+                                "price": 1.41,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaden Ivey",
+                                "price": 1.72,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaden Ivey",
+                                "price": 2.04,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.6,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 2.2,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.33,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 2.88,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.61,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 2.18,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.35,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 2.8,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaden Ivey",
+                                "price": 2.23,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaden Ivey",
+                                "price": 1.57,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 2.33,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.51,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Duren",
+                                "price": 1.55,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Duren",
+                                "price": 2.3,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Duren",
+                                "price": 2.07,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Duren",
+                                "price": 1.7,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaden Ivey",
+                                "price": 3.0,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaden Ivey",
+                                "price": 1.29,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 2.7,
+                                "point": 31.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.38,
+                                "point": 31.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Duren",
+                                "price": 2.9,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Duren",
+                                "price": 1.32,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Harrison Barnes",
+                                "price": 3.15,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Harrison Barnes",
+                                "price": 1.27,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaden Ivey",
+                                "price": 1.35,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaden Ivey",
+                                "price": 2.75,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 2.95,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.32,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Harrison Barnes",
+                                "price": 2.2,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Harrison Barnes",
+                                "price": 1.6,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keegan Murray",
+                                "price": 1.43,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keegan Murray",
+                                "price": 2.55,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.36,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 2.75,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 2.25,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.56,
+                                "point": 24.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-01-09T09:53:45Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 2.16,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.65,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Harrison Barnes",
+                                "price": 1.72,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Harrison Barnes",
+                                "price": 2.05,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keegan Murray",
+                                "price": 1.63,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keegan Murray",
+                                "price": 2.2,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.79,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.95,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaden Ivey",
+                                "price": 1.43,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaden Ivey",
+                                "price": 2.65,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Duren",
+                                "price": 2.55,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Duren",
+                                "price": 1.47,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.74,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 2.02,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaden Ivey",
+                                "price": 2.12,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaden Ivey",
+                                "price": 1.67,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Duren",
+                                "price": 1.97,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Duren",
+                                "price": 1.78,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Duren",
+                                "price": 1.6,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Duren",
+                                "price": 2.25,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.51,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 2.45,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 2.65,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.43,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keegan Murray",
+                                "price": 2.23,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keegan Murray",
+                                "price": 1.62,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.51,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 2.43,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 2.2,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.63,
+                                "point": 14.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

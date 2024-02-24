@@ -1,0 +1,813 @@
+{
+    "timestamp": "2024-01-12T09:55:38Z",
+    "previous_timestamp": "2024-01-12T09:50:38Z",
+    "next_timestamp": "2024-01-12T10:00:38Z",
+    "data": {
+        "id": "eccf1cca8b563fda49cddb5f2eb60263",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-01-13T01:10:00Z",
+        "home_team": "Miami Heat",
+        "away_team": "Orlando Magic",
+        "bookmakers": [
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2024-01-12T09:54:14Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-01-12T09:53:42Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jalen Suggs",
+                                "price": 1.87,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Suggs",
+                                "price": 1.87,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 2.0,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 1.77,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyler Herro",
+                                "price": 2.05,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyler Herro",
+                                "price": 1.74,
+                                "point": 5.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-01-12T09:53:42Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jalen Suggs",
+                                "price": 1.91,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Suggs",
+                                "price": 1.83,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 1.83,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 1.91,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyler Herro",
+                                "price": 1.83,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyler Herro",
+                                "price": 1.91,
+                                "point": 22.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-01-12T09:53:42Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jalen Suggs",
+                                "price": 1.74,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Suggs",
+                                "price": 2.05,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 1.74,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 2.05,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyler Herro",
+                                "price": 2.24,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyler Herro",
+                                "price": 1.62,
+                                "point": 5.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetus",
+                "title": "PointsBet (US)",
+                "last_update": "2024-01-12T09:53:39Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-01-12T09:54:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jalen Suggs",
+                                "price": 1.87,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Suggs",
+                                "price": 1.87,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 1.95,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 1.8,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyler Herro",
+                                "price": 2.05,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyler Herro",
+                                "price": 1.71,
+                                "point": 5.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-01-12T09:54:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jalen Suggs",
+                                "price": 1.87,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Suggs",
+                                "price": 1.87,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 1.87,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 1.87,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyler Herro",
+                                "price": 1.87,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyler Herro",
+                                "price": 1.87,
+                                "point": 22.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-01-12T09:54:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jalen Suggs",
+                                "price": 1.71,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Suggs",
+                                "price": 2.05,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 1.8,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 1.95,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyler Herro",
+                                "price": 2.2,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyler Herro",
+                                "price": 1.62,
+                                "point": 5.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2024-01-12T09:55:03Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-01-12T09:49:46Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Tyler Herro",
+                                "price": 2.0,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyler Herro",
+                                "price": 1.78,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 2.12,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 1.7,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Suggs",
+                                "price": 1.9,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Suggs",
+                                "price": 1.87,
+                                "point": 2.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-01-12T09:49:46Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 1.9,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 1.87,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyler Herro",
+                                "price": 1.87,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyler Herro",
+                                "price": 1.9,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Suggs",
+                                "price": 1.87,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Suggs",
+                                "price": 1.9,
+                                "point": 15.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-01-12T09:49:46Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 1.8,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 1.98,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyler Herro",
+                                "price": 2.2,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyler Herro",
+                                "price": 1.65,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Suggs",
+                                "price": 1.77,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Suggs",
+                                "price": 2.02,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": "2024-01-12T09:49:05Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-01-12T09:48:55Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Tyler Herro",
+                                "price": 2.05,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyler Herro",
+                                "price": 1.74,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Suggs",
+                                "price": 1.87,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Suggs",
+                                "price": 1.87,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 1.95,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 1.77,
+                                "point": 5.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-01-12T09:48:55Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Tyler Herro",
+                                "price": 1.8,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyler Herro",
+                                "price": 1.95,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Suggs",
+                                "price": 1.87,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Suggs",
+                                "price": 1.87,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 1.83,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 1.91,
+                                "point": 27.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-01-12T09:48:55Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Tyler Herro",
+                                "price": 2.25,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyler Herro",
+                                "price": 1.61,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Suggs",
+                                "price": 1.71,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Suggs",
+                                "price": 2.05,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 1.69,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 2.05,
+                                "point": 7.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "Caesars",
+                "last_update": "2024-01-12T09:53:32Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-01-12T09:53:35Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jalen Suggs",
+                                "price": 1.84,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Suggs",
+                                "price": 1.87,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyler Herro",
+                                "price": 2.04,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyler Herro",
+                                "price": 1.7,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 1.99,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 1.74,
+                                "point": 5.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-01-12T09:53:35Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jalen Suggs",
+                                "price": 1.87,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Suggs",
+                                "price": 1.84,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 1.83,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 1.88,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyler Herro",
+                                "price": 1.83,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyler Herro",
+                                "price": 1.88,
+                                "point": 22.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-01-12T09:53:35Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Tyler Herro",
+                                "price": 2.2,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyler Herro",
+                                "price": 1.6,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 1.72,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 2.02,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Suggs",
+                                "price": 1.7,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Suggs",
+                                "price": 2.04,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2024-01-12T09:53:40Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-01-12T09:53:57Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jalen Suggs",
+                                "price": 1.87,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Suggs",
+                                "price": 1.87,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 2.0,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 1.77,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyler Herro",
+                                "price": 2.05,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyler Herro",
+                                "price": 1.74,
+                                "point": 5.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-01-12T09:53:57Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jalen Suggs",
+                                "price": 1.83,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Suggs",
+                                "price": 1.91,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 1.91,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 1.83,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyler Herro",
+                                "price": 1.83,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyler Herro",
+                                "price": 1.91,
+                                "point": 22.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-01-12T09:53:57Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jalen Suggs",
+                                "price": 1.74,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Suggs",
+                                "price": 2.05,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 1.74,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 2.05,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyler Herro",
+                                "price": 2.2,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyler Herro",
+                                "price": 1.62,
+                                "point": 5.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

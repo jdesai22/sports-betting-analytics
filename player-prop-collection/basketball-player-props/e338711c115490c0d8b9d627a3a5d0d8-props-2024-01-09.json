@@ -1,0 +1,956 @@
+{
+    "timestamp": "2024-01-09T09:55:39Z",
+    "previous_timestamp": "2024-01-09T09:50:38Z",
+    "next_timestamp": "2024-01-09T10:00:38Z",
+    "data": {
+        "id": "e338711c115490c0d8b9d627a3a5d0d8",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-01-10T01:40:00Z",
+        "home_team": "Dallas Mavericks",
+        "away_team": "Memphis Grizzlies",
+        "bookmakers": [
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2024-01-09T09:55:19Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-01-09T09:55:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Desmond Bane",
+                                "price": 1.77,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Desmond Bane",
+                                "price": 2.0,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyrie Irving",
+                                "price": 1.6,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyrie Irving",
+                                "price": 2.3,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luka Doncic",
+                                "price": 1.6,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Doncic",
+                                "price": 2.3,
+                                "point": 8.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-01-09T09:55:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Derrick Jones Jr.",
+                                "price": 1.8,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Derrick Jones Jr.",
+                                "price": 1.95,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Desmond Bane",
+                                "price": 1.95,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Desmond Bane",
+                                "price": 1.8,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaren Jackson Jr.",
+                                "price": 1.74,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaren Jackson Jr.",
+                                "price": 2.05,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyrie Irving",
+                                "price": 1.83,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyrie Irving",
+                                "price": 1.91,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luka Doncic",
+                                "price": 1.8,
+                                "point": 34.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Doncic",
+                                "price": 1.95,
+                                "point": 34.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-01-09T09:55:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Derrick Jones Jr.",
+                                "price": 2.0,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Derrick Jones Jr.",
+                                "price": 1.77,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Desmond Bane",
+                                "price": 2.05,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Desmond Bane",
+                                "price": 1.74,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaren Jackson Jr.",
+                                "price": 1.83,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaren Jackson Jr.",
+                                "price": 1.91,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyrie Irving",
+                                "price": 1.87,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyrie Irving",
+                                "price": 1.87,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luka Doncic",
+                                "price": 1.71,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Doncic",
+                                "price": 2.1,
+                                "point": 8.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetus",
+                "title": "PointsBet (US)",
+                "last_update": "2024-01-09T09:55:10Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-01-09T09:51:49Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Desmond Bane",
+                                "price": 1.8,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Desmond Bane",
+                                "price": 1.95,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyrie Irving",
+                                "price": 2.2,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyrie Irving",
+                                "price": 1.62,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luka Doncic",
+                                "price": 2.0,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Doncic",
+                                "price": 1.77,
+                                "point": 9.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-01-09T09:51:49Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Derrick Jones Jr.",
+                                "price": 1.8,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Derrick Jones Jr.",
+                                "price": 1.95,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Desmond Bane",
+                                "price": 1.8,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Desmond Bane",
+                                "price": 1.95,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaren Jackson Jr.",
+                                "price": 1.83,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaren Jackson Jr.",
+                                "price": 1.91,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyrie Irving",
+                                "price": 1.83,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyrie Irving",
+                                "price": 1.91,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luka Doncic",
+                                "price": 1.91,
+                                "point": 35.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Doncic",
+                                "price": 1.83,
+                                "point": 35.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-01-09T09:51:49Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Derrick Jones Jr.",
+                                "price": 1.95,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Derrick Jones Jr.",
+                                "price": 1.8,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Desmond Bane",
+                                "price": 2.05,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Desmond Bane",
+                                "price": 1.71,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaren Jackson Jr.",
+                                "price": 1.87,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaren Jackson Jr.",
+                                "price": 1.87,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyrie Irving",
+                                "price": 1.87,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyrie Irving",
+                                "price": 1.87,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luka Doncic",
+                                "price": 1.71,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Doncic",
+                                "price": 2.05,
+                                "point": 8.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2024-01-09T09:54:26Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-01-09T09:48:53Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Kyrie Irving",
+                                "price": 1.72,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyrie Irving",
+                                "price": 2.08,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luka Doncic",
+                                "price": 1.74,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Doncic",
+                                "price": 2.06,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Desmond Bane",
+                                "price": 1.82,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Desmond Bane",
+                                "price": 1.96,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Marcus Smart",
+                                "price": 2.04,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Marcus Smart",
+                                "price": 1.76,
+                                "point": 5.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-01-09T09:54:21Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Desmond Bane",
+                                "price": 1.82,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Desmond Bane",
+                                "price": 1.96,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luka Doncic",
+                                "price": 1.82,
+                                "point": 33.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Doncic",
+                                "price": 1.96,
+                                "point": 33.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Marcus Smart",
+                                "price": 1.96,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Marcus Smart",
+                                "price": 1.82,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyrie Irving",
+                                "price": 1.88,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyrie Irving",
+                                "price": 1.87,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Derrick Jones Jr.",
+                                "price": 1.88,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Derrick Jones Jr.",
+                                "price": 1.88,
+                                "point": 10.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-01-09T09:54:21Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Marcus Smart",
+                                "price": 1.65,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Marcus Smart",
+                                "price": 2.2,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luka Doncic",
+                                "price": 1.78,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Doncic",
+                                "price": 2.0,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Desmond Bane",
+                                "price": 2.14,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Desmond Bane",
+                                "price": 1.68,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyrie Irving",
+                                "price": 2.0,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyrie Irving",
+                                "price": 1.78,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Derrick Jones Jr.",
+                                "price": 2.16,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Derrick Jones Jr.",
+                                "price": 1.68,
+                                "point": 5.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": "2024-01-09T09:53:48Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-01-09T09:49:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Luka Doncic",
+                                "price": 1.67,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Doncic",
+                                "price": 2.1,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyrie Irving",
+                                "price": 1.67,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyrie Irving",
+                                "price": 2.1,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Derrick Jones Jr.",
+                                "price": 1.57,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Derrick Jones Jr.",
+                                "price": 2.3,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Desmond Bane",
+                                "price": 1.71,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Desmond Bane",
+                                "price": 2.05,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaren Jackson Jr.",
+                                "price": 1.71,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaren Jackson Jr.",
+                                "price": 2.05,
+                                "point": 1.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-01-09T09:49:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Luka Doncic",
+                                "price": 1.83,
+                                "point": 34.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Doncic",
+                                "price": 1.91,
+                                "point": 34.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyrie Irving",
+                                "price": 1.95,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyrie Irving",
+                                "price": 1.77,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Derrick Jones Jr.",
+                                "price": 1.77,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Derrick Jones Jr.",
+                                "price": 1.95,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaren Jackson Jr.",
+                                "price": 1.87,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaren Jackson Jr.",
+                                "price": 1.87,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Desmond Bane",
+                                "price": 1.95,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Desmond Bane",
+                                "price": 1.8,
+                                "point": 27.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-01-09T09:49:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Luka Doncic",
+                                "price": 1.69,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Doncic",
+                                "price": 2.1,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyrie Irving",
+                                "price": 1.83,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyrie Irving",
+                                "price": 1.87,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Derrick Jones Jr.",
+                                "price": 1.95,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Derrick Jones Jr.",
+                                "price": 1.77,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Desmond Bane",
+                                "price": 2.05,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Desmond Bane",
+                                "price": 1.71,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaren Jackson Jr.",
+                                "price": 1.83,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaren Jackson Jr.",
+                                "price": 1.91,
+                                "point": 6.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2024-01-09T09:55:13Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-01-09T09:54:35Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Desmond Bane",
+                                "price": 1.77,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Desmond Bane",
+                                "price": 2.0,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyrie Irving",
+                                "price": 1.59,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyrie Irving",
+                                "price": 2.3,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luka Doncic",
+                                "price": 1.59,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Doncic",
+                                "price": 2.3,
+                                "point": 8.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-01-09T09:54:35Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Derrick Jones Jr.",
+                                "price": 1.87,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Derrick Jones Jr.",
+                                "price": 1.87,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Desmond Bane",
+                                "price": 1.74,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Desmond Bane",
+                                "price": 2.05,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyrie Irving",
+                                "price": 1.87,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyrie Irving",
+                                "price": 1.87,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luka Doncic",
+                                "price": 1.74,
+                                "point": 33.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Doncic",
+                                "price": 2.05,
+                                "point": 33.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Marcus Smart",
+                                "price": 2.05,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Marcus Smart",
+                                "price": 1.74,
+                                "point": 14.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-01-09T09:54:35Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Derrick Jones Jr.",
+                                "price": 2.0,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Derrick Jones Jr.",
+                                "price": 1.77,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Desmond Bane",
+                                "price": 2.05,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Desmond Bane",
+                                "price": 1.74,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaren Jackson Jr.",
+                                "price": 1.83,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaren Jackson Jr.",
+                                "price": 1.91,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyrie Irving",
+                                "price": 1.87,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyrie Irving",
+                                "price": 1.87,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luka Doncic",
+                                "price": 1.69,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Doncic",
+                                "price": 2.1,
+                                "point": 8.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
