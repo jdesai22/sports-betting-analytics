@@ -3,9 +3,9 @@ import os
 import requests
 import json
 import re
-from datetime import date
+from datetime import datetime, date
 import csv
-
+import pytz
 # load_dotenv()
 
 # API_KEY = os.getenv('API_KEY')
@@ -24,6 +24,29 @@ class Collector:
     def getAPIKey():
         print("testing")
 
+    @staticmethod
+    def convertISOtoEST(iso_time):
+        # Split the ISO 8601 string to extract date and time components
+        date_part, time_part = iso_time.split('T')
+
+        # Extract hour, minute, and second components from the time part
+        hour, minute, second = map(int, time_part[:-1].split(':'))  # Remove the 'Z' at the end
+
+        # Adjust the hour to EST timezone (UTC-5)
+        hour -= 5
+
+        # If the adjusted hour is negative, roll back to the previous day
+        if hour < 0:
+            hour += 24
+            # Adjust the date part accordingly
+            year, month, day = map(int, date_part.split('-'))
+            previous_day = (year, month, day - 1)
+            date_part = '-'.join(map(str, previous_day))
+
+        # Construct the EST time string
+        est_time = f"{date_part}"
+
+        return est_time
 
     @staticmethod
     def getEvents(sport):
@@ -271,7 +294,7 @@ if __name__ == "__main__":
 
     #Collector.getPropByEventFiles("basketball-events")
 
-    Collector.getHistoricalEvents("basketball_nba", "2023-03-30")
+    #Collector.getHistoricalEvents("basketball_nba", "2023-03-30")
 
     #Collector.getHistoricalNBAPropsByEventId("basketball_nba", "da359da99aa27e97d38f2df709343998", ["player_points"], ["us"], "2023-11-29")
 
@@ -279,6 +302,11 @@ if __name__ == "__main__":
 
     #Collector.convertPropFilesToSingularCSV("basketball-player-props")
 
-    #print("nothing running...")
+    iso_time = "2023-12-21T00:10:00Z"  # Example ISO 8601 time
+    est_time = Collector.convertISOtoEST(iso_time)
+    print("ISO 8601 time:", iso_time)
+    print("EST time:", est_time)
+
+    print("nothing running...")
 
 

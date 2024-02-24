@@ -1,0 +1,1787 @@
+{
+    "timestamp": "2023-12-30T09:55:38Z",
+    "previous_timestamp": "2023-12-30T09:50:38Z",
+    "next_timestamp": "2023-12-30T10:00:38Z",
+    "data": {
+        "id": "b0dc85ec5e468aca414d3ee313b88186",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2023-12-31T01:40:00Z",
+        "home_team": "Golden State Warriors",
+        "away_team": "Dallas Mavericks",
+        "bookmakers": [
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2023-12-30T09:54:27Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-30T09:54:16Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Luka Doncic",
+                                "price": 1.95,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Doncic",
+                                "price": 1.8,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 1.53,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 2.45,
+                                "point": 4.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-30T09:54:16Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Klay Thompson",
+                                "price": 1.77,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Klay Thompson",
+                                "price": 2.0,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luka Doncic",
+                                "price": 1.8,
+                                "point": 36.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Doncic",
+                                "price": 1.95,
+                                "point": 36.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 1.8,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 1.95,
+                                "point": 28.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-30T09:54:16Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Klay Thompson",
+                                "price": 1.77,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Klay Thompson",
+                                "price": 2.0,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luka Doncic",
+                                "price": 1.91,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Doncic",
+                                "price": 1.83,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 1.77,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 2.0,
+                                "point": 4.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2023-12-30T09:55:27Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-30T09:51:50Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 1.62,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 2.26,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brandin Podziemski",
+                                "price": 2.28,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandin Podziemski",
+                                "price": 1.61,
+                                "point": 5.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-30T09:51:50Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 1.87,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 1.9,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brandin Podziemski",
+                                "price": 1.78,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandin Podziemski",
+                                "price": 2.0,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jonathan Kuminga",
+                                "price": 1.88,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jonathan Kuminga",
+                                "price": 1.88,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Klay Thompson",
+                                "price": 1.94,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Klay Thompson",
+                                "price": 1.83,
+                                "point": 18.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-30T09:51:50Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jonathan Kuminga",
+                                "price": 1.68,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jonathan Kuminga",
+                                "price": 2.14,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 1.87,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 1.9,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brandin Podziemski",
+                                "price": 2.1,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandin Podziemski",
+                                "price": 1.71,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Klay Thompson",
+                                "price": 1.87,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Klay Thompson",
+                                "price": 1.9,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": "2023-12-30T09:51:43Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-30T09:51:44Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 1.62,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 2.2,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Klay Thompson",
+                                "price": 1.53,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Klay Thompson",
+                                "price": 2.45,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luka Doncic",
+                                "price": 2.1,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Doncic",
+                                "price": 1.67,
+                                "point": 10.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-30T09:51:44Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Luka Doncic",
+                                "price": 1.83,
+                                "point": 36.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Doncic",
+                                "price": 1.91,
+                                "point": 36.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 1.95,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 1.8,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Klay Thompson",
+                                "price": 1.83,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Klay Thompson",
+                                "price": 1.91,
+                                "point": 17.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-30T09:51:44Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Luka Doncic",
+                                "price": 1.87,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Doncic",
+                                "price": 1.83,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 1.91,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 1.83,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Klay Thompson",
+                                "price": 1.74,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Klay Thompson",
+                                "price": 2.0,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetus",
+                "title": "PointsBet (US)",
+                "last_update": "2023-12-30T09:54:32Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-30T09:53:45Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Luka Doncic",
+                                "price": 1.91,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Doncic",
+                                "price": 1.83,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 2.05,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 1.71,
+                                "point": 5.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-30T09:53:45Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Klay Thompson",
+                                "price": 1.91,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Klay Thompson",
+                                "price": 1.83,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luka Doncic",
+                                "price": 1.83,
+                                "point": 36.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Doncic",
+                                "price": 1.91,
+                                "point": 36.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 1.8,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 1.95,
+                                "point": 28.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-30T09:53:45Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Klay Thompson",
+                                "price": 1.83,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Klay Thompson",
+                                "price": 1.91,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luka Doncic",
+                                "price": 1.91,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Doncic",
+                                "price": 1.83,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 1.77,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 2.0,
+                                "point": 4.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "Caesars",
+                "last_update": "2023-12-30T09:51:55Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-30T09:51:08Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 1.62,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 2.16,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luka Doncic",
+                                "price": 2.1,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Doncic",
+                                "price": 1.66,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Klay Thompson",
+                                "price": 1.52,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Klay Thompson",
+                                "price": 2.39,
+                                "point": 1.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-30T09:51:08Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Luka Doncic",
+                                "price": 1.81,
+                                "point": 36.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Doncic",
+                                "price": 1.9,
+                                "point": 36.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Klay Thompson",
+                                "price": 1.78,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Klay Thompson",
+                                "price": 1.94,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 1.93,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 1.79,
+                                "point": 28.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-30T09:51:08Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Klay Thompson",
+                                "price": 1.7,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Klay Thompson",
+                                "price": 2.04,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luka Doncic",
+                                "price": 1.85,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Doncic",
+                                "price": 1.85,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 1.9,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 1.81,
+                                "point": 4.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2023-12-30T09:53:44Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-30T09:51:14Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Luka Doncic",
+                                "price": 1.95,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Doncic",
+                                "price": 1.8,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 1.53,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 2.45,
+                                "point": 4.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-30T09:51:14Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Brandin Podziemski",
+                                "price": 1.74,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandin Podziemski",
+                                "price": 2.05,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jonathan Kuminga",
+                                "price": 1.87,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jonathan Kuminga",
+                                "price": 1.87,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Klay Thompson",
+                                "price": 1.91,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Klay Thompson",
+                                "price": 1.83,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 1.83,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 1.91,
+                                "point": 28.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-30T09:51:14Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Klay Thompson",
+                                "price": 1.77,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Klay Thompson",
+                                "price": 2.0,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luka Doncic",
+                                "price": 1.91,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Doncic",
+                                "price": 1.83,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 1.77,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 2.0,
+                                "point": 4.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betrivers",
+                "title": "BetRivers",
+                "last_update": "2023-12-30T09:55:05Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-30T09:51:26Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 1.64,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 2.18,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brandin Podziemski",
+                                "price": 1.54,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandin Podziemski",
+                                "price": 2.38,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brandin Podziemski",
+                                "price": 2.18,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandin Podziemski",
+                                "price": 1.64,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 2.35,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 1.55,
+                                "point": 5.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-30T09:51:26Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Klay Thompson",
+                                "price": 1.79,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Klay Thompson",
+                                "price": 1.95,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brandin Podziemski",
+                                "price": 2.43,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandin Podziemski",
+                                "price": 1.48,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jonathan Kuminga",
+                                "price": 2.55,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jonathan Kuminga",
+                                "price": 1.43,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 1.44,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 2.5,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 1.89,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 1.83,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jonathan Kuminga",
+                                "price": 1.85,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jonathan Kuminga",
+                                "price": 1.88,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brandin Podziemski",
+                                "price": 1.77,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandin Podziemski",
+                                "price": 1.97,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Klay Thompson",
+                                "price": 1.43,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Klay Thompson",
+                                "price": 2.5,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 1.57,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 2.23,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brandin Podziemski",
+                                "price": 1.33,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandin Podziemski",
+                                "price": 2.85,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jonathan Kuminga",
+                                "price": 1.4,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jonathan Kuminga",
+                                "price": 2.63,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brandin Podziemski",
+                                "price": 1.51,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandin Podziemski",
+                                "price": 2.33,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Klay Thompson",
+                                "price": 1.6,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Klay Thompson",
+                                "price": 2.2,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Klay Thompson",
+                                "price": 2.02,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Klay Thompson",
+                                "price": 1.74,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 2.88,
+                                "point": 32.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 1.33,
+                                "point": 32.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Klay Thompson",
+                                "price": 2.95,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Klay Thompson",
+                                "price": 1.3,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brandin Podziemski",
+                                "price": 2.07,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandin Podziemski",
+                                "price": 1.7,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brandin Podziemski",
+                                "price": 2.88,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandin Podziemski",
+                                "price": 1.33,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Klay Thompson",
+                                "price": 2.55,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Klay Thompson",
+                                "price": 1.42,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Klay Thompson",
+                                "price": 2.25,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Klay Thompson",
+                                "price": 1.56,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 2.55,
+                                "point": 31.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 1.42,
+                                "point": 31.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jonathan Kuminga",
+                                "price": 3.0,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jonathan Kuminga",
+                                "price": 1.29,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 2.3,
+                                "point": 30.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 1.54,
+                                "point": 30.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 1.34,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 2.8,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 2.1,
+                                "point": 29.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 1.68,
+                                "point": 29.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jonathan Kuminga",
+                                "price": 2.16,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jonathan Kuminga",
+                                "price": 1.63,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Klay Thompson",
+                                "price": 1.3,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Klay Thompson",
+                                "price": 2.95,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jonathan Kuminga",
+                                "price": 1.61,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jonathan Kuminga",
+                                "price": 2.2,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 1.73,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 2.04,
+                                "point": 27.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-30T09:51:26Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 1.89,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 1.83,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brandin Podziemski",
+                                "price": 2.14,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandin Podziemski",
+                                "price": 1.66,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jonathan Kuminga",
+                                "price": 1.66,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jonathan Kuminga",
+                                "price": 2.15,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Klay Thompson",
+                                "price": 1.87,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Klay Thompson",
+                                "price": 1.87,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jonathan Kuminga",
+                                "price": 2.38,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jonathan Kuminga",
+                                "price": 1.54,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brandin Podziemski",
+                                "price": 1.6,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandin Podziemski",
+                                "price": 2.25,
+                                "point": 5.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet_us",
+                "title": "Unibet",
+                "last_update": "2023-12-30T09:54:56Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-30T09:51:00Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 1.64,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 2.18,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brandin Podziemski",
+                                "price": 1.54,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandin Podziemski",
+                                "price": 2.38,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brandin Podziemski",
+                                "price": 2.18,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandin Podziemski",
+                                "price": 1.64,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 2.35,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 1.55,
+                                "point": 5.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-30T09:51:00Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Klay Thompson",
+                                "price": 1.79,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Klay Thompson",
+                                "price": 1.95,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brandin Podziemski",
+                                "price": 2.43,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandin Podziemski",
+                                "price": 1.48,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jonathan Kuminga",
+                                "price": 2.55,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jonathan Kuminga",
+                                "price": 1.43,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 1.44,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 2.5,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 1.89,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 1.83,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jonathan Kuminga",
+                                "price": 1.85,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jonathan Kuminga",
+                                "price": 1.88,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brandin Podziemski",
+                                "price": 1.77,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandin Podziemski",
+                                "price": 1.97,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Klay Thompson",
+                                "price": 1.43,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Klay Thompson",
+                                "price": 2.5,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 1.57,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 2.23,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brandin Podziemski",
+                                "price": 1.33,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandin Podziemski",
+                                "price": 2.85,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jonathan Kuminga",
+                                "price": 1.4,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jonathan Kuminga",
+                                "price": 2.63,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brandin Podziemski",
+                                "price": 1.51,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandin Podziemski",
+                                "price": 2.33,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Klay Thompson",
+                                "price": 1.6,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Klay Thompson",
+                                "price": 2.2,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Klay Thompson",
+                                "price": 2.02,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Klay Thompson",
+                                "price": 1.74,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 2.88,
+                                "point": 32.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 1.33,
+                                "point": 32.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Klay Thompson",
+                                "price": 2.95,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Klay Thompson",
+                                "price": 1.3,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brandin Podziemski",
+                                "price": 2.07,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandin Podziemski",
+                                "price": 1.7,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brandin Podziemski",
+                                "price": 2.88,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandin Podziemski",
+                                "price": 1.33,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Klay Thompson",
+                                "price": 2.55,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Klay Thompson",
+                                "price": 1.42,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Klay Thompson",
+                                "price": 2.25,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Klay Thompson",
+                                "price": 1.56,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 2.55,
+                                "point": 31.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 1.42,
+                                "point": 31.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jonathan Kuminga",
+                                "price": 3.0,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jonathan Kuminga",
+                                "price": 1.29,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 2.3,
+                                "point": 30.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 1.54,
+                                "point": 30.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 1.34,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 2.8,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 2.1,
+                                "point": 29.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 1.68,
+                                "point": 29.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jonathan Kuminga",
+                                "price": 2.16,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jonathan Kuminga",
+                                "price": 1.63,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Klay Thompson",
+                                "price": 1.3,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Klay Thompson",
+                                "price": 2.95,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jonathan Kuminga",
+                                "price": 1.61,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jonathan Kuminga",
+                                "price": 2.2,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 1.73,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 2.04,
+                                "point": 27.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-30T09:51:00Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 1.89,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 1.83,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brandin Podziemski",
+                                "price": 2.14,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandin Podziemski",
+                                "price": 1.66,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jonathan Kuminga",
+                                "price": 1.66,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jonathan Kuminga",
+                                "price": 2.15,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Klay Thompson",
+                                "price": 1.87,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Klay Thompson",
+                                "price": 1.87,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jonathan Kuminga",
+                                "price": 2.38,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jonathan Kuminga",
+                                "price": 1.54,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brandin Podziemski",
+                                "price": 1.6,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandin Podziemski",
+                                "price": 2.25,
+                                "point": 5.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

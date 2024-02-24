@@ -1,0 +1,1449 @@
+{
+    "timestamp": "2023-12-31T09:55:38Z",
+    "previous_timestamp": "2023-12-31T09:50:37Z",
+    "next_timestamp": "2023-12-31T10:00:38Z",
+    "data": {
+        "id": "13329da1fbc39b449e6836142193640c",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-01-01T00:10:00Z",
+        "home_team": "San Antonio Spurs",
+        "away_team": "Boston Celtics",
+        "bookmakers": [
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2023-12-31T09:54:10Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-31T09:51:00Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Devin Vassell",
+                                "price": 1.95,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Vassell",
+                                "price": 1.8,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.62,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 2.24,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.62,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 2.24,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jeremy Sochan",
+                                "price": 1.69,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jeremy Sochan",
+                                "price": 2.14,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malaki Branham",
+                                "price": 2.1,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malaki Branham",
+                                "price": 1.71,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Victor Wembanyama",
+                                "price": 1.6,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Victor Wembanyama",
+                                "price": 2.3,
+                                "point": 2.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-31T09:51:00Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Devin Vassell",
+                                "price": 1.83,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Vassell",
+                                "price": 1.91,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.95,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.8,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.77,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 2.0,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jeremy Sochan",
+                                "price": 1.77,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jeremy Sochan",
+                                "price": 2.0,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.95,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.8,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malaki Branham",
+                                "price": 1.91,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malaki Branham",
+                                "price": 1.83,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Victor Wembanyama",
+                                "price": 1.91,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Victor Wembanyama",
+                                "price": 1.83,
+                                "point": 16.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-31T09:51:00Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Devin Vassell",
+                                "price": 1.69,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Vassell",
+                                "price": 2.14,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.8,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.95,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.77,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 2.0,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jeremy Sochan",
+                                "price": 2.1,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jeremy Sochan",
+                                "price": 1.71,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.95,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.8,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malaki Branham",
+                                "price": 2.14,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malaki Branham",
+                                "price": 1.69,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Victor Wembanyama",
+                                "price": 1.71,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Victor Wembanyama",
+                                "price": 2.1,
+                                "point": 8.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2023-12-31T09:55:27Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-31T09:51:29Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jeremy Sochan",
+                                "price": 1.68,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jeremy Sochan",
+                                "price": 2.14,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.72,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 2.08,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.7,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 2.12,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Devin Vassell",
+                                "price": 1.98,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Vassell",
+                                "price": 1.8,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malaki Branham",
+                                "price": 2.14,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malaki Branham",
+                                "price": 1.68,
+                                "point": 3.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-31T09:51:29Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Devin Vassell",
+                                "price": 1.88,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Vassell",
+                                "price": 1.88,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Victor Wembanyama",
+                                "price": 1.83,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Victor Wembanyama",
+                                "price": 1.93,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malaki Branham",
+                                "price": 1.96,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malaki Branham",
+                                "price": 1.82,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.94,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.83,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jeremy Sochan",
+                                "price": 1.83,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jeremy Sochan",
+                                "price": 1.94,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.94,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.83,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.88,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.88,
+                                "point": 26.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-31T09:51:29Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jeremy Sochan",
+                                "price": 2.08,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jeremy Sochan",
+                                "price": 1.72,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Devin Vassell",
+                                "price": 1.76,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Vassell",
+                                "price": 2.04,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kristaps Porzingis",
+                                "price": 2.02,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.77,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.98,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.8,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.77,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 2.02,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Victor Wembanyama",
+                                "price": 1.83,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Victor Wembanyama",
+                                "price": 1.94,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malaki Branham",
+                                "price": 2.22,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malaki Branham",
+                                "price": 1.64,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetus",
+                "title": "PointsBet (US)",
+                "last_update": "2023-12-31T09:54:05Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-31T09:52:19Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Devin Vassell",
+                                "price": 1.91,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Vassell",
+                                "price": 1.83,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.62,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 2.2,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 2.2,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.62,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jeremy Sochan",
+                                "price": 1.67,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jeremy Sochan",
+                                "price": 2.15,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malaki Branham",
+                                "price": 2.1,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malaki Branham",
+                                "price": 1.69,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Victor Wembanyama",
+                                "price": 1.62,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Victor Wembanyama",
+                                "price": 2.2,
+                                "point": 2.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-31T09:52:19Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Devin Vassell",
+                                "price": 1.83,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Vassell",
+                                "price": 1.91,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.95,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.8,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.91,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.83,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jeremy Sochan",
+                                "price": 1.77,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jeremy Sochan",
+                                "price": 2.0,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.91,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.83,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malaki Branham",
+                                "price": 1.95,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malaki Branham",
+                                "price": 1.8,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Victor Wembanyama",
+                                "price": 1.87,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Victor Wembanyama",
+                                "price": 1.87,
+                                "point": 16.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-31T09:52:19Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Devin Vassell",
+                                "price": 1.69,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Vassell",
+                                "price": 2.1,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.83,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.91,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.77,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 2.0,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jeremy Sochan",
+                                "price": 2.15,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jeremy Sochan",
+                                "price": 1.67,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.95,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.8,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malaki Branham",
+                                "price": 2.05,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malaki Branham",
+                                "price": 1.71,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Victor Wembanyama",
+                                "price": 1.77,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Victor Wembanyama",
+                                "price": 2.0,
+                                "point": 8.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2023-12-31T09:54:42Z",
+                "markets": [
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-31T09:53:23Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Devin Vassell",
+                                "price": 1.87,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Vassell",
+                                "price": 1.87,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.91,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.83,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.87,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.87,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jeremy Sochan",
+                                "price": 1.83,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jeremy Sochan",
+                                "price": 1.91,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.91,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.83,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malaki Branham",
+                                "price": 2.05,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malaki Branham",
+                                "price": 1.74,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Wembanyama Victor",
+                                "price": 1.83,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Wembanyama Victor",
+                                "price": 1.91,
+                                "point": 16.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "Caesars",
+                "last_update": "2023-12-31T09:53:57Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-31T09:53:07Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.64,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kristaps Porzingis",
+                                "price": 2.14,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malaki Branham",
+                                "price": 2.02,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malaki Branham",
+                                "price": 1.72,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Victor Wembanyama",
+                                "price": 1.68,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Victor Wembanyama",
+                                "price": 2.08,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Devin Vassell",
+                                "price": 1.87,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Vassell",
+                                "price": 1.84,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.7,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 2.04,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jeremy Sochan",
+                                "price": 1.68,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jeremy Sochan",
+                                "price": 2.08,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.72,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 2.02,
+                                "point": 4.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-31T09:53:07Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Victor Wembanyama",
+                                "price": 1.94,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Victor Wembanyama",
+                                "price": 1.78,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.88,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.83,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Devin Vassell",
+                                "price": 1.78,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Vassell",
+                                "price": 1.94,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malaki Branham",
+                                "price": 1.93,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malaki Branham",
+                                "price": 1.79,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.93,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.79,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jeremy Sochan",
+                                "price": 1.74,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jeremy Sochan",
+                                "price": 1.99,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.9,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.81,
+                                "point": 23.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-31T09:53:07Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Victor Wembanyama",
+                                "price": 1.81,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Victor Wembanyama",
+                                "price": 1.9,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malaki Branham",
+                                "price": 2.12,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malaki Branham",
+                                "price": 1.65,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Devin Vassell",
+                                "price": 1.65,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Vassell",
+                                "price": 2.12,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jeremy Sochan",
+                                "price": 2.04,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jeremy Sochan",
+                                "price": 1.7,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.78,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.94,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.92,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.8,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.99,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.74,
+                                "point": 8.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": "2023-12-31T09:55:11Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-31T09:52:46Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.71,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 2.05,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.71,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 2.05,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.65,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kristaps Porzingis",
+                                "price": 2.15,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Devin Vassell",
+                                "price": 1.91,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Vassell",
+                                "price": 1.83,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Victor Wembanyama",
+                                "price": 1.69,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Victor Wembanyama",
+                                "price": 2.1,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malaki Branham",
+                                "price": 2.05,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malaki Branham",
+                                "price": 1.71,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jeremy Sochan",
+                                "price": 1.67,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jeremy Sochan",
+                                "price": 2.15,
+                                "point": 3.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-31T09:52:46Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.91,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.83,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.91,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.83,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.95,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.8,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Devin Vassell",
+                                "price": 1.8,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Vassell",
+                                "price": 1.95,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Victor Wembanyama",
+                                "price": 1.91,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Victor Wembanyama",
+                                "price": 1.83,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malaki Branham",
+                                "price": 1.95,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malaki Branham",
+                                "price": 1.77,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jeremy Sochan",
+                                "price": 1.77,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jeremy Sochan",
+                                "price": 1.95,
+                                "point": 10.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-31T09:52:46Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 2.0,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.77,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.77,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.95,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.95,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.77,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Devin Vassell",
+                                "price": 1.67,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Vassell",
+                                "price": 2.1,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Victor Wembanyama",
+                                "price": 1.87,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Victor Wembanyama",
+                                "price": 1.87,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malaki Branham",
+                                "price": 2.15,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malaki Branham",
+                                "price": 1.67,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jeremy Sochan",
+                                "price": 2.05,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jeremy Sochan",
+                                "price": 1.69,
+                                "point": 6.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

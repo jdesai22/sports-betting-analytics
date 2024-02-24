@@ -1,0 +1,1841 @@
+{
+    "timestamp": "2023-12-23T09:55:38Z",
+    "previous_timestamp": "2023-12-23T09:50:38Z",
+    "next_timestamp": "2023-12-23T10:00:38Z",
+    "data": {
+        "id": "7aaf61a8dbb7ae246e37efbd16ff5b86",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2023-12-23T20:40:00Z",
+        "home_team": "Los Angeles Clippers",
+        "away_team": "Boston Celtics",
+        "bookmakers": [
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2023-12-23T09:54:21Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-23T09:51:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.62,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 2.24,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.6,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 2.3,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 2.3,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.6,
+                                "point": 3.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-23T09:51:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.8,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.95,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.71,
+                                "point": 29.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 2.1,
+                                "point": 29.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.95,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.8,
+                                "point": 27.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-23T09:51:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.6,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 2.3,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 2.05,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.74,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.8,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.95,
+                                "point": 6.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2023-12-23T09:54:54Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-23T09:55:42Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.62,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 2.26,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 2.16,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.68,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 2.08,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.72,
+                                "point": 3.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-23T09:55:42Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.8,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.98,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.82,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.96,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.82,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.96,
+                                "point": 28.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-23T09:55:42Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.74,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 2.06,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.88,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.88,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.72,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 2.08,
+                                "point": 8.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "mybookieag",
+                "title": "MyBookie.ag",
+                "last_update": "2023-12-23T09:54:21Z",
+                "markets": [
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-23T09:52:32Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.67,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.95,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 2.3,
+                                "point": 29.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 2.75,
+                                "point": 31.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 3.45,
+                                "point": 33.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 4.5,
+                                "point": 35.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 5.75,
+                                "point": 37.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 7.75,
+                                "point": 39.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 10.5,
+                                "point": 41.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.53,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.8,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 2.1,
+                                "point": 30.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 2.55,
+                                "point": 32.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 3.15,
+                                "point": 34.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 4.0,
+                                "point": 36.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 5.25,
+                                "point": 38.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 7.0,
+                                "point": 40.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 9.5,
+                                "point": 42.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.62,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.95,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 2.35,
+                                "point": 29.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 3.0,
+                                "point": 31.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 3.85,
+                                "point": 33.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 5.25,
+                                "point": 35.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 7.5,
+                                "point": 37.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 11.0,
+                                "point": 39.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 17.0,
+                                "point": 41.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": "2023-12-23T09:53:38Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-23T09:51:35Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 2.3,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.57,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.67,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 2.15,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.61,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 2.25,
+                                "point": 3.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-23T09:51:35Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.95,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.8,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.8,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.95,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.83,
+                                "point": 29.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.91,
+                                "point": 29.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-23T09:51:35Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.77,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.95,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.69,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 2.05,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 2.05,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.71,
+                                "point": 9.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetus",
+                "title": "PointsBet (US)",
+                "last_update": "2023-12-23T09:54:45Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-23T09:51:49Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.61,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 2.25,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.59,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 2.3,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 2.25,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.61,
+                                "point": 3.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-23T09:51:49Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.83,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.91,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.87,
+                                "point": 30.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.87,
+                                "point": 30.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.91,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.83,
+                                "point": 27.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-23T09:51:49Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 2.15,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.67,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 2.05,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.71,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.8,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.95,
+                                "point": 6.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2023-12-23T09:54:31Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-23T09:55:07Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.62,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 2.2,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.59,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 2.3,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 2.3,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.59,
+                                "point": 3.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-23T09:55:07Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.8,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.95,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.74,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 2.05,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.74,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 2.05,
+                                "point": 26.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-23T09:55:07Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.59,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 2.3,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 2.05,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.74,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.8,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.95,
+                                "point": 6.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet_us",
+                "title": "Unibet",
+                "last_update": "2023-12-23T09:54:38Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-23T09:52:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.61,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 2.23,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 2.04,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.73,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 2.16,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.65,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.5,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 2.48,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 2.4,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.53,
+                                "point": 4.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-23T09:52:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.83,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.92,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.53,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 2.32,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.85,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.88,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.83,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.91,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 2.02,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.73,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 2.45,
+                                "point": 31.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.47,
+                                "point": 31.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.7,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 2.08,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.65,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 2.14,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 2.23,
+                                "point": 30.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.57,
+                                "point": 30.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 2.75,
+                                "point": 32.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.36,
+                                "point": 32.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 2.06,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.7,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.32,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 2.95,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 2.02,
+                                "point": 29.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.74,
+                                "point": 29.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.49,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 2.38,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.36,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 2.7,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 2.5,
+                                "point": 29.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.43,
+                                "point": 29.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 2.9,
+                                "point": 30.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.32,
+                                "point": 30.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.68,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 2.1,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 2.55,
+                                "point": 29.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.42,
+                                "point": 29.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 2.25,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.56,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.3,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 3.0,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 2.28,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.55,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.41,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 2.6,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.41,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 2.6,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 3.1,
+                                "point": 33.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.28,
+                                "point": 33.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 2.85,
+                                "point": 30.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.33,
+                                "point": 30.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.54,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 2.3,
+                                "point": 24.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-23T09:52:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.71,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 2.06,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.87,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.87,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.75,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 2.0,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 2.6,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.45,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 2.2,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.62,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.43,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 2.7,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 2.45,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.51,
+                                "point": 6.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betrivers",
+                "title": "BetRivers",
+                "last_update": "2023-12-23T09:55:00Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-23T09:52:45Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.61,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 2.23,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 2.04,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.73,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 2.16,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.65,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.5,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 2.48,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 2.4,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.53,
+                                "point": 4.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-23T09:52:45Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.83,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.92,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.53,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 2.32,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.85,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.88,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.83,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.91,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 2.02,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.73,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 2.45,
+                                "point": 31.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.47,
+                                "point": 31.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.7,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 2.08,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.65,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 2.14,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 2.23,
+                                "point": 30.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.57,
+                                "point": 30.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 2.75,
+                                "point": 32.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.36,
+                                "point": 32.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 2.06,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.7,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.32,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 2.95,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 2.02,
+                                "point": 29.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.74,
+                                "point": 29.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.49,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 2.38,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.36,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 2.7,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 2.5,
+                                "point": 29.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.43,
+                                "point": 29.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 2.9,
+                                "point": 30.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.32,
+                                "point": 30.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.68,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 2.1,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 2.55,
+                                "point": 29.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.42,
+                                "point": 29.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 2.25,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.56,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.3,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 3.0,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 2.28,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.55,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.41,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 2.6,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.41,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 2.6,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 3.1,
+                                "point": 33.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.28,
+                                "point": 33.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 2.85,
+                                "point": 30.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.33,
+                                "point": 30.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.54,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 2.3,
+                                "point": 24.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-23T09:52:45Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.71,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 2.06,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.87,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.87,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.75,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 2.0,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 2.6,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.45,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 2.2,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.62,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.43,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 2.7,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 2.45,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.51,
+                                "point": 6.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

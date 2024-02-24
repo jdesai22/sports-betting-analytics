@@ -1,0 +1,692 @@
+{
+    "timestamp": "2023-12-29T09:55:38Z",
+    "previous_timestamp": "2023-12-29T09:50:38Z",
+    "next_timestamp": "2023-12-29T10:00:39Z",
+    "data": {
+        "id": "109ec3b34be7091714ef54c9f68bfb16",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2023-12-30T02:10:00Z",
+        "home_team": "Phoenix Suns",
+        "away_team": "Charlotte Hornets",
+        "bookmakers": [
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2023-12-29T09:53:48Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-29T09:52:08Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Devin Booker",
+                                "price": 2.0,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Booker",
+                                "price": 1.77,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.57,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jusuf Nurkic",
+                                "price": 2.35,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kevin Durant",
+                                "price": 2.14,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Durant",
+                                "price": 1.69,
+                                "point": 6.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-29T09:52:08Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Devin Booker",
+                                "price": 1.83,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Booker",
+                                "price": 1.91,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jusuf Nurkic",
+                                "price": 2.0,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.77,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kevin Durant",
+                                "price": 1.95,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Durant",
+                                "price": 1.8,
+                                "point": 27.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-29T09:52:08Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Devin Booker",
+                                "price": 1.71,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Booker",
+                                "price": 2.1,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jusuf Nurkic",
+                                "price": 2.0,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.77,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kevin Durant",
+                                "price": 1.71,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Durant",
+                                "price": 2.1,
+                                "point": 6.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2023-12-29T09:53:35Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-29T09:47:39Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Terry Rozier",
+                                "price": 1.65,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terry Rozier",
+                                "price": 2.2,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Miles Bridges",
+                                "price": 2.24,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Miles Bridges",
+                                "price": 1.63,
+                                "point": 3.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-29T09:47:39Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Nick Richards",
+                                "price": 1.96,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nick Richards",
+                                "price": 1.82,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brandon Miller",
+                                "price": 1.94,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandon Miller",
+                                "price": 1.83,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terry Rozier",
+                                "price": 1.87,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terry Rozier",
+                                "price": 1.9,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Miles Bridges",
+                                "price": 1.8,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Miles Bridges",
+                                "price": 1.98,
+                                "point": 19.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-29T09:47:39Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Terry Rozier",
+                                "price": 1.65,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terry Rozier",
+                                "price": 2.2,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nick Richards",
+                                "price": 1.74,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nick Richards",
+                                "price": 2.06,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brandon Miller",
+                                "price": 1.96,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandon Miller",
+                                "price": 1.82,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Miles Bridges",
+                                "price": 1.82,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Miles Bridges",
+                                "price": 1.96,
+                                "point": 6.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": "2023-12-29T09:54:27Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-29T09:55:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Devin Booker",
+                                "price": 2.0,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Booker",
+                                "price": 1.74,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kevin Durant",
+                                "price": 2.1,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Durant",
+                                "price": 1.67,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.57,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jusuf Nurkic",
+                                "price": 2.3,
+                                "point": 2.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-29T09:55:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Devin Booker",
+                                "price": 1.8,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Booker",
+                                "price": 1.91,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kevin Durant",
+                                "price": 1.95,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Durant",
+                                "price": 1.77,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.95,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.77,
+                                "point": 13.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-29T09:55:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Devin Booker",
+                                "price": 1.69,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Booker",
+                                "price": 2.1,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kevin Durant",
+                                "price": 1.69,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Durant",
+                                "price": 2.1,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jusuf Nurkic",
+                                "price": 2.0,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.74,
+                                "point": 11.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetus",
+                "title": "PointsBet (US)",
+                "last_update": "2023-12-29T09:54:20Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-29T09:55:01Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Devin Booker",
+                                "price": 1.91,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Booker",
+                                "price": 1.83,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.59,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jusuf Nurkic",
+                                "price": 2.3,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kevin Durant",
+                                "price": 2.1,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Durant",
+                                "price": 1.69,
+                                "point": 6.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-29T09:55:01Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Devin Booker",
+                                "price": 1.87,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Booker",
+                                "price": 1.87,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.95,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.8,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kevin Durant",
+                                "price": 1.91,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Durant",
+                                "price": 1.83,
+                                "point": 27.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-29T09:55:01Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Devin Booker",
+                                "price": 1.71,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Booker",
+                                "price": 2.05,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.95,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.8,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kevin Durant",
+                                "price": 1.67,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Durant",
+                                "price": 2.15,
+                                "point": 6.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "Caesars",
+                "last_update": "2023-12-29T09:53:52Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-29T09:54:58Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.56,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jusuf Nurkic",
+                                "price": 2.29,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kevin Durant",
+                                "price": 2.08,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Durant",
+                                "price": 1.68,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Devin Booker",
+                                "price": 2.0,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Booker",
+                                "price": 1.73,
+                                "point": 7.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-29T09:54:58Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Kevin Durant",
+                                "price": 1.94,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Durant",
+                                "price": 1.78,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.96,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.76,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Devin Booker",
+                                "price": 1.8,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Booker",
+                                "price": 1.92,
+                                "point": 26.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-29T09:54:58Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.99,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.74,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Devin Booker",
+                                "price": 1.69,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Booker",
+                                "price": 2.06,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kevin Durant",
+                                "price": 1.72,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Durant",
+                                "price": 2.02,
+                                "point": 6.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,2332 @@
+{
+    "timestamp": "2023-12-20T09:55:38Z",
+    "previous_timestamp": "2023-12-20T09:50:38Z",
+    "next_timestamp": "2023-12-20T10:00:38Z",
+    "data": {
+        "id": "0ca70c18620103621f608ad09a3df481",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2023-12-21T00:10:00Z",
+        "home_team": "Philadelphia 76ers",
+        "away_team": "Minnesota Timberwolves",
+        "bookmakers": [
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2023-12-20T09:54:36Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-20T09:55:11Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Anthony Edwards",
+                                "price": 1.71,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Edwards",
+                                "price": 2.1,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 2.0,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.77,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Karl-Anthony Towns",
+                                "price": 1.95,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Karl-Anthony Towns",
+                                "price": 1.8,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mike Conley",
+                                "price": 2.2,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mike Conley",
+                                "price": 1.67,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 1.91,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.83,
+                                "point": 6.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_blocks",
+                        "last_update": "2023-12-20T09:55:11Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Anthony Edwards",
+                                "price": 2.14,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Edwards",
+                                "price": 1.69,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.6,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 2.3,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Karl-Anthony Towns",
+                                "price": 2.05,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Karl-Anthony Towns",
+                                "price": 1.74,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mike Conley",
+                                "price": 7.5,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mike Conley",
+                                "price": 1.09,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Rudy Gobert",
+                                "price": 2.4,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Rudy Gobert",
+                                "price": 1.56,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 2.9,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.4,
+                                "point": 0.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-20T09:55:11Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Anthony Edwards",
+                                "price": 1.8,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Edwards",
+                                "price": 1.95,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.69,
+                                "point": 33.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 2.14,
+                                "point": 33.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Karl-Anthony Towns",
+                                "price": 1.69,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Karl-Anthony Towns",
+                                "price": 2.14,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mike Conley",
+                                "price": 1.95,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mike Conley",
+                                "price": 1.8,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Rudy Gobert",
+                                "price": 1.91,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Rudy Gobert",
+                                "price": 1.83,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 1.83,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.91,
+                                "point": 24.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-20T09:55:11Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Anthony Edwards",
+                                "price": 1.69,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Edwards",
+                                "price": 2.14,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.77,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 2.0,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Karl-Anthony Towns",
+                                "price": 1.83,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Karl-Anthony Towns",
+                                "price": 1.91,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mike Conley",
+                                "price": 2.05,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mike Conley",
+                                "price": 1.74,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Rudy Gobert",
+                                "price": 2.05,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Rudy Gobert",
+                                "price": 1.74,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 2.0,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.77,
+                                "point": 3.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_steals",
+                        "last_update": "2023-12-20T09:55:11Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Anthony Edwards",
+                                "price": 2.2,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Edwards",
+                                "price": 1.67,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 2.7,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.45,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Karl-Anthony Towns",
+                                "price": 1.77,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Karl-Anthony Towns",
+                                "price": 2.0,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mike Conley",
+                                "price": 1.6,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mike Conley",
+                                "price": 2.3,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Rudy Gobert",
+                                "price": 1.95,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Rudy Gobert",
+                                "price": 1.8,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 1.42,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 2.8,
+                                "point": 0.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betonlineag",
+                "title": "BetOnline.ag",
+                "last_update": "2023-12-20T09:54:36Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-20T09:54:35Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Karl-Anthony Towns",
+                                "price": 2.04,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Karl-Anthony Towns",
+                                "price": 1.74,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.99,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.78,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 1.94,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.82,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Anthony Edwards",
+                                "price": 1.74,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Edwards",
+                                "price": 2.05,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mike Conley",
+                                "price": 2.22,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mike Conley",
+                                "price": 1.63,
+                                "point": 6.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-20T09:54:35Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 1.91,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.85,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Rudy Gobert",
+                                "price": 1.92,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Rudy Gobert",
+                                "price": 1.84,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.82,
+                                "point": 33.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.94,
+                                "point": 33.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Anthony Edwards",
+                                "price": 1.89,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Edwards",
+                                "price": 1.87,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mike Conley",
+                                "price": 1.98,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mike Conley",
+                                "price": 1.79,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Karl-Anthony Towns",
+                                "price": 1.97,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Karl-Anthony Towns",
+                                "price": 1.8,
+                                "point": 20.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-20T09:54:35Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.77,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 2.01,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Karl-Anthony Towns",
+                                "price": 1.88,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Karl-Anthony Towns",
+                                "price": 1.88,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Anthony Edwards",
+                                "price": 1.77,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Edwards",
+                                "price": 2.0,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 2.02,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.76,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mike Conley",
+                                "price": 2.07,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mike Conley",
+                                "price": 1.72,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Rudy Gobert",
+                                "price": 1.77,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Rudy Gobert",
+                                "price": 2.0,
+                                "point": 10.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetus",
+                "title": "PointsBet (US)",
+                "last_update": "2023-12-20T09:54:29Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-20T09:54:45Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Anthony Edwards",
+                                "price": 1.77,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Edwards",
+                                "price": 2.0,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.95,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.8,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Karl-Anthony Towns",
+                                "price": 1.95,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Karl-Anthony Towns",
+                                "price": 1.8,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mike Conley",
+                                "price": 1.62,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mike Conley",
+                                "price": 2.2,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 1.87,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.87,
+                                "point": 6.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_blocks",
+                        "last_update": "2023-12-20T09:54:45Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.59,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 2.3,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 2.85,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.4,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mike Conley",
+                                "price": 6.5,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mike Conley",
+                                "price": 1.1,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Anthony Edwards",
+                                "price": 2.05,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Edwards",
+                                "price": 1.71,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Rudy Gobert",
+                                "price": 2.4,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Rudy Gobert",
+                                "price": 1.56,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Karl-Anthony Towns",
+                                "price": 2.05,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Karl-Anthony Towns",
+                                "price": 1.71,
+                                "point": 0.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-20T09:54:45Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Anthony Edwards",
+                                "price": 1.87,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Edwards",
+                                "price": 1.87,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.87,
+                                "point": 33.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.87,
+                                "point": 33.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Karl-Anthony Towns",
+                                "price": 1.87,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Karl-Anthony Towns",
+                                "price": 1.87,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mike Conley",
+                                "price": 1.91,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mike Conley",
+                                "price": 1.83,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Rudy Gobert",
+                                "price": 1.87,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Rudy Gobert",
+                                "price": 1.87,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 1.87,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.87,
+                                "point": 24.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-20T09:54:45Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Anthony Edwards",
+                                "price": 1.71,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Edwards",
+                                "price": 2.05,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.71,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 2.05,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Karl-Anthony Towns",
+                                "price": 1.87,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Karl-Anthony Towns",
+                                "price": 1.87,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mike Conley",
+                                "price": 2.05,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mike Conley",
+                                "price": 1.71,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Rudy Gobert",
+                                "price": 2.05,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Rudy Gobert",
+                                "price": 1.71,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 2.0,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.77,
+                                "point": 3.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_steals",
+                        "last_update": "2023-12-20T09:54:45Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 2.65,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.44,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 1.42,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 2.75,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mike Conley",
+                                "price": 1.61,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mike Conley",
+                                "price": 2.25,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Anthony Edwards",
+                                "price": 2.15,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Edwards",
+                                "price": 1.67,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Rudy Gobert",
+                                "price": 1.91,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Rudy Gobert",
+                                "price": 1.83,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Karl-Anthony Towns",
+                                "price": 1.77,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Karl-Anthony Towns",
+                                "price": 2.0,
+                                "point": 0.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "Caesars",
+                "last_update": "2023-12-20T09:54:54Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-20T09:51:49Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Rudy Gobert",
+                                "price": 2.52,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Rudy Gobert",
+                                "price": 1.47,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Karl-Anthony Towns",
+                                "price": 2.23,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Karl-Anthony Towns",
+                                "price": 1.59,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mike Conley",
+                                "price": 2.14,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mike Conley",
+                                "price": 1.64,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Anthony Edwards",
+                                "price": 1.69,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Edwards",
+                                "price": 2.06,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 1.85,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.85,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.97,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.75,
+                                "point": 5.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_blocks",
+                        "last_update": "2023-12-20T09:51:49Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Karl-Anthony Towns",
+                                "price": 2.04,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Karl-Anthony Towns",
+                                "price": 1.7,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.61,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 2.18,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Rudy Gobert",
+                                "price": 2.36,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Rudy Gobert",
+                                "price": 1.53,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Anthony Edwards",
+                                "price": 2.1,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Edwards",
+                                "price": 1.66,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mike Conley",
+                                "price": 6.48,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mike Conley",
+                                "price": 1.08,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 2.84,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.38,
+                                "point": 0.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-20T09:51:49Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 1.94,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.78,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Anthony Edwards",
+                                "price": 1.93,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Edwards",
+                                "price": 1.79,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.79,
+                                "point": 33.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.93,
+                                "point": 33.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Rudy Gobert",
+                                "price": 1.88,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Rudy Gobert",
+                                "price": 1.83,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Karl-Anthony Towns",
+                                "price": 1.84,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Karl-Anthony Towns",
+                                "price": 1.87,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mike Conley",
+                                "price": 1.96,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mike Conley",
+                                "price": 1.76,
+                                "point": 11.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-20T09:51:49Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 1.99,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.74,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Rudy Gobert",
+                                "price": 1.99,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Rudy Gobert",
+                                "price": 1.74,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Anthony Edwards",
+                                "price": 1.74,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Edwards",
+                                "price": 1.99,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.72,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 2.02,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Karl-Anthony Towns",
+                                "price": 2.04,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Karl-Anthony Towns",
+                                "price": 1.7,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mike Conley",
+                                "price": 2.02,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mike Conley",
+                                "price": 1.72,
+                                "point": 2.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_steals",
+                        "last_update": "2023-12-20T09:51:49Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Karl-Anthony Towns",
+                                "price": 1.74,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Karl-Anthony Towns",
+                                "price": 1.99,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Anthony Edwards",
+                                "price": 2.12,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Edwards",
+                                "price": 1.65,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Rudy Gobert",
+                                "price": 1.92,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Rudy Gobert",
+                                "price": 1.8,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mike Conley",
+                                "price": 1.61,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mike Conley",
+                                "price": 2.18,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 2.59,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.45,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 1.43,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 2.65,
+                                "point": 0.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2023-12-20T09:54:16Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-20T09:52:10Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Karl-Anthony Towns",
+                                "price": 2.02,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Karl-Anthony Towns",
+                                "price": 1.77,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mike Conley",
+                                "price": 2.12,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mike Conley",
+                                "price": 1.7,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 1.87,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.9,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Anthony Edwards",
+                                "price": 1.77,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Edwards",
+                                "price": 2.02,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.94,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.83,
+                                "point": 5.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-20T09:52:10Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Mike Conley",
+                                "price": 1.96,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mike Conley",
+                                "price": 1.82,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Karl-Anthony Towns",
+                                "price": 1.9,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Karl-Anthony Towns",
+                                "price": 1.87,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Rudy Gobert",
+                                "price": 1.88,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Rudy Gobert",
+                                "price": 1.88,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 1.88,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.88,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.85,
+                                "point": 33.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.93,
+                                "point": 33.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Anthony Edwards",
+                                "price": 1.88,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Edwards",
+                                "price": 1.88,
+                                "point": 26.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-20T09:52:10Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.87,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.9,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Karl-Anthony Towns",
+                                "price": 1.88,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Karl-Anthony Towns",
+                                "price": 1.88,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Rudy Gobert",
+                                "price": 1.96,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Rudy Gobert",
+                                "price": 1.82,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 2.02,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.77,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Anthony Edwards",
+                                "price": 1.71,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Edwards",
+                                "price": 2.1,
+                                "point": 4.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2023-12-20T09:54:02Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-20T09:53:08Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Karl-Anthony Towns Jr.",
+                                "price": 1.95,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Karl-Anthony Towns Jr.",
+                                "price": 1.8,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mike Conley",
+                                "price": 2.2,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mike Conley",
+                                "price": 1.62,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 1.95,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.8,
+                                "point": 6.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_blocks",
+                        "last_update": "2023-12-20T09:53:08Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Anthony Edwards",
+                                "price": 2.15,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Edwards",
+                                "price": 1.67,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.61,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 2.25,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Karl-Anthony Towns Jr.",
+                                "price": 2.0,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Karl-Anthony Towns Jr.",
+                                "price": 1.77,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mike Conley Jr.",
+                                "price": 7.0,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mike Conley Jr.",
+                                "price": 1.08,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Rudy Gobert",
+                                "price": 2.4,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Rudy Gobert",
+                                "price": 1.54,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 3.0,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.36,
+                                "point": 0.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-20T09:53:08Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Anthony Edwards",
+                                "price": 1.87,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Edwards",
+                                "price": 1.87,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.83,
+                                "point": 33.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.91,
+                                "point": 33.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Karl-Anthony Towns Jr.",
+                                "price": 1.91,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Karl-Anthony Towns Jr.",
+                                "price": 1.83,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mike Conley Jr.",
+                                "price": 2.05,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mike Conley Jr.",
+                                "price": 1.74,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Rudy Gobert",
+                                "price": 1.87,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Rudy Gobert",
+                                "price": 1.87,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 1.87,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.87,
+                                "point": 24.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-20T09:53:08Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Anthony Edwards",
+                                "price": 1.69,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Edwards",
+                                "price": 2.1,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.77,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Karl-Anthony Towns",
+                                "price": 1.87,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Karl-Anthony Towns",
+                                "price": 1.87,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Rudy Gobert",
+                                "price": 2.05,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Rudy Gobert",
+                                "price": 1.74,
+                                "point": 11.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_steals",
+                        "last_update": "2023-12-20T09:53:08Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Anthony Edwards",
+                                "price": 2.15,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Edwards",
+                                "price": 1.67,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 2.7,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.43,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Karl-Anthony Towns Jr.",
+                                "price": 1.77,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Karl-Anthony Towns Jr.",
+                                "price": 2.0,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mike Conley Jr.",
+                                "price": 1.59,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mike Conley Jr.",
+                                "price": 2.3,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Rudy Gobert",
+                                "price": 1.95,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Rudy Gobert",
+                                "price": 1.8,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 1.42,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 2.75,
+                                "point": 0.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": "2023-12-20T09:55:22Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-20T09:53:55Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 2.0,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.74,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mike Conley Jr.",
+                                "price": 2.15,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mike Conley Jr.",
+                                "price": 1.65,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Karl-Anthony Towns",
+                                "price": 2.15,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Karl-Anthony Towns",
+                                "price": 1.65,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 1.87,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.87,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Anthony Edwards",
+                                "price": 1.71,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Edwards",
+                                "price": 2.05,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Rudy Gobert",
+                                "price": 2.6,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Rudy Gobert",
+                                "price": 1.44,
+                                "point": 1.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_blocks",
+                        "last_update": "2023-12-20T09:53:55Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.61,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 2.25,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mike Conley Jr.",
+                                "price": 7.25,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mike Conley Jr.",
+                                "price": 1.07,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Karl-Anthony Towns",
+                                "price": 2.0,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Karl-Anthony Towns",
+                                "price": 1.74,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 2.95,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.36,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Anthony Edwards",
+                                "price": 2.15,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Edwards",
+                                "price": 1.65,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Rudy Gobert",
+                                "price": 2.4,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Rudy Gobert",
+                                "price": 1.53,
+                                "point": 2.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-20T09:53:55Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.83,
+                                "point": 33.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.91,
+                                "point": 33.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mike Conley Jr.",
+                                "price": 1.95,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mike Conley Jr.",
+                                "price": 1.77,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Karl-Anthony Towns",
+                                "price": 1.83,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Karl-Anthony Towns",
+                                "price": 1.91,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 1.95,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.8,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Anthony Edwards",
+                                "price": 1.91,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Edwards",
+                                "price": 1.83,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Rudy Gobert",
+                                "price": 1.91,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Rudy Gobert",
+                                "price": 1.83,
+                                "point": 11.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-20T09:53:55Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.71,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 2.05,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mike Conley Jr.",
+                                "price": 2.05,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mike Conley Jr.",
+                                "price": 1.71,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 2.0,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.74,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Rudy Gobert",
+                                "price": 2.05,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Rudy Gobert",
+                                "price": 1.71,
+                                "point": 11.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_steals",
+                        "last_update": "2023-12-20T09:53:55Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 2.7,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.4,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mike Conley Jr.",
+                                "price": 1.57,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mike Conley Jr.",
+                                "price": 2.3,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Karl-Anthony Towns",
+                                "price": 1.74,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Karl-Anthony Towns",
+                                "price": 2.0,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 1.4,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 2.75,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Anthony Edwards",
+                                "price": 2.15,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Edwards",
+                                "price": 1.65,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Rudy Gobert",
+                                "price": 1.95,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Rudy Gobert",
+                                "price": 1.8,
+                                "point": 0.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

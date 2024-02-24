@@ -1,0 +1,801 @@
+{
+    "timestamp": "2023-12-28T09:55:38Z",
+    "previous_timestamp": "2023-12-28T09:50:38Z",
+    "next_timestamp": "2023-12-28T10:00:38Z",
+    "data": {
+        "id": "0a25fa87e6a970c44bd5770e4b54440f",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2023-12-29T00:40:00Z",
+        "home_team": "Boston Celtics",
+        "away_team": "Detroit Pistons",
+        "bookmakers": [
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2023-12-28T09:55:08Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-28T09:51:30Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 2.2,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.67,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cade Cunningham",
+                                "price": 1.87,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cade Cunningham",
+                                "price": 1.87,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 2.0,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.77,
+                                "point": 4.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-28T09:51:30Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.83,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.91,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cade Cunningham",
+                                "price": 1.8,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cade Cunningham",
+                                "price": 1.95,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.71,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 2.1,
+                                "point": 27.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-28T09:51:30Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.6,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 2.3,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cade Cunningham",
+                                "price": 1.62,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cade Cunningham",
+                                "price": 2.24,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.77,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 2.0,
+                                "point": 8.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2023-12-28T09:54:28Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-28T09:51:38Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 2.08,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.72,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cade Cunningham",
+                                "price": 2.0,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cade Cunningham",
+                                "price": 1.78,
+                                "point": 6.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-28T09:51:38Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Cade Cunningham",
+                                "price": 1.9,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cade Cunningham",
+                                "price": 1.87,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.87,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.9,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.9,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.87,
+                                "point": 28.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-28T09:51:38Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.59,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 2.32,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.88,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.88,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cade Cunningham",
+                                "price": 1.67,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cade Cunningham",
+                                "price": 2.18,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2023-12-28T09:54:56Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-28T09:53:06Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 2.15,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.67,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cade Cunningham",
+                                "price": 1.87,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cade Cunningham",
+                                "price": 1.87,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 2.0,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.77,
+                                "point": 4.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-28T09:53:06Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.87,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.87,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cade Cunningham",
+                                "price": 1.87,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cade Cunningham",
+                                "price": 1.87,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.91,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.83,
+                                "point": 28.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-28T09:53:06Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.59,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 2.3,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cade Cunningham",
+                                "price": 1.62,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cade Cunningham",
+                                "price": 2.2,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.77,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 2.0,
+                                "point": 8.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "Caesars",
+                "last_update": "2023-12-28T09:52:04Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-28T09:51:59Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Cade Cunningham",
+                                "price": 1.85,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cade Cunningham",
+                                "price": 1.85,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 2.18,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.61,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 2.14,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.64,
+                                "point": 4.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-28T09:51:59Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Cade Cunningham",
+                                "price": 1.92,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cade Cunningham",
+                                "price": 1.8,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.79,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.93,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.73,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 2.0,
+                                "point": 27.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-28T09:51:59Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Cade Cunningham",
+                                "price": 1.59,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cade Cunningham",
+                                "price": 2.23,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.84,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.87,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.62,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 2.16,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betonlineag",
+                "title": "BetOnline.ag",
+                "last_update": "2023-12-28T09:53:39Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-28T09:51:45Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Cade Cunningham",
+                                "price": 1.92,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cade Cunningham",
+                                "price": 1.84,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 2.04,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.74,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 2.17,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.66,
+                                "point": 2.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-28T09:51:45Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Cade Cunningham",
+                                "price": 1.88,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cade Cunningham",
+                                "price": 1.88,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.91,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.85,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.85,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.91,
+                                "point": 17.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-28T09:51:45Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.85,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.91,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cade Cunningham",
+                                "price": 1.64,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cade Cunningham",
+                                "price": 2.21,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.6,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 2.28,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetus",
+                "title": "PointsBet (US)",
+                "last_update": "2023-12-28T09:55:01Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-28T09:51:41Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 2.15,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.67,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cade Cunningham",
+                                "price": 1.91,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cade Cunningham",
+                                "price": 1.83,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.95,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.8,
+                                "point": 4.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-28T09:51:41Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.87,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.87,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cade Cunningham",
+                                "price": 1.8,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cade Cunningham",
+                                "price": 1.95,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.87,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.87,
+                                "point": 28.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-28T09:51:41Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.61,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 2.25,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cade Cunningham",
+                                "price": 1.62,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cade Cunningham",
+                                "price": 2.2,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.8,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.95,
+                                "point": 8.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,1317 @@
+{
+    "timestamp": "2023-12-20T09:55:38Z",
+    "previous_timestamp": "2023-12-20T09:50:38Z",
+    "next_timestamp": "2023-12-20T10:00:38Z",
+    "data": {
+        "id": "b0e3d048a67c9e60eb2ddc54018c71c2",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2023-12-21T01:40:00Z",
+        "home_team": "Dallas Mavericks",
+        "away_team": "Los Angeles Clippers",
+        "bookmakers": [
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2023-12-20T09:54:36Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-20T09:53:54Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Dante Exum",
+                                "price": 2.1,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dante Exum",
+                                "price": 1.71,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.95,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.8,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luka Doncic",
+                                "price": 1.87,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Doncic",
+                                "price": 1.87,
+                                "point": 10.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-20T09:53:54Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Dante Exum",
+                                "price": 1.83,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dante Exum",
+                                "price": 1.91,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Derrick Jones Jr.",
+                                "price": 1.8,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Derrick Jones Jr.",
+                                "price": 1.95,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Grant Williams",
+                                "price": 1.95,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Grant Williams",
+                                "price": 1.8,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Ivica Zubac",
+                                "price": 1.91,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Ivica Zubac",
+                                "price": 1.83,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.83,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.91,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luka Doncic",
+                                "price": 1.8,
+                                "point": 36.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Doncic",
+                                "price": 1.95,
+                                "point": 36.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-20T09:53:54Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Dante Exum",
+                                "price": 2.2,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dante Exum",
+                                "price": 1.67,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Derrick Jones Jr.",
+                                "price": 2.1,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Derrick Jones Jr.",
+                                "price": 1.71,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Grant Williams",
+                                "price": 2.2,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Grant Williams",
+                                "price": 1.67,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Ivica Zubac",
+                                "price": 1.91,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Ivica Zubac",
+                                "price": 1.83,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.71,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 2.1,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luka Doncic",
+                                "price": 2.05,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Doncic",
+                                "price": 1.74,
+                                "point": 10.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "Caesars",
+                "last_update": "2023-12-20T09:54:54Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-20T09:51:49Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Derrick Jones Jr.",
+                                "price": 2.72,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Derrick Jones Jr.",
+                                "price": 1.41,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dante Exum",
+                                "price": 2.02,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dante Exum",
+                                "price": 1.72,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Ivica Zubac",
+                                "price": 2.46,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Ivica Zubac",
+                                "price": 1.49,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luka Doncic",
+                                "price": 2.08,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Doncic",
+                                "price": 1.68,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.97,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.75,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Grant Williams",
+                                "price": 1.96,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Grant Williams",
+                                "price": 1.76,
+                                "point": 1.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-20T09:51:49Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Derrick Jones Jr.",
+                                "price": 1.76,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Derrick Jones Jr.",
+                                "price": 1.96,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Grant Williams",
+                                "price": 1.97,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Grant Williams",
+                                "price": 1.75,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luka Doncic",
+                                "price": 1.93,
+                                "point": 36.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Doncic",
+                                "price": 1.79,
+                                "point": 36.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.93,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.79,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Ivica Zubac",
+                                "price": 1.85,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Ivica Zubac",
+                                "price": 1.85,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dante Exum",
+                                "price": 1.85,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dante Exum",
+                                "price": 1.85,
+                                "point": 13.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-20T09:51:49Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Luka Doncic",
+                                "price": 2.06,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Doncic",
+                                "price": 1.69,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Ivica Zubac",
+                                "price": 1.87,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Ivica Zubac",
+                                "price": 1.84,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.7,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 2.04,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dante Exum",
+                                "price": 2.06,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dante Exum",
+                                "price": 1.69,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Derrick Jones Jr.",
+                                "price": 2.1,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Derrick Jones Jr.",
+                                "price": 1.66,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Grant Williams",
+                                "price": 2.23,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Grant Williams",
+                                "price": 1.59,
+                                "point": 4.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetus",
+                "title": "PointsBet (US)",
+                "last_update": "2023-12-20T09:54:29Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-20T09:54:42Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Dante Exum",
+                                "price": 2.05,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dante Exum",
+                                "price": 1.71,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.91,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.83,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luka Doncic",
+                                "price": 1.87,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Doncic",
+                                "price": 1.87,
+                                "point": 10.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-20T09:54:42Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Dante Exum",
+                                "price": 1.83,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dante Exum",
+                                "price": 1.91,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Derrick Jones Jr.",
+                                "price": 1.8,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Derrick Jones Jr.",
+                                "price": 1.95,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Grant Williams",
+                                "price": 1.91,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Grant Williams",
+                                "price": 1.83,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Ivica Zubac",
+                                "price": 1.91,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Ivica Zubac",
+                                "price": 1.83,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.83,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.91,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luka Doncic",
+                                "price": 2.05,
+                                "point": 37.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Doncic",
+                                "price": 1.71,
+                                "point": 37.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-20T09:54:42Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Dante Exum",
+                                "price": 2.1,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dante Exum",
+                                "price": 1.69,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Derrick Jones Jr.",
+                                "price": 2.05,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Derrick Jones Jr.",
+                                "price": 1.71,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Grant Williams",
+                                "price": 2.1,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Grant Williams",
+                                "price": 1.69,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Ivica Zubac",
+                                "price": 1.87,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Ivica Zubac",
+                                "price": 1.87,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.71,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 2.05,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luka Doncic",
+                                "price": 2.0,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Doncic",
+                                "price": 1.77,
+                                "point": 10.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2023-12-20T09:54:16Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-20T09:52:55Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Dante Exum",
+                                "price": 2.12,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dante Exum",
+                                "price": 1.7,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.96,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.82,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luka Doncic",
+                                "price": 1.96,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Doncic",
+                                "price": 1.82,
+                                "point": 10.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-20T09:52:55Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Luka Doncic",
+                                "price": 1.83,
+                                "point": 36.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Doncic",
+                                "price": 1.94,
+                                "point": 36.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Grant Williams",
+                                "price": 1.96,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Grant Williams",
+                                "price": 1.82,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.88,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.88,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Derrick Jones Jr.",
+                                "price": 1.85,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Derrick Jones Jr.",
+                                "price": 1.93,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dante Exum",
+                                "price": 1.87,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dante Exum",
+                                "price": 1.9,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Ivica Zubac",
+                                "price": 1.93,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Ivica Zubac",
+                                "price": 1.85,
+                                "point": 12.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-20T09:52:44Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Dante Exum",
+                                "price": 2.16,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dante Exum",
+                                "price": 1.68,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.82,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.96,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luka Doncic",
+                                "price": 2.1,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Doncic",
+                                "price": 1.71,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Derrick Jones Jr.",
+                                "price": 2.08,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Derrick Jones Jr.",
+                                "price": 1.72,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Grant Williams",
+                                "price": 2.22,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Grant Williams",
+                                "price": 1.64,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Ivica Zubac",
+                                "price": 2.08,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Ivica Zubac",
+                                "price": 1.72,
+                                "point": 10.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2023-12-20T09:54:02Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-20T09:51:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Dante Exum",
+                                "price": 2.1,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dante Exum",
+                                "price": 1.69,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.95,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.8,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luka Doncic",
+                                "price": 1.87,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Doncic",
+                                "price": 1.87,
+                                "point": 10.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-20T09:51:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Dante Exum",
+                                "price": 1.83,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dante Exum",
+                                "price": 1.91,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Derrick Jones Jr.",
+                                "price": 1.83,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Derrick Jones Jr.",
+                                "price": 1.91,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Grant Williams",
+                                "price": 2.05,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Grant Williams",
+                                "price": 1.74,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Ivica Zubac",
+                                "price": 1.91,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Ivica Zubac",
+                                "price": 1.83,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.87,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.87,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luka Doncic",
+                                "price": 1.83,
+                                "point": 36.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Doncic",
+                                "price": 1.91,
+                                "point": 36.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-20T09:51:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Dante Exum",
+                                "price": 2.15,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dante Exum",
+                                "price": 1.67,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Derrick Jones Jr.",
+                                "price": 2.1,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Derrick Jones Jr.",
+                                "price": 1.69,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Grant Williams",
+                                "price": 2.15,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Grant Williams",
+                                "price": 1.67,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Ivica Zubac",
+                                "price": 1.91,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Ivica Zubac",
+                                "price": 1.83,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.69,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 2.1,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luka Doncic",
+                                "price": 2.05,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Doncic",
+                                "price": 1.74,
+                                "point": 10.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": "2023-12-20T09:55:22Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-20T09:53:44Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Luka Doncic",
+                                "price": 2.05,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Doncic",
+                                "price": 1.71,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Grant Williams",
+                                "price": 1.91,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Grant Williams",
+                                "price": 1.83,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "D. Jones Jr.",
+                                "price": 2.75,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "D. Jones Jr.",
+                                "price": 1.4,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dante Exum",
+                                "price": 2.05,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dante Exum",
+                                "price": 1.69,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.95,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.8,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Ivica Zubac",
+                                "price": 2.55,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Ivica Zubac",
+                                "price": 1.48,
+                                "point": 1.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-20T09:53:44Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Luka Doncic",
+                                "price": 1.91,
+                                "point": 36.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Doncic",
+                                "price": 1.83,
+                                "point": 36.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Grant Williams",
+                                "price": 1.95,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Grant Williams",
+                                "price": 1.8,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "D. Jones Jr.",
+                                "price": 1.77,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "D. Jones Jr.",
+                                "price": 1.95,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dante Exum",
+                                "price": 1.83,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dante Exum",
+                                "price": 1.91,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.91,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.83,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Ivica Zubac",
+                                "price": 1.91,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Ivica Zubac",
+                                "price": 1.83,
+                                "point": 12.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-20T09:53:44Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Luka Doncic",
+                                "price": 2.05,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Doncic",
+                                "price": 1.69,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Grant Williams",
+                                "price": 2.2,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Grant Williams",
+                                "price": 1.62,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "D. Jones Jr.",
+                                "price": 2.1,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "D. Jones Jr.",
+                                "price": 1.69,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dante Exum",
+                                "price": 2.2,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dante Exum",
+                                "price": 1.65,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.69,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 2.05,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Ivica Zubac",
+                                "price": 1.91,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Ivica Zubac",
+                                "price": 1.83,
+                                "point": 10.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

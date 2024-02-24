@@ -1,0 +1,734 @@
+{
+    "timestamp": "2023-12-21T09:55:38Z",
+    "previous_timestamp": "2023-12-21T09:50:38Z",
+    "next_timestamp": "2023-12-21T10:00:38Z",
+    "data": {
+        "id": "2648d0a2a42a5516d56e624b2ff57258",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2023-12-22T01:00:00Z",
+        "home_team": "Oklahoma City Thunder",
+        "away_team": "Los Angeles Clippers",
+        "bookmakers": [
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2023-12-21T09:54:18Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-21T09:52:26Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Josh Giddey",
+                                "price": 2.24,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Josh Giddey",
+                                "price": 1.62,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Shai Gilgeous-Alexander",
+                                "price": 1.83,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Shai Gilgeous-Alexander",
+                                "price": 1.91,
+                                "point": 6.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-21T09:52:26Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Chet Holmgren",
+                                "price": 1.87,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Chet Holmgren",
+                                "price": 1.87,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Josh Giddey",
+                                "price": 1.8,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Josh Giddey",
+                                "price": 1.95,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luguentz Dort",
+                                "price": 1.95,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luguentz Dort",
+                                "price": 1.8,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Shai Gilgeous-Alexander",
+                                "price": 1.83,
+                                "point": 31.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Shai Gilgeous-Alexander",
+                                "price": 1.91,
+                                "point": 31.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-21T09:52:26Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Chet Holmgren",
+                                "price": 1.95,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Chet Holmgren",
+                                "price": 1.8,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Josh Giddey",
+                                "price": 1.8,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Josh Giddey",
+                                "price": 1.95,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luguentz Dort",
+                                "price": 2.14,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luguentz Dort",
+                                "price": 1.69,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Shai Gilgeous-Alexander",
+                                "price": 2.14,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Shai Gilgeous-Alexander",
+                                "price": 1.69,
+                                "point": 5.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": "2023-12-21T09:53:32Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-21T09:54:45Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Shai Gilgeous-Alexander",
+                                "price": 1.83,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Shai Gilgeous-Alexander",
+                                "price": 1.91,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Josh Giddey",
+                                "price": 2.15,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Josh Giddey",
+                                "price": 1.65,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luguentz Dort",
+                                "price": 2.45,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luguentz Dort",
+                                "price": 1.5,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Chet Holmgren",
+                                "price": 1.57,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Chet Holmgren",
+                                "price": 2.3,
+                                "point": 1.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-21T09:54:45Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Shai Gilgeous-Alexander",
+                                "price": 1.83,
+                                "point": 31.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Shai Gilgeous-Alexander",
+                                "price": 1.91,
+                                "point": 31.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Josh Giddey",
+                                "price": 1.77,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Josh Giddey",
+                                "price": 1.95,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luguentz Dort",
+                                "price": 1.95,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luguentz Dort",
+                                "price": 1.8,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Chet Holmgren",
+                                "price": 1.87,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Chet Holmgren",
+                                "price": 1.83,
+                                "point": 16.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-21T09:54:45Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Shai Gilgeous-Alexander",
+                                "price": 2.15,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Shai Gilgeous-Alexander",
+                                "price": 1.67,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Josh Giddey",
+                                "price": 1.77,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Josh Giddey",
+                                "price": 1.95,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luguentz Dort",
+                                "price": 2.1,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luguentz Dort",
+                                "price": 1.67,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Chet Holmgren",
+                                "price": 1.95,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Chet Holmgren",
+                                "price": 1.8,
+                                "point": 8.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetus",
+                "title": "PointsBet (US)",
+                "last_update": "2023-12-21T09:54:16Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-21T09:52:57Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Joshua Giddey",
+                                "price": 2.2,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joshua Giddey",
+                                "price": 1.62,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Shai Gilgeous-Alexander",
+                                "price": 1.8,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Shai Gilgeous-Alexander",
+                                "price": 1.95,
+                                "point": 6.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-21T09:52:57Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Chet Holmgren",
+                                "price": 1.87,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Chet Holmgren",
+                                "price": 1.87,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joshua Giddey",
+                                "price": 1.8,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joshua Giddey",
+                                "price": 1.95,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luguentz Dort",
+                                "price": 1.95,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luguentz Dort",
+                                "price": 1.8,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Shai Gilgeous-Alexander",
+                                "price": 1.87,
+                                "point": 31.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Shai Gilgeous-Alexander",
+                                "price": 1.87,
+                                "point": 31.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-21T09:52:57Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Chet Holmgren",
+                                "price": 1.87,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Chet Holmgren",
+                                "price": 1.87,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joshua Giddey",
+                                "price": 1.87,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joshua Giddey",
+                                "price": 1.87,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luguentz Dort",
+                                "price": 2.05,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luguentz Dort",
+                                "price": 1.71,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Shai Gilgeous-Alexander",
+                                "price": 2.05,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Shai Gilgeous-Alexander",
+                                "price": 1.71,
+                                "point": 5.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2023-12-21T09:54:54Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-21T09:53:30Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Josh Giddey",
+                                "price": 2.2,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Josh Giddey",
+                                "price": 1.62,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Shai Gilgeous-Alexander",
+                                "price": 1.83,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Shai Gilgeous-Alexander",
+                                "price": 1.91,
+                                "point": 6.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-21T09:53:30Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Chet Holmgren",
+                                "price": 1.95,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Chet Holmgren",
+                                "price": 1.8,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Josh Giddey",
+                                "price": 1.8,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Josh Giddey",
+                                "price": 1.95,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luguentz Dort",
+                                "price": 2.1,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luguentz Dort",
+                                "price": 1.69,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Shai Gilgeous-Alexander",
+                                "price": 2.1,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Shai Gilgeous-Alexander",
+                                "price": 1.69,
+                                "point": 5.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "Caesars",
+                "last_update": "2023-12-21T09:54:32Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-21T09:54:11Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Chet Holmgren",
+                                "price": 1.61,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Chet Holmgren",
+                                "price": 2.18,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Josh Giddey",
+                                "price": 2.18,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Josh Giddey",
+                                "price": 1.61,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luguentz Dort",
+                                "price": 2.43,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luguentz Dort",
+                                "price": 1.5,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Shai Gilgeous-Alexander",
+                                "price": 1.85,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Shai Gilgeous-Alexander",
+                                "price": 1.85,
+                                "point": 6.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-21T09:54:11Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Luguentz Dort",
+                                "price": 1.94,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luguentz Dort",
+                                "price": 1.78,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Josh Giddey",
+                                "price": 1.75,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Josh Giddey",
+                                "price": 1.97,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Shai Gilgeous-Alexander",
+                                "price": 1.85,
+                                "point": 31.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Shai Gilgeous-Alexander",
+                                "price": 1.85,
+                                "point": 31.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Chet Holmgren",
+                                "price": 1.93,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Chet Holmgren",
+                                "price": 1.79,
+                                "point": 16.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-21T09:54:11Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Chet Holmgren",
+                                "price": 1.93,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Chet Holmgren",
+                                "price": 1.79,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Josh Giddey",
+                                "price": 1.75,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Josh Giddey",
+                                "price": 1.97,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Shai Gilgeous-Alexander",
+                                "price": 2.08,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Shai Gilgeous-Alexander",
+                                "price": 1.68,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luguentz Dort",
+                                "price": 2.06,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luguentz Dort",
+                                "price": 1.69,
+                                "point": 4.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

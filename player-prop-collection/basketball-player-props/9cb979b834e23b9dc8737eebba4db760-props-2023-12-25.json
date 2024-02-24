@@ -1,0 +1,2433 @@
+{
+    "timestamp": "2023-12-25T09:55:38Z",
+    "previous_timestamp": "2023-12-25T09:50:38Z",
+    "next_timestamp": "2023-12-25T10:00:38Z",
+    "data": {
+        "id": "9cb979b834e23b9dc8737eebba4db760",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2023-12-25T22:00:00Z",
+        "home_team": "Los Angeles Lakers",
+        "away_team": "Boston Celtics",
+        "bookmakers": [
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2023-12-25T09:53:39Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-25T09:55:45Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Anthony Davis",
+                                "price": 2.35,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Davis",
+                                "price": 1.57,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Austin Reaves",
+                                "price": 1.69,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Austin Reaves",
+                                "price": 2.14,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Derrick White",
+                                "price": 1.83,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Derrick White",
+                                "price": 1.91,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.6,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 2.3,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.91,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.83,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jrue Holiday",
+                                "price": 1.87,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jrue Holiday",
+                                "price": 1.87,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "LeBron James",
+                                "price": 1.87,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "LeBron James",
+                                "price": 1.87,
+                                "point": 8.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-25T09:55:45Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Anthony Davis",
+                                "price": 1.74,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Davis",
+                                "price": 2.05,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Austin Reaves",
+                                "price": 1.62,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Austin Reaves",
+                                "price": 2.24,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cam Reddish",
+                                "price": 1.95,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cam Reddish",
+                                "price": 1.8,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Derrick White",
+                                "price": 1.95,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Derrick White",
+                                "price": 1.8,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.83,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.91,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.95,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.8,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jrue Holiday",
+                                "price": 1.87,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jrue Holiday",
+                                "price": 1.87,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.91,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.83,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "LeBron James",
+                                "price": 1.83,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "LeBron James",
+                                "price": 1.91,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Rui Hachimura",
+                                "price": 1.87,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Rui Hachimura",
+                                "price": 1.87,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Taurean Prince",
+                                "price": 1.95,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Taurean Prince",
+                                "price": 1.8,
+                                "point": 9.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-25T09:55:45Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Anthony Davis",
+                                "price": 1.83,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Davis",
+                                "price": 1.91,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Austin Reaves",
+                                "price": 1.69,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Austin Reaves",
+                                "price": 2.14,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cam Reddish",
+                                "price": 1.74,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cam Reddish",
+                                "price": 2.05,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Derrick White",
+                                "price": 1.77,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Derrick White",
+                                "price": 2.0,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jarred Vanderbilt",
+                                "price": 1.87,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jarred Vanderbilt",
+                                "price": 1.87,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.53,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 2.45,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.74,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 2.05,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jrue Holiday",
+                                "price": 1.87,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jrue Holiday",
+                                "price": 1.87,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kristaps Porzingis",
+                                "price": 2.05,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.74,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "LeBron James",
+                                "price": 1.62,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "LeBron James",
+                                "price": 2.24,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Rui Hachimura",
+                                "price": 1.69,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Rui Hachimura",
+                                "price": 2.14,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Taurean Prince",
+                                "price": 1.95,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Taurean Prince",
+                                "price": 1.8,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2023-12-25T09:55:12Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-25T09:54:11Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jrue Holiday",
+                                "price": 1.87,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jrue Holiday",
+                                "price": 1.9,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 2.02,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.77,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Anthony Davis",
+                                "price": 2.3,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Davis",
+                                "price": 1.6,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.68,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 2.14,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "LeBron James",
+                                "price": 2.0,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "LeBron James",
+                                "price": 1.78,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Derrick White",
+                                "price": 1.88,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Derrick White",
+                                "price": 1.88,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Austin Reaves",
+                                "price": 1.74,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Austin Reaves",
+                                "price": 2.06,
+                                "point": 4.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-25T09:54:11Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Anthony Davis",
+                                "price": 1.87,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Davis",
+                                "price": 1.9,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Austin Reaves",
+                                "price": 1.94,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Austin Reaves",
+                                "price": 1.83,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Rui Hachimura",
+                                "price": 1.87,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Rui Hachimura",
+                                "price": 1.9,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "LeBron James",
+                                "price": 1.82,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "LeBron James",
+                                "price": 1.96,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Taurean Prince",
+                                "price": 1.88,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Taurean Prince",
+                                "price": 1.88,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cam Reddish",
+                                "price": 1.77,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cam Reddish",
+                                "price": 2.02,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.96,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.82,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jrue Holiday",
+                                "price": 2.0,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jrue Holiday",
+                                "price": 1.78,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.98,
+                                "point": 29.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.8,
+                                "point": 29.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.88,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.88,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Derrick White",
+                                "price": 1.88,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Derrick White",
+                                "price": 1.88,
+                                "point": 15.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-25T09:48:35Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Taurean Prince",
+                                "price": 2.14,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Taurean Prince",
+                                "price": 1.68,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kristaps Porzingis",
+                                "price": 2.08,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.72,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.76,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 2.04,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jarred Vanderbilt",
+                                "price": 1.96,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jarred Vanderbilt",
+                                "price": 1.82,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Derrick White",
+                                "price": 1.78,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Derrick White",
+                                "price": 2.0,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Austin Reaves",
+                                "price": 1.77,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Austin Reaves",
+                                "price": 2.02,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "LeBron James",
+                                "price": 1.76,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "LeBron James",
+                                "price": 2.04,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cam Reddish",
+                                "price": 1.72,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cam Reddish",
+                                "price": 2.08,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jrue Holiday",
+                                "price": 1.96,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jrue Holiday",
+                                "price": 1.83,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.65,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 2.2,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Rui Hachimura",
+                                "price": 1.82,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Rui Hachimura",
+                                "price": 1.96,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Anthony Davis",
+                                "price": 1.77,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Davis",
+                                "price": 2.02,
+                                "point": 12.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2023-12-25T09:54:32Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-25T09:51:41Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Anthony Davis Jr.",
+                                "price": 2.35,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Davis Jr.",
+                                "price": 1.56,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Austin Reaves",
+                                "price": 1.69,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Austin Reaves",
+                                "price": 2.1,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Derrick White",
+                                "price": 1.83,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Derrick White",
+                                "price": 1.91,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.59,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 2.3,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.91,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.83,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jrue Holiday",
+                                "price": 1.87,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jrue Holiday",
+                                "price": 1.87,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "LeBron James",
+                                "price": 1.87,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "LeBron James",
+                                "price": 1.87,
+                                "point": 8.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-25T09:51:41Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Anthony Davis Jr.",
+                                "price": 1.83,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Davis Jr.",
+                                "price": 1.91,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Austin Reaves",
+                                "price": 1.91,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Austin Reaves",
+                                "price": 1.83,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cameron Reddish",
+                                "price": 1.74,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cameron Reddish",
+                                "price": 2.05,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Derrick White",
+                                "price": 1.87,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Derrick White",
+                                "price": 1.87,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.87,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.87,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 2.05,
+                                "point": 29.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.74,
+                                "point": 29.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jrue Holiday",
+                                "price": 1.95,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jrue Holiday",
+                                "price": 1.8,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kristaps Porzingis",
+                                "price": 2.05,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.74,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "LeBron James",
+                                "price": 1.74,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "LeBron James",
+                                "price": 2.05,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Rui Hachimura",
+                                "price": 1.83,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Rui Hachimura",
+                                "price": 1.91,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Taurean Prince",
+                                "price": 1.87,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Taurean Prince",
+                                "price": 1.87,
+                                "point": 9.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-25T09:51:41Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Anthony Davis Jr.",
+                                "price": 2.0,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Davis Jr.",
+                                "price": 1.77,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Austin Reaves",
+                                "price": 1.69,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Austin Reaves",
+                                "price": 2.1,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cameron Reddish",
+                                "price": 1.74,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cameron Reddish",
+                                "price": 2.05,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Derrick White",
+                                "price": 1.77,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Derrick White",
+                                "price": 2.0,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jarred Vanderbilt",
+                                "price": 1.87,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jarred Vanderbilt",
+                                "price": 1.87,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.53,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 2.45,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.74,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 2.05,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jrue Holiday",
+                                "price": 1.87,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jrue Holiday",
+                                "price": 1.87,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kristaps Porzingis",
+                                "price": 2.05,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.74,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "LeBron James",
+                                "price": 1.62,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "LeBron James",
+                                "price": 2.2,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Rui Hachimura",
+                                "price": 1.69,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Rui Hachimura",
+                                "price": 2.1,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Taurean Prince",
+                                "price": 1.95,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Taurean Prince",
+                                "price": 1.8,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "Caesars",
+                "last_update": "2023-12-25T09:52:16Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-25T09:53:41Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jrue Holiday",
+                                "price": 1.84,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jrue Holiday",
+                                "price": 1.87,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.72,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kristaps Porzingis",
+                                "price": 2.02,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jarred Vanderbilt",
+                                "price": 2.04,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jarred Vanderbilt",
+                                "price": 1.7,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Anthony Davis",
+                                "price": 2.29,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Davis",
+                                "price": 1.56,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Derrick White",
+                                "price": 1.87,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Derrick White",
+                                "price": 1.84,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Austin Reaves",
+                                "price": 1.65,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Austin Reaves",
+                                "price": 2.12,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 2.08,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.68,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.7,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 2.04,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Taurean Prince",
+                                "price": 1.7,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Taurean Prince",
+                                "price": 2.04,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cam Reddish",
+                                "price": 1.7,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cam Reddish",
+                                "price": 2.04,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "LeBron James",
+                                "price": 1.9,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "LeBron James",
+                                "price": 1.81,
+                                "point": 8.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-25T09:53:41Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Cam Reddish",
+                                "price": 1.88,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cam Reddish",
+                                "price": 1.83,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.81,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.9,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "LeBron James",
+                                "price": 1.81,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "LeBron James",
+                                "price": 1.9,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Taurean Prince",
+                                "price": 1.9,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Taurean Prince",
+                                "price": 1.81,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Rui Hachimura",
+                                "price": 1.81,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Rui Hachimura",
+                                "price": 1.9,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Derrick White",
+                                "price": 1.94,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Derrick White",
+                                "price": 1.78,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jarred Vanderbilt",
+                                "price": 2.1,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jarred Vanderbilt",
+                                "price": 1.66,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Austin Reaves",
+                                "price": 1.76,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Austin Reaves",
+                                "price": 1.96,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Anthony Davis",
+                                "price": 1.84,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Davis",
+                                "price": 1.87,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.75,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.97,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jrue Holiday",
+                                "price": 1.87,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jrue Holiday",
+                                "price": 1.84,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.87,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.84,
+                                "point": 17.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-25T09:53:41Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Derrick White",
+                                "price": 1.78,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Derrick White",
+                                "price": 1.94,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.62,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 2.16,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jarred Vanderbilt",
+                                "price": 1.83,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jarred Vanderbilt",
+                                "price": 1.88,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jrue Holiday",
+                                "price": 1.84,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jrue Holiday",
+                                "price": 1.87,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Austin Reaves",
+                                "price": 1.64,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Austin Reaves",
+                                "price": 2.14,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.99,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.74,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "LeBron James",
+                                "price": 1.76,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "LeBron James",
+                                "price": 1.96,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Taurean Prince",
+                                "price": 2.1,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Taurean Prince",
+                                "price": 1.66,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Rui Hachimura",
+                                "price": 1.65,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Rui Hachimura",
+                                "price": 2.12,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cam Reddish",
+                                "price": 1.72,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cam Reddish",
+                                "price": 2.02,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Anthony Davis",
+                                "price": 2.04,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Davis",
+                                "price": 1.7,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.75,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.97,
+                                "point": 8.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": "2023-12-25T09:53:12Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-25T09:54:40Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jarred Vanderbilt",
+                                "price": 2.05,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jarred Vanderbilt",
+                                "price": 1.69,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "LeBron James",
+                                "price": 1.87,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "LeBron James",
+                                "price": 1.87,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Anthony Davis",
+                                "price": 2.3,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Davis",
+                                "price": 1.57,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Taurean Prince",
+                                "price": 1.71,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Taurean Prince",
+                                "price": 2.05,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cam Reddish",
+                                "price": 1.71,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cam Reddish",
+                                "price": 2.05,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.71,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 2.05,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 2.1,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.69,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Derrick White",
+                                "price": 1.83,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Derrick White",
+                                "price": 1.87,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jrue Holiday",
+                                "price": 1.83,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jrue Holiday",
+                                "price": 1.91,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.71,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kristaps Porzingis",
+                                "price": 2.05,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Austin Reaves",
+                                "price": 1.67,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Austin Reaves",
+                                "price": 2.1,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Rui Hachimura",
+                                "price": 1.48,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Rui Hachimura",
+                                "price": 2.5,
+                                "point": 0.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-25T09:54:40Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jarred Vanderbilt",
+                                "price": 2.15,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jarred Vanderbilt",
+                                "price": 1.65,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "LeBron James",
+                                "price": 1.83,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "LeBron James",
+                                "price": 1.91,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Anthony Davis",
+                                "price": 1.87,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Davis",
+                                "price": 1.87,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Taurean Prince",
+                                "price": 1.95,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Taurean Prince",
+                                "price": 1.8,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cam Reddish",
+                                "price": 1.95,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cam Reddish",
+                                "price": 1.77,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.8,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.95,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jrue Holiday",
+                                "price": 1.87,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jrue Holiday",
+                                "price": 1.87,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.91,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.83,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Austin Reaves",
+                                "price": 1.77,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Austin Reaves",
+                                "price": 2.0,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Rui Hachimura",
+                                "price": 1.83,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Rui Hachimura",
+                                "price": 1.87,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Derrick White",
+                                "price": 1.95,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Derrick White",
+                                "price": 1.8,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.95,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.8,
+                                "point": 28.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-25T09:54:40Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jarred Vanderbilt",
+                                "price": 1.87,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jarred Vanderbilt",
+                                "price": 1.87,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "LeBron James",
+                                "price": 1.74,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "LeBron James",
+                                "price": 2.0,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Taurean Prince",
+                                "price": 2.2,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Taurean Prince",
+                                "price": 1.65,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cam Reddish",
+                                "price": 1.71,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cam Reddish",
+                                "price": 2.05,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.65,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 2.2,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.74,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 2.0,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Derrick White",
+                                "price": 1.74,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Derrick White",
+                                "price": 2.0,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jrue Holiday",
+                                "price": 1.83,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jrue Holiday",
+                                "price": 1.87,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kristaps Porzingis",
+                                "price": 2.05,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.71,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Austin Reaves",
+                                "price": 1.67,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Austin Reaves",
+                                "price": 2.1,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Rui Hachimura",
+                                "price": 1.67,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Rui Hachimura",
+                                "price": 2.1,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Anthony Davis",
+                                "price": 2.0,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Davis",
+                                "price": 1.74,
+                                "point": 13.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetus",
+                "title": "PointsBet (US)",
+                "last_update": "2023-12-25T09:54:59Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-25T09:52:26Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Austin Reaves",
+                                "price": 1.69,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Austin Reaves",
+                                "price": 2.1,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Derrick White",
+                                "price": 1.83,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Derrick White",
+                                "price": 1.91,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.62,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 2.2,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.87,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.87,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jrue Holiday",
+                                "price": 1.87,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jrue Holiday",
+                                "price": 1.87,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "LeBron James",
+                                "price": 1.87,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "LeBron James",
+                                "price": 1.87,
+                                "point": 8.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-25T09:52:26Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Anthony Davis",
+                                "price": 1.91,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Davis",
+                                "price": 1.83,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Austin Reaves",
+                                "price": 1.83,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Austin Reaves",
+                                "price": 1.91,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cam Reddish",
+                                "price": 1.95,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cam Reddish",
+                                "price": 1.8,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Derrick White",
+                                "price": 1.87,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Derrick White",
+                                "price": 1.87,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.83,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.91,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.91,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.83,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jrue Holiday",
+                                "price": 1.83,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jrue Holiday",
+                                "price": 1.91,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.95,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.8,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "LeBron James",
+                                "price": 1.87,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "LeBron James",
+                                "price": 1.87,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Rui Hachimura",
+                                "price": 1.87,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Rui Hachimura",
+                                "price": 1.87,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Taurean Prince",
+                                "price": 2.0,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Taurean Prince",
+                                "price": 1.77,
+                                "point": 9.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-25T09:52:26Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Anthony Davis",
+                                "price": 1.91,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Davis",
+                                "price": 1.83,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Austin Reaves",
+                                "price": 1.67,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Austin Reaves",
+                                "price": 2.15,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cam Reddish",
+                                "price": 1.71,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cam Reddish",
+                                "price": 2.05,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Derrick White",
+                                "price": 1.77,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Derrick White",
+                                "price": 2.0,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 2.05,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.71,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.77,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 2.0,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jrue Holiday",
+                                "price": 1.87,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jrue Holiday",
+                                "price": 1.87,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kristaps Porzingis",
+                                "price": 2.0,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.77,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "LeBron James",
+                                "price": 2.1,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "LeBron James",
+                                "price": 1.69,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Rui Hachimura",
+                                "price": 1.69,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Rui Hachimura",
+                                "price": 2.1,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Taurean Prince",
+                                "price": 1.91,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Taurean Prince",
+                                "price": 1.83,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
