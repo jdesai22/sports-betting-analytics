@@ -11,9 +11,16 @@
         justify-content: center;
         align-items: center;
         flex-direction: column;
-        height: 100vh;
-        background-color: #f0f2f5;
+        /* Remove the height property to allow natural flow */
+        background-color: #e6e6e6;
       }
+      /* Ensure .plot class allows for content expansion */
+      .plot {
+        width: 100%;
+        margin-top: 20px;
+        /* Add padding if needed */
+      }
+
       h1 {
         color: #333;
       }
@@ -37,9 +44,6 @@
       input[type="submit"]:hover {
         background-color: #0056b3;
       }
-      .plot {
-        margin-top: 20px;
-      }
     </style>
   </head>
   <body>
@@ -49,7 +53,7 @@
       <input type="submit" value="Generate Plot" />
     </form>
     {% if plot_div %}
-    <div class="plot" style="width: 100%">{{ plot_div|safe }}</div>
+    <div class="plot">{{ plot_div|safe }}</div>
     {% endif %}
   </body>
 </html>
