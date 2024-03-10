@@ -1,0 +1,957 @@
+{
+    "timestamp": "2023-11-20T09:55:41Z",
+    "previous_timestamp": "2023-11-20T09:50:40Z",
+    "next_timestamp": "2023-11-20T10:00:41Z",
+    "data": {
+        "id": "6d486325d6b8adf2595243138b90e079",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2023-11-21T01:10:00Z",
+        "home_team": "New Orleans Pelicans",
+        "away_team": "Sacramento Kings",
+        "bookmakers": [
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2023-11-20T09:55:18Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-20T09:55:40Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Brandon Ingram",
+                                "price": 1.91,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandon Ingram",
+                                "price": 1.87,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.87,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.91,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 2.15,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.67,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Zion Williamson",
+                                "price": 1.8,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Zion Williamson",
+                                "price": 2.0,
+                                "point": 4.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-20T09:55:40Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Brandon Ingram",
+                                "price": 1.87,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandon Ingram",
+                                "price": 1.91,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.83,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.95,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.91,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.87,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Zion Williamson",
+                                "price": 1.83,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Zion Williamson",
+                                "price": 1.95,
+                                "point": 24.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-20T09:55:40Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Brandon Ingram",
+                                "price": 1.74,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandon Ingram",
+                                "price": 2.05,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 2.2,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.65,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 2.0,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.8,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Zion Williamson",
+                                "price": 1.8,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Zion Williamson",
+                                "price": 1.95,
+                                "point": 6.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": "2023-11-20T09:48:12Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-20T09:52:09Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Brandon Ingram",
+                                "price": 1.87,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandon Ingram",
+                                "price": 1.83,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Zion Williamson",
+                                "price": 1.8,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Zion Williamson",
+                                "price": 1.95,
+                                "point": 4.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-20T09:52:09Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Brandon Ingram",
+                                "price": 1.83,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandon Ingram",
+                                "price": 1.91,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Zion Williamson",
+                                "price": 1.8,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Zion Williamson",
+                                "price": 1.95,
+                                "point": 24.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-20T09:52:09Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Brandon Ingram",
+                                "price": 1.74,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandon Ingram",
+                                "price": 2.0,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Zion Williamson",
+                                "price": 1.83,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Zion Williamson",
+                                "price": 1.91,
+                                "point": 6.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "Caesars",
+                "last_update": "2023-11-20T09:53:14Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-20T09:52:01Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Brandon Ingram",
+                                "price": 1.88,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandon Ingram",
+                                "price": 1.83,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.83,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.88,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Zion Williamson",
+                                "price": 1.83,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Zion Williamson",
+                                "price": 1.88,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 2.12,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.65,
+                                "point": 7.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-20T09:52:01Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.92,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.8,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.8,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.92,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brandon Ingram",
+                                "price": 1.83,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandon Ingram",
+                                "price": 1.88,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Zion Williamson",
+                                "price": 1.8,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Zion Williamson",
+                                "price": 1.92,
+                                "point": 24.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-20T09:52:01Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.94,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.78,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 2.12,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.65,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brandon Ingram",
+                                "price": 1.69,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandon Ingram",
+                                "price": 2.06,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Zion Williamson",
+                                "price": 1.81,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Zion Williamson",
+                                "price": 1.9,
+                                "point": 6.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2023-11-20T09:55:05Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-20T09:51:19Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Zion Williamson",
+                                "price": 1.83,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Zion Williamson",
+                                "price": 1.94,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brandon Ingram",
+                                "price": 1.82,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandon Ingram",
+                                "price": 1.96,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.87,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.9,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 2.12,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.7,
+                                "point": 7.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-20T09:51:19Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.87,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.9,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.88,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.88,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brandon Ingram",
+                                "price": 1.98,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandon Ingram",
+                                "price": 1.8,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Zion Williamson",
+                                "price": 1.83,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Zion Williamson",
+                                "price": 1.94,
+                                "point": 24.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-20T09:51:19Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Brandon Ingram",
+                                "price": 1.68,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandon Ingram",
+                                "price": 2.14,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.87,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.9,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 2.08,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.72,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Zion Williamson",
+                                "price": 1.76,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Zion Williamson",
+                                "price": 2.04,
+                                "point": 6.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetus",
+                "title": "PointsBet (US)",
+                "last_update": "2023-11-20T09:53:46Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-20T09:55:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Brandon Ingram",
+                                "price": 1.87,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandon Ingram",
+                                "price": 1.87,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.87,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.87,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 2.05,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.71,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Zion Williamson",
+                                "price": 1.87,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Zion Williamson",
+                                "price": 1.87,
+                                "point": 4.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-20T09:55:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Brandon Ingram",
+                                "price": 1.8,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandon Ingram",
+                                "price": 1.95,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.83,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.91,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.95,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.8,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Zion Williamson",
+                                "price": 1.87,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Zion Williamson",
+                                "price": 1.87,
+                                "point": 24.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-20T09:55:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Brandon Ingram",
+                                "price": 1.77,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandon Ingram",
+                                "price": 2.0,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 2.2,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.62,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.95,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.8,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Zion Williamson",
+                                "price": 1.8,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Zion Williamson",
+                                "price": 1.95,
+                                "point": 6.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2023-11-20T09:55:05Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-20T09:53:35Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Brandon Ingram",
+                                "price": 1.91,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandon Ingram",
+                                "price": 1.83,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.83,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.91,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 2.15,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.67,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Zion Williamson",
+                                "price": 1.77,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Zion Williamson",
+                                "price": 2.0,
+                                "point": 4.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-20T09:53:35Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Brandon Ingram",
+                                "price": 1.83,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandon Ingram",
+                                "price": 1.91,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.8,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.95,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.91,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.83,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Zion Williamson",
+                                "price": 1.8,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Zion Williamson",
+                                "price": 1.95,
+                                "point": 24.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-20T09:53:35Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Brandon Ingram",
+                                "price": 1.74,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandon Ingram",
+                                "price": 2.05,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 2.2,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.62,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 2.0,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.77,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Zion Williamson",
+                                "price": 1.8,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Zion Williamson",
+                                "price": 1.95,
+                                "point": 6.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

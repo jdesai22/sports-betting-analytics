@@ -1,0 +1,835 @@
+{
+    "timestamp": "2023-12-12T09:55:38Z",
+    "previous_timestamp": "2023-12-12T09:50:39Z",
+    "next_timestamp": "2023-12-12T10:00:38Z",
+    "data": {
+        "id": "7ec80fd133ca814b6028d83f92ee93fe",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2023-12-13T03:40:00Z",
+        "home_team": "Los Angeles Clippers",
+        "away_team": "Sacramento Kings",
+        "bookmakers": [
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2023-12-12T09:55:26Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-12T09:52:46Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 2.05,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.74,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.87,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.87,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 1.87,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "James Harden",
+                                "price": 1.87,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.91,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.83,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 1.67,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paul George",
+                                "price": 2.2,
+                                "point": 3.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-12T09:52:46Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.91,
+                                "point": 29.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.83,
+                                "point": 29.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.87,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.87,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 1.91,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "James Harden",
+                                "price": 1.83,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.95,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.8,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 1.91,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paul George",
+                                "price": 1.83,
+                                "point": 23.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-12T09:52:46Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 2.0,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.77,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.77,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 2.0,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 1.67,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "James Harden",
+                                "price": 2.2,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.83,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.91,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 2.1,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paul George",
+                                "price": 1.71,
+                                "point": 6.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betonlineag",
+                "title": "BetOnline.ag",
+                "last_update": "2023-12-12T09:53:57Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-12T09:51:16Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 2.06,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.73,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 1.66,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paul George",
+                                "price": 2.16,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 1.86,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "James Harden",
+                                "price": 1.9,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.92,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.84,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.92,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.84,
+                                "point": 3.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-12T09:51:16Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.92,
+                                "point": 29.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.84,
+                                "point": 29.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.97,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.8,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 1.92,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paul George",
+                                "price": 1.84,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.89,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.87,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 1.9,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "James Harden",
+                                "price": 1.86,
+                                "point": 17.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-12T09:51:16Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 2.06,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.73,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 2.12,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paul George",
+                                "price": 1.69,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.89,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.87,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.87,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.89,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 1.67,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "James Harden",
+                                "price": 2.15,
+                                "point": 4.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "Caesars",
+                "last_update": "2023-12-12T09:51:43Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-12T09:53:20Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.79,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.93,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 1.7,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paul George",
+                                "price": 2.04,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.87,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.84,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 1.83,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "James Harden",
+                                "price": 1.88,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 2.02,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.72,
+                                "point": 6.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-12T09:53:20Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 1.9,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paul George",
+                                "price": 1.81,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.92,
+                                "point": 29.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.8,
+                                "point": 29.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 1.9,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "James Harden",
+                                "price": 1.81,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.85,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.85,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.93,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.79,
+                                "point": 26.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-12T09:53:20Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.96,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.76,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.81,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.9,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 2.08,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paul George",
+                                "price": 1.68,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 1.64,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "James Harden",
+                                "price": 2.14,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.84,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.87,
+                                "point": 6.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetus",
+                "title": "PointsBet (US)",
+                "last_update": "2023-12-12T09:55:22Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-12T09:52:36Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 2.05,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.71,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.87,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.87,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 1.87,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "James Harden",
+                                "price": 1.87,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.91,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.83,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 1.67,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paul George",
+                                "price": 2.15,
+                                "point": 3.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-12T09:52:36Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.91,
+                                "point": 29.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.83,
+                                "point": 29.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.91,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.83,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 1.91,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "James Harden",
+                                "price": 1.83,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.95,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.8,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 1.87,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paul George",
+                                "price": 1.87,
+                                "point": 23.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-12T09:52:36Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 2.0,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.77,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.77,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 2.0,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 1.67,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "James Harden",
+                                "price": 2.15,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.8,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.95,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 2.1,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paul George",
+                                "price": 1.69,
+                                "point": 6.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

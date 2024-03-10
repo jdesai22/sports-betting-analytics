@@ -1,0 +1,666 @@
+{
+    "timestamp": "2023-10-28T09:55:43Z",
+    "previous_timestamp": "2023-10-28T09:50:43Z",
+    "next_timestamp": "2023-10-28T10:00:44Z",
+    "data": {
+        "id": "ab3b53c65b642aa7d3aa8d4b5a193aff",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2023-10-29T02:00:00Z",
+        "home_team": "Phoenix Suns",
+        "away_team": "Utah Jazz",
+        "bookmakers": [
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2023-10-28T09:49:05Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-10-28T09:56:45Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jordan Clarkson",
+                                "price": 2.2,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jordan Clarkson",
+                                "price": 1.65,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.8,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.95,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kevin Durant",
+                                "price": 1.87,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Durant",
+                                "price": 1.91,
+                                "point": 4.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-10-28T09:56:45Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "John Collins",
+                                "price": 1.83,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "John Collins",
+                                "price": 1.95,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jordan Clarkson",
+                                "price": 1.91,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jordan Clarkson",
+                                "price": 1.87,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.91,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.83,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kevin Durant",
+                                "price": 1.87,
+                                "point": 34.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Durant",
+                                "price": 1.91,
+                                "point": 34.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Lauri Markkanen",
+                                "price": 1.95,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Lauri Markkanen",
+                                "price": 1.83,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Walker Kessler",
+                                "price": 2.05,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Walker Kessler",
+                                "price": 1.74,
+                                "point": 8.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-10-28T09:56:45Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "John Collins",
+                                "price": 2.1,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "John Collins",
+                                "price": 1.71,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jordan Clarkson",
+                                "price": 1.91,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jordan Clarkson",
+                                "price": 1.83,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jusuf Nurkic",
+                                "price": 2.0,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.77,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kevin Durant",
+                                "price": 2.05,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Durant",
+                                "price": 1.74,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Lauri Markkanen",
+                                "price": 1.69,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Lauri Markkanen",
+                                "price": 2.15,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Walker Kessler",
+                                "price": 1.91,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Walker Kessler",
+                                "price": 1.87,
+                                "point": 7.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetus",
+                "title": "PointsBet (US)",
+                "last_update": "2023-10-28T09:53:41Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-10-28T09:55:34Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jordan Clarkson",
+                                "price": 2.2,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jordan Clarkson",
+                                "price": 1.62,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.8,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.95,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kevin Durant",
+                                "price": 1.87,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Durant",
+                                "price": 1.87,
+                                "point": 4.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-10-28T09:55:34Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "John Collins",
+                                "price": 1.83,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "John Collins",
+                                "price": 1.91,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jordan Clarkson",
+                                "price": 1.87,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jordan Clarkson",
+                                "price": 1.87,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.87,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.87,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kevin Durant",
+                                "price": 1.87,
+                                "point": 34.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Durant",
+                                "price": 1.87,
+                                "point": 34.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Lauri Markkanen",
+                                "price": 1.95,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Lauri Markkanen",
+                                "price": 1.8,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Walker Kessler",
+                                "price": 2.05,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Walker Kessler",
+                                "price": 1.71,
+                                "point": 8.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-10-28T09:55:34Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "John Collins",
+                                "price": 2.1,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "John Collins",
+                                "price": 1.69,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jordan Clarkson",
+                                "price": 1.87,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jordan Clarkson",
+                                "price": 1.87,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.95,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.8,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kevin Durant",
+                                "price": 2.05,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Durant",
+                                "price": 1.71,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Lauri Markkanen",
+                                "price": 2.2,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Lauri Markkanen",
+                                "price": 1.62,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Walker Kessler",
+                                "price": 1.87,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Walker Kessler",
+                                "price": 1.87,
+                                "point": 7.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2023-10-28T09:53:41Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-10-28T09:55:16Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "John Collins",
+                                "price": 2.5,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "John Collins",
+                                "price": 1.5,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jordan Clarkson",
+                                "price": 2.2,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jordan Clarkson",
+                                "price": 1.62,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.87,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.87,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kevin Durant",
+                                "price": 1.77,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Durant",
+                                "price": 2.0,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Lauri Markkanen",
+                                "price": 1.8,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Lauri Markkanen",
+                                "price": 1.95,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Walker Kessler",
+                                "price": 1.59,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Walker Kessler",
+                                "price": 2.3,
+                                "point": 0.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-10-28T09:55:16Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "John Collins",
+                                "price": 1.83,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "John Collins",
+                                "price": 1.91,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jordan Clarkson",
+                                "price": 1.87,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jordan Clarkson",
+                                "price": 1.87,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.87,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.87,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kevin Durant",
+                                "price": 1.87,
+                                "point": 34.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Durant",
+                                "price": 1.87,
+                                "point": 34.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Lauri Markkanen",
+                                "price": 1.91,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Lauri Markkanen",
+                                "price": 1.83,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Walker Kessler",
+                                "price": 2.0,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Walker Kessler",
+                                "price": 1.77,
+                                "point": 8.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-10-28T09:55:16Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "John Collins",
+                                "price": 2.1,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "John Collins",
+                                "price": 1.69,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jordan Clarkson",
+                                "price": 1.87,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jordan Clarkson",
+                                "price": 1.87,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.95,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.8,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kevin Durant",
+                                "price": 1.95,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Durant",
+                                "price": 1.8,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Lauri Markkanen",
+                                "price": 1.69,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Lauri Markkanen",
+                                "price": 2.1,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Walker Kessler",
+                                "price": 1.87,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Walker Kessler",
+                                "price": 1.87,
+                                "point": 7.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

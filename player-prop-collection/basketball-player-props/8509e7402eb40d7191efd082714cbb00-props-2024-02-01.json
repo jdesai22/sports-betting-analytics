@@ -1,0 +1,524 @@
+{
+    "timestamp": "2024-02-01T09:55:39Z",
+    "previous_timestamp": "2024-02-01T09:50:38Z",
+    "next_timestamp": "2024-02-01T10:00:38Z",
+    "data": {
+        "id": "8509e7402eb40d7191efd082714cbb00",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-02-02T00:30:00Z",
+        "home_team": "New York Knicks",
+        "away_team": "Indiana Pacers",
+        "bookmakers": [
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2024-02-01T09:55:20Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-02-01T09:55:42Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Isaiah Hartenstein",
+                                "price": 2.1,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Isaiah Hartenstein",
+                                "price": 1.71,
+                                "point": 2.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-02-01T09:55:42Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Isaiah Hartenstein",
+                                "price": 1.8,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Isaiah Hartenstein",
+                                "price": 1.95,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "OG Anunoby",
+                                "price": 1.91,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "OG Anunoby",
+                                "price": 1.83,
+                                "point": 19.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-02-01T09:55:42Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Isaiah Hartenstein",
+                                "price": 2.05,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Isaiah Hartenstein",
+                                "price": 1.74,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "OG Anunoby",
+                                "price": 1.74,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "OG Anunoby",
+                                "price": 2.05,
+                                "point": 4.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetus",
+                "title": "PointsBet (US)",
+                "last_update": "2024-02-01T09:55:34Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-02-01T09:54:30Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Isaiah Hartenstein",
+                                "price": 2.1,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Isaiah Hartenstein",
+                                "price": 1.69,
+                                "point": 2.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-02-01T09:54:30Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Isaiah Hartenstein",
+                                "price": 1.83,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Isaiah Hartenstein",
+                                "price": 1.91,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "O.G. Anunoby",
+                                "price": 1.91,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "O.G. Anunoby",
+                                "price": 1.83,
+                                "point": 19.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-02-01T09:54:30Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Isaiah Hartenstein",
+                                "price": 2.0,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Isaiah Hartenstein",
+                                "price": 1.77,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "O.G. Anunoby",
+                                "price": 1.71,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "O.G. Anunoby",
+                                "price": 2.05,
+                                "point": 4.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2024-02-01T09:54:45Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-02-01T09:55:42Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jalen Brunson",
+                                "price": 1.68,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Brunson",
+                                "price": 2.16,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Haliburton",
+                                "price": 2.06,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Haliburton",
+                                "price": 1.74,
+                                "point": 10.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-02-01T09:55:42Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "OG Anunoby",
+                                "price": 1.96,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "OG Anunoby",
+                                "price": 1.82,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Isaiah Hartenstein",
+                                "price": 1.9,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Isaiah Hartenstein",
+                                "price": 1.87,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Haliburton",
+                                "price": 1.78,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Haliburton",
+                                "price": 2.0,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Brunson",
+                                "price": 1.9,
+                                "point": 33.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Brunson",
+                                "price": 1.87,
+                                "point": 33.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-02-01T09:55:42Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jalen Brunson",
+                                "price": 1.76,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Brunson",
+                                "price": 2.04,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Isaiah Hartenstein",
+                                "price": 2.02,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Isaiah Hartenstein",
+                                "price": 1.77,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Haliburton",
+                                "price": 1.64,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Haliburton",
+                                "price": 2.22,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "OG Anunoby",
+                                "price": 1.68,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "OG Anunoby",
+                                "price": 2.16,
+                                "point": 4.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": "2024-02-01T09:53:56Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-02-01T09:54:29Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "OG Anunoby",
+                                "price": 1.74,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "OG Anunoby",
+                                "price": 2.0,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Isaiah Hartenstein",
+                                "price": 2.05,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Isaiah Hartenstein",
+                                "price": 1.69,
+                                "point": 2.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-02-01T09:54:29Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "OG Anunoby",
+                                "price": 1.91,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "OG Anunoby",
+                                "price": 1.83,
+                                "point": 19.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-02-01T09:54:29Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "OG Anunoby",
+                                "price": 1.71,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "OG Anunoby",
+                                "price": 2.05,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Isaiah Hartenstein",
+                                "price": 2.0,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Isaiah Hartenstein",
+                                "price": 1.74,
+                                "point": 10.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2024-02-01T09:54:04Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-02-01T09:54:25Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Isaiah Hartenstein",
+                                "price": 2.1,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Isaiah Hartenstein",
+                                "price": 1.69,
+                                "point": 2.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-02-01T09:54:25Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Isaiah Hartenstein",
+                                "price": 1.87,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Isaiah Hartenstein",
+                                "price": 1.87,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Brunson",
+                                "price": 1.91,
+                                "point": 33.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Brunson",
+                                "price": 1.83,
+                                "point": 33.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "OG Anunoby Jr.",
+                                "price": 2.05,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "OG Anunoby Jr.",
+                                "price": 1.74,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Haliburton",
+                                "price": 1.74,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Haliburton",
+                                "price": 2.05,
+                                "point": 15.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-02-01T09:54:25Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Isaiah Hartenstein",
+                                "price": 2.05,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Isaiah Hartenstein",
+                                "price": 1.74,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "OG Anunoby Jr.",
+                                "price": 1.74,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "OG Anunoby Jr.",
+                                "price": 2.05,
+                                "point": 4.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

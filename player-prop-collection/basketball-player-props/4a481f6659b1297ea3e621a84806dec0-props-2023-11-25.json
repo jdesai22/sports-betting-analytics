@@ -1,0 +1,1551 @@
+{
+    "timestamp": "2023-11-25T09:55:40Z",
+    "previous_timestamp": "2023-11-25T09:50:39Z",
+    "next_timestamp": "2023-11-25T10:00:39Z",
+    "data": {
+        "id": "4a481f6659b1297ea3e621a84806dec0",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2023-11-26T03:40:00Z",
+        "home_team": "Los Angeles Clippers",
+        "away_team": "Dallas Mavericks",
+        "bookmakers": [
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2023-11-25T09:55:30Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-25T09:51:58Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Kyrie Irving",
+                                "price": 2.1,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyrie Irving",
+                                "price": 1.71,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luka Doncic",
+                                "price": 1.74,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Doncic",
+                                "price": 2.05,
+                                "point": 7.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-25T09:51:58Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Kyrie Irving",
+                                "price": 1.95,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyrie Irving",
+                                "price": 1.83,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luka Doncic",
+                                "price": 1.95,
+                                "point": 31.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Doncic",
+                                "price": 1.83,
+                                "point": 31.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-25T09:51:58Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Kyrie Irving",
+                                "price": 2.0,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyrie Irving",
+                                "price": 1.77,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luka Doncic",
+                                "price": 2.0,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Doncic",
+                                "price": 1.8,
+                                "point": 9.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2023-11-25T09:54:29Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-25T09:53:00Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Luka Doncic",
+                                "price": 1.78,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Doncic",
+                                "price": 2.0,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyrie Irving",
+                                "price": 1.96,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyrie Irving",
+                                "price": 1.82,
+                                "point": 5.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-25T09:53:00Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Kyrie Irving",
+                                "price": 1.93,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyrie Irving",
+                                "price": 1.85,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Grant Williams",
+                                "price": 1.93,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Grant Williams",
+                                "price": 1.85,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luka Doncic",
+                                "price": 1.9,
+                                "point": 32.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Doncic",
+                                "price": 1.87,
+                                "point": 32.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tim Hardaway Jr.",
+                                "price": 1.9,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tim Hardaway Jr.",
+                                "price": 1.87,
+                                "point": 16.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-25T09:53:00Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Luka Doncic",
+                                "price": 1.77,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Doncic",
+                                "price": 2.02,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyrie Irving",
+                                "price": 1.62,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyrie Irving",
+                                "price": 2.24,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Grant Williams",
+                                "price": 2.04,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Grant Williams",
+                                "price": 1.76,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tim Hardaway Jr.",
+                                "price": 1.62,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tim Hardaway Jr.",
+                                "price": 2.26,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet_us",
+                "title": "Unibet",
+                "last_update": "2023-11-25T09:53:37Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-25T09:52:08Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Luka Don\u010di\u0107",
+                                "price": 1.78,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Don\u010di\u0107",
+                                "price": 1.96,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyrie Irving",
+                                "price": 1.93,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyrie Irving",
+                                "price": 1.81,
+                                "point": 5.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-25T09:52:08Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Kyrie Irving",
+                                "price": 1.91,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyrie Irving",
+                                "price": 1.83,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tim Hardaway Jr.",
+                                "price": 1.88,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tim Hardaway Jr.",
+                                "price": 1.85,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Grant Williams",
+                                "price": 1.88,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Grant Williams",
+                                "price": 1.85,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luka Don\u010di\u0107",
+                                "price": 1.34,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Don\u010di\u0107",
+                                "price": 2.8,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luka Don\u010di\u0107",
+                                "price": 1.44,
+                                "point": 29.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Don\u010di\u0107",
+                                "price": 2.5,
+                                "point": 29.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tim Hardaway Jr.",
+                                "price": 2.14,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tim Hardaway Jr.",
+                                "price": 1.65,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luka Don\u010di\u0107",
+                                "price": 1.73,
+                                "point": 31.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Don\u010di\u0107",
+                                "price": 2.04,
+                                "point": 31.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luka Don\u010di\u0107",
+                                "price": 1.88,
+                                "point": 32.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Don\u010di\u0107",
+                                "price": 1.85,
+                                "point": 32.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luka Don\u010di\u0107",
+                                "price": 2.28,
+                                "point": 34.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Don\u010di\u0107",
+                                "price": 1.55,
+                                "point": 34.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyrie Irving",
+                                "price": 1.43,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyrie Irving",
+                                "price": 2.55,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyrie Irving",
+                                "price": 1.56,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyrie Irving",
+                                "price": 2.28,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luka Don\u010di\u0107",
+                                "price": 2.07,
+                                "point": 33.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Don\u010di\u0107",
+                                "price": 1.7,
+                                "point": 33.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyrie Irving",
+                                "price": 1.32,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyrie Irving",
+                                "price": 2.9,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tim Hardaway Jr.",
+                                "price": 1.34,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tim Hardaway Jr.",
+                                "price": 2.85,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Grant Williams",
+                                "price": 3.1,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Grant Williams",
+                                "price": 1.27,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyrie Irving",
+                                "price": 1.73,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyrie Irving",
+                                "price": 2.04,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luka Don\u010di\u0107",
+                                "price": 2.55,
+                                "point": 35.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Don\u010di\u0107",
+                                "price": 1.43,
+                                "point": 35.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tim Hardaway Jr.",
+                                "price": 1.48,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tim Hardaway Jr.",
+                                "price": 2.43,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Grant Williams",
+                                "price": 2.6,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Grant Williams",
+                                "price": 1.41,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luka Don\u010di\u0107",
+                                "price": 2.85,
+                                "point": 36.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Don\u010di\u0107",
+                                "price": 1.34,
+                                "point": 36.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tim Hardaway Jr.",
+                                "price": 1.66,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tim Hardaway Jr.",
+                                "price": 2.12,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Grant Williams",
+                                "price": 2.18,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Grant Williams",
+                                "price": 1.61,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luka Don\u010di\u0107",
+                                "price": 1.56,
+                                "point": 30.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Don\u010di\u0107",
+                                "price": 2.25,
+                                "point": 30.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyrie Irving",
+                                "price": 2.35,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyrie Irving",
+                                "price": 1.5,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyrie Irving",
+                                "price": 2.12,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyrie Irving",
+                                "price": 1.66,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tim Hardaway Jr.",
+                                "price": 2.8,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tim Hardaway Jr.",
+                                "price": 1.35,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tim Hardaway Jr.",
+                                "price": 2.43,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tim Hardaway Jr.",
+                                "price": 1.48,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyrie Irving",
+                                "price": 2.65,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyrie Irving",
+                                "price": 1.38,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyrie Irving",
+                                "price": 3.05,
+                                "point": 29.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyrie Irving",
+                                "price": 1.29,
+                                "point": 29.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Grant Williams",
+                                "price": 1.63,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Grant Williams",
+                                "price": 2.16,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Grant Williams",
+                                "price": 1.38,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Grant Williams",
+                                "price": 2.65,
+                                "point": 7.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-25T09:52:08Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Luka Don\u010di\u0107",
+                                "price": 1.75,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Don\u010di\u0107",
+                                "price": 2.0,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyrie Irving",
+                                "price": 2.2,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyrie Irving",
+                                "price": 1.62,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Grant Williams",
+                                "price": 2.02,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Grant Williams",
+                                "price": 1.75,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tim Hardaway Jr.",
+                                "price": 2.38,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tim Hardaway Jr.",
+                                "price": 1.54,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyrie Irving",
+                                "price": 1.56,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyrie Irving",
+                                "price": 2.35,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tim Hardaway Jr.",
+                                "price": 1.54,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tim Hardaway Jr.",
+                                "price": 2.38,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luka Don\u010di\u0107",
+                                "price": 1.42,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Don\u010di\u0107",
+                                "price": 2.75,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luka Don\u010di\u0107",
+                                "price": 2.28,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Don\u010di\u0107",
+                                "price": 1.57,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Grant Williams",
+                                "price": 1.42,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Grant Williams",
+                                "price": 2.75,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betrivers",
+                "title": "BetRivers",
+                "last_update": "2023-11-25T09:53:38Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-25T09:52:44Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Luka Don\u010di\u0107",
+                                "price": 1.78,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Don\u010di\u0107",
+                                "price": 1.96,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyrie Irving",
+                                "price": 1.93,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyrie Irving",
+                                "price": 1.81,
+                                "point": 5.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-25T09:52:44Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Kyrie Irving",
+                                "price": 1.91,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyrie Irving",
+                                "price": 1.83,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tim Hardaway Jr.",
+                                "price": 1.88,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tim Hardaway Jr.",
+                                "price": 1.85,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Grant Williams",
+                                "price": 1.88,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Grant Williams",
+                                "price": 1.85,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luka Don\u010di\u0107",
+                                "price": 1.34,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Don\u010di\u0107",
+                                "price": 2.8,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luka Don\u010di\u0107",
+                                "price": 1.44,
+                                "point": 29.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Don\u010di\u0107",
+                                "price": 2.5,
+                                "point": 29.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tim Hardaway Jr.",
+                                "price": 2.14,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tim Hardaway Jr.",
+                                "price": 1.65,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luka Don\u010di\u0107",
+                                "price": 1.73,
+                                "point": 31.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Don\u010di\u0107",
+                                "price": 2.04,
+                                "point": 31.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luka Don\u010di\u0107",
+                                "price": 1.88,
+                                "point": 32.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Don\u010di\u0107",
+                                "price": 1.85,
+                                "point": 32.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luka Don\u010di\u0107",
+                                "price": 2.28,
+                                "point": 34.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Don\u010di\u0107",
+                                "price": 1.55,
+                                "point": 34.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyrie Irving",
+                                "price": 1.43,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyrie Irving",
+                                "price": 2.55,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyrie Irving",
+                                "price": 1.56,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyrie Irving",
+                                "price": 2.28,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luka Don\u010di\u0107",
+                                "price": 2.07,
+                                "point": 33.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Don\u010di\u0107",
+                                "price": 1.7,
+                                "point": 33.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyrie Irving",
+                                "price": 1.32,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyrie Irving",
+                                "price": 2.9,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tim Hardaway Jr.",
+                                "price": 1.34,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tim Hardaway Jr.",
+                                "price": 2.85,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Grant Williams",
+                                "price": 3.1,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Grant Williams",
+                                "price": 1.27,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyrie Irving",
+                                "price": 1.73,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyrie Irving",
+                                "price": 2.04,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luka Don\u010di\u0107",
+                                "price": 2.55,
+                                "point": 35.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Don\u010di\u0107",
+                                "price": 1.43,
+                                "point": 35.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tim Hardaway Jr.",
+                                "price": 1.48,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tim Hardaway Jr.",
+                                "price": 2.43,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Grant Williams",
+                                "price": 2.6,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Grant Williams",
+                                "price": 1.41,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luka Don\u010di\u0107",
+                                "price": 2.85,
+                                "point": 36.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Don\u010di\u0107",
+                                "price": 1.34,
+                                "point": 36.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tim Hardaway Jr.",
+                                "price": 1.66,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tim Hardaway Jr.",
+                                "price": 2.12,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Grant Williams",
+                                "price": 2.18,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Grant Williams",
+                                "price": 1.61,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luka Don\u010di\u0107",
+                                "price": 1.56,
+                                "point": 30.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Don\u010di\u0107",
+                                "price": 2.25,
+                                "point": 30.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyrie Irving",
+                                "price": 2.35,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyrie Irving",
+                                "price": 1.5,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyrie Irving",
+                                "price": 2.12,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyrie Irving",
+                                "price": 1.66,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tim Hardaway Jr.",
+                                "price": 2.8,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tim Hardaway Jr.",
+                                "price": 1.35,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tim Hardaway Jr.",
+                                "price": 2.43,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tim Hardaway Jr.",
+                                "price": 1.48,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyrie Irving",
+                                "price": 2.65,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyrie Irving",
+                                "price": 1.38,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyrie Irving",
+                                "price": 3.05,
+                                "point": 29.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyrie Irving",
+                                "price": 1.29,
+                                "point": 29.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Grant Williams",
+                                "price": 1.63,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Grant Williams",
+                                "price": 2.16,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Grant Williams",
+                                "price": 1.38,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Grant Williams",
+                                "price": 2.65,
+                                "point": 7.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-25T09:52:44Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Luka Don\u010di\u0107",
+                                "price": 1.75,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Don\u010di\u0107",
+                                "price": 2.0,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyrie Irving",
+                                "price": 2.2,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyrie Irving",
+                                "price": 1.62,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Grant Williams",
+                                "price": 2.02,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Grant Williams",
+                                "price": 1.75,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tim Hardaway Jr.",
+                                "price": 2.38,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tim Hardaway Jr.",
+                                "price": 1.54,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyrie Irving",
+                                "price": 1.56,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyrie Irving",
+                                "price": 2.35,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tim Hardaway Jr.",
+                                "price": 1.54,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tim Hardaway Jr.",
+                                "price": 2.38,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luka Don\u010di\u0107",
+                                "price": 1.42,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Don\u010di\u0107",
+                                "price": 2.75,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luka Don\u010di\u0107",
+                                "price": 2.28,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Don\u010di\u0107",
+                                "price": 1.57,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Grant Williams",
+                                "price": 1.42,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Grant Williams",
+                                "price": 2.75,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetus",
+                "title": "PointsBet (US)",
+                "last_update": "2023-11-25T09:55:20Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-25T09:52:43Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Kyrie Irving",
+                                "price": 2.05,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyrie Irving",
+                                "price": 1.71,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luka Doncic",
+                                "price": 1.77,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Doncic",
+                                "price": 2.0,
+                                "point": 7.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-25T09:52:43Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Kyrie Irving",
+                                "price": 1.91,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyrie Irving",
+                                "price": 1.83,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luka Doncic",
+                                "price": 1.87,
+                                "point": 31.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Doncic",
+                                "price": 1.87,
+                                "point": 31.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-25T09:52:43Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Kyrie Irving",
+                                "price": 2.0,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyrie Irving",
+                                "price": 1.77,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luka Doncic",
+                                "price": 1.91,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Doncic",
+                                "price": 1.83,
+                                "point": 9.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2023-11-25T09:53:39Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-25T09:52:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Kyrie Irving",
+                                "price": 2.1,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyrie Irving",
+                                "price": 1.69,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luka Doncic",
+                                "price": 1.74,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Doncic",
+                                "price": 2.05,
+                                "point": 7.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-25T09:52:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Grant Williams",
+                                "price": 1.91,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Grant Williams",
+                                "price": 1.83,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyrie Irving",
+                                "price": 1.95,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyrie Irving",
+                                "price": 1.8,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luka Doncic",
+                                "price": 1.95,
+                                "point": 31.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Doncic",
+                                "price": 1.8,
+                                "point": 31.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tim Hardaway Jr.",
+                                "price": 1.91,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tim Hardaway Jr.",
+                                "price": 1.83,
+                                "point": 16.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-25T09:52:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Grant Williams",
+                                "price": 2.1,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Grant Williams",
+                                "price": 1.69,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyrie Irving",
+                                "price": 1.77,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luka Doncic",
+                                "price": 2.0,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Doncic",
+                                "price": 1.77,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tim Hardaway Jr.",
+                                "price": 1.59,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tim Hardaway Jr.",
+                                "price": 2.3,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

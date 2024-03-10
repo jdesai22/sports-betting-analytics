@@ -1,0 +1,1905 @@
+{
+    "timestamp": "2024-02-06T09:55:38Z",
+    "previous_timestamp": "2024-02-06T09:50:39Z",
+    "next_timestamp": "2024-02-06T10:00:38Z",
+    "data": {
+        "id": "f3c91b1eb87a2f197f105428b59d55db",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-02-07T00:10:00Z",
+        "home_team": "Indiana Pacers",
+        "away_team": "Houston Rockets",
+        "bookmakers": [
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2024-02-06T09:53:40Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-02-06T09:53:56Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Alperen Sengun",
+                                "price": 1.74,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alperen Sengun",
+                                "price": 2.05,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Andrew Nembhard",
+                                "price": 2.24,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Andrew Nembhard",
+                                "price": 1.62,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Green",
+                                "price": 1.8,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Green",
+                                "price": 1.95,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 2.24,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 1.62,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Haliburton",
+                                "price": 2.14,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Haliburton",
+                                "price": 1.69,
+                                "point": 6.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-02-06T09:53:56Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Aaron Nesmith",
+                                "price": 1.95,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Aaron Nesmith",
+                                "price": 1.8,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Alperen Sengun",
+                                "price": 1.87,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alperen Sengun",
+                                "price": 1.87,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Andrew Nembhard",
+                                "price": 1.77,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Andrew Nembhard",
+                                "price": 2.0,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dillon Brooks",
+                                "price": 1.95,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dillon Brooks",
+                                "price": 1.8,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jabari Smith Jr.",
+                                "price": 1.8,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jabari Smith Jr.",
+                                "price": 1.95,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Green",
+                                "price": 1.87,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Green",
+                                "price": 1.87,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Myles Turner",
+                                "price": 1.8,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Myles Turner",
+                                "price": 1.95,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 1.91,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 1.83,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Haliburton",
+                                "price": 1.77,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Haliburton",
+                                "price": 2.0,
+                                "point": 13.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-02-06T09:53:56Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Aaron Nesmith",
+                                "price": 1.71,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Aaron Nesmith",
+                                "price": 2.1,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Alperen Sengun",
+                                "price": 1.77,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alperen Sengun",
+                                "price": 2.0,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Andrew Nembhard",
+                                "price": 2.1,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Andrew Nembhard",
+                                "price": 1.71,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dillon Brooks",
+                                "price": 2.2,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dillon Brooks",
+                                "price": 1.67,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jabari Smith Jr.",
+                                "price": 1.87,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jabari Smith Jr.",
+                                "price": 1.87,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Green",
+                                "price": 2.05,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Green",
+                                "price": 1.74,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Myles Turner",
+                                "price": 2.0,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Myles Turner",
+                                "price": 1.77,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 1.8,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 1.95,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Haliburton",
+                                "price": 1.8,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Haliburton",
+                                "price": 1.95,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2024-02-06T09:53:50Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-02-06T09:55:41Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 2.18,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 1.67,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Green",
+                                "price": 1.82,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Green",
+                                "price": 1.96,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Alperen Sengun",
+                                "price": 1.78,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alperen Sengun",
+                                "price": 2.0,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Haliburton",
+                                "price": 2.16,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Haliburton",
+                                "price": 1.68,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Andrew Nembhard",
+                                "price": 1.7,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Andrew Nembhard",
+                                "price": 2.12,
+                                "point": 4.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-02-06T09:55:41Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Myles Turner",
+                                "price": 1.94,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Myles Turner",
+                                "price": 1.83,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Andrew Nembhard",
+                                "price": 1.8,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Andrew Nembhard",
+                                "price": 1.98,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Alperen Sengun",
+                                "price": 1.83,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alperen Sengun",
+                                "price": 1.94,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Haliburton",
+                                "price": 1.78,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Haliburton",
+                                "price": 2.0,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 1.94,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 1.83,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dillon Brooks",
+                                "price": 1.88,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dillon Brooks",
+                                "price": 1.88,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Green",
+                                "price": 1.98,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Green",
+                                "price": 1.8,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Aaron Nesmith",
+                                "price": 1.93,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Aaron Nesmith",
+                                "price": 1.85,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jabari Smith",
+                                "price": 1.94,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jabari Smith",
+                                "price": 1.83,
+                                "point": 11.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-02-06T09:55:41Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Myles Turner",
+                                "price": 2.02,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Myles Turner",
+                                "price": 1.77,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Haliburton",
+                                "price": 1.82,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Haliburton",
+                                "price": 1.96,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jabari Smith",
+                                "price": 1.83,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jabari Smith",
+                                "price": 1.94,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Aaron Nesmith",
+                                "price": 1.68,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Aaron Nesmith",
+                                "price": 2.14,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Andrew Nembhard",
+                                "price": 2.24,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Andrew Nembhard",
+                                "price": 1.62,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 1.78,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 2.0,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Green",
+                                "price": 2.02,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Green",
+                                "price": 1.77,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Alperen Sengun",
+                                "price": 1.76,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alperen Sengun",
+                                "price": 2.04,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dillon Brooks",
+                                "price": 2.24,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dillon Brooks",
+                                "price": 1.63,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "Caesars",
+                "last_update": "2024-02-06T09:52:51Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-02-06T09:54:41Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jabari Smith Jr.",
+                                "price": 2.59,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jabari Smith Jr.",
+                                "price": 1.45,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dillon Brooks",
+                                "price": 1.72,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dillon Brooks",
+                                "price": 2.02,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Alperen Sengun",
+                                "price": 1.76,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alperen Sengun",
+                                "price": 1.96,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Andrew Nembhard",
+                                "price": 1.97,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Andrew Nembhard",
+                                "price": 1.75,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Aaron Nesmith",
+                                "price": 1.76,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Aaron Nesmith",
+                                "price": 1.96,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 2.14,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 1.64,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Green",
+                                "price": 1.81,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Green",
+                                "price": 1.9,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Myles Turner",
+                                "price": 2.72,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Myles Turner",
+                                "price": 1.41,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Haliburton",
+                                "price": 2.08,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Haliburton",
+                                "price": 1.68,
+                                "point": 6.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-02-06T09:54:41Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Haliburton",
+                                "price": 1.85,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Haliburton",
+                                "price": 1.85,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Green",
+                                "price": 1.84,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Green",
+                                "price": 1.87,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Myles Turner",
+                                "price": 1.76,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Myles Turner",
+                                "price": 1.96,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Aaron Nesmith",
+                                "price": 1.88,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Aaron Nesmith",
+                                "price": 1.83,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Alperen Sengun",
+                                "price": 1.85,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alperen Sengun",
+                                "price": 1.85,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jabari Smith Jr.",
+                                "price": 1.78,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jabari Smith Jr.",
+                                "price": 1.94,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Andrew Nembhard",
+                                "price": 1.8,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Andrew Nembhard",
+                                "price": 1.92,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dillon Brooks",
+                                "price": 1.87,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dillon Brooks",
+                                "price": 1.84,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 1.84,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 1.87,
+                                "point": 21.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-02-06T09:54:41Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Alperen Sengun",
+                                "price": 1.81,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alperen Sengun",
+                                "price": 1.9,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Aaron Nesmith",
+                                "price": 1.61,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Aaron Nesmith",
+                                "price": 2.18,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Myles Turner",
+                                "price": 2.04,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Myles Turner",
+                                "price": 1.7,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jabari Smith Jr.",
+                                "price": 1.87,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jabari Smith Jr.",
+                                "price": 1.84,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dillon Brooks",
+                                "price": 2.12,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dillon Brooks",
+                                "price": 1.65,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Haliburton",
+                                "price": 1.78,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Haliburton",
+                                "price": 1.94,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 1.75,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 1.97,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Andrew Nembhard",
+                                "price": 2.06,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Andrew Nembhard",
+                                "price": 1.69,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Green",
+                                "price": 2.0,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Green",
+                                "price": 1.73,
+                                "point": 4.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": "2024-02-06T09:54:46Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-02-06T09:55:50Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jabari Smith Jr",
+                                "price": 2.6,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jabari Smith Jr",
+                                "price": 1.44,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 2.2,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 1.62,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Alperen Sengun",
+                                "price": 1.74,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alperen Sengun",
+                                "price": 2.0,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Green",
+                                "price": 1.8,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Green",
+                                "price": 1.95,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dillon Brooks",
+                                "price": 1.71,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dillon Brooks",
+                                "price": 2.05,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Aaron Nesmith",
+                                "price": 1.74,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Aaron Nesmith",
+                                "price": 2.0,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Myles Turner",
+                                "price": 2.8,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Myles Turner",
+                                "price": 1.4,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Haliburton",
+                                "price": 2.15,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Haliburton",
+                                "price": 1.67,
+                                "point": 6.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-02-06T09:55:50Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Andrew Nembhard",
+                                "price": 1.74,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Andrew Nembhard",
+                                "price": 2.0,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Haliburton",
+                                "price": 1.87,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Haliburton",
+                                "price": 1.83,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 1.87,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 1.87,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Alperen Sengun",
+                                "price": 1.87,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alperen Sengun",
+                                "price": 1.87,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Green",
+                                "price": 1.87,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Green",
+                                "price": 1.87,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dillon Brooks",
+                                "price": 1.95,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dillon Brooks",
+                                "price": 1.8,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Aaron Nesmith",
+                                "price": 1.91,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Aaron Nesmith",
+                                "price": 1.83,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Myles Turner",
+                                "price": 1.77,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Myles Turner",
+                                "price": 1.95,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jabari Smith Jr",
+                                "price": 1.77,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jabari Smith Jr",
+                                "price": 1.95,
+                                "point": 10.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-02-06T09:55:50Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Andrew Nembhard",
+                                "price": 2.1,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Andrew Nembhard",
+                                "price": 1.67,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Haliburton",
+                                "price": 1.83,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Haliburton",
+                                "price": 1.91,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jabari Smith Jr",
+                                "price": 1.87,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jabari Smith Jr",
+                                "price": 1.87,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 1.74,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 2.0,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Alperen Sengun",
+                                "price": 1.83,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alperen Sengun",
+                                "price": 1.91,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Green",
+                                "price": 2.05,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Green",
+                                "price": 1.71,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dillon Brooks",
+                                "price": 2.2,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dillon Brooks",
+                                "price": 1.65,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Aaron Nesmith",
+                                "price": 1.71,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Aaron Nesmith",
+                                "price": 2.05,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Myles Turner",
+                                "price": 1.95,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Myles Turner",
+                                "price": 1.77,
+                                "point": 7.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetus",
+                "title": "PointsBet (US)",
+                "last_update": "2024-02-06T09:53:39Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-02-06T09:55:20Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Alperen Sengun",
+                                "price": 1.8,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alperen Sengun",
+                                "price": 1.95,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Andrew Nembhard",
+                                "price": 2.0,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Andrew Nembhard",
+                                "price": 1.77,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Green",
+                                "price": 1.83,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Green",
+                                "price": 1.91,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 2.2,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 1.62,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Haliburton",
+                                "price": 2.0,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Haliburton",
+                                "price": 1.77,
+                                "point": 6.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-02-06T09:55:20Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Aaron Nesmith",
+                                "price": 2.0,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Aaron Nesmith",
+                                "price": 1.77,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Alperen Sengun",
+                                "price": 1.91,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alperen Sengun",
+                                "price": 1.83,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Andrew Nembhard",
+                                "price": 1.77,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Andrew Nembhard",
+                                "price": 2.0,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dillon Brooks",
+                                "price": 1.95,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dillon Brooks",
+                                "price": 1.8,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jabari Smith Jr.",
+                                "price": 1.83,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jabari Smith Jr.",
+                                "price": 1.91,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Green",
+                                "price": 1.87,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Green",
+                                "price": 1.87,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Myles Turner",
+                                "price": 1.8,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Myles Turner",
+                                "price": 1.95,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 1.87,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 1.87,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Haliburton",
+                                "price": 1.95,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Haliburton",
+                                "price": 1.8,
+                                "point": 14.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-02-06T09:55:20Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Aaron Nesmith",
+                                "price": 1.71,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Aaron Nesmith",
+                                "price": 2.05,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Alperen Sengun",
+                                "price": 1.77,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alperen Sengun",
+                                "price": 2.0,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Andrew Nembhard",
+                                "price": 2.05,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Andrew Nembhard",
+                                "price": 1.71,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dillon Brooks",
+                                "price": 2.1,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dillon Brooks",
+                                "price": 1.69,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jabari Smith Jr.",
+                                "price": 1.87,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jabari Smith Jr.",
+                                "price": 1.87,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Green",
+                                "price": 2.0,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Green",
+                                "price": 1.77,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Myles Turner",
+                                "price": 1.95,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Myles Turner",
+                                "price": 1.8,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 1.8,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 1.95,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Haliburton",
+                                "price": 1.8,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Haliburton",
+                                "price": 1.95,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betonlineag",
+                "title": "BetOnline.ag",
+                "last_update": "2024-02-06T09:53:38Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-02-06T09:55:41Z",
+                        "outcomes": [
+                            {
+                                "name": "Under",
+                                "description": "Jalen Green",
+                                "price": 1.81,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Green",
+                                "price": 1.95,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Alperen Sengun",
+                                "price": 1.76,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alperen Sengun",
+                                "price": 2.02,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Andrew Nembhard",
+                                "price": 1.57,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Andrew Nembhard",
+                                "price": 2.34,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 1.66,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 2.17,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Haliburton",
+                                "price": 1.77,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Haliburton",
+                                "price": 2.0,
+                                "point": 6.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-02-06T09:55:41Z",
+                        "outcomes": [
+                            {
+                                "name": "Under",
+                                "description": "Myles Turner",
+                                "price": 1.95,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Myles Turner",
+                                "price": 1.81,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alperen Sengun",
+                                "price": 1.86,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Alperen Sengun",
+                                "price": 1.9,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Haliburton",
+                                "price": 1.94,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Haliburton",
+                                "price": 1.82,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jabari Smith",
+                                "price": 1.88,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jabari Smith",
+                                "price": 1.88,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Andrew Nembhard",
+                                "price": 2.0,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Andrew Nembhard",
+                                "price": 1.77,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Aaron Nesmith",
+                                "price": 1.84,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Aaron Nesmith",
+                                "price": 1.92,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 1.84,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 1.92,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dillon Brooks",
+                                "price": 1.92,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dillon Brooks",
+                                "price": 1.84,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Green",
+                                "price": 1.85,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Green",
+                                "price": 1.91,
+                                "point": 21.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-02-06T09:55:41Z",
+                        "outcomes": [
+                            {
+                                "name": "Under",
+                                "description": "Alperen Sengun",
+                                "price": 1.95,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Alperen Sengun",
+                                "price": 1.81,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Myles Turner",
+                                "price": 1.74,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Myles Turner",
+                                "price": 2.05,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Green",
+                                "price": 2.06,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Green",
+                                "price": 1.73,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Haliburton",
+                                "price": 1.82,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Haliburton",
+                                "price": 1.94,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jabari Smith",
+                                "price": 1.85,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jabari Smith",
+                                "price": 1.91,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Andrew Nembhard",
+                                "price": 2.13,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Andrew Nembhard",
+                                "price": 1.68,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Aaron Nesmith",
+                                "price": 2.09,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Aaron Nesmith",
+                                "price": 1.71,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 1.97,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 1.8,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dillon Brooks",
+                                "price": 2.17,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dillon Brooks",
+                                "price": 1.66,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

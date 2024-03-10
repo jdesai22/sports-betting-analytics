@@ -1,0 +1,2422 @@
+{
+    "timestamp": "2023-12-04T09:55:38Z",
+    "previous_timestamp": "2023-12-04T09:50:38Z",
+    "next_timestamp": "2023-12-04T10:00:38Z",
+    "data": {
+        "id": "9f8d190cf4e30de3a216f87d71298fa1",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2023-12-05T03:00:00Z",
+        "home_team": "Sacramento Kings",
+        "away_team": "New Orleans Pelicans",
+        "bookmakers": [
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2023-12-04T09:53:47Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-04T09:54:45Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Brandon Ingram",
+                                "price": 2.1,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandon Ingram",
+                                "price": 1.71,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "CJ McCollum",
+                                "price": 2.14,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "CJ McCollum",
+                                "price": 1.69,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 2.05,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.74,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.77,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 2.0,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Herbert Jones",
+                                "price": 2.05,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Herbert Jones",
+                                "price": 1.74,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jonas Valanciunas",
+                                "price": 2.5,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jonas Valanciunas",
+                                "price": 1.51,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kevin Huerter",
+                                "price": 1.83,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Huerter",
+                                "price": 1.91,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malik Monk",
+                                "price": 2.0,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malik Monk",
+                                "price": 1.77,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Zion Williamson",
+                                "price": 1.71,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Zion Williamson",
+                                "price": 2.1,
+                                "point": 4.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-04T09:54:45Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Brandon Ingram",
+                                "price": 1.91,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandon Ingram",
+                                "price": 1.83,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "CJ McCollum",
+                                "price": 1.87,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "CJ McCollum",
+                                "price": 1.87,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.95,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.8,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.87,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.87,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Harrison Barnes",
+                                "price": 1.83,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Harrison Barnes",
+                                "price": 1.91,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Herbert Jones",
+                                "price": 1.83,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Herbert Jones",
+                                "price": 1.91,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jonas Valanciunas",
+                                "price": 1.95,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jonas Valanciunas",
+                                "price": 1.8,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keegan Murray",
+                                "price": 1.91,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keegan Murray",
+                                "price": 1.83,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kevin Huerter",
+                                "price": 1.87,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Huerter",
+                                "price": 1.87,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malik Monk",
+                                "price": 1.91,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malik Monk",
+                                "price": 1.83,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Zion Williamson",
+                                "price": 1.83,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Zion Williamson",
+                                "price": 1.91,
+                                "point": 23.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-04T09:54:45Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Brandon Ingram",
+                                "price": 2.2,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandon Ingram",
+                                "price": 1.67,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "CJ McCollum",
+                                "price": 1.8,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "CJ McCollum",
+                                "price": 1.95,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.69,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 2.14,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.8,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.95,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Harrison Barnes",
+                                "price": 2.05,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Harrison Barnes",
+                                "price": 1.74,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Herbert Jones",
+                                "price": 1.8,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Herbert Jones",
+                                "price": 1.95,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jonas Valanciunas",
+                                "price": 1.91,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jonas Valanciunas",
+                                "price": 1.83,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keegan Murray",
+                                "price": 2.2,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keegan Murray",
+                                "price": 1.67,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kevin Huerter",
+                                "price": 1.77,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Huerter",
+                                "price": 2.0,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malik Monk",
+                                "price": 2.3,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malik Monk",
+                                "price": 1.6,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Zion Williamson",
+                                "price": 1.74,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Zion Williamson",
+                                "price": 2.05,
+                                "point": 5.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2023-12-04T09:54:10Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-04T09:53:20Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Kevin Huerter",
+                                "price": 1.8,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Huerter",
+                                "price": 1.98,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Zion Williamson",
+                                "price": 1.71,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Zion Williamson",
+                                "price": 2.1,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brandon Ingram",
+                                "price": 2.18,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandon Ingram",
+                                "price": 1.67,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malik Monk",
+                                "price": 2.08,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malik Monk",
+                                "price": 1.72,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 2.08,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.72,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.76,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 2.04,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "CJ McCollum",
+                                "price": 2.08,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "CJ McCollum",
+                                "price": 1.72,
+                                "point": 5.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-04T09:53:20Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Zion Williamson",
+                                "price": 1.8,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Zion Williamson",
+                                "price": 1.98,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "CJ McCollum",
+                                "price": 1.82,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "CJ McCollum",
+                                "price": 1.96,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.88,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.88,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kevin Huerter",
+                                "price": 1.88,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Huerter",
+                                "price": 1.88,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.88,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.88,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brandon Ingram",
+                                "price": 1.96,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandon Ingram",
+                                "price": 1.82,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Herbert Jones",
+                                "price": 1.78,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Herbert Jones",
+                                "price": 2.0,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Harrison Barnes",
+                                "price": 1.9,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Harrison Barnes",
+                                "price": 1.87,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keegan Murray",
+                                "price": 1.77,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keegan Murray",
+                                "price": 2.02,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jonas Valanciunas",
+                                "price": 1.88,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jonas Valanciunas",
+                                "price": 1.88,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malik Monk",
+                                "price": 1.94,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malik Monk",
+                                "price": 1.83,
+                                "point": 14.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-04T09:53:20Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Brandon Ingram",
+                                "price": 2.1,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandon Ingram",
+                                "price": 1.71,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "CJ McCollum",
+                                "price": 1.82,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "CJ McCollum",
+                                "price": 1.96,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Zion Williamson",
+                                "price": 2.16,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Zion Williamson",
+                                "price": 1.68,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malik Monk",
+                                "price": 2.28,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malik Monk",
+                                "price": 1.61,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kevin Huerter",
+                                "price": 1.85,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Huerter",
+                                "price": 1.93,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jonas Valanciunas",
+                                "price": 1.94,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jonas Valanciunas",
+                                "price": 1.83,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.64,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 2.22,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Herbert Jones",
+                                "price": 1.78,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Herbert Jones",
+                                "price": 2.0,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Harrison Barnes",
+                                "price": 1.98,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Harrison Barnes",
+                                "price": 1.78,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keegan Murray",
+                                "price": 1.68,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keegan Murray",
+                                "price": 2.14,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.78,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 2.0,
+                                "point": 11.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "Caesars",
+                "last_update": "2023-12-04T09:52:57Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-04T09:52:34Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Herbert Jones",
+                                "price": 2.04,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Herbert Jones",
+                                "price": 1.7,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Zion Williamson",
+                                "price": 1.72,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Zion Williamson",
+                                "price": 2.02,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jonas Valanciunas",
+                                "price": 2.43,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jonas Valanciunas",
+                                "price": 1.5,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malik Monk",
+                                "price": 2.0,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malik Monk",
+                                "price": 1.73,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.72,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 2.02,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 2.06,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.69,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Harrison Barnes",
+                                "price": 2.36,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Harrison Barnes",
+                                "price": 1.53,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "CJ McCollum",
+                                "price": 2.16,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "CJ McCollum",
+                                "price": 1.62,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keegan Murray",
+                                "price": 2.02,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keegan Murray",
+                                "price": 1.72,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brandon Ingram",
+                                "price": 1.97,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandon Ingram",
+                                "price": 1.75,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kevin Huerter",
+                                "price": 1.78,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Huerter",
+                                "price": 1.94,
+                                "point": 2.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-04T09:52:34Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Zion Williamson",
+                                "price": 1.72,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Zion Williamson",
+                                "price": 2.02,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keegan Murray",
+                                "price": 1.87,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keegan Murray",
+                                "price": 1.84,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.87,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.84,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brandon Ingram",
+                                "price": 1.81,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandon Ingram",
+                                "price": 1.9,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Harrison Barnes",
+                                "price": 1.79,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Harrison Barnes",
+                                "price": 1.93,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kevin Huerter",
+                                "price": 1.84,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Huerter",
+                                "price": 1.87,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Herbert Jones",
+                                "price": 1.83,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Herbert Jones",
+                                "price": 1.88,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jonas Valanciunas",
+                                "price": 1.97,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jonas Valanciunas",
+                                "price": 1.75,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "CJ McCollum",
+                                "price": 1.85,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "CJ McCollum",
+                                "price": 1.85,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.81,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.9,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malik Monk",
+                                "price": 1.85,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malik Monk",
+                                "price": 1.85,
+                                "point": 14.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-04T09:52:34Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Herbert Jones",
+                                "price": 1.75,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Herbert Jones",
+                                "price": 1.97,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keegan Murray",
+                                "price": 2.14,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keegan Murray",
+                                "price": 1.64,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malik Monk",
+                                "price": 2.26,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malik Monk",
+                                "price": 1.57,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jonas Valanciunas",
+                                "price": 1.88,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jonas Valanciunas",
+                                "price": 1.83,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "CJ McCollum",
+                                "price": 1.81,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "CJ McCollum",
+                                "price": 1.9,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brandon Ingram",
+                                "price": 2.18,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandon Ingram",
+                                "price": 1.61,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kevin Huerter",
+                                "price": 1.79,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Huerter",
+                                "price": 1.93,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.79,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.93,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Harrison Barnes",
+                                "price": 1.97,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Harrison Barnes",
+                                "price": 1.75,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Zion Williamson",
+                                "price": 1.69,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Zion Williamson",
+                                "price": 2.06,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.66,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 2.1,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": "2023-12-04T09:53:42Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-04T09:50:58Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Keegan Murray",
+                                "price": 2.1,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keegan Murray",
+                                "price": 1.69,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malik Monk",
+                                "price": 2.0,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malik Monk",
+                                "price": 1.74,
+                                "point": 4.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-04T09:50:58Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "CJ McCollum",
+                                "price": 1.87,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "CJ McCollum",
+                                "price": 1.87,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keegan Murray",
+                                "price": 1.91,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keegan Murray",
+                                "price": 1.83,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malik Monk",
+                                "price": 1.91,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malik Monk",
+                                "price": 1.83,
+                                "point": 14.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-04T09:50:58Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "CJ McCollum",
+                                "price": 1.8,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "CJ McCollum",
+                                "price": 1.95,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keegan Murray",
+                                "price": 2.15,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keegan Murray",
+                                "price": 1.65,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malik Monk",
+                                "price": 2.25,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malik Monk",
+                                "price": 1.61,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2023-12-04T09:54:15Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-04T09:53:45Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Brandon Ingram",
+                                "price": 2.1,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandon Ingram",
+                                "price": 1.69,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Christian James McCollum",
+                                "price": 2.1,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Christian James McCollum",
+                                "price": 1.69,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 2.05,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.74,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.77,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 2.0,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Herbert Jones",
+                                "price": 2.05,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Herbert Jones",
+                                "price": 1.74,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Huerter Kevin",
+                                "price": 1.83,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Huerter Kevin",
+                                "price": 1.91,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jonas Valanciunas",
+                                "price": 2.5,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jonas Valanciunas",
+                                "price": 1.5,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malik Monk",
+                                "price": 2.0,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malik Monk",
+                                "price": 1.77,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Zion Williamson",
+                                "price": 1.69,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Zion Williamson",
+                                "price": 2.1,
+                                "point": 4.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-04T09:53:45Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Brandon Ingram",
+                                "price": 1.95,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandon Ingram",
+                                "price": 1.8,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.87,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.87,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Herbert Jones",
+                                "price": 1.77,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Herbert Jones",
+                                "price": 2.0,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malik Monk",
+                                "price": 1.91,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malik Monk",
+                                "price": 1.83,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Zion Williamson",
+                                "price": 1.8,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Zion Williamson",
+                                "price": 1.95,
+                                "point": 24.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-04T09:53:45Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Brandon Ingram",
+                                "price": 2.15,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandon Ingram",
+                                "price": 1.67,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Christian James McCollum",
+                                "price": 1.8,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Christian James McCollum",
+                                "price": 1.95,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.69,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 2.1,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.8,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.95,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Harrison Barnes",
+                                "price": 2.05,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Harrison Barnes",
+                                "price": 1.74,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Herbert Jones",
+                                "price": 1.8,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Herbert Jones",
+                                "price": 1.95,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Huerter Kevin",
+                                "price": 1.77,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Huerter Kevin",
+                                "price": 2.0,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jonas Valanciunas",
+                                "price": 1.91,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jonas Valanciunas",
+                                "price": 1.83,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keegan Murray",
+                                "price": 2.15,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keegan Murray",
+                                "price": 1.67,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malik Monk",
+                                "price": 2.3,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malik Monk",
+                                "price": 1.59,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Zion Williamson",
+                                "price": 1.74,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Zion Williamson",
+                                "price": 2.05,
+                                "point": 5.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetus",
+                "title": "PointsBet (US)",
+                "last_update": "2023-12-04T09:53:47Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-04T09:51:50Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Brandon Ingram",
+                                "price": 2.1,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandon Ingram",
+                                "price": 1.69,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "CJ McCollum",
+                                "price": 2.15,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "CJ McCollum",
+                                "price": 1.67,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 2.0,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.77,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.8,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.95,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Herbert Jones",
+                                "price": 2.05,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Herbert Jones",
+                                "price": 1.71,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jonas Valanciunas",
+                                "price": 2.45,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jonas Valanciunas",
+                                "price": 1.53,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kevin Huerter",
+                                "price": 1.83,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Huerter",
+                                "price": 1.91,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malik Monk",
+                                "price": 1.95,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malik Monk",
+                                "price": 1.8,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Zion Williamson",
+                                "price": 1.71,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Zion Williamson",
+                                "price": 2.05,
+                                "point": 4.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-04T09:51:50Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Brandon Ingram",
+                                "price": 1.87,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandon Ingram",
+                                "price": 1.87,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "CJ McCollum",
+                                "price": 1.87,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "CJ McCollum",
+                                "price": 1.87,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.91,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.83,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.87,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.87,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Harrison Barnes",
+                                "price": 1.83,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Harrison Barnes",
+                                "price": 1.91,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Herbert Jones",
+                                "price": 1.87,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Herbert Jones",
+                                "price": 1.87,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jonas Valanciunas",
+                                "price": 1.95,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jonas Valanciunas",
+                                "price": 1.8,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keegan Murray",
+                                "price": 1.91,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keegan Murray",
+                                "price": 1.83,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kevin Huerter",
+                                "price": 1.87,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Huerter",
+                                "price": 1.87,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malik Monk",
+                                "price": 1.87,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malik Monk",
+                                "price": 1.87,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Zion Williamson",
+                                "price": 1.87,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Zion Williamson",
+                                "price": 1.87,
+                                "point": 24.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-04T09:51:50Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Brandon Ingram",
+                                "price": 2.2,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandon Ingram",
+                                "price": 1.62,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "CJ McCollum",
+                                "price": 1.83,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "CJ McCollum",
+                                "price": 1.91,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.67,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 2.15,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.8,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.95,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Harrison Barnes",
+                                "price": 2.05,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Harrison Barnes",
+                                "price": 1.71,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Herbert Jones",
+                                "price": 1.77,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Herbert Jones",
+                                "price": 2.0,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jonas Valanciunas",
+                                "price": 1.87,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jonas Valanciunas",
+                                "price": 1.87,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keegan Murray",
+                                "price": 2.2,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keegan Murray",
+                                "price": 1.62,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kevin Huerter",
+                                "price": 1.77,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Huerter",
+                                "price": 2.0,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malik Monk",
+                                "price": 2.35,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malik Monk",
+                                "price": 1.57,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Zion Williamson",
+                                "price": 1.77,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Zion Williamson",
+                                "price": 2.0,
+                                "point": 5.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betonlineag",
+                "title": "BetOnline.ag",
+                "last_update": "2023-12-04T09:54:47Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-04T09:55:58Z",
+                        "outcomes": [
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.75,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 2.03,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Zion Williamson",
+                                "price": 2.09,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Zion Williamson",
+                                "price": 1.71,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandon Ingram",
+                                "price": 1.69,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brandon Ingram",
+                                "price": 2.12,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Herbert Jones",
+                                "price": 2.06,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Herbert Jones",
+                                "price": 1.73,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jonas Valanciunas",
+                                "price": 1.51,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jonas Valanciunas",
+                                "price": 2.49,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "CJ McCollum",
+                                "price": 1.68,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "CJ McCollum",
+                                "price": 2.13,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.76,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 2.02,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kevin Huerter",
+                                "price": 1.84,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Huerter",
+                                "price": 1.92,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malik Monk",
+                                "price": 2.02,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malik Monk",
+                                "price": 1.76,
+                                "point": 4.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-04T09:55:58Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.93,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.83,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Harrison Barnes",
+                                "price": 1.87,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Harrison Barnes",
+                                "price": 1.89,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Herbert Jones",
+                                "price": 1.84,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Herbert Jones",
+                                "price": 1.92,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jonas Valanciunas",
+                                "price": 1.97,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jonas Valanciunas",
+                                "price": 1.8,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "CJ McCollum",
+                                "price": 1.88,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "CJ McCollum",
+                                "price": 1.88,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.77,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 2.0,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kevin Huerter",
+                                "price": 1.89,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Huerter",
+                                "price": 1.87,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malik Monk",
+                                "price": 1.92,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malik Monk",
+                                "price": 1.84,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Zion Williamson",
+                                "price": 1.77,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Zion Williamson",
+                                "price": 2.0,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brandon Ingram",
+                                "price": 1.83,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandon Ingram",
+                                "price": 1.93,
+                                "point": 22.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-04T09:55:58Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.68,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 2.14,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Harrison Barnes",
+                                "price": 1.74,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Harrison Barnes",
+                                "price": 2.04,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Zion Williamson",
+                                "price": 2.04,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Zion Williamson",
+                                "price": 1.74,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brandon Ingram",
+                                "price": 2.17,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandon Ingram",
+                                "price": 1.66,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Herbert Jones",
+                                "price": 1.8,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Herbert Jones",
+                                "price": 1.97,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jonas Valanciunas",
+                                "price": 1.92,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jonas Valanciunas",
+                                "price": 1.84,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "CJ McCollum",
+                                "price": 1.82,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "CJ McCollum",
+                                "price": 1.94,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.81,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.96,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kevin Huerter",
+                                "price": 1.79,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Huerter",
+                                "price": 1.98,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malik Monk",
+                                "price": 1.6,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malik Monk",
+                                "price": 2.28,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

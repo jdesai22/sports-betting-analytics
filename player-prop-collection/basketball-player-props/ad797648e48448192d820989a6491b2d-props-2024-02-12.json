@@ -1,0 +1,3192 @@
+{
+    "timestamp": "2024-02-12T09:55:38Z",
+    "previous_timestamp": "2024-02-12T09:50:38Z",
+    "next_timestamp": "2024-02-12T10:00:38Z",
+    "data": {
+        "id": "ad797648e48448192d820989a6491b2d",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-02-13T00:40:00Z",
+        "home_team": "Toronto Raptors",
+        "away_team": "San Antonio Spurs",
+        "bookmakers": [
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2024-02-12T09:54:11Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-02-12T09:55:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Devin Vassell",
+                                "price": 1.69,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Vassell",
+                                "price": 2.14,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Immanuel Quickley",
+                                "price": 1.77,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Immanuel Quickley",
+                                "price": 2.0,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jakob Poeltl",
+                                "price": 2.35,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jakob Poeltl",
+                                "price": 1.57,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jeremy Sochan",
+                                "price": 1.62,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jeremy Sochan",
+                                "price": 2.24,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "RJ Barrett",
+                                "price": 1.71,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "RJ Barrett",
+                                "price": 2.1,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 1.91,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.83,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tre Jones",
+                                "price": 1.95,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tre Jones",
+                                "price": 1.8,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Victor Wembanyama",
+                                "price": 2.14,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Victor Wembanyama",
+                                "price": 1.69,
+                                "point": 3.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-02-12T09:55:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Devin Vassell",
+                                "price": 1.8,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Vassell",
+                                "price": 1.95,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Gary Trent Jr.",
+                                "price": 1.8,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Gary Trent Jr.",
+                                "price": 1.95,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Immanuel Quickley",
+                                "price": 1.87,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Immanuel Quickley",
+                                "price": 1.87,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jakob Poeltl",
+                                "price": 1.77,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jakob Poeltl",
+                                "price": 2.0,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jeremy Sochan",
+                                "price": 1.83,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jeremy Sochan",
+                                "price": 1.91,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Julian Champagnie",
+                                "price": 2.0,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Julian Champagnie",
+                                "price": 1.77,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "RJ Barrett",
+                                "price": 1.87,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "RJ Barrett",
+                                "price": 1.87,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 2.0,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.77,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tre Jones",
+                                "price": 1.83,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tre Jones",
+                                "price": 1.91,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Victor Wembanyama",
+                                "price": 1.77,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Victor Wembanyama",
+                                "price": 2.0,
+                                "point": 22.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-02-12T09:55:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Devin Vassell",
+                                "price": 1.95,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Vassell",
+                                "price": 1.8,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Gary Trent Jr.",
+                                "price": 2.35,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Gary Trent Jr.",
+                                "price": 1.57,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Immanuel Quickley",
+                                "price": 1.91,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Immanuel Quickley",
+                                "price": 1.83,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jakob Poeltl",
+                                "price": 1.95,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jakob Poeltl",
+                                "price": 1.8,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jeremy Sochan",
+                                "price": 2.0,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jeremy Sochan",
+                                "price": 1.77,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Julian Champagnie",
+                                "price": 2.05,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Julian Champagnie",
+                                "price": 1.74,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "RJ Barrett",
+                                "price": 1.62,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "RJ Barrett",
+                                "price": 2.24,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 2.1,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.71,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tre Jones",
+                                "price": 1.74,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tre Jones",
+                                "price": 2.05,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Victor Wembanyama",
+                                "price": 1.77,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Victor Wembanyama",
+                                "price": 2.0,
+                                "point": 10.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2024-02-12T09:55:03Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-02-12T09:54:09Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jeremy Sochan",
+                                "price": 1.56,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jeremy Sochan",
+                                "price": 2.4,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Devin Vassell",
+                                "price": 2.32,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Vassell",
+                                "price": 1.59,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "RJ Barrett",
+                                "price": 1.7,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "RJ Barrett",
+                                "price": 2.12,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 1.9,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.87,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Immanuel Quickley",
+                                "price": 2.26,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Immanuel Quickley",
+                                "price": 1.62,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Victor Wembanyama",
+                                "price": 2.16,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Victor Wembanyama",
+                                "price": 1.68,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tre Jones",
+                                "price": 2.02,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tre Jones",
+                                "price": 1.77,
+                                "point": 7.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-02-12T09:54:09Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jakob Poeltl",
+                                "price": 2.0,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jakob Poeltl",
+                                "price": 1.78,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "RJ Barrett",
+                                "price": 1.9,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "RJ Barrett",
+                                "price": 1.87,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 1.83,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.93,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Gary Trent Jr.",
+                                "price": 1.8,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Gary Trent Jr.",
+                                "price": 1.98,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Immanuel Quickley",
+                                "price": 1.87,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Immanuel Quickley",
+                                "price": 1.93,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tre Jones",
+                                "price": 1.85,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tre Jones",
+                                "price": 1.93,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Julian Champagnie",
+                                "price": 2.02,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Julian Champagnie",
+                                "price": 1.77,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Victor Wembanyama",
+                                "price": 1.87,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Victor Wembanyama",
+                                "price": 1.9,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Devin Vassell",
+                                "price": 1.93,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Vassell",
+                                "price": 1.87,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jeremy Sochan",
+                                "price": 1.96,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jeremy Sochan",
+                                "price": 1.82,
+                                "point": 10.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-02-12T09:54:09Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "RJ Barrett",
+                                "price": 1.68,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "RJ Barrett",
+                                "price": 2.14,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 2.1,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.71,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jakob Poeltl",
+                                "price": 1.94,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jakob Poeltl",
+                                "price": 1.83,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jeremy Sochan",
+                                "price": 1.98,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jeremy Sochan",
+                                "price": 1.8,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Julian Champagnie",
+                                "price": 2.16,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Julian Champagnie",
+                                "price": 1.68,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Devin Vassell",
+                                "price": 2.0,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Vassell",
+                                "price": 1.78,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Immanuel Quickley",
+                                "price": 2.12,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Immanuel Quickley",
+                                "price": 1.7,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Victor Wembanyama",
+                                "price": 1.94,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Victor Wembanyama",
+                                "price": 1.83,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tre Jones",
+                                "price": 1.67,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tre Jones",
+                                "price": 2.18,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betonlineag",
+                "title": "BetOnline.ag",
+                "last_update": "2024-02-12T09:54:14Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-02-12T09:54:05Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jakob Poeltl",
+                                "price": 2.34,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jakob Poeltl",
+                                "price": 1.57,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tre Jones",
+                                "price": 1.77,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tre Jones",
+                                "price": 2.0,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Vassell",
+                                "price": 2.11,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Devin Vassell",
+                                "price": 1.69,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 1.94,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.82,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jeremy Sochan",
+                                "price": 1.61,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jeremy Sochan",
+                                "price": 2.26,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "RJ Barrett",
+                                "price": 2.05,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "RJ Barrett",
+                                "price": 1.74,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Victor Wembanyama",
+                                "price": 2.12,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Victor Wembanyama",
+                                "price": 1.69,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Immanuel Quickley",
+                                "price": 1.7,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Immanuel Quickley",
+                                "price": 2.1,
+                                "point": 5.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-02-12T09:54:05Z",
+                        "outcomes": [
+                            {
+                                "name": "Under",
+                                "description": "Jakob Poeltl",
+                                "price": 2.15,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jakob Poeltl",
+                                "price": 1.67,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Vassell",
+                                "price": 1.9,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Devin Vassell",
+                                "price": 1.86,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Gary Trent Jr.",
+                                "price": 1.96,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Gary Trent Jr.",
+                                "price": 1.81,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tre Jones",
+                                "price": 2.0,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tre Jones",
+                                "price": 1.77,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.78,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 1.99,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Julian Champagnie",
+                                "price": 1.76,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Julian Champagnie",
+                                "price": 2.02,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jeremy Sochan",
+                                "price": 1.87,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jeremy Sochan",
+                                "price": 1.89,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "RJ Barrett",
+                                "price": 1.88,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "RJ Barrett",
+                                "price": 1.88,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Victor Wembanyama",
+                                "price": 1.91,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Victor Wembanyama",
+                                "price": 1.85,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Immanuel Quickley",
+                                "price": 1.88,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Immanuel Quickley",
+                                "price": 1.88,
+                                "point": 17.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-02-12T09:54:05Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jakob Poeltl",
+                                "price": 2.02,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jakob Poeltl",
+                                "price": 1.76,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Devin Vassell",
+                                "price": 1.98,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Vassell",
+                                "price": 1.79,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tre Jones",
+                                "price": 1.88,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tre Jones",
+                                "price": 1.88,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Gary Trent Jr.",
+                                "price": 2.34,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Gary Trent Jr.",
+                                "price": 1.57,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 2.1,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.7,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jeremy Sochan",
+                                "price": 1.99,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jeremy Sochan",
+                                "price": 1.78,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Julian Champagnie",
+                                "price": 1.6,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Julian Champagnie",
+                                "price": 2.28,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Victor Wembanyama",
+                                "price": 1.84,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Victor Wembanyama",
+                                "price": 1.92,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "RJ Barrett",
+                                "price": 1.66,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "RJ Barrett",
+                                "price": 2.16,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Immanuel Quickley",
+                                "price": 1.78,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Immanuel Quickley",
+                                "price": 1.99,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetus",
+                "title": "PointsBet (US)",
+                "last_update": "2024-02-12T09:53:41Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-02-12T09:54:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Devin Vassell",
+                                "price": 1.71,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Vassell",
+                                "price": 2.05,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Immanuel Quickley",
+                                "price": 1.77,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Immanuel Quickley",
+                                "price": 2.0,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jakob Poeltl",
+                                "price": 2.35,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jakob Poeltl",
+                                "price": 1.57,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jeremy Sochan",
+                                "price": 1.61,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jeremy Sochan",
+                                "price": 2.25,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "RJ Barrett",
+                                "price": 1.69,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "RJ Barrett",
+                                "price": 2.1,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 1.87,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.87,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tre Jones",
+                                "price": 1.95,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tre Jones",
+                                "price": 1.8,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Victor Wembanyama",
+                                "price": 2.05,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Victor Wembanyama",
+                                "price": 1.71,
+                                "point": 3.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-02-12T09:54:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Devin Vassell",
+                                "price": 1.8,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Vassell",
+                                "price": 1.95,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Gary Trent",
+                                "price": 1.8,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Gary Trent",
+                                "price": 1.95,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Immanuel Quickley",
+                                "price": 1.87,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Immanuel Quickley",
+                                "price": 1.87,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jakob Poeltl",
+                                "price": 1.95,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jakob Poeltl",
+                                "price": 1.8,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jeremy Sochan",
+                                "price": 1.83,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jeremy Sochan",
+                                "price": 1.91,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Julian Champagnie",
+                                "price": 1.95,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Julian Champagnie",
+                                "price": 1.8,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "RJ Barrett",
+                                "price": 1.87,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "RJ Barrett",
+                                "price": 1.87,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 1.8,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.95,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tre Jones",
+                                "price": 1.87,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tre Jones",
+                                "price": 1.87,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Victor Wembanyama",
+                                "price": 1.8,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Victor Wembanyama",
+                                "price": 1.95,
+                                "point": 22.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-02-12T09:54:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Devin Vassell",
+                                "price": 1.91,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Vassell",
+                                "price": 1.83,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Gary Trent",
+                                "price": 2.3,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Gary Trent",
+                                "price": 1.59,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Immanuel Quickley",
+                                "price": 1.95,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Immanuel Quickley",
+                                "price": 1.8,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jakob Poeltl",
+                                "price": 1.95,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jakob Poeltl",
+                                "price": 1.8,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jeremy Sochan",
+                                "price": 2.0,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jeremy Sochan",
+                                "price": 1.77,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Julian Champagnie",
+                                "price": 2.05,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Julian Champagnie",
+                                "price": 1.71,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "RJ Barrett",
+                                "price": 2.15,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "RJ Barrett",
+                                "price": 1.67,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 2.1,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.69,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tre Jones",
+                                "price": 1.71,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tre Jones",
+                                "price": 2.05,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Victor Wembanyama",
+                                "price": 1.8,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Victor Wembanyama",
+                                "price": 1.95,
+                                "point": 10.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "Caesars",
+                "last_update": "2024-02-12T09:55:35Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-02-12T09:54:47Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "RJ Barrett",
+                                "price": 1.68,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "RJ Barrett",
+                                "price": 2.08,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jakob Poeltl",
+                                "price": 2.33,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jakob Poeltl",
+                                "price": 1.54,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Devin Vassell",
+                                "price": 1.68,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Vassell",
+                                "price": 2.08,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 1.85,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.85,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tre Jones",
+                                "price": 1.94,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tre Jones",
+                                "price": 1.78,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Julian Champagnie",
+                                "price": 2.46,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Julian Champagnie",
+                                "price": 1.49,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Gary Trent Jr.",
+                                "price": 2.18,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Gary Trent Jr.",
+                                "price": 1.61,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jeremy Sochan",
+                                "price": 1.6,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jeremy Sochan",
+                                "price": 2.2,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Victor Wembanyama",
+                                "price": 2.06,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Victor Wembanyama",
+                                "price": 1.69,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Immanuel Quickley",
+                                "price": 1.73,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Immanuel Quickley",
+                                "price": 2.0,
+                                "point": 5.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-02-12T09:54:47Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jakob Poeltl",
+                                "price": 1.76,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jakob Poeltl",
+                                "price": 1.96,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jeremy Sochan",
+                                "price": 1.84,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jeremy Sochan",
+                                "price": 1.87,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Victor Wembanyama",
+                                "price": 1.81,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Victor Wembanyama",
+                                "price": 1.9,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 1.94,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.78,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Gary Trent Jr.",
+                                "price": 1.78,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Gary Trent Jr.",
+                                "price": 1.94,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "RJ Barrett",
+                                "price": 1.87,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "RJ Barrett",
+                                "price": 1.84,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Devin Vassell",
+                                "price": 1.85,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Vassell",
+                                "price": 1.85,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Immanuel Quickley",
+                                "price": 1.85,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Immanuel Quickley",
+                                "price": 1.85,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tre Jones",
+                                "price": 1.79,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tre Jones",
+                                "price": 1.93,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Julian Champagnie",
+                                "price": 1.96,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Julian Champagnie",
+                                "price": 1.76,
+                                "point": 6.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-02-12T09:54:47Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jeremy Sochan",
+                                "price": 1.92,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jeremy Sochan",
+                                "price": 1.8,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Gary Trent Jr.",
+                                "price": 2.26,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Gary Trent Jr.",
+                                "price": 1.57,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jakob Poeltl",
+                                "price": 2.0,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jakob Poeltl",
+                                "price": 1.73,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Immanuel Quickley",
+                                "price": 2.02,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Immanuel Quickley",
+                                "price": 1.72,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 2.02,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.72,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tre Jones",
+                                "price": 1.68,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tre Jones",
+                                "price": 2.08,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Victor Wembanyama",
+                                "price": 1.85,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Victor Wembanyama",
+                                "price": 1.85,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Julian Champagnie",
+                                "price": 2.08,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Julian Champagnie",
+                                "price": 1.68,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "RJ Barrett",
+                                "price": 1.66,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "RJ Barrett",
+                                "price": 2.1,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Devin Vassell",
+                                "price": 1.96,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Vassell",
+                                "price": 1.76,
+                                "point": 4.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2024-02-12T09:53:42Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-02-12T09:55:27Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Devin Vassell",
+                                "price": 1.69,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Vassell",
+                                "price": 2.1,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Immanuel Quickley",
+                                "price": 1.77,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Immanuel Quickley",
+                                "price": 2.0,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jakob Poeltl",
+                                "price": 2.35,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jakob Poeltl",
+                                "price": 1.56,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jeremy Sochan",
+                                "price": 1.62,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jeremy Sochan",
+                                "price": 2.2,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "RJ Barrett Jr.",
+                                "price": 1.69,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "RJ Barrett Jr.",
+                                "price": 2.1,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 1.91,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.83,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tre Jones",
+                                "price": 1.95,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tre Jones",
+                                "price": 1.8,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Wembanyama Victor",
+                                "price": 2.1,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Wembanyama Victor",
+                                "price": 1.69,
+                                "point": 3.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-02-12T09:55:27Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Devin Vassell",
+                                "price": 1.91,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Vassell",
+                                "price": 1.83,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Gary Trent Jr.",
+                                "price": 1.74,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Gary Trent Jr.",
+                                "price": 2.05,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Immanuel Quickley",
+                                "price": 1.83,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Immanuel Quickley",
+                                "price": 1.91,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jakob Poeltl",
+                                "price": 2.05,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jakob Poeltl",
+                                "price": 1.74,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jeremy Sochan",
+                                "price": 1.95,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jeremy Sochan",
+                                "price": 1.8,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Julian Champagnie",
+                                "price": 2.05,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Julian Champagnie",
+                                "price": 1.74,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "RJ Barrett Jr.",
+                                "price": 1.91,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "RJ Barrett Jr.",
+                                "price": 1.83,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 1.83,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.91,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tre Jones",
+                                "price": 1.83,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tre Jones",
+                                "price": 1.91,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Wembanyama Victor",
+                                "price": 1.83,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Wembanyama Victor",
+                                "price": 1.91,
+                                "point": 22.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-02-12T09:55:27Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Devin Vassell",
+                                "price": 1.95,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Vassell",
+                                "price": 1.8,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Gary Trent Jr.",
+                                "price": 2.35,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Gary Trent Jr.",
+                                "price": 1.56,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Immanuel Quickley",
+                                "price": 1.91,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Immanuel Quickley",
+                                "price": 1.83,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jakob Poeltl",
+                                "price": 1.95,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jakob Poeltl",
+                                "price": 1.8,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jeremy Sochan",
+                                "price": 2.0,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jeremy Sochan",
+                                "price": 1.77,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Julian Champagnie",
+                                "price": 2.05,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Julian Champagnie",
+                                "price": 1.74,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "RJ Barrett Jr.",
+                                "price": 1.62,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "RJ Barrett Jr.",
+                                "price": 2.2,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 2.1,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.69,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tre Jones",
+                                "price": 1.74,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tre Jones",
+                                "price": 2.05,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Wembanyama Victor",
+                                "price": 1.77,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Wembanyama Victor",
+                                "price": 2.0,
+                                "point": 10.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": "2024-02-12T09:54:18Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-02-12T09:54:14Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Immanuel Quickley",
+                                "price": 1.74,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Immanuel Quickley",
+                                "price": 2.0,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Victor Wembanyama",
+                                "price": 2.1,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Victor Wembanyama",
+                                "price": 1.67,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tre Jones",
+                                "price": 1.95,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tre Jones",
+                                "price": 1.77,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jeremy Sochan",
+                                "price": 1.62,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jeremy Sochan",
+                                "price": 2.2,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Julian Champagnie",
+                                "price": 2.5,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Julian Champagnie",
+                                "price": 1.5,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jakob Poeltl",
+                                "price": 2.35,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jakob Poeltl",
+                                "price": 1.57,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Gary Trent Jr.",
+                                "price": 2.15,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Gary Trent Jr.",
+                                "price": 1.65,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "RJ Barrett",
+                                "price": 1.69,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "RJ Barrett",
+                                "price": 2.05,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Devin Vassell",
+                                "price": 1.67,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Vassell",
+                                "price": 2.1,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 1.91,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.83,
+                                "point": 6.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-02-12T09:54:14Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Immanuel Quickley",
+                                "price": 1.83,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Immanuel Quickley",
+                                "price": 1.91,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Victor Wembanyama",
+                                "price": 1.83,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Victor Wembanyama",
+                                "price": 1.87,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tre Jones",
+                                "price": 1.83,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tre Jones",
+                                "price": 1.91,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jeremy Sochan",
+                                "price": 1.83,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jeremy Sochan",
+                                "price": 1.91,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Julian Champagnie",
+                                "price": 2.0,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Julian Champagnie",
+                                "price": 1.74,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Gary Trent Jr.",
+                                "price": 1.8,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Gary Trent Jr.",
+                                "price": 1.95,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "RJ Barrett",
+                                "price": 1.87,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "RJ Barrett",
+                                "price": 1.87,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Devin Vassell",
+                                "price": 1.8,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Vassell",
+                                "price": 1.91,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 2.0,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.77,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jakob Poeltl",
+                                "price": 1.77,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jakob Poeltl",
+                                "price": 1.95,
+                                "point": 10.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-02-12T09:54:14Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Immanuel Quickley",
+                                "price": 2.0,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Immanuel Quickley",
+                                "price": 1.74,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Victor Wembanyama",
+                                "price": 1.83,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Victor Wembanyama",
+                                "price": 1.91,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tre Jones",
+                                "price": 1.71,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tre Jones",
+                                "price": 2.05,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jeremy Sochan",
+                                "price": 1.95,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jeremy Sochan",
+                                "price": 1.77,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Julian Champagnie",
+                                "price": 2.05,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Julian Champagnie",
+                                "price": 1.71,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jakob Poeltl",
+                                "price": 2.05,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jakob Poeltl",
+                                "price": 1.71,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Gary Trent Jr.",
+                                "price": 2.35,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Gary Trent Jr.",
+                                "price": 1.54,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "RJ Barrett",
+                                "price": 1.69,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "RJ Barrett",
+                                "price": 2.1,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Devin Vassell",
+                                "price": 1.95,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Vassell",
+                                "price": 1.8,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 2.05,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.69,
+                                "point": 7.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet_us",
+                "title": "Unibet",
+                "last_update": "2024-02-12T09:53:39Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-02-12T09:55:15Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Victor Wembanyama",
+                                "price": 2.06,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Victor Wembanyama",
+                                "price": 1.71,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jeremy Sochan",
+                                "price": 1.61,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jeremy Sochan",
+                                "price": 2.23,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tre Jones",
+                                "price": 1.88,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tre Jones",
+                                "price": 1.85,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 2.02,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.73,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Devin Vassell",
+                                "price": 1.66,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Vassell",
+                                "price": 2.14,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "RJ Barrett",
+                                "price": 2.2,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "RJ Barrett",
+                                "price": 1.63,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Immanuel Quickley",
+                                "price": 1.74,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Immanuel Quickley",
+                                "price": 2.02,
+                                "point": 5.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-02-12T09:55:15Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 1.96,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.78,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tre Jones",
+                                "price": 1.78,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tre Jones",
+                                "price": 1.97,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jeremy Sochan",
+                                "price": 1.82,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jeremy Sochan",
+                                "price": 1.92,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Devin Vassell",
+                                "price": 1.8,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Vassell",
+                                "price": 1.94,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Victor Wembanyama",
+                                "price": 1.87,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Victor Wembanyama",
+                                "price": 1.87,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "RJ Barrett",
+                                "price": 1.93,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "RJ Barrett",
+                                "price": 1.81,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Immanuel Quickley",
+                                "price": 1.89,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Immanuel Quickley",
+                                "price": 1.83,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Gary Trent Jr.",
+                                "price": 1.83,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Gary Trent Jr.",
+                                "price": 1.89,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jakob Poeltl",
+                                "price": 1.75,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jakob Poeltl",
+                                "price": 2.02,
+                                "point": 10.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-02-12T09:55:15Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "RJ Barrett",
+                                "price": 1.97,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "RJ Barrett",
+                                "price": 1.77,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 1.87,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.87,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Immanuel Quickley",
+                                "price": 2.02,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Immanuel Quickley",
+                                "price": 1.75,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jeremy Sochan",
+                                "price": 1.85,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jeremy Sochan",
+                                "price": 1.88,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tre Jones",
+                                "price": 1.64,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tre Jones",
+                                "price": 2.17,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Devin Vassell",
+                                "price": 1.94,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Vassell",
+                                "price": 1.8,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jakob Poeltl",
+                                "price": 1.89,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jakob Poeltl",
+                                "price": 1.83,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Victor Wembanyama",
+                                "price": 1.82,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Victor Wembanyama",
+                                "price": 1.92,
+                                "point": 10.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betrivers",
+                "title": "BetRivers",
+                "last_update": "2024-02-12T09:54:25Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-02-12T09:55:50Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Victor Wembanyama",
+                                "price": 2.06,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Victor Wembanyama",
+                                "price": 1.71,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jeremy Sochan",
+                                "price": 1.61,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jeremy Sochan",
+                                "price": 2.23,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tre Jones",
+                                "price": 1.88,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tre Jones",
+                                "price": 1.85,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 2.02,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.73,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Devin Vassell",
+                                "price": 1.66,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Vassell",
+                                "price": 2.14,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "RJ Barrett",
+                                "price": 2.2,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "RJ Barrett",
+                                "price": 1.63,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Immanuel Quickley",
+                                "price": 1.74,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Immanuel Quickley",
+                                "price": 2.02,
+                                "point": 5.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-02-12T09:55:50Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 1.96,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.78,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tre Jones",
+                                "price": 1.78,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tre Jones",
+                                "price": 1.97,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jeremy Sochan",
+                                "price": 1.82,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jeremy Sochan",
+                                "price": 1.92,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Devin Vassell",
+                                "price": 1.8,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Vassell",
+                                "price": 1.94,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Victor Wembanyama",
+                                "price": 1.87,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Victor Wembanyama",
+                                "price": 1.87,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "RJ Barrett",
+                                "price": 1.93,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "RJ Barrett",
+                                "price": 1.81,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Immanuel Quickley",
+                                "price": 1.89,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Immanuel Quickley",
+                                "price": 1.83,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Gary Trent Jr.",
+                                "price": 1.83,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Gary Trent Jr.",
+                                "price": 1.89,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jakob Poeltl",
+                                "price": 1.75,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jakob Poeltl",
+                                "price": 2.02,
+                                "point": 10.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-02-12T09:55:50Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "RJ Barrett",
+                                "price": 1.97,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "RJ Barrett",
+                                "price": 1.77,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 1.87,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.87,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Immanuel Quickley",
+                                "price": 2.02,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Immanuel Quickley",
+                                "price": 1.75,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jeremy Sochan",
+                                "price": 1.85,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jeremy Sochan",
+                                "price": 1.88,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tre Jones",
+                                "price": 1.64,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tre Jones",
+                                "price": 2.17,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Devin Vassell",
+                                "price": 1.94,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Vassell",
+                                "price": 1.8,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jakob Poeltl",
+                                "price": 1.89,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jakob Poeltl",
+                                "price": 1.83,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Victor Wembanyama",
+                                "price": 1.82,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Victor Wembanyama",
+                                "price": 1.92,
+                                "point": 10.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

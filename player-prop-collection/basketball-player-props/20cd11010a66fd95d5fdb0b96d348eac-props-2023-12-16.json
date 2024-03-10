@@ -1,0 +1,1984 @@
+{
+    "timestamp": "2023-12-16T09:55:38Z",
+    "previous_timestamp": "2023-12-16T09:50:38Z",
+    "next_timestamp": "2023-12-16T10:00:39Z",
+    "data": {
+        "id": "20cd11010a66fd95d5fdb0b96d348eac",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2023-12-17T00:10:00Z",
+        "home_team": "Charlotte Hornets",
+        "away_team": "Philadelphia 76ers",
+        "bookmakers": [
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2023-12-16T09:55:19Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-16T09:53:14Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.8,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.95,
+                                "point": 5.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-16T09:53:14Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.91,
+                                "point": 35.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.83,
+                                "point": 35.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-16T09:53:14Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.77,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 2.0,
+                                "point": 11.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetus",
+                "title": "PointsBet (US)",
+                "last_update": "2023-12-16T09:55:18Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-16T09:53:36Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.71,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 2.05,
+                                "point": 5.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-16T09:53:36Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.87,
+                                "point": 35.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.87,
+                                "point": 35.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-16T09:53:36Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.77,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 2.0,
+                                "point": 11.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2023-12-16T09:53:03Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-16T09:50:37Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Terry Rozier",
+                                "price": 2.16,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terry Rozier",
+                                "price": 1.68,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.83,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.94,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Anthony Melton",
+                                "price": 2.3,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Anthony Melton",
+                                "price": 1.6,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 1.85,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.93,
+                                "point": 6.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-16T09:50:37Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.9,
+                                "point": 35.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.87,
+                                "point": 35.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tobias Harris",
+                                "price": 1.98,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tobias Harris",
+                                "price": 1.8,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 1.87,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.9,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nicolas Batum",
+                                "price": 1.7,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nicolas Batum",
+                                "price": 2.12,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Anthony Melton",
+                                "price": 2.0,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Anthony Melton",
+                                "price": 1.78,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terry Rozier",
+                                "price": 1.96,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terry Rozier",
+                                "price": 1.82,
+                                "point": 25.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-16T09:50:20Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 2.16,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.68,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Anthony Melton",
+                                "price": 1.62,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Anthony Melton",
+                                "price": 2.24,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tobias Harris",
+                                "price": 2.08,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tobias Harris",
+                                "price": 1.72,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.78,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 2.0,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nicolas Batum",
+                                "price": 1.9,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nicolas Batum",
+                                "price": 1.87,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terry Rozier",
+                                "price": 1.8,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terry Rozier",
+                                "price": 1.98,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "Caesars",
+                "last_update": "2023-12-16T09:54:20Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-16T09:52:11Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.79,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.93,
+                                "point": 5.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-16T09:52:11Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.92,
+                                "point": 35.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.8,
+                                "point": 35.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-16T09:52:11Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.74,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.99,
+                                "point": 11.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet_us",
+                "title": "Unibet",
+                "last_update": "2023-12-16T09:55:12Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-16T09:53:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.83,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.92,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 1.85,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.88,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Anthony Melton",
+                                "price": 1.47,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Anthony Melton",
+                                "price": 2.55,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Anthony Melton",
+                                "price": 2.23,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Anthony Melton",
+                                "price": 1.61,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terry Rozier",
+                                "price": 2.1,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terry Rozier",
+                                "price": 1.68,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 2.63,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.44,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 1.43,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 2.7,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terry Rozier",
+                                "price": 1.57,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terry Rozier",
+                                "price": 2.3,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 2.6,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.45,
+                                "point": 7.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-16T09:53:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "De'Anthony Melton",
+                                "price": 2.0,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Anthony Melton",
+                                "price": 1.76,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 1.73,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 2.04,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.68,
+                                "point": 34.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 2.1,
+                                "point": 34.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tobias Harris",
+                                "price": 1.93,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tobias Harris",
+                                "price": 1.8,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.83,
+                                "point": 35.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.91,
+                                "point": 35.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 1.89,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.83,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Anthony Melton",
+                                "price": 1.73,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Anthony Melton",
+                                "price": 2.04,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terry Rozier",
+                                "price": 1.43,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terry Rozier",
+                                "price": 2.55,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terry Rozier",
+                                "price": 1.89,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terry Rozier",
+                                "price": 1.83,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tobias Harris",
+                                "price": 3.05,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tobias Harris",
+                                "price": 1.29,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 2.33,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.51,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Anthony Melton",
+                                "price": 1.49,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Anthony Melton",
+                                "price": 2.4,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 2.4,
+                                "point": 38.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.49,
+                                "point": 38.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terry Rozier",
+                                "price": 1.56,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terry Rozier",
+                                "price": 2.25,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terry Rozier",
+                                "price": 2.32,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terry Rozier",
+                                "price": 1.53,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 2.95,
+                                "point": 40.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.3,
+                                "point": 40.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tobias Harris",
+                                "price": 1.49,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tobias Harris",
+                                "price": 2.4,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 1.56,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 2.25,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tobias Harris",
+                                "price": 1.7,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tobias Harris",
+                                "price": 2.07,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.54,
+                                "point": 33.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 2.3,
+                                "point": 33.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 1.32,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 2.9,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terry Rozier",
+                                "price": 2.95,
+                                "point": 29.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terry Rozier",
+                                "price": 1.32,
+                                "point": 29.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.34,
+                                "point": 31.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 2.85,
+                                "point": 31.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tobias Harris",
+                                "price": 2.23,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tobias Harris",
+                                "price": 1.57,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Anthony Melton",
+                                "price": 2.75,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Anthony Melton",
+                                "price": 1.36,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 2.63,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.4,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 2.18,
+                                "point": 37.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.61,
+                                "point": 37.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terry Rozier",
+                                "price": 2.1,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terry Rozier",
+                                "price": 1.67,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Anthony Melton",
+                                "price": 2.3,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Anthony Melton",
+                                "price": 1.54,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 2.1,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.67,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tobias Harris",
+                                "price": 1.33,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tobias Harris",
+                                "price": 2.85,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terry Rozier",
+                                "price": 2.6,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terry Rozier",
+                                "price": 1.41,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 2.65,
+                                "point": 39.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.4,
+                                "point": 39.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terry Rozier",
+                                "price": 1.72,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terry Rozier",
+                                "price": 2.04,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 1.42,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 2.55,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Anthony Melton",
+                                "price": 1.32,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Anthony Melton",
+                                "price": 2.9,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terry Rozier",
+                                "price": 1.32,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terry Rozier",
+                                "price": 2.9,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.43,
+                                "point": 32.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 2.55,
+                                "point": 32.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tobias Harris",
+                                "price": 2.6,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tobias Harris",
+                                "price": 1.42,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 2.0,
+                                "point": 36.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.76,
+                                "point": 36.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 3.0,
+                                "point": 29.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.3,
+                                "point": 29.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-16T09:53:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.76,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 2.0,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Anthony Melton",
+                                "price": 2.28,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Anthony Melton",
+                                "price": 1.57,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tobias Harris",
+                                "price": 1.55,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tobias Harris",
+                                "price": 2.35,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 2.14,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.66,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Anthony Melton",
+                                "price": 1.56,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Anthony Melton",
+                                "price": 2.32,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tobias Harris",
+                                "price": 2.08,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tobias Harris",
+                                "price": 1.7,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terry Rozier",
+                                "price": 1.82,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terry Rozier",
+                                "price": 1.92,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 1.43,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 2.7,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.47,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 2.55,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 2.2,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.62,
+                                "point": 12.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betrivers",
+                "title": "BetRivers",
+                "last_update": "2023-12-16T09:54:14Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-16T09:53:37Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.83,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.92,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 1.85,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.88,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Anthony Melton",
+                                "price": 1.47,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Anthony Melton",
+                                "price": 2.55,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Anthony Melton",
+                                "price": 2.23,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Anthony Melton",
+                                "price": 1.61,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terry Rozier",
+                                "price": 2.1,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terry Rozier",
+                                "price": 1.68,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 2.63,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.44,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 1.43,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 2.7,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terry Rozier",
+                                "price": 1.57,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terry Rozier",
+                                "price": 2.3,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 2.6,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.45,
+                                "point": 7.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-16T09:53:37Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "De'Anthony Melton",
+                                "price": 2.0,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Anthony Melton",
+                                "price": 1.76,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 1.73,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 2.04,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.68,
+                                "point": 34.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 2.1,
+                                "point": 34.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tobias Harris",
+                                "price": 1.93,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tobias Harris",
+                                "price": 1.8,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.83,
+                                "point": 35.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.91,
+                                "point": 35.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 1.89,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.83,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Anthony Melton",
+                                "price": 1.73,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Anthony Melton",
+                                "price": 2.04,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terry Rozier",
+                                "price": 1.43,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terry Rozier",
+                                "price": 2.55,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terry Rozier",
+                                "price": 1.89,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terry Rozier",
+                                "price": 1.83,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tobias Harris",
+                                "price": 3.05,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tobias Harris",
+                                "price": 1.29,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 2.33,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.51,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Anthony Melton",
+                                "price": 1.49,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Anthony Melton",
+                                "price": 2.4,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 2.4,
+                                "point": 38.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.49,
+                                "point": 38.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terry Rozier",
+                                "price": 1.56,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terry Rozier",
+                                "price": 2.25,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terry Rozier",
+                                "price": 2.32,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terry Rozier",
+                                "price": 1.53,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 2.95,
+                                "point": 40.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.3,
+                                "point": 40.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tobias Harris",
+                                "price": 1.49,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tobias Harris",
+                                "price": 2.4,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 1.56,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 2.25,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tobias Harris",
+                                "price": 1.7,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tobias Harris",
+                                "price": 2.07,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.54,
+                                "point": 33.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 2.3,
+                                "point": 33.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 1.32,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 2.9,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terry Rozier",
+                                "price": 2.95,
+                                "point": 29.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terry Rozier",
+                                "price": 1.32,
+                                "point": 29.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.34,
+                                "point": 31.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 2.85,
+                                "point": 31.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tobias Harris",
+                                "price": 2.23,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tobias Harris",
+                                "price": 1.57,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Anthony Melton",
+                                "price": 2.75,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Anthony Melton",
+                                "price": 1.36,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 2.63,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.4,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 2.18,
+                                "point": 37.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.61,
+                                "point": 37.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terry Rozier",
+                                "price": 2.1,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terry Rozier",
+                                "price": 1.67,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Anthony Melton",
+                                "price": 2.3,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Anthony Melton",
+                                "price": 1.54,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 2.1,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.67,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tobias Harris",
+                                "price": 1.33,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tobias Harris",
+                                "price": 2.85,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terry Rozier",
+                                "price": 2.6,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terry Rozier",
+                                "price": 1.41,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 2.65,
+                                "point": 39.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.4,
+                                "point": 39.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terry Rozier",
+                                "price": 1.72,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terry Rozier",
+                                "price": 2.04,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 1.42,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 2.55,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Anthony Melton",
+                                "price": 1.32,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Anthony Melton",
+                                "price": 2.9,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terry Rozier",
+                                "price": 1.32,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terry Rozier",
+                                "price": 2.9,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.43,
+                                "point": 32.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 2.55,
+                                "point": 32.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tobias Harris",
+                                "price": 2.6,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tobias Harris",
+                                "price": 1.42,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 2.0,
+                                "point": 36.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.76,
+                                "point": 36.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 3.0,
+                                "point": 29.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.3,
+                                "point": 29.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-16T09:53:37Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.76,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 2.0,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Anthony Melton",
+                                "price": 2.28,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Anthony Melton",
+                                "price": 1.57,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tobias Harris",
+                                "price": 1.55,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tobias Harris",
+                                "price": 2.35,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 2.14,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.66,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Anthony Melton",
+                                "price": 1.56,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Anthony Melton",
+                                "price": 2.32,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tobias Harris",
+                                "price": 2.08,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tobias Harris",
+                                "price": 1.7,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terry Rozier",
+                                "price": 1.82,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terry Rozier",
+                                "price": 1.92,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 1.43,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 2.7,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.47,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 2.55,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 2.2,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.62,
+                                "point": 12.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2023-12-16T09:54:44Z",
+                "markets": [
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-16T09:53:53Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "De'Anthony Melton",
+                                "price": 2.05,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Anthony Melton",
+                                "price": 1.74,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.87,
+                                "point": 35.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.87,
+                                "point": 35.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nicolas Batum",
+                                "price": 1.69,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nicolas Batum",
+                                "price": 2.1,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tobias Harris",
+                                "price": 2.05,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tobias Harris",
+                                "price": 1.74,
+                                "point": 15.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-16T09:53:53Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.77,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 2.0,
+                                "point": 11.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

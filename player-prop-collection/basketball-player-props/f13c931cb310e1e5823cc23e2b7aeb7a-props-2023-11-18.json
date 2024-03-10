@@ -1,0 +1,813 @@
+{
+    "timestamp": "2023-11-18T09:55:41Z",
+    "previous_timestamp": "2023-11-18T09:50:42Z",
+    "next_timestamp": "2023-11-18T10:00:41Z",
+    "data": {
+        "id": "f13c931cb310e1e5823cc23e2b7aeb7a",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2023-11-18T23:10:00Z",
+        "home_team": "Charlotte Hornets",
+        "away_team": "New York Knicks",
+        "bookmakers": [
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2023-11-18T09:55:27Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-18T09:55:22Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jalen Brunson",
+                                "price": 2.0,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Brunson",
+                                "price": 1.77,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Julius Randle",
+                                "price": 1.65,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Julius Randle",
+                                "price": 2.2,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "LaMelo Ball",
+                                "price": 1.71,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "LaMelo Ball",
+                                "price": 2.1,
+                                "point": 7.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-18T09:55:22Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jalen Brunson",
+                                "price": 1.91,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Brunson",
+                                "price": 1.83,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Julius Randle",
+                                "price": 1.95,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Julius Randle",
+                                "price": 1.83,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "LaMelo Ball",
+                                "price": 1.95,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "LaMelo Ball",
+                                "price": 1.83,
+                                "point": 26.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-18T09:55:22Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jalen Brunson",
+                                "price": 2.3,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Brunson",
+                                "price": 1.61,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Julius Randle",
+                                "price": 2.0,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Julius Randle",
+                                "price": 1.77,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "LaMelo Ball",
+                                "price": 1.74,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "LaMelo Ball",
+                                "price": 2.05,
+                                "point": 5.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2023-11-18T09:53:55Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-18T09:51:57Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Julius Randle",
+                                "price": 1.61,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Julius Randle",
+                                "price": 2.28,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Brunson",
+                                "price": 1.88,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Brunson",
+                                "price": 1.87,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "LaMelo Ball",
+                                "price": 1.68,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "LaMelo Ball",
+                                "price": 2.14,
+                                "point": 7.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-18T09:51:57Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Julius Randle",
+                                "price": 1.93,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Julius Randle",
+                                "price": 1.85,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Brunson",
+                                "price": 1.88,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Brunson",
+                                "price": 1.88,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "LaMelo Ball",
+                                "price": 1.94,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "LaMelo Ball",
+                                "price": 1.83,
+                                "point": 26.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-18T09:51:57Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jalen Brunson",
+                                "price": 2.28,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Brunson",
+                                "price": 1.61,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "LaMelo Ball",
+                                "price": 1.94,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "LaMelo Ball",
+                                "price": 1.83,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Julius Randle",
+                                "price": 1.94,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Julius Randle",
+                                "price": 1.83,
+                                "point": 9.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetus",
+                "title": "PointsBet (US)",
+                "last_update": "2023-11-18T09:55:18Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-18T09:53:22Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jalen Brunson",
+                                "price": 1.95,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Brunson",
+                                "price": 1.8,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Julius Randle",
+                                "price": 2.2,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Julius Randle",
+                                "price": 1.62,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "LaMelo Ball",
+                                "price": 1.69,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "LaMelo Ball",
+                                "price": 2.1,
+                                "point": 7.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-18T09:53:22Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jalen Brunson",
+                                "price": 1.91,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Brunson",
+                                "price": 1.83,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Julius Randle",
+                                "price": 1.91,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Julius Randle",
+                                "price": 1.83,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "LaMelo Ball",
+                                "price": 1.95,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "LaMelo Ball",
+                                "price": 1.8,
+                                "point": 26.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-18T09:53:22Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jalen Brunson",
+                                "price": 2.2,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Brunson",
+                                "price": 1.62,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Julius Randle",
+                                "price": 1.95,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Julius Randle",
+                                "price": 1.8,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "LaMelo Ball",
+                                "price": 1.71,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "LaMelo Ball",
+                                "price": 2.05,
+                                "point": 5.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet_us",
+                "title": "Unibet",
+                "last_update": "2023-11-18T09:55:11Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-18T09:52:18Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Julius Randle",
+                                "price": 1.67,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Julius Randle",
+                                "price": 2.12,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Brunson",
+                                "price": 1.88,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Brunson",
+                                "price": 1.85,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "LaMelo Ball",
+                                "price": 2.05,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "LaMelo Ball",
+                                "price": 1.72,
+                                "point": 8.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-18T09:52:18Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Julius Randle",
+                                "price": 1.91,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Julius Randle",
+                                "price": 1.83,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "LaMelo Ball",
+                                "price": 1.93,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "LaMelo Ball",
+                                "price": 1.81,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Brunson",
+                                "price": 1.88,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Brunson",
+                                "price": 1.85,
+                                "point": 25.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-18T09:52:18Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Julius Randle",
+                                "price": 1.96,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Julius Randle",
+                                "price": 1.78,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "LaMelo Ball",
+                                "price": 1.97,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "LaMelo Ball",
+                                "price": 1.77,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Brunson",
+                                "price": 1.56,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Brunson",
+                                "price": 2.33,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betrivers",
+                "title": "BetRivers",
+                "last_update": "2023-11-18T09:54:19Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-18T09:55:57Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Julius Randle",
+                                "price": 1.67,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Julius Randle",
+                                "price": 2.12,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Brunson",
+                                "price": 1.88,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Brunson",
+                                "price": 1.85,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "LaMelo Ball",
+                                "price": 2.05,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "LaMelo Ball",
+                                "price": 1.72,
+                                "point": 8.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-18T09:55:57Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Julius Randle",
+                                "price": 1.91,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Julius Randle",
+                                "price": 1.83,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "LaMelo Ball",
+                                "price": 1.93,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "LaMelo Ball",
+                                "price": 1.81,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Brunson",
+                                "price": 1.88,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Brunson",
+                                "price": 1.85,
+                                "point": 25.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-18T09:55:57Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Julius Randle",
+                                "price": 1.96,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Julius Randle",
+                                "price": 1.78,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "LaMelo Ball",
+                                "price": 1.97,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "LaMelo Ball",
+                                "price": 1.77,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Brunson",
+                                "price": 1.56,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Brunson",
+                                "price": 2.33,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2023-11-18T09:55:14Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-18T09:55:45Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jalen Brunson",
+                                "price": 2.0,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Brunson",
+                                "price": 1.77,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Julius Randle",
+                                "price": 1.62,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Julius Randle",
+                                "price": 2.2,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "LaMelo Ball",
+                                "price": 1.69,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "LaMelo Ball",
+                                "price": 2.1,
+                                "point": 7.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-18T09:55:45Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jalen Brunson",
+                                "price": 1.91,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Brunson",
+                                "price": 1.83,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Julius Randle",
+                                "price": 1.95,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Julius Randle",
+                                "price": 1.8,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "LaMelo Ball",
+                                "price": 1.95,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "LaMelo Ball",
+                                "price": 1.8,
+                                "point": 26.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-18T09:55:45Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jalen Brunson",
+                                "price": 2.25,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Brunson",
+                                "price": 1.61,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Julius Randle",
+                                "price": 2.0,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Julius Randle",
+                                "price": 1.77,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "LaMelo Ball",
+                                "price": 1.74,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "LaMelo Ball",
+                                "price": 2.05,
+                                "point": 5.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

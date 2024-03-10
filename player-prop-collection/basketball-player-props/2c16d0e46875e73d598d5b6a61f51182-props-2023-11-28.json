@@ -1,0 +1,838 @@
+{
+    "timestamp": "2023-11-28T09:55:39Z",
+    "previous_timestamp": "2023-11-28T09:50:39Z",
+    "next_timestamp": "2023-11-28T10:00:38Z",
+    "data": {
+        "id": "2c16d0e46875e73d598d5b6a61f51182",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2023-11-29T00:40:00Z",
+        "home_team": "Boston Celtics",
+        "away_team": "Chicago Bulls",
+        "bookmakers": [
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2023-11-28T09:54:35Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-28T09:53:05Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.69,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 2.1,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 2.2,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.67,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Zach LaVine",
+                                "price": 2.05,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Zach LaVine",
+                                "price": 1.74,
+                                "point": 3.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-28T09:53:05Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.91,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.87,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.95,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.83,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Zach LaVine",
+                                "price": 1.91,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Zach LaVine",
+                                "price": 1.83,
+                                "point": 21.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-28T09:53:05Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.8,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.95,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.91,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.87,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Zach LaVine",
+                                "price": 2.0,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Zach LaVine",
+                                "price": 1.8,
+                                "point": 4.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2023-11-28T09:55:30Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-28T09:53:15Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 2.1,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.71,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.7,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 2.12,
+                                "point": 2.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-28T09:53:15Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.9,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.87,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.88,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.88,
+                                "point": 23.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-28T09:53:15Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.85,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.93,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.9,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.87,
+                                "point": 9.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetus",
+                "title": "PointsBet (US)",
+                "last_update": "2023-11-28T09:54:35Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-28T09:53:35Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.67,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 2.15,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 2.15,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.67,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Zach LaVine",
+                                "price": 2.05,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Zach LaVine",
+                                "price": 1.71,
+                                "point": 3.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-28T09:53:35Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.87,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.87,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.95,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.8,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Zach LaVine",
+                                "price": 1.95,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Zach LaVine",
+                                "price": 1.8,
+                                "point": 21.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-28T09:53:35Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.83,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.91,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.87,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.87,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Zach LaVine",
+                                "price": 1.95,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Zach LaVine",
+                                "price": 1.8,
+                                "point": 4.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "Caesars",
+                "last_update": "2023-11-28T09:52:15Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-28T09:53:20Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Zach LaVine",
+                                "price": 1.96,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Zach LaVine",
+                                "price": 1.76,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.69,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 2.06,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 2.12,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.65,
+                                "point": 4.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-28T09:53:20Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Zach LaVine",
+                                "price": 1.93,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Zach LaVine",
+                                "price": 1.79,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.88,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.83,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.87,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.84,
+                                "point": 28.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-28T09:53:20Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.9,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.81,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.81,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.9,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Zach LaVine",
+                                "price": 1.94,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Zach LaVine",
+                                "price": 1.78,
+                                "point": 4.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betrivers",
+                "title": "BetRivers",
+                "last_update": "2023-11-28T09:54:35Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-28T09:53:35Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 2.1,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.68,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.67,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 2.12,
+                                "point": 2.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-28T09:53:35Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.88,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.85,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.89,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.83,
+                                "point": 28.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-28T09:53:35Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.81,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.93,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.85,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.88,
+                                "point": 9.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet_us",
+                "title": "Unibet",
+                "last_update": "2023-11-28T09:54:42Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-28T09:53:49Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 2.1,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.68,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.67,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 2.12,
+                                "point": 2.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-28T09:53:49Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.88,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.85,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.89,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.83,
+                                "point": 28.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-28T09:53:49Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.81,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.93,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.85,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.88,
+                                "point": 9.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2023-11-28T09:54:59Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-28T09:53:50Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.69,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 2.1,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 2.15,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.67,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Zach LaVine",
+                                "price": 2.05,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Zach LaVine",
+                                "price": 1.74,
+                                "point": 3.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-28T09:53:50Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.91,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.83,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.95,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.8,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Zach LaVine",
+                                "price": 1.91,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Zach LaVine",
+                                "price": 1.83,
+                                "point": 21.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-28T09:53:50Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.8,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.95,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.91,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.83,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Zach LaVine",
+                                "price": 2.0,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Zach LaVine",
+                                "price": 1.77,
+                                "point": 4.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

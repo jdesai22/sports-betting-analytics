@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Player Data Plot</title>
+    <style>
+      body {
+        font-family: "Arial", sans-serif;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        /* Remove the height property to allow natural flow */
+        background-color: #e6e6e6;
+      }
+      /* Ensure .plot class allows for content expansion */
+      .plot {
+        width: 100%;
+        margin-top: 20px;
+        /* Add padding if needed */
+      }
+
+      h1 {
+        color: #333;
+      }
+      form {
+        margin: 20px 0;
+      }
+      input[type="text"] {
+        padding: 10px;
+        margin-right: 10px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+      }
+      input[type="submit"] {
+        padding: 10px 20px;
+        border: none;
+        border-radius: 5px;
+        background-color: #007bff;
+        color: white;
+        cursor: pointer;
+      }
+      input[type="submit"]:hover {
+        background-color: #0056b3;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Enter Player Name</h1>
+    <form method="post">
+      <input type="text" name="player_name" required />
+      <input type="submit" value="Generate Plot" />
+    </form>
+    {% if plot_div %}
+    <div class="plot">{{ plot_div|safe }}</div>
+    {% endif %}
+  </body>
+</html>

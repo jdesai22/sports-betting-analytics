@@ -1,0 +1,2506 @@
+{
+    "timestamp": "2023-11-12T09:55:39Z",
+    "previous_timestamp": "2023-11-12T09:50:40Z",
+    "next_timestamp": "2023-11-12T10:00:40Z",
+    "data": {
+        "id": "0288b5b2e2acad45d53f33deb8f05286",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2023-11-13T00:10:00Z",
+        "home_team": "Houston Rockets",
+        "away_team": "Denver Nuggets",
+        "bookmakers": [
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2023-11-12T09:54:56Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-12T09:55:09Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Aaron Gordon",
+                                "price": 1.62,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Aaron Gordon",
+                                "price": 2.25,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Alperen Sengun",
+                                "price": 1.71,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alperen Sengun",
+                                "price": 2.1,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Fred VanVleet",
+                                "price": 2.05,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Fred VanVleet",
+                                "price": 1.74,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Green",
+                                "price": 1.71,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Green",
+                                "price": 2.1,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 2.4,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 1.56,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nikola Jokic",
+                                "price": 2.0,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Jokic",
+                                "price": 1.8,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Reggie Jackson",
+                                "price": 2.15,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Reggie Jackson",
+                                "price": 1.67,
+                                "point": 5.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-12T09:55:09Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Aaron Gordon",
+                                "price": 1.91,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Aaron Gordon",
+                                "price": 1.87,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Alperen Sengun",
+                                "price": 2.0,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alperen Sengun",
+                                "price": 1.8,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dillon Brooks",
+                                "price": 2.0,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dillon Brooks",
+                                "price": 1.77,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Fred VanVleet",
+                                "price": 1.95,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Fred VanVleet",
+                                "price": 1.83,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jabari Smith Jr.",
+                                "price": 1.87,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jabari Smith Jr.",
+                                "price": 1.91,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Green",
+                                "price": 1.91,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Green",
+                                "price": 1.87,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 1.95,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 1.8,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Michael Porter Jr.",
+                                "price": 1.87,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Michael Porter Jr.",
+                                "price": 1.87,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nikola Jokic",
+                                "price": 1.91,
+                                "point": 29.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Jokic",
+                                "price": 1.87,
+                                "point": 29.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Reggie Jackson",
+                                "price": 2.0,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Reggie Jackson",
+                                "price": 1.77,
+                                "point": 12.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-12T09:55:09Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Aaron Gordon",
+                                "price": 1.83,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Aaron Gordon",
+                                "price": 1.95,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Alperen Sengun",
+                                "price": 1.87,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alperen Sengun",
+                                "price": 1.91,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dillon Brooks",
+                                "price": 2.3,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dillon Brooks",
+                                "price": 1.59,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Fred VanVleet",
+                                "price": 1.91,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Fred VanVleet",
+                                "price": 1.87,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jabari Smith Jr.",
+                                "price": 1.8,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jabari Smith Jr.",
+                                "price": 1.95,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Green",
+                                "price": 2.05,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Green",
+                                "price": 1.74,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 1.91,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 1.87,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Michael Porter Jr.",
+                                "price": 2.15,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Michael Porter Jr.",
+                                "price": 1.69,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nikola Jokic",
+                                "price": 2.05,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Jokic",
+                                "price": 1.77,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Reggie Jackson",
+                                "price": 2.45,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Reggie Jackson",
+                                "price": 1.56,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betonlineag",
+                "title": "BetOnline.ag",
+                "last_update": "2023-11-12T09:54:39Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-12T09:55:47Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Nikola Jokic",
+                                "price": 1.99,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Jokic",
+                                "price": 1.78,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Aaron Gordon",
+                                "price": 2.15,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Aaron Gordon",
+                                "price": 1.67,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Alperen Sengun",
+                                "price": 1.68,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alperen Sengun",
+                                "price": 2.14,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Green",
+                                "price": 1.66,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Green",
+                                "price": 2.16,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 1.56,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 2.36,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Reggie Jackson",
+                                "price": 2.22,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Reggie Jackson",
+                                "price": 1.63,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Fred VanVleet",
+                                "price": 1.75,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Fred VanVleet",
+                                "price": 2.03,
+                                "point": 7.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-12T09:55:47Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Michael Porter Jr.",
+                                "price": 1.92,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Michael Porter Jr.",
+                                "price": 1.84,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Aaron Gordon",
+                                "price": 1.92,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Aaron Gordon",
+                                "price": 1.84,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alperen Sengun",
+                                "price": 1.8,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Alperen Sengun",
+                                "price": 1.97,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Green",
+                                "price": 1.9,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Green",
+                                "price": 1.86,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jabari Smith",
+                                "price": 2.0,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jabari Smith",
+                                "price": 1.77,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 1.95,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 1.81,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Reggie Jackson",
+                                "price": 1.74,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Reggie Jackson",
+                                "price": 2.04,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Fred VanVleet",
+                                "price": 1.94,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Fred VanVleet",
+                                "price": 1.82,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dillon Brooks",
+                                "price": 1.81,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dillon Brooks",
+                                "price": 1.95,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nikola Jokic",
+                                "price": 1.77,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Jokic",
+                                "price": 2.0,
+                                "point": 28.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-12T09:55:47Z",
+                        "outcomes": [
+                            {
+                                "name": "Under",
+                                "description": "Michael Porter Jr.",
+                                "price": 1.67,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Michael Porter Jr.",
+                                "price": 2.15,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nikola Jokic",
+                                "price": 2.0,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Jokic",
+                                "price": 1.77,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Aaron Gordon",
+                                "price": 1.87,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Aaron Gordon",
+                                "price": 1.89,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Alperen Sengun",
+                                "price": 1.88,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alperen Sengun",
+                                "price": 1.88,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Green",
+                                "price": 2.07,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Green",
+                                "price": 1.72,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jabari Smith",
+                                "price": 1.94,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jabari Smith",
+                                "price": 1.82,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 1.89,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 1.87,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Reggie Jackson",
+                                "price": 1.57,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Reggie Jackson",
+                                "price": 2.34,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Fred VanVleet",
+                                "price": 1.87,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Fred VanVleet",
+                                "price": 1.89,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dillon Brooks",
+                                "price": 2.28,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dillon Brooks",
+                                "price": 1.6,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "Caesars",
+                "last_update": "2023-11-12T09:51:49Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-12T09:54:03Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 2.39,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 1.52,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Fred VanVleet",
+                                "price": 1.93,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Fred VanVleet",
+                                "price": 1.79,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jabari Smith Jr.",
+                                "price": 2.39,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jabari Smith Jr.",
+                                "price": 1.52,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Alperen Sengun",
+                                "price": 1.68,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alperen Sengun",
+                                "price": 2.08,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Aaron Gordon",
+                                "price": 1.62,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Aaron Gordon",
+                                "price": 2.16,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nikola Jokic",
+                                "price": 1.93,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Jokic",
+                                "price": 1.79,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Green",
+                                "price": 1.7,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Green",
+                                "price": 2.04,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Michael Porter Jr.",
+                                "price": 1.74,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Michael Porter Jr.",
+                                "price": 1.99,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Reggie Jackson",
+                                "price": 2.1,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Reggie Jackson",
+                                "price": 1.66,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dillon Brooks",
+                                "price": 1.78,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dillon Brooks",
+                                "price": 1.94,
+                                "point": 1.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-12T09:54:03Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 1.94,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 1.78,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nikola Jokic",
+                                "price": 1.83,
+                                "point": 29.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Jokic",
+                                "price": 1.88,
+                                "point": 29.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Fred VanVleet",
+                                "price": 1.93,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Fred VanVleet",
+                                "price": 1.79,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Aaron Gordon",
+                                "price": 1.9,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Aaron Gordon",
+                                "price": 1.81,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Michael Porter Jr.",
+                                "price": 1.85,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Michael Porter Jr.",
+                                "price": 1.85,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jabari Smith Jr.",
+                                "price": 1.83,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jabari Smith Jr.",
+                                "price": 1.88,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Alperen Sengun",
+                                "price": 1.94,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alperen Sengun",
+                                "price": 1.78,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Reggie Jackson",
+                                "price": 1.99,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Reggie Jackson",
+                                "price": 1.74,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dillon Brooks",
+                                "price": 1.97,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dillon Brooks",
+                                "price": 1.75,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Green",
+                                "price": 1.88,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Green",
+                                "price": 1.83,
+                                "point": 21.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-12T09:54:03Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Alperen Sengun",
+                                "price": 1.83,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alperen Sengun",
+                                "price": 1.88,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 1.84,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 1.87,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dillon Brooks",
+                                "price": 2.29,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dillon Brooks",
+                                "price": 1.56,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Reggie Jackson",
+                                "price": 2.36,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Reggie Jackson",
+                                "price": 1.53,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jabari Smith Jr.",
+                                "price": 1.8,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jabari Smith Jr.",
+                                "price": 1.92,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Aaron Gordon",
+                                "price": 1.78,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Aaron Gordon",
+                                "price": 1.94,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Michael Porter Jr.",
+                                "price": 2.1,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Michael Porter Jr.",
+                                "price": 1.66,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Fred VanVleet",
+                                "price": 1.93,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Fred VanVleet",
+                                "price": 1.79,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nikola Jokic",
+                                "price": 1.97,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Jokic",
+                                "price": 1.75,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Green",
+                                "price": 2.04,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Green",
+                                "price": 1.7,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2023-11-12T09:53:49Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-12T09:52:03Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Nikola Jokic",
+                                "price": 1.9,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Jokic",
+                                "price": 1.87,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Alperen Sengun",
+                                "price": 1.62,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alperen Sengun",
+                                "price": 2.24,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Fred VanVleet",
+                                "price": 2.04,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Fred VanVleet",
+                                "price": 1.76,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Aaron Gordon",
+                                "price": 1.74,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Aaron Gordon",
+                                "price": 2.06,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Reggie Jackson",
+                                "price": 2.28,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Reggie Jackson",
+                                "price": 1.61,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Green",
+                                "price": 1.63,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Green",
+                                "price": 2.24,
+                                "point": 2.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-12T09:52:03Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jabari Smith",
+                                "price": 1.87,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jabari Smith",
+                                "price": 1.9,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Aaron Gordon",
+                                "price": 1.94,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Aaron Gordon",
+                                "price": 1.83,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Green",
+                                "price": 1.93,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Green",
+                                "price": 1.85,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Reggie Jackson",
+                                "price": 1.98,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Reggie Jackson",
+                                "price": 1.8,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 1.96,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 1.82,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Alperen Sengun",
+                                "price": 2.0,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alperen Sengun",
+                                "price": 1.78,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Fred VanVleet",
+                                "price": 1.94,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Fred VanVleet",
+                                "price": 1.83,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dillon Brooks",
+                                "price": 2.0,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dillon Brooks",
+                                "price": 1.78,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Michael Porter Jr.",
+                                "price": 1.9,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Michael Porter Jr.",
+                                "price": 1.87,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nikola Jokic",
+                                "price": 1.88,
+                                "point": 29.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Jokic",
+                                "price": 1.88,
+                                "point": 29.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-12T09:52:03Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Michael Porter Jr.",
+                                "price": 1.78,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Michael Porter Jr.",
+                                "price": 2.0,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Alperen Sengun",
+                                "price": 1.96,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alperen Sengun",
+                                "price": 1.82,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dillon Brooks",
+                                "price": 1.61,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dillon Brooks",
+                                "price": 2.28,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Fred VanVleet",
+                                "price": 1.9,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Fred VanVleet",
+                                "price": 1.87,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nikola Jokic",
+                                "price": 1.98,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Jokic",
+                                "price": 1.8,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 1.9,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 1.87,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Reggie Jackson",
+                                "price": 2.3,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Reggie Jackson",
+                                "price": 1.6,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Aaron Gordon",
+                                "price": 1.85,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Aaron Gordon",
+                                "price": 1.93,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jabari Smith",
+                                "price": 1.83,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jabari Smith",
+                                "price": 1.94,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Green",
+                                "price": 2.12,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Green",
+                                "price": 1.7,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2023-11-12T09:54:22Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-12T09:56:20Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Aaron Gordon",
+                                "price": 1.61,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Aaron Gordon",
+                                "price": 2.25,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Alperen Sengun",
+                                "price": 1.69,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alperen Sengun",
+                                "price": 2.1,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Caldwell Pope Kentavious",
+                                "price": 2.35,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Caldwell Pope Kentavious",
+                                "price": 1.56,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Fred VanVleet",
+                                "price": 2.05,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Fred VanVleet",
+                                "price": 1.74,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Green",
+                                "price": 1.69,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Green",
+                                "price": 2.1,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nikola Jokic",
+                                "price": 2.0,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Jokic",
+                                "price": 1.77,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Reggie Jackson",
+                                "price": 2.15,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Reggie Jackson",
+                                "price": 1.67,
+                                "point": 5.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-12T09:56:20Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Aaron Gordon",
+                                "price": 1.87,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Aaron Gordon",
+                                "price": 1.87,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Alperen Sengun",
+                                "price": 2.0,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alperen Sengun",
+                                "price": 1.77,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Caldwell Pope Kentavious",
+                                "price": 1.95,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Caldwell Pope Kentavious",
+                                "price": 1.8,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dillon Brooks",
+                                "price": 2.0,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dillon Brooks",
+                                "price": 1.77,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Fred VanVleet",
+                                "price": 1.95,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Fred VanVleet",
+                                "price": 1.8,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jabari Smith",
+                                "price": 1.83,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jabari Smith",
+                                "price": 1.91,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Green",
+                                "price": 1.91,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Green",
+                                "price": 1.83,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Michael Porter Jr.",
+                                "price": 1.87,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Michael Porter Jr.",
+                                "price": 1.87,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nikola Jokic",
+                                "price": 1.91,
+                                "point": 29.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Jokic",
+                                "price": 1.83,
+                                "point": 29.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Reggie Jackson",
+                                "price": 2.0,
+                                "point": 11.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-12T09:56:20Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Aaron Gordon",
+                                "price": 1.8,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Aaron Gordon",
+                                "price": 1.95,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Alperen Sengun",
+                                "price": 1.87,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alperen Sengun",
+                                "price": 1.87,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Caldwell Pope Kentavious",
+                                "price": 1.91,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Caldwell Pope Kentavious",
+                                "price": 1.83,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dillon Brooks",
+                                "price": 2.3,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Fred VanVleet",
+                                "price": 1.91,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Fred VanVleet",
+                                "price": 1.83,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jabari Smith",
+                                "price": 1.8,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jabari Smith",
+                                "price": 1.95,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Green",
+                                "price": 2.05,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Green",
+                                "price": 1.74,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Michael Porter Jr.",
+                                "price": 2.15,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Michael Porter Jr.",
+                                "price": 1.67,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nikola Jokic",
+                                "price": 2.05,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Jokic",
+                                "price": 1.74,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Reggie Jackson",
+                                "price": 2.35,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Reggie Jackson",
+                                "price": 1.56,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetus",
+                "title": "PointsBet (US)",
+                "last_update": "2023-11-12T09:54:26Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-12T09:56:03Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Aaron Gordon",
+                                "price": 1.62,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Aaron Gordon",
+                                "price": 2.2,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Alperen Sengun",
+                                "price": 1.67,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alperen Sengun",
+                                "price": 2.15,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Fred VanVleet",
+                                "price": 2.0,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Fred VanVleet",
+                                "price": 1.77,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Green",
+                                "price": 1.67,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Green",
+                                "price": 2.15,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 2.35,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 1.57,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nikola Jokic",
+                                "price": 1.91,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Jokic",
+                                "price": 1.83,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Reggie Jackson",
+                                "price": 2.1,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Reggie Jackson",
+                                "price": 1.69,
+                                "point": 5.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-12T09:56:03Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Aaron Gordon",
+                                "price": 1.87,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Aaron Gordon",
+                                "price": 1.87,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Alperen Sengun",
+                                "price": 1.95,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alperen Sengun",
+                                "price": 1.8,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dillon Brooks",
+                                "price": 1.95,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dillon Brooks",
+                                "price": 1.8,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Fred VanVleet",
+                                "price": 1.91,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Fred VanVleet",
+                                "price": 1.83,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jabari Smith Jr.",
+                                "price": 1.87,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jabari Smith Jr.",
+                                "price": 1.87,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Green",
+                                "price": 1.87,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Green",
+                                "price": 1.87,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 1.95,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 1.8,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Michael Porter",
+                                "price": 1.87,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Michael Porter",
+                                "price": 1.87,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nikola Jokic",
+                                "price": 1.8,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Jokic",
+                                "price": 1.95,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Reggie Jackson",
+                                "price": 1.8,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Reggie Jackson",
+                                "price": 1.95,
+                                "point": 11.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-12T09:56:03Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Aaron Gordon",
+                                "price": 1.8,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Aaron Gordon",
+                                "price": 1.95,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Alperen Sengun",
+                                "price": 1.87,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alperen Sengun",
+                                "price": 1.87,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dillon Brooks",
+                                "price": 2.25,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dillon Brooks",
+                                "price": 1.61,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Fred VanVleet",
+                                "price": 1.87,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Fred VanVleet",
+                                "price": 1.87,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jabari Smith Jr.",
+                                "price": 1.8,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jabari Smith Jr.",
+                                "price": 1.95,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Green",
+                                "price": 2.05,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Green",
+                                "price": 1.71,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 1.87,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 1.87,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Michael Porter",
+                                "price": 1.69,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Michael Porter",
+                                "price": 2.1,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nikola Jokic",
+                                "price": 1.95,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Jokic",
+                                "price": 1.8,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Reggie Jackson",
+                                "price": 2.35,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Reggie Jackson",
+                                "price": 1.57,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "barstool",
+                "title": "Barstool Sportsbook",
+                "last_update": "2023-11-12T09:53:57Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-12T09:56:16Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Nikola Jokic",
+                                "price": 2.0,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Jokic",
+                                "price": 1.77,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Fred VanVleet",
+                                "price": 2.05,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Fred VanVleet",
+                                "price": 1.74,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Reggie Jackson",
+                                "price": 2.15,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Reggie Jackson",
+                                "price": 1.67,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Alperen Sengun",
+                                "price": 1.71,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alperen Sengun",
+                                "price": 2.1,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Aaron Gordon",
+                                "price": 1.56,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Aaron Gordon",
+                                "price": 2.3,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Green",
+                                "price": 1.67,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Green",
+                                "price": 2.15,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 2.4,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 1.51,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dillon Brooks",
+                                "price": 1.8,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dillon Brooks",
+                                "price": 1.95,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Michael Porter Jr.",
+                                "price": 1.71,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Michael Porter Jr.",
+                                "price": 2.1,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jabari Smith Jr.",
+                                "price": 2.35,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jabari Smith Jr.",
+                                "price": 1.53,
+                                "point": 1.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-12T09:56:16Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Nikola Jokic",
+                                "price": 1.91,
+                                "point": 29.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Jokic",
+                                "price": 1.83,
+                                "point": 29.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Green",
+                                "price": 1.91,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Green",
+                                "price": 1.83,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Michael Porter Jr.",
+                                "price": 1.87,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Michael Porter Jr.",
+                                "price": 1.87,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Fred VanVleet",
+                                "price": 1.95,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Fred VanVleet",
+                                "price": 1.8,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Alperen Sengun",
+                                "price": 2.0,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alperen Sengun",
+                                "price": 1.77,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Aaron Gordon",
+                                "price": 1.91,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Aaron Gordon",
+                                "price": 1.83,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jabari Smith Jr.",
+                                "price": 1.87,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jabari Smith Jr.",
+                                "price": 1.87,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Reggie Jackson",
+                                "price": 2.05,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Reggie Jackson",
+                                "price": 1.74,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dillon Brooks",
+                                "price": 2.05,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dillon Brooks",
+                                "price": 1.74,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 1.95,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 1.8,
+                                "point": 10.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-12T09:56:16Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Nikola Jokic",
+                                "price": 2.05,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Jokic",
+                                "price": 1.74,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Alperen Sengun",
+                                "price": 1.83,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alperen Sengun",
+                                "price": 1.91,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Aaron Gordon",
+                                "price": 1.83,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Aaron Gordon",
+                                "price": 1.91,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Michael Porter Jr.",
+                                "price": 2.15,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Michael Porter Jr.",
+                                "price": 1.67,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jabari Smith Jr.",
+                                "price": 1.8,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jabari Smith Jr.",
+                                "price": 1.95,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Green",
+                                "price": 2.1,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Green",
+                                "price": 1.71,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Fred VanVleet",
+                                "price": 1.91,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Fred VanVleet",
+                                "price": 1.83,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dillon Brooks",
+                                "price": 2.3,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dillon Brooks",
+                                "price": 1.56,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 1.91,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 1.83,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Reggie Jackson",
+                                "price": 2.35,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Reggie Jackson",
+                                "price": 1.53,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

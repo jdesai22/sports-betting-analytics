@@ -1,0 +1,1329 @@
+{
+    "timestamp": "2023-11-14T09:55:40Z",
+    "previous_timestamp": "2023-11-14T09:50:40Z",
+    "next_timestamp": "2023-11-14T10:00:40Z",
+    "data": {
+        "id": "28aa33d5a3c545a8cd237f8faef03bc0",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2023-11-15T00:10:00Z",
+        "home_team": "Philadelphia 76ers",
+        "away_team": "Indiana Pacers",
+        "bookmakers": [
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2023-11-14T09:53:50Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-14T09:55:48Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bruce Brown",
+                                "price": 1.87,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bruce Brown",
+                                "price": 1.87,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.71,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 2.1,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Haliburton",
+                                "price": 1.74,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Haliburton",
+                                "price": 2.05,
+                                "point": 10.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-14T09:55:48Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bennedict Mathurin",
+                                "price": 1.8,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bennedict Mathurin",
+                                "price": 2.0,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bruce Brown",
+                                "price": 1.87,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bruce Brown",
+                                "price": 1.91,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.91,
+                                "point": 32.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.87,
+                                "point": 32.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Myles Turner",
+                                "price": 1.87,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Myles Turner",
+                                "price": 1.91,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Obi Toppin",
+                                "price": 1.95,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Obi Toppin",
+                                "price": 1.83,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Haliburton",
+                                "price": 1.87,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Haliburton",
+                                "price": 1.87,
+                                "point": 21.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-14T09:55:48Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bennedict Mathurin",
+                                "price": 2.2,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bennedict Mathurin",
+                                "price": 1.65,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bruce Brown",
+                                "price": 2.15,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bruce Brown",
+                                "price": 1.69,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 2.0,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.77,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Myles Turner",
+                                "price": 1.87,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Myles Turner",
+                                "price": 1.91,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Obi Toppin",
+                                "price": 2.15,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Obi Toppin",
+                                "price": 1.67,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Haliburton",
+                                "price": 1.91,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Haliburton",
+                                "price": 1.87,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "Caesars",
+                "last_update": "2023-11-14T09:54:52Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-14T09:52:48Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.7,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 2.04,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bennedict Mathurin",
+                                "price": 1.52,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bennedict Mathurin",
+                                "price": 2.39,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Haliburton",
+                                "price": 1.79,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Haliburton",
+                                "price": 1.93,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bruce Brown",
+                                "price": 1.87,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bruce Brown",
+                                "price": 1.84,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Obi Toppin",
+                                "price": 1.47,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Obi Toppin",
+                                "price": 2.52,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Myles Turner",
+                                "price": 2.14,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Myles Turner",
+                                "price": 1.64,
+                                "point": 1.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-14T09:52:48Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Haliburton",
+                                "price": 1.83,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Haliburton",
+                                "price": 1.88,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Obi Toppin",
+                                "price": 1.93,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Obi Toppin",
+                                "price": 1.79,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bennedict Mathurin",
+                                "price": 1.78,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bennedict Mathurin",
+                                "price": 1.94,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bruce Brown",
+                                "price": 1.84,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bruce Brown",
+                                "price": 1.87,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Myles Turner",
+                                "price": 1.83,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Myles Turner",
+                                "price": 1.88,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.92,
+                                "point": 32.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.8,
+                                "point": 32.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-14T09:52:48Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Obi Toppin",
+                                "price": 2.14,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Obi Toppin",
+                                "price": 1.64,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Myles Turner",
+                                "price": 1.88,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Myles Turner",
+                                "price": 1.83,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Haliburton",
+                                "price": 1.92,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Haliburton",
+                                "price": 1.8,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.97,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.75,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bruce Brown",
+                                "price": 2.12,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bruce Brown",
+                                "price": 1.65,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bennedict Mathurin",
+                                "price": 2.12,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bennedict Mathurin",
+                                "price": 1.65,
+                                "point": 4.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetus",
+                "title": "PointsBet (US)",
+                "last_update": "2023-11-14T09:53:59Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-14T09:51:22Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bennedict Mathurin",
+                                "price": 2.3,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bennedict Mathurin",
+                                "price": 1.59,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bruce Brown",
+                                "price": 1.87,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bruce Brown",
+                                "price": 1.87,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.71,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 2.05,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Haliburton",
+                                "price": 1.67,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Haliburton",
+                                "price": 2.15,
+                                "point": 10.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-14T09:51:22Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bennedict Mathurin",
+                                "price": 1.8,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bennedict Mathurin",
+                                "price": 1.95,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bruce Brown",
+                                "price": 1.87,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bruce Brown",
+                                "price": 1.87,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.87,
+                                "point": 32.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.87,
+                                "point": 32.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Myles Turner",
+                                "price": 1.91,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Myles Turner",
+                                "price": 1.83,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Obi Toppin",
+                                "price": 1.91,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Obi Toppin",
+                                "price": 1.83,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Haliburton",
+                                "price": 1.87,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Haliburton",
+                                "price": 1.87,
+                                "point": 21.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-14T09:51:22Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bennedict Mathurin",
+                                "price": 2.2,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bennedict Mathurin",
+                                "price": 1.62,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bruce Brown",
+                                "price": 2.2,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bruce Brown",
+                                "price": 1.62,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 2.0,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.77,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Myles Turner",
+                                "price": 1.87,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Myles Turner",
+                                "price": 1.87,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Obi Toppin",
+                                "price": 2.15,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Obi Toppin",
+                                "price": 1.67,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Haliburton",
+                                "price": 1.87,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Haliburton",
+                                "price": 1.87,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2023-11-14T09:54:54Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-14T09:56:08Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bruce Brown Jr",
+                                "price": 1.9,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bruce Brown Jr",
+                                "price": 1.87,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Haliburton",
+                                "price": 1.78,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Haliburton",
+                                "price": 2.0,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.64,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 2.22,
+                                "point": 4.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-14T09:56:08Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Haliburton",
+                                "price": 1.88,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Haliburton",
+                                "price": 1.88,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bruce Brown Jr",
+                                "price": 1.94,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bruce Brown Jr",
+                                "price": 1.83,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.88,
+                                "point": 32.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.88,
+                                "point": 32.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Obi Toppin",
+                                "price": 1.96,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Obi Toppin",
+                                "price": 1.82,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Myles Turner",
+                                "price": 1.9,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Myles Turner",
+                                "price": 1.87,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bennedict Mathurin",
+                                "price": 1.85,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bennedict Mathurin",
+                                "price": 1.93,
+                                "point": 13.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-14T09:56:08Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Myles Turner",
+                                "price": 2.08,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Myles Turner",
+                                "price": 1.72,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Obi Toppin",
+                                "price": 2.18,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Obi Toppin",
+                                "price": 1.67,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bennedict Mathurin",
+                                "price": 1.65,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bennedict Mathurin",
+                                "price": 2.2,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.96,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.82,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Haliburton",
+                                "price": 1.94,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Haliburton",
+                                "price": 1.83,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bruce Brown Jr",
+                                "price": 2.16,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bruce Brown Jr",
+                                "price": 1.68,
+                                "point": 4.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "barstool",
+                "title": "Barstool Sportsbook",
+                "last_update": "2023-11-14T09:55:14Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-14T09:53:29Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Haliburton",
+                                "price": 1.74,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Haliburton",
+                                "price": 2.05,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.71,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 2.1,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bruce Brown",
+                                "price": 1.91,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bruce Brown",
+                                "price": 1.83,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bennedict Mathurin",
+                                "price": 1.51,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bennedict Mathurin",
+                                "price": 2.4,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Myles Turner",
+                                "price": 2.25,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Myles Turner",
+                                "price": 1.61,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Obi Toppin",
+                                "price": 1.47,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Obi Toppin",
+                                "price": 2.5,
+                                "point": 0.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-14T09:53:29Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.87,
+                                "point": 32.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.87,
+                                "point": 32.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Haliburton",
+                                "price": 1.87,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Haliburton",
+                                "price": 1.87,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Myles Turner",
+                                "price": 1.87,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Myles Turner",
+                                "price": 1.87,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bennedict Mathurin",
+                                "price": 1.8,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bennedict Mathurin",
+                                "price": 1.95,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bruce Brown",
+                                "price": 1.87,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bruce Brown",
+                                "price": 1.87,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Obi Toppin",
+                                "price": 1.91,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Obi Toppin",
+                                "price": 1.83,
+                                "point": 8.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-14T09:53:29Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 2.0,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.77,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Myles Turner",
+                                "price": 1.83,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Myles Turner",
+                                "price": 1.91,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bennedict Mathurin",
+                                "price": 2.2,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bennedict Mathurin",
+                                "price": 1.62,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bruce Brown",
+                                "price": 2.15,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bruce Brown",
+                                "price": 1.67,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Haliburton",
+                                "price": 1.91,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Haliburton",
+                                "price": 1.83,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Obi Toppin",
+                                "price": 2.2,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Obi Toppin",
+                                "price": 1.62,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2023-11-14T09:55:27Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-14T09:55:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bruce Brown Jr",
+                                "price": 1.87,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bruce Brown Jr",
+                                "price": 1.87,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.69,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 2.1,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Haliburton",
+                                "price": 1.74,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Haliburton",
+                                "price": 2.05,
+                                "point": 10.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-14T09:55:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bennedict Mathurin",
+                                "price": 1.77,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bennedict Mathurin",
+                                "price": 2.0,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bruce Brown Jr",
+                                "price": 1.83,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bruce Brown Jr",
+                                "price": 1.91,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.91,
+                                "point": 32.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.83,
+                                "point": 32.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Myles Turner",
+                                "price": 1.83,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Myles Turner",
+                                "price": 1.91,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Obadiah Toppin",
+                                "price": 1.95,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Obadiah Toppin",
+                                "price": 1.8,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Haliburton",
+                                "price": 1.87,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Haliburton",
+                                "price": 1.87,
+                                "point": 21.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-14T09:55:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bennedict Mathurin",
+                                "price": 1.62,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bennedict Mathurin",
+                                "price": 2.2,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bruce Brown Jr",
+                                "price": 2.15,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bruce Brown Jr",
+                                "price": 1.67,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 2.0,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.77,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Myles Turner",
+                                "price": 1.83,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Myles Turner",
+                                "price": 1.91,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Obadiah Toppin",
+                                "price": 2.15,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Obadiah Toppin",
+                                "price": 1.67,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Haliburton",
+                                "price": 1.91,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Haliburton",
+                                "price": 1.83,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

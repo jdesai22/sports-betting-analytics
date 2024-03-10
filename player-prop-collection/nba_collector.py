@@ -164,7 +164,8 @@ class Collector:
     @staticmethod
     def getHistoricalNBAPropsByEventId(sport, eventId, markets, regions, date, testing):
         if (testing == True):
-            with open("basketball-player-props/da359da99aa27e97d38f2df709343998-props-2023-11-29T10:00:00Z.json", "r") as file:
+            with open(
+                    "basketball-player-props-collection-1/da359da99aa27e97d38f2df709343998-props-2023-11-29T10:00:00Z.json", "r") as file:
                 d = json.loads(file)
                 return d
 
@@ -197,7 +198,7 @@ class Collector:
 
 
         if data is not None:
-            with open(f"basketball-player-props/{eventId}-props-{orig_date}.json", "w") as json_file:
+            with open(f"basketball-player-props-collection-1/{eventId}-props-{orig_date}.json", "w") as json_file:
                 json.dump(data, json_file, indent=4)
             
         return data
@@ -298,9 +299,9 @@ if __name__ == "__main__":
 
     #Collector.getHistoricalNBAPropsByEventId("basketball_nba", "da359da99aa27e97d38f2df709343998", ["player_points"], ["us"], "2023-11-29")
 
-    #Collector.exploreHistoricalPropData("basketball-player-props/da359da99aa27e97d38f2df709343998-props-2023-11-29.json")
+    #Collector.exploreHistoricalPropData("basketball-player-props-collection-1/da359da99aa27e97d38f2df709343998-props-2023-11-29.json")
 
-    #Collector.convertPropFilesToSingularCSV("basketball-player-props")
+    #Collector.convertPropFilesToSingularCSV("basketball-player-props-collection-1")
 
     iso_time = "2023-12-21T00:10:00Z"  # Example ISO 8601 time
     est_time = Collector.convertISOtoEST(iso_time)

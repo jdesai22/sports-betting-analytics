@@ -1,0 +1,373 @@
+{
+    "timestamp": "2023-12-01T09:55:39Z",
+    "previous_timestamp": "2023-12-01T09:50:39Z",
+    "next_timestamp": "2023-12-01T10:00:39Z",
+    "data": {
+        "id": "d97150f15bf9d6cd414269c0457bd6ad",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2023-12-02T03:00:00Z",
+        "home_team": "Phoenix Suns",
+        "away_team": "Denver Nuggets",
+        "bookmakers": [
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2023-12-01T09:53:51Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-01T09:54:00Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Kevin Durant",
+                                "price": 1.9,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Durant",
+                                "price": 1.87,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nikola Jokic",
+                                "price": 1.96,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Jokic",
+                                "price": 1.82,
+                                "point": 9.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-01T09:54:00Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Kevin Durant",
+                                "price": 1.87,
+                                "point": 31.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Durant",
+                                "price": 1.9,
+                                "point": 31.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nikola Jokic",
+                                "price": 1.94,
+                                "point": 30.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Jokic",
+                                "price": 1.83,
+                                "point": 30.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-01T09:54:00Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Kevin Durant",
+                                "price": 1.93,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Durant",
+                                "price": 1.85,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nikola Jokic",
+                                "price": 1.96,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Jokic",
+                                "price": 1.82,
+                                "point": 12.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetus",
+                "title": "PointsBet (US)",
+                "last_update": "2023-12-01T09:55:15Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-01T09:53:22Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Kevin Durant",
+                                "price": 1.83,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Durant",
+                                "price": 1.91,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nikola Jokic",
+                                "price": 2.1,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Jokic",
+                                "price": 1.69,
+                                "point": 9.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-01T09:53:22Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Kevin Durant",
+                                "price": 1.91,
+                                "point": 32.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Durant",
+                                "price": 1.83,
+                                "point": 32.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nikola Jokic",
+                                "price": 1.83,
+                                "point": 30.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Jokic",
+                                "price": 1.91,
+                                "point": 30.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-01T09:53:22Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Kevin Durant",
+                                "price": 1.8,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Durant",
+                                "price": 1.95,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nikola Jokic",
+                                "price": 1.83,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Jokic",
+                                "price": 1.91,
+                                "point": 12.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2023-12-01T09:54:18Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-01T09:53:10Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Kevin Durant",
+                                "price": 1.8,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Durant",
+                                "price": 1.95,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nikola Jokic",
+                                "price": 2.05,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Jokic",
+                                "price": 1.74,
+                                "point": 9.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-01T09:53:10Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Kevin Durant",
+                                "price": 1.8,
+                                "point": 31.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Durant",
+                                "price": 1.95,
+                                "point": 31.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nikola Jokic",
+                                "price": 1.83,
+                                "point": 30.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Jokic",
+                                "price": 1.91,
+                                "point": 30.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-01T09:53:10Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Kevin Durant",
+                                "price": 1.83,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Durant",
+                                "price": 1.91,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nikola Jokic",
+                                "price": 1.8,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Jokic",
+                                "price": 1.95,
+                                "point": 12.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2023-12-01T09:53:56Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-01T09:51:22Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Kevin Durant",
+                                "price": 1.8,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Durant",
+                                "price": 1.95,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nikola Jokic",
+                                "price": 2.05,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Jokic",
+                                "price": 1.74,
+                                "point": 9.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-01T09:51:22Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Kevin Durant",
+                                "price": 1.83,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Durant",
+                                "price": 1.91,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nikola Jokic",
+                                "price": 1.8,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Jokic",
+                                "price": 1.95,
+                                "point": 12.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

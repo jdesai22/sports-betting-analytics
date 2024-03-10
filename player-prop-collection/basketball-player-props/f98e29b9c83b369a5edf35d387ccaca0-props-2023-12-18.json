@@ -1,0 +1,1390 @@
+{
+    "timestamp": "2023-12-18T09:55:38Z",
+    "previous_timestamp": "2023-12-18T09:50:38Z",
+    "next_timestamp": "2023-12-18T10:00:38Z",
+    "data": {
+        "id": "f98e29b9c83b369a5edf35d387ccaca0",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2023-12-19T00:40:00Z",
+        "home_team": "Toronto Raptors",
+        "away_team": "Charlotte Hornets",
+        "bookmakers": [
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2023-12-18T09:53:56Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-18T09:51:23Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 2.1,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 1.71,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 1.8,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.95,
+                                "point": 5.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-18T09:51:23Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 1.83,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 1.91,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 1.91,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.83,
+                                "point": 21.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-18T09:51:23Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 1.71,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 2.1,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 1.77,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 2.0,
+                                "point": 8.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2023-12-18T09:48:15Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-18T09:48:44Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Dennis Schroder",
+                                "price": 1.68,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dennis Schroder",
+                                "price": 2.14,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 2.1,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 1.71,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 1.72,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 2.08,
+                                "point": 5.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-18T09:48:54Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 1.83,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 1.94,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dennis Schroder",
+                                "price": 1.78,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dennis Schroder",
+                                "price": 2.0,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 1.87,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.93,
+                                "point": 21.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-18T09:48:54Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 1.8,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.98,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 2.08,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 1.74,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dennis Schroder",
+                                "price": 1.82,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dennis Schroder",
+                                "price": 1.96,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetus",
+                "title": "PointsBet (US)",
+                "last_update": "2023-12-18T09:55:24Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-18T09:52:23Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 2.05,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 1.71,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 1.8,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.95,
+                                "point": 5.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-18T09:52:23Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 1.83,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 1.91,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 1.87,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.87,
+                                "point": 21.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-18T09:52:23Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 1.69,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 2.1,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 1.8,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.95,
+                                "point": 8.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betrivers",
+                "title": "BetRivers",
+                "last_update": "2023-12-18T09:54:10Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-18T09:51:25Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 1.73,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 2.04,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 2.06,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 1.71,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dennis Schroder",
+                                "price": 1.66,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dennis Schroder",
+                                "price": 2.14,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 1.5,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 2.48,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 2.45,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.51,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dennis Schroder",
+                                "price": 2.25,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dennis Schroder",
+                                "price": 1.6,
+                                "point": 7.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-18T09:51:25Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 1.83,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 1.89,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dennis Schroder",
+                                "price": 1.57,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dennis Schroder",
+                                "price": 2.25,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 1.7,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 2.07,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 1.89,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.83,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dennis Schroder",
+                                "price": 1.8,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dennis Schroder",
+                                "price": 1.93,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 1.36,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 2.75,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dennis Schroder",
+                                "price": 2.8,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dennis Schroder",
+                                "price": 1.35,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 2.75,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.36,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 2.4,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.49,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 1.49,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 2.4,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 1.65,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 2.12,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 3.0,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 1.3,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 2.63,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 1.4,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 2.07,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 1.7,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 2.12,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.65,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 2.32,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 1.53,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 1.51,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 2.35,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dennis Schroder",
+                                "price": 1.4,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dennis Schroder",
+                                "price": 2.63,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 1.36,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 2.7,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dennis Schroder",
+                                "price": 2.07,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dennis Schroder",
+                                "price": 1.7,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dennis Schroder",
+                                "price": 2.38,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dennis Schroder",
+                                "price": 1.5,
+                                "point": 16.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-18T09:51:25Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 1.79,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.95,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dennis Schroder",
+                                "price": 1.81,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dennis Schroder",
+                                "price": 1.93,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 2.07,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 1.7,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 2.35,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.55,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 1.43,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 2.65,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 1.57,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 2.28,
+                                "point": 6.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet_us",
+                "title": "Unibet",
+                "last_update": "2023-12-18T09:53:54Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-18T09:51:40Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 1.73,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 2.04,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 2.06,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 1.71,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dennis Schroder",
+                                "price": 1.66,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dennis Schroder",
+                                "price": 2.14,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 1.5,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 2.48,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 2.45,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.51,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dennis Schroder",
+                                "price": 2.25,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dennis Schroder",
+                                "price": 1.6,
+                                "point": 7.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-18T09:51:40Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 1.83,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 1.89,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dennis Schroder",
+                                "price": 1.57,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dennis Schroder",
+                                "price": 2.25,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 1.7,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 2.07,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 1.89,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.83,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dennis Schroder",
+                                "price": 1.8,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dennis Schroder",
+                                "price": 1.93,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 1.36,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 2.75,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dennis Schroder",
+                                "price": 2.8,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dennis Schroder",
+                                "price": 1.35,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 2.75,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.36,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 2.4,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.49,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 1.49,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 2.4,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 1.65,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 2.12,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 3.0,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 1.3,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 2.63,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 1.4,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 2.07,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 1.7,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 2.12,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.65,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 2.32,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 1.53,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 1.51,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 2.35,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dennis Schroder",
+                                "price": 1.4,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dennis Schroder",
+                                "price": 2.63,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 1.36,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 2.7,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dennis Schroder",
+                                "price": 2.07,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dennis Schroder",
+                                "price": 1.7,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dennis Schroder",
+                                "price": 2.38,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dennis Schroder",
+                                "price": 1.5,
+                                "point": 16.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-18T09:51:40Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 1.79,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.95,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dennis Schroder",
+                                "price": 1.81,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dennis Schroder",
+                                "price": 1.93,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 2.07,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 1.7,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 2.35,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.55,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 1.43,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 2.65,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 1.57,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 2.28,
+                                "point": 6.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2023-12-18T09:53:59Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-18T09:54:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 2.1,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 1.69,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 1.8,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.95,
+                                "point": 5.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-18T09:54:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Dennis Schroder",
+                                "price": 1.74,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dennis Schroder",
+                                "price": 2.05,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 1.83,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 1.91,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 1.83,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.91,
+                                "point": 21.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-18T09:54:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 1.69,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 2.1,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 1.77,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 2.0,
+                                "point": 8.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "Caesars",
+                "last_update": "2023-12-18T09:55:33Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-18T09:54:34Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 1.76,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.96,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 2.08,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 1.68,
+                                "point": 5.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-18T09:54:34Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 1.84,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 1.87,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 1.94,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.78,
+                                "point": 21.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-18T09:54:34Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 1.78,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.94,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 1.68,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 2.08,
+                                "point": 6.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

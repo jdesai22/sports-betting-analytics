@@ -1,0 +1,3761 @@
+{
+    "timestamp": "2023-10-28T09:55:43Z",
+    "previous_timestamp": "2023-10-28T09:50:43Z",
+    "next_timestamp": "2023-10-28T10:00:44Z",
+    "data": {
+        "id": "cfe5c507ca7ff96a82fb176ff6dbbb71",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2023-10-28T23:30:00Z",
+        "home_team": "Toronto Raptors",
+        "away_team": "Philadelphia 76ers",
+        "bookmakers": [
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2023-10-28T09:49:05Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-10-28T09:54:24Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "De'Anthony Melton",
+                                "price": 1.57,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Anthony Melton",
+                                "price": 2.35,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dennis Schroder",
+                                "price": 2.0,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dennis Schroder",
+                                "price": 1.77,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.74,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 2.05,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 1.77,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 2.05,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 2.05,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.74,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tobias Harris",
+                                "price": 1.83,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tobias Harris",
+                                "price": 1.95,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 2.0,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.8,
+                                "point": 5.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-10-28T09:54:24Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "De'Anthony Melton",
+                                "price": 1.8,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Anthony Melton",
+                                "price": 2.0,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dennis Schroder",
+                                "price": 1.91,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dennis Schroder",
+                                "price": 1.87,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jakob Poeltl",
+                                "price": 2.0,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jakob Poeltl",
+                                "price": 1.77,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.87,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.87,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 1.95,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 1.83,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 1.95,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.83,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tobias Harris",
+                                "price": 1.95,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tobias Harris",
+                                "price": 1.8,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 1.91,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.87,
+                                "point": 24.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-10-28T09:54:24Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "De'Anthony Melton",
+                                "price": 1.95,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Anthony Melton",
+                                "price": 1.8,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dennis Schroder",
+                                "price": 2.3,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dennis Schroder",
+                                "price": 1.61,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jakob Poeltl",
+                                "price": 1.67,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jakob Poeltl",
+                                "price": 2.15,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 2.05,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.74,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "P.J. Tucker",
+                                "price": 1.62,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "P.J. Tucker",
+                                "price": 2.25,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 1.67,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 2.15,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 1.95,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.83,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tobias Harris",
+                                "price": 1.8,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tobias Harris",
+                                "price": 1.95,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 2.1,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.71,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betonlineag",
+                "title": "BetOnline.ag",
+                "last_update": "2023-10-28T09:53:41Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-10-28T09:53:17Z",
+                        "outcomes": [
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 2.05,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.74,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 1.76,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 2.02,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.82,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 1.94,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tobias Harris",
+                                "price": 2.01,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tobias Harris",
+                                "price": 1.77,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.74,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 2.04,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dennis Schroder",
+                                "price": 1.76,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dennis Schroder",
+                                "price": 2.02,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Anthony Melton",
+                                "price": 2.33,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Anthony Melton",
+                                "price": 1.58,
+                                "point": 2.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-10-28T09:53:17Z",
+                        "outcomes": [
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.89,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.87,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 1.82,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 1.94,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tobias Harris",
+                                "price": 1.84,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tobias Harris",
+                                "price": 1.92,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.86,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 1.9,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.84,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 1.92,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Anthony Melton",
+                                "price": 1.98,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Anthony Melton",
+                                "price": 1.79,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "P.J. Tucker",
+                                "price": 2.07,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "P.J. Tucker",
+                                "price": 1.72,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jakob Poeltl",
+                                "price": 1.79,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jakob Poeltl",
+                                "price": 1.98,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dennis Schroder",
+                                "price": 1.87,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dennis Schroder",
+                                "price": 1.89,
+                                "point": 12.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-10-28T09:53:17Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 1.66,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 2.17,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 2.04,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.74,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.82,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 1.94,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jakob Poeltl",
+                                "price": 1.78,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jakob Poeltl",
+                                "price": 1.99,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tobias Harris",
+                                "price": 1.95,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tobias Harris",
+                                "price": 1.81,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.73,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 2.06,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Anthony Melton",
+                                "price": 1.86,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Anthony Melton",
+                                "price": 1.9,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "P.J. Tucker",
+                                "price": 1.75,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "P.J. Tucker",
+                                "price": 2.03,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dennis Schroder",
+                                "price": 1.6,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dennis Schroder",
+                                "price": 2.28,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2023-10-28T09:53:41Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-10-28T09:56:05Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 1.98,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.8,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 1.96,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.82,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.72,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 2.08,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Anthony Melton",
+                                "price": 1.59,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Anthony Melton",
+                                "price": 2.32,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 2.24,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 1.63,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tobias Harris",
+                                "price": 1.65,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tobias Harris",
+                                "price": 2.2,
+                                "point": 2.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-10-28T09:56:05Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 1.87,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.9,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jakob Poeltl",
+                                "price": 2.0,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jakob Poeltl",
+                                "price": 1.78,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "P.J Tucker",
+                                "price": 1.76,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "P.J Tucker",
+                                "price": 2.04,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 1.83,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.94,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Anthony Melton",
+                                "price": 2.0,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Anthony Melton",
+                                "price": 1.78,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tobias Harris",
+                                "price": 1.78,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tobias Harris",
+                                "price": 2.0,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 1.94,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 1.83,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.8,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.98,
+                                "point": 28.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-10-28T09:56:05Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.68,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 2.16,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 2.1,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 1.71,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "P.J Tucker",
+                                "price": 2.02,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "P.J Tucker",
+                                "price": 1.77,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Anthony Melton",
+                                "price": 1.78,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Anthony Melton",
+                                "price": 2.0,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 1.94,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.83,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jakob Poeltl",
+                                "price": 1.85,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jakob Poeltl",
+                                "price": 1.93,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 1.87,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.9,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tobias Harris",
+                                "price": 1.78,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tobias Harris",
+                                "price": 2.0,
+                                "point": 5.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "Caesars",
+                "last_update": "2023-10-28T09:52:37Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-10-28T09:55:11Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Dennis Schroder",
+                                "price": 2.06,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dennis Schroder",
+                                "price": 1.69,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jakob Poeltl",
+                                "price": 2.0,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jakob Poeltl",
+                                "price": 1.73,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tobias Harris",
+                                "price": 1.81,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tobias Harris",
+                                "price": 1.9,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Anthony Melton",
+                                "price": 1.56,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Anthony Melton",
+                                "price": 2.29,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 1.75,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 1.97,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 2.0,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.73,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.72,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 2.02,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "P.J. Tucker",
+                                "price": 2.59,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "P.J. Tucker",
+                                "price": 1.45,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 2.04,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.7,
+                                "point": 5.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-10-28T09:55:11Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jakob Poeltl",
+                                "price": 1.97,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jakob Poeltl",
+                                "price": 1.75,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dennis Schroder",
+                                "price": 1.88,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dennis Schroder",
+                                "price": 1.83,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 1.92,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 1.8,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.85,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.85,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Anthony Melton",
+                                "price": 1.76,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Anthony Melton",
+                                "price": 1.96,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tobias Harris",
+                                "price": 1.94,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tobias Harris",
+                                "price": 1.78,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "P.J. Tucker",
+                                "price": 1.81,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "P.J. Tucker",
+                                "price": 1.9,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 1.93,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.79,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 1.87,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.84,
+                                "point": 16.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-10-28T09:55:11Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 1.99,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.74,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tobias Harris",
+                                "price": 1.8,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tobias Harris",
+                                "price": 1.92,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Anthony Melton",
+                                "price": 1.9,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Anthony Melton",
+                                "price": 1.81,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 2.04,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.7,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 2.0,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.73,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jakob Poeltl",
+                                "price": 1.7,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jakob Poeltl",
+                                "price": 2.04,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dennis Schroder",
+                                "price": 2.29,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dennis Schroder",
+                                "price": 1.56,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 1.68,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 2.08,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "P.J. Tucker",
+                                "price": 1.61,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "P.J. Tucker",
+                                "price": 2.18,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2023-10-28T09:53:41Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-10-28T09:57:23Z",
+                        "outcomes": [
+                            {
+                                "name": "Under",
+                                "description": "De'Anthony Melton",
+                                "price": 1.59,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dennis Schroder",
+                                "price": 2.0,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dennis Schroder",
+                                "price": 1.77,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.74,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 2.05,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 1.74,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 2.05,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 2.05,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.74,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tobias Harris",
+                                "price": 1.8,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tobias Harris",
+                                "price": 1.95,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 2.0,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.77,
+                                "point": 5.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-10-28T09:57:23Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "De'Anthony Melton",
+                                "price": 2.05,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Anthony Melton",
+                                "price": 1.74,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dennis Schroder",
+                                "price": 1.91,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dennis Schroder",
+                                "price": 1.83,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jakob Poeltl",
+                                "price": 2.05,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jakob Poeltl",
+                                "price": 1.74,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.87,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.87,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "P. J. Tucker",
+                                "price": 1.69,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "P. J. Tucker",
+                                "price": 2.1,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 1.95,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 1.8,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 1.95,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.8,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tobias Harris",
+                                "price": 1.95,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tobias Harris",
+                                "price": 1.8,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 1.91,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.83,
+                                "point": 24.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-10-28T09:57:23Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "De'Anthony Melton",
+                                "price": 1.95,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Anthony Melton",
+                                "price": 1.8,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dennis Schroder",
+                                "price": 2.25,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dennis Schroder",
+                                "price": 1.61,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jakob Poeltl",
+                                "price": 1.67,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jakob Poeltl",
+                                "price": 2.15,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 2.05,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.74,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "P. J. Tucker",
+                                "price": 2.05,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "P. J. Tucker",
+                                "price": 1.74,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 1.67,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 2.15,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 1.95,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.8,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tobias Harris",
+                                "price": 1.8,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tobias Harris",
+                                "price": 1.95,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 2.1,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.69,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet_us",
+                "title": "Unibet",
+                "last_update": "2023-10-28T09:53:41Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-10-28T09:57:22Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Tobias Harris",
+                                "price": 1.72,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tobias Harris",
+                                "price": 2.05,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 1.91,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.83,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.77,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.97,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 1.61,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 2.23,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 1.68,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 2.1,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 2.0,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.75,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 2.07,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 1.7,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tobias Harris",
+                                "price": 2.3,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tobias Harris",
+                                "price": 1.56,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 2.16,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.65,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 1.56,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 2.33,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 2.45,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.51,
+                                "point": 6.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-10-28T09:57:22Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.45,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 2.45,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tobias Harris",
+                                "price": 2.43,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tobias Harris",
+                                "price": 1.48,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 1.36,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 2.75,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 1.65,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 2.14,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tobias Harris",
+                                "price": 1.83,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tobias Harris",
+                                "price": 1.91,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.78,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.96,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tobias Harris",
+                                "price": 2.1,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tobias Harris",
+                                "price": 1.67,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Anthony Melton",
+                                "price": 2.04,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Anthony Melton",
+                                "price": 1.73,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 1.82,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.92,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 1.56,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 2.25,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jakob Poeltl",
+                                "price": 2.15,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jakob Poeltl",
+                                "price": 1.64,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 2.14,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 1.64,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 1.78,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.97,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 1.89,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 1.83,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jakob Poeltl",
+                                "price": 1.47,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jakob Poeltl",
+                                "price": 2.43,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 2.2,
+                                "point": 30.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.6,
+                                "point": 30.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 2.9,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.32,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 2.3,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.55,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 2.25,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.56,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 1.4,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 2.63,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 2.8,
+                                "point": 32.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.35,
+                                "point": 32.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 1.53,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 2.33,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 3.1,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.27,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tobias Harris",
+                                "price": 2.85,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tobias Harris",
+                                "price": 1.33,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 2.43,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 1.48,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 2.04,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.73,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Anthony Melton",
+                                "price": 2.43,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Anthony Melton",
+                                "price": 1.48,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tobias Harris",
+                                "price": 1.6,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tobias Harris",
+                                "price": 2.2,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jakob Poeltl",
+                                "price": 2.7,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jakob Poeltl",
+                                "price": 1.36,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Anthony Melton",
+                                "price": 1.75,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Anthony Melton",
+                                "price": 2.02,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 2.55,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.43,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.96,
+                                "point": 29.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.78,
+                                "point": 29.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 2.02,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.74,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jakob Poeltl",
+                                "price": 1.82,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jakob Poeltl",
+                                "price": 1.92,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 1.7,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 2.07,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Anthony Melton",
+                                "price": 2.95,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Anthony Melton",
+                                "price": 1.3,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 2.48,
+                                "point": 31.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.45,
+                                "point": 31.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 1.38,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 2.7,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 1.27,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 3.15,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.34,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 2.8,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Anthony Melton",
+                                "price": 1.45,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Anthony Melton",
+                                "price": 2.48,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 2.65,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.4,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 2.75,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 1.35,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 1.49,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 2.4,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tobias Harris",
+                                "price": 1.41,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tobias Harris",
+                                "price": 2.6,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.61,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 2.18,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Anthony Melton",
+                                "price": 1.28,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Anthony Melton",
+                                "price": 3.1,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jakob Poeltl",
+                                "price": 1.3,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jakob Poeltl",
+                                "price": 3.0,
+                                "point": 6.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-10-28T09:57:22Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 2.7,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.43,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Anthony Melton",
+                                "price": 1.8,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Anthony Melton",
+                                "price": 1.93,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tobias Harris",
+                                "price": 1.88,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tobias Harris",
+                                "price": 1.85,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 1.88,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.85,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.62,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 2.23,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 2.04,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.73,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 1.91,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.83,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 2.1,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 1.68,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jakob Poeltl",
+                                "price": 2.0,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jakob Poeltl",
+                                "price": 1.76,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 2.65,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.43,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jakob Poeltl",
+                                "price": 2.7,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jakob Poeltl",
+                                "price": 1.43,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 1.6,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 2.25,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jakob Poeltl",
+                                "price": 1.55,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jakob Poeltl",
+                                "price": 2.35,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tobias Harris",
+                                "price": 2.7,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tobias Harris",
+                                "price": 1.43,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 1.47,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 2.55,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tobias Harris",
+                                "price": 1.42,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tobias Harris",
+                                "price": 2.75,
+                                "point": 4.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betrivers",
+                "title": "BetRivers",
+                "last_update": "2023-10-28T09:53:42Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-10-28T09:53:35Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Tobias Harris",
+                                "price": 1.72,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tobias Harris",
+                                "price": 2.05,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 1.91,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.83,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.77,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.97,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 1.61,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 2.23,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 1.68,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 2.1,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 2.0,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.75,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 2.07,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 1.7,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tobias Harris",
+                                "price": 2.3,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tobias Harris",
+                                "price": 1.56,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 2.16,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.65,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 1.56,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 2.33,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 2.45,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.51,
+                                "point": 6.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-10-28T09:53:35Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.45,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 2.45,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tobias Harris",
+                                "price": 2.43,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tobias Harris",
+                                "price": 1.48,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 1.36,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 2.75,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 1.65,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 2.14,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tobias Harris",
+                                "price": 1.83,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tobias Harris",
+                                "price": 1.91,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.78,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.96,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tobias Harris",
+                                "price": 2.1,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tobias Harris",
+                                "price": 1.67,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Anthony Melton",
+                                "price": 2.04,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Anthony Melton",
+                                "price": 1.73,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 1.82,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.92,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 1.56,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 2.25,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jakob Poeltl",
+                                "price": 2.15,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jakob Poeltl",
+                                "price": 1.64,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 2.14,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 1.64,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 1.78,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.97,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 1.89,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 1.83,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jakob Poeltl",
+                                "price": 1.47,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jakob Poeltl",
+                                "price": 2.43,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 2.2,
+                                "point": 30.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.6,
+                                "point": 30.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 2.9,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.32,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 2.3,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.55,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 2.25,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.56,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 1.4,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 2.63,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 2.8,
+                                "point": 32.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.35,
+                                "point": 32.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 1.53,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 2.33,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 3.1,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.27,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tobias Harris",
+                                "price": 2.85,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tobias Harris",
+                                "price": 1.33,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 2.43,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 1.48,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 2.04,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.73,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Anthony Melton",
+                                "price": 2.43,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Anthony Melton",
+                                "price": 1.48,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tobias Harris",
+                                "price": 1.6,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tobias Harris",
+                                "price": 2.2,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jakob Poeltl",
+                                "price": 2.7,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jakob Poeltl",
+                                "price": 1.36,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Anthony Melton",
+                                "price": 1.75,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Anthony Melton",
+                                "price": 2.02,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 2.55,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.43,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.96,
+                                "point": 29.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.78,
+                                "point": 29.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 2.02,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.74,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jakob Poeltl",
+                                "price": 1.82,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jakob Poeltl",
+                                "price": 1.92,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 1.7,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 2.07,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Anthony Melton",
+                                "price": 2.95,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Anthony Melton",
+                                "price": 1.3,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 2.48,
+                                "point": 31.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.45,
+                                "point": 31.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 1.38,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 2.7,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 1.27,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 3.15,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.34,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 2.8,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Anthony Melton",
+                                "price": 1.45,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Anthony Melton",
+                                "price": 2.48,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 2.65,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.4,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 2.75,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 1.35,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 1.49,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 2.4,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tobias Harris",
+                                "price": 1.41,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tobias Harris",
+                                "price": 2.6,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.61,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 2.18,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Anthony Melton",
+                                "price": 1.28,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Anthony Melton",
+                                "price": 3.1,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jakob Poeltl",
+                                "price": 1.3,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jakob Poeltl",
+                                "price": 3.0,
+                                "point": 6.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-10-28T09:53:35Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 2.7,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.43,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Anthony Melton",
+                                "price": 1.8,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Anthony Melton",
+                                "price": 1.93,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tobias Harris",
+                                "price": 1.88,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tobias Harris",
+                                "price": 1.85,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 1.88,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.85,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.62,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 2.23,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 2.04,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.73,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 1.91,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.83,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 2.1,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 1.68,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jakob Poeltl",
+                                "price": 2.0,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jakob Poeltl",
+                                "price": 1.76,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 2.65,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.43,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jakob Poeltl",
+                                "price": 2.7,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jakob Poeltl",
+                                "price": 1.43,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 1.6,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 2.25,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jakob Poeltl",
+                                "price": 1.55,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jakob Poeltl",
+                                "price": 2.35,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tobias Harris",
+                                "price": 2.7,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tobias Harris",
+                                "price": 1.43,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 1.47,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 2.55,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tobias Harris",
+                                "price": 1.42,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tobias Harris",
+                                "price": 2.75,
+                                "point": 4.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetus",
+                "title": "PointsBet (US)",
+                "last_update": "2023-10-28T09:53:41Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-10-28T09:55:35Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "De'Anthony Melton",
+                                "price": 1.57,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Anthony Melton",
+                                "price": 2.35,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dennis Schroder",
+                                "price": 2.0,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dennis Schroder",
+                                "price": 1.77,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.71,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 2.05,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 1.77,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 2.0,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 2.05,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.71,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tobias Harris",
+                                "price": 1.8,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tobias Harris",
+                                "price": 1.95,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 1.95,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.8,
+                                "point": 5.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-10-28T09:55:35Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "De'Anthony Melton",
+                                "price": 1.8,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Anthony Melton",
+                                "price": 1.95,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dennis Schroder",
+                                "price": 1.91,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dennis Schroder",
+                                "price": 1.83,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jakob Poeltl",
+                                "price": 2.05,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jakob Poeltl",
+                                "price": 1.71,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.87,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.87,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 1.95,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 1.8,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 1.91,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.83,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tobias Harris",
+                                "price": 1.91,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tobias Harris",
+                                "price": 1.83,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 1.87,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.87,
+                                "point": 24.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-10-28T09:55:35Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "De'Anthony Melton",
+                                "price": 1.91,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Anthony Melton",
+                                "price": 1.83,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dennis Schroder",
+                                "price": 2.3,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dennis Schroder",
+                                "price": 1.59,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jakob Poeltl",
+                                "price": 2.2,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jakob Poeltl",
+                                "price": 1.62,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 2.05,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.71,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Pascal Siakam",
+                                "price": 1.62,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Pascal Siakam",
+                                "price": 2.2,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Scottie Barnes",
+                                "price": 1.91,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Scottie Barnes",
+                                "price": 1.83,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tobias Harris",
+                                "price": 1.83,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tobias Harris",
+                                "price": 1.91,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 2.05,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.71,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

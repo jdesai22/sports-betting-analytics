@@ -1,0 +1,2638 @@
+{
+    "timestamp": "2024-02-06T09:55:38Z",
+    "previous_timestamp": "2024-02-06T09:50:39Z",
+    "next_timestamp": "2024-02-06T10:00:38Z",
+    "data": {
+        "id": "d8b6f6392f3d377532e264db1e4e636e",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-02-07T03:10:00Z",
+        "home_team": "Phoenix Suns",
+        "away_team": "Milwaukee Bucks",
+        "bookmakers": [
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2024-02-06T09:53:40Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-02-06T09:53:56Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bradley Beal",
+                                "price": 2.1,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bradley Beal",
+                                "price": 1.71,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brook Lopez",
+                                "price": 2.1,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brook Lopez",
+                                "price": 1.71,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Damian Lillard",
+                                "price": 1.91,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Damian Lillard",
+                                "price": 1.83,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Devin Booker",
+                                "price": 1.71,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Booker",
+                                "price": 2.1,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.8,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.95,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Grayson Allen",
+                                "price": 1.95,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Grayson Allen",
+                                "price": 1.8,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.87,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.87,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kevin Durant",
+                                "price": 2.14,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Durant",
+                                "price": 1.69,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Khris Middleton",
+                                "price": 1.77,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Khris Middleton",
+                                "price": 2.0,
+                                "point": 5.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-02-06T09:53:56Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bradley Beal",
+                                "price": 1.95,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bradley Beal",
+                                "price": 1.8,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brook Lopez",
+                                "price": 1.83,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brook Lopez",
+                                "price": 1.91,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Damian Lillard",
+                                "price": 1.8,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Damian Lillard",
+                                "price": 1.95,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Devin Booker",
+                                "price": 1.91,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Booker",
+                                "price": 1.83,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.83,
+                                "point": 32.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.91,
+                                "point": 32.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Grayson Allen",
+                                "price": 1.95,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Grayson Allen",
+                                "price": 1.8,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.91,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.83,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kevin Durant",
+                                "price": 1.83,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Durant",
+                                "price": 1.91,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Khris Middleton",
+                                "price": 1.87,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Khris Middleton",
+                                "price": 1.87,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malik Beasley",
+                                "price": 1.83,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malik Beasley",
+                                "price": 1.91,
+                                "point": 10.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-02-06T09:53:56Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bradley Beal",
+                                "price": 1.83,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bradley Beal",
+                                "price": 1.91,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brook Lopez",
+                                "price": 2.05,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brook Lopez",
+                                "price": 1.74,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Damian Lillard",
+                                "price": 1.95,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Damian Lillard",
+                                "price": 1.8,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Devin Booker",
+                                "price": 1.91,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Booker",
+                                "price": 1.83,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.91,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.83,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Grayson Allen",
+                                "price": 1.8,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Grayson Allen",
+                                "price": 1.95,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.8,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.95,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kevin Durant",
+                                "price": 1.95,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Durant",
+                                "price": 1.8,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Khris Middleton",
+                                "price": 2.05,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Khris Middleton",
+                                "price": 1.74,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malik Beasley",
+                                "price": 1.67,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malik Beasley",
+                                "price": 2.2,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2024-02-06T09:55:21Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-02-06T09:54:46Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bradley Beal",
+                                "price": 2.1,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bradley Beal",
+                                "price": 1.69,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brook Robert Lopez",
+                                "price": 2.1,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brook Robert Lopez",
+                                "price": 1.69,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Damian Lillard",
+                                "price": 1.91,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Damian Lillard",
+                                "price": 1.83,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Devin Booker",
+                                "price": 1.69,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Booker",
+                                "price": 2.1,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.8,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.95,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Grayson Allen",
+                                "price": 1.95,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Grayson Allen",
+                                "price": 1.8,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.87,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.87,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kevin Durant",
+                                "price": 2.1,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Durant",
+                                "price": 1.69,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Khris Middleton",
+                                "price": 1.77,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Khris Middleton",
+                                "price": 2.0,
+                                "point": 5.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-02-06T09:54:46Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bradley Beal",
+                                "price": 1.91,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bradley Beal",
+                                "price": 1.83,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brook Robert Lopez",
+                                "price": 1.91,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brook Robert Lopez",
+                                "price": 1.83,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Damian Lillard",
+                                "price": 1.87,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Damian Lillard",
+                                "price": 1.87,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Devin Booker",
+                                "price": 1.83,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Booker",
+                                "price": 1.91,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.87,
+                                "point": 33.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.87,
+                                "point": 33.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Grayson Allen",
+                                "price": 1.91,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Grayson Allen",
+                                "price": 1.83,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.87,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.87,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kevin Durant",
+                                "price": 1.91,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Durant",
+                                "price": 1.83,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Khris Middleton",
+                                "price": 1.77,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Khris Middleton",
+                                "price": 2.0,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malik Beasley",
+                                "price": 1.87,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malik Beasley",
+                                "price": 1.87,
+                                "point": 10.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-02-06T09:54:46Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bradley Beal",
+                                "price": 1.83,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bradley Beal",
+                                "price": 1.91,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brook Robert Lopez",
+                                "price": 2.05,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brook Robert Lopez",
+                                "price": 1.74,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Damian Lillard",
+                                "price": 1.95,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Damian Lillard",
+                                "price": 1.8,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Devin Booker",
+                                "price": 1.91,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Booker",
+                                "price": 1.83,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.91,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.83,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Grayson Allen",
+                                "price": 1.8,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Grayson Allen",
+                                "price": 1.95,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.8,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.95,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kevin Durant",
+                                "price": 1.95,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Durant",
+                                "price": 1.8,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Khris Middleton",
+                                "price": 2.05,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Khris Middleton",
+                                "price": 1.74,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malik Beasley",
+                                "price": 1.67,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malik Beasley",
+                                "price": 2.15,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betonlineag",
+                "title": "BetOnline.ag",
+                "last_update": "2024-02-06T09:53:38Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-02-06T09:55:10Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Khris Middleton",
+                                "price": 1.76,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Khris Middleton",
+                                "price": 2.02,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brook Lopez",
+                                "price": 1.69,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brook Lopez",
+                                "price": 2.12,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.89,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.87,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Devin Booker",
+                                "price": 1.71,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Booker",
+                                "price": 2.09,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kevin Durant",
+                                "price": 2.12,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Durant",
+                                "price": 1.69,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Damian Lillard",
+                                "price": 1.84,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Damian Lillard",
+                                "price": 1.92,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bradley Beal",
+                                "price": 2.1,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bradley Beal",
+                                "price": 1.7,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.93,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.83,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Grayson Allen",
+                                "price": 1.94,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Grayson Allen",
+                                "price": 1.82,
+                                "point": 2.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-02-06T09:55:10Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Khris Middleton",
+                                "price": 1.77,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Khris Middleton",
+                                "price": 2.0,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.91,
+                                "point": 32.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.85,
+                                "point": 32.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brook Lopez",
+                                "price": 1.86,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brook Lopez",
+                                "price": 1.9,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kevin Durant",
+                                "price": 1.92,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Durant",
+                                "price": 1.84,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bradley Beal",
+                                "price": 1.94,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bradley Beal",
+                                "price": 1.82,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malik Beasley",
+                                "price": 1.87,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malik Beasley",
+                                "price": 1.89,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Damian Lillard",
+                                "price": 1.87,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Damian Lillard",
+                                "price": 1.89,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.92,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.84,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Grayson Allen",
+                                "price": 1.81,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Grayson Allen",
+                                "price": 1.95,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Booker",
+                                "price": 1.95,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Devin Booker",
+                                "price": 1.81,
+                                "point": 28.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-02-06T09:55:10Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Khris Middleton",
+                                "price": 2.02,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Khris Middleton",
+                                "price": 1.76,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.85,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.91,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Devin Booker",
+                                "price": 1.92,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Booker",
+                                "price": 1.84,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brook Lopez",
+                                "price": 1.74,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brook Lopez",
+                                "price": 2.04,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bradley Beal",
+                                "price": 1.88,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bradley Beal",
+                                "price": 1.88,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kevin Durant",
+                                "price": 1.94,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Durant",
+                                "price": 1.82,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malik Beasley",
+                                "price": 2.3,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malik Beasley",
+                                "price": 1.59,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Damian Lillard",
+                                "price": 1.81,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Damian Lillard",
+                                "price": 1.95,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.88,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.88,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Grayson Allen",
+                                "price": 1.93,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Grayson Allen",
+                                "price": 1.83,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetus",
+                "title": "PointsBet (US)",
+                "last_update": "2024-02-06T09:53:39Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-02-06T09:54:02Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bradley Beal",
+                                "price": 2.05,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bradley Beal",
+                                "price": 1.71,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brook Lopez",
+                                "price": 2.05,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brook Lopez",
+                                "price": 1.71,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Damian Lillard",
+                                "price": 1.87,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Damian Lillard",
+                                "price": 1.87,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Devin Booker",
+                                "price": 1.71,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Booker",
+                                "price": 2.05,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.87,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.87,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Grayson Allen",
+                                "price": 1.91,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Grayson Allen",
+                                "price": 1.83,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.87,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.87,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kevin Durant",
+                                "price": 2.1,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Durant",
+                                "price": 1.69,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Khris Middleton",
+                                "price": 1.77,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Khris Middleton",
+                                "price": 2.0,
+                                "point": 5.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-02-06T09:54:02Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bradley Beal",
+                                "price": 1.91,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bradley Beal",
+                                "price": 1.83,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brook Lopez",
+                                "price": 1.87,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brook Lopez",
+                                "price": 1.87,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Damian Lillard",
+                                "price": 1.83,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Damian Lillard",
+                                "price": 1.91,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Devin Booker",
+                                "price": 1.87,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Booker",
+                                "price": 1.87,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.83,
+                                "point": 32.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.91,
+                                "point": 32.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Grayson Allen",
+                                "price": 1.91,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Grayson Allen",
+                                "price": 1.83,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.91,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.83,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kevin Durant",
+                                "price": 1.87,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Durant",
+                                "price": 1.87,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Khris Middleton",
+                                "price": 1.87,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Khris Middleton",
+                                "price": 1.87,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malik Beasley",
+                                "price": 1.83,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malik Beasley",
+                                "price": 1.91,
+                                "point": 10.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-02-06T09:54:02Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bradley Beal",
+                                "price": 1.83,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bradley Beal",
+                                "price": 1.91,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brook Lopez",
+                                "price": 2.0,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brook Lopez",
+                                "price": 1.77,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Damian Lillard",
+                                "price": 1.91,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Damian Lillard",
+                                "price": 1.83,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Devin Booker",
+                                "price": 1.87,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Booker",
+                                "price": 1.87,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.87,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.87,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Grayson Allen",
+                                "price": 1.87,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Grayson Allen",
+                                "price": 1.87,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.83,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.91,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kevin Durant",
+                                "price": 1.95,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Durant",
+                                "price": 1.8,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Khris Middleton",
+                                "price": 2.05,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Khris Middleton",
+                                "price": 1.71,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malik Beasley",
+                                "price": 1.67,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malik Beasley",
+                                "price": 2.15,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "Caesars",
+                "last_update": "2024-02-06T09:52:51Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-02-06T09:54:41Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Malik Beasley",
+                                "price": 1.45,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malik Beasley",
+                                "price": 2.59,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kevin Durant",
+                                "price": 2.08,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Durant",
+                                "price": 1.68,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Grayson Allen",
+                                "price": 1.94,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Grayson Allen",
+                                "price": 1.78,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.97,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.75,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Khris Middleton",
+                                "price": 1.75,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Khris Middleton",
+                                "price": 1.97,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Devin Booker",
+                                "price": 1.69,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Booker",
+                                "price": 2.06,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brook Lopez",
+                                "price": 2.08,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brook Lopez",
+                                "price": 1.68,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.9,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.81,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bradley Beal",
+                                "price": 2.06,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bradley Beal",
+                                "price": 1.69,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Damian Lillard",
+                                "price": 1.93,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Damian Lillard",
+                                "price": 1.79,
+                                "point": 6.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-02-06T09:54:41Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Devin Booker",
+                                "price": 1.76,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Booker",
+                                "price": 1.96,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Damian Lillard",
+                                "price": 1.85,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Damian Lillard",
+                                "price": 1.85,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bradley Beal",
+                                "price": 1.96,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bradley Beal",
+                                "price": 1.76,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.8,
+                                "point": 32.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.92,
+                                "point": 32.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Khris Middleton",
+                                "price": 1.81,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Khris Middleton",
+                                "price": 1.9,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kevin Durant",
+                                "price": 1.93,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Durant",
+                                "price": 1.79,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.88,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.83,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Grayson Allen",
+                                "price": 1.9,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Grayson Allen",
+                                "price": 1.81,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brook Lopez",
+                                "price": 1.87,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brook Lopez",
+                                "price": 1.84,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malik Beasley",
+                                "price": 1.83,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malik Beasley",
+                                "price": 1.88,
+                                "point": 10.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-02-06T09:54:41Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Kevin Durant",
+                                "price": 1.87,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Durant",
+                                "price": 1.84,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brook Lopez",
+                                "price": 2.02,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brook Lopez",
+                                "price": 1.72,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Devin Booker",
+                                "price": 1.85,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Booker",
+                                "price": 1.85,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Grayson Allen",
+                                "price": 1.8,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Grayson Allen",
+                                "price": 1.92,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Khris Middleton",
+                                "price": 2.0,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Khris Middleton",
+                                "price": 1.73,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.87,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.84,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malik Beasley",
+                                "price": 1.65,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malik Beasley",
+                                "price": 2.12,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bradley Beal",
+                                "price": 1.79,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bradley Beal",
+                                "price": 1.93,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Damian Lillard",
+                                "price": 1.88,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Damian Lillard",
+                                "price": 1.83,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.88,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.83,
+                                "point": 10.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2024-02-06T09:53:50Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-02-06T09:54:56Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Damian Lillard",
+                                "price": 1.87,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Damian Lillard",
+                                "price": 1.93,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.88,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.88,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bradley Beal",
+                                "price": 2.08,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bradley Beal",
+                                "price": 1.72,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Khris Middleton",
+                                "price": 1.76,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Khris Middleton",
+                                "price": 2.04,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Devin Booker",
+                                "price": 1.72,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Booker",
+                                "price": 2.08,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Grayson Allen",
+                                "price": 1.93,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Grayson Allen",
+                                "price": 1.83,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kevin Durant",
+                                "price": 2.02,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Durant",
+                                "price": 1.77,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.9,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.87,
+                                "point": 3.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-02-06T09:54:56Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bradley Beal",
+                                "price": 1.93,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bradley Beal",
+                                "price": 1.85,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Grayson Allen",
+                                "price": 1.93,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Grayson Allen",
+                                "price": 1.83,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Damian Lillard",
+                                "price": 1.9,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Damian Lillard",
+                                "price": 1.87,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brook Lopez",
+                                "price": 1.93,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brook Lopez",
+                                "price": 1.85,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kevin Durant",
+                                "price": 1.94,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Durant",
+                                "price": 1.83,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Khris Middleton",
+                                "price": 1.85,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Khris Middleton",
+                                "price": 1.93,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.88,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.88,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Devin Booker",
+                                "price": 1.85,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Booker",
+                                "price": 1.93,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.9,
+                                "point": 33.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.87,
+                                "point": 33.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malik Beasley",
+                                "price": 1.88,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malik Beasley",
+                                "price": 1.88,
+                                "point": 10.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-02-06T09:54:56Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.88,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.88,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Devin Booker",
+                                "price": 1.96,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Booker",
+                                "price": 1.82,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brook Lopez",
+                                "price": 2.06,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brook Lopez",
+                                "price": 1.74,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malik Beasley",
+                                "price": 1.6,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malik Beasley",
+                                "price": 2.3,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Grayson Allen",
+                                "price": 1.9,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Grayson Allen",
+                                "price": 1.87,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bradley Beal",
+                                "price": 1.98,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bradley Beal",
+                                "price": 1.8,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kevin Durant",
+                                "price": 2.0,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Durant",
+                                "price": 1.78,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.93,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.85,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Damian Lillard",
+                                "price": 2.04,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Damian Lillard",
+                                "price": 1.76,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Khris Middleton",
+                                "price": 2.02,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Khris Middleton",
+                                "price": 1.77,
+                                "point": 4.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": "2024-02-06T09:54:46Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-02-06T09:55:39Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Damian Lillard",
+                                "price": 1.91,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Damian Lillard",
+                                "price": 1.83,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bradley Beal",
+                                "price": 2.05,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bradley Beal",
+                                "price": 1.71,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brook Lopez",
+                                "price": 2.05,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brook Lopez",
+                                "price": 1.69,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malik Beasley",
+                                "price": 1.4,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malik Beasley",
+                                "price": 2.7,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kevin Durant",
+                                "price": 2.1,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Durant",
+                                "price": 1.67,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.91,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.83,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Grayson Allen",
+                                "price": 1.95,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Grayson Allen",
+                                "price": 1.8,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Devin Booker",
+                                "price": 1.69,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Booker",
+                                "price": 2.1,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Khris Middleton",
+                                "price": 1.74,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Khris Middleton",
+                                "price": 2.0,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jusuf Nurkic",
+                                "price": 2.0,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.74,
+                                "point": 3.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-02-06T09:55:39Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Damian Lillard",
+                                "price": 1.91,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Damian Lillard",
+                                "price": 1.83,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bradley Beal",
+                                "price": 1.95,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bradley Beal",
+                                "price": 1.8,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brook Lopez",
+                                "price": 1.83,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brook Lopez",
+                                "price": 1.91,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malik Beasley",
+                                "price": 1.83,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malik Beasley",
+                                "price": 1.91,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kevin Durant",
+                                "price": 1.91,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Durant",
+                                "price": 1.83,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.8,
+                                "point": 32.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.95,
+                                "point": 32.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Grayson Allen",
+                                "price": 1.95,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Grayson Allen",
+                                "price": 1.8,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Khris Middleton",
+                                "price": 1.87,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Khris Middleton",
+                                "price": 1.87,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.91,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.8,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Devin Booker",
+                                "price": 1.95,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Booker",
+                                "price": 1.8,
+                                "point": 28.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-02-06T09:55:39Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Damian Lillard",
+                                "price": 1.95,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Damian Lillard",
+                                "price": 1.8,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bradley Beal",
+                                "price": 1.8,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bradley Beal",
+                                "price": 1.91,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brook Lopez",
+                                "price": 2.05,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brook Lopez",
+                                "price": 1.71,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malik Beasley",
+                                "price": 1.62,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malik Beasley",
+                                "price": 2.2,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kevin Durant",
+                                "price": 1.95,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Durant",
+                                "price": 1.8,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.87,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.83,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Grayson Allen",
+                                "price": 1.77,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Grayson Allen",
+                                "price": 1.95,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Devin Booker",
+                                "price": 1.87,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Booker",
+                                "price": 1.83,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Khris Middleton",
+                                "price": 2.0,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Khris Middleton",
+                                "price": 1.74,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.91,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.83,
+                                "point": 10.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

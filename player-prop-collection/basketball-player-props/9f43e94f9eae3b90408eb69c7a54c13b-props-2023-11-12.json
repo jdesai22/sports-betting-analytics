@@ -1,0 +1,511 @@
+{
+    "timestamp": "2023-11-12T09:55:39Z",
+    "previous_timestamp": "2023-11-12T09:50:40Z",
+    "next_timestamp": "2023-11-12T10:00:40Z",
+    "data": {
+        "id": "9f43e94f9eae3b90408eb69c7a54c13b",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2023-11-13T03:10:00Z",
+        "home_team": "Los Angeles Lakers",
+        "away_team": "Portland Trail Blazers",
+        "bookmakers": [
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2023-11-12T09:54:56Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-12T09:56:08Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jerami Grant",
+                                "price": 2.25,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jerami Grant",
+                                "price": 1.62,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Shaedon Sharpe",
+                                "price": 2.15,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Shaedon Sharpe",
+                                "price": 1.67,
+                                "point": 4.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-12T09:56:08Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Deandre Ayton",
+                                "price": 1.91,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Deandre Ayton",
+                                "price": 1.87,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jerami Grant",
+                                "price": 1.95,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jerami Grant",
+                                "price": 1.8,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Shaedon Sharpe",
+                                "price": 1.87,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Shaedon Sharpe",
+                                "price": 1.87,
+                                "point": 21.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-12T09:56:08Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Deandre Ayton",
+                                "price": 1.83,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Deandre Ayton",
+                                "price": 1.95,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jerami Grant",
+                                "price": 2.1,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jerami Grant",
+                                "price": 1.71,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Shaedon Sharpe",
+                                "price": 2.15,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Shaedon Sharpe",
+                                "price": 1.67,
+                                "point": 5.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2023-11-12T09:53:49Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-12T09:54:36Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Shaedon Sharpe",
+                                "price": 2.1,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Shaedon Sharpe",
+                                "price": 1.71,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jerami Grant",
+                                "price": 2.26,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jerami Grant",
+                                "price": 1.62,
+                                "point": 3.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-12T09:54:36Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Deandre Ayton",
+                                "price": 1.9,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Deandre Ayton",
+                                "price": 1.87,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Shaedon Sharpe",
+                                "price": 1.82,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Shaedon Sharpe",
+                                "price": 1.96,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jerami Grant",
+                                "price": 1.96,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jerami Grant",
+                                "price": 1.82,
+                                "point": 25.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-12T09:54:36Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Deandre Ayton",
+                                "price": 1.88,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Deandre Ayton",
+                                "price": 1.88,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jerami Grant",
+                                "price": 1.7,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jerami Grant",
+                                "price": 2.12,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Shaedon Sharpe",
+                                "price": 2.14,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Shaedon Sharpe",
+                                "price": 1.68,
+                                "point": 5.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetus",
+                "title": "PointsBet (US)",
+                "last_update": "2023-11-12T09:54:26Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-12T09:54:25Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jerami Grant",
+                                "price": 2.25,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jerami Grant",
+                                "price": 1.61,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Shaedon Sharpe",
+                                "price": 2.15,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Shaedon Sharpe",
+                                "price": 1.67,
+                                "point": 4.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-12T09:54:25Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Deandre Ayton",
+                                "price": 1.91,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Deandre Ayton",
+                                "price": 1.83,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jerami Grant",
+                                "price": 1.95,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jerami Grant",
+                                "price": 1.8,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Shaedon Sharpe",
+                                "price": 1.87,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Shaedon Sharpe",
+                                "price": 1.87,
+                                "point": 21.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-12T09:54:25Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Deandre Ayton",
+                                "price": 1.83,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Deandre Ayton",
+                                "price": 1.91,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jerami Grant",
+                                "price": 2.05,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jerami Grant",
+                                "price": 1.71,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Shaedon Sharpe",
+                                "price": 2.15,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Shaedon Sharpe",
+                                "price": 1.67,
+                                "point": 5.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "barstool",
+                "title": "Barstool Sportsbook",
+                "last_update": "2023-11-12T09:53:57Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-12T09:51:39Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Shaedon Sharpe",
+                                "price": 2.2,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Shaedon Sharpe",
+                                "price": 1.62,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jerami Grant",
+                                "price": 2.25,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jerami Grant",
+                                "price": 1.57,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Deandre Ayton",
+                                "price": 2.0,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Deandre Ayton",
+                                "price": 1.77,
+                                "point": 1.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-12T09:51:39Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jerami Grant",
+                                "price": 1.95,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jerami Grant",
+                                "price": 1.8,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Shaedon Sharpe",
+                                "price": 1.87,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Shaedon Sharpe",
+                                "price": 1.87,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Deandre Ayton",
+                                "price": 1.91,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Deandre Ayton",
+                                "price": 1.83,
+                                "point": 13.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-12T09:51:39Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Deandre Ayton",
+                                "price": 1.8,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Deandre Ayton",
+                                "price": 1.95,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jerami Grant",
+                                "price": 2.1,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jerami Grant",
+                                "price": 1.71,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Shaedon Sharpe",
+                                "price": 2.2,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Shaedon Sharpe",
+                                "price": 1.62,
+                                "point": 5.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

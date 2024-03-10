@@ -1,0 +1,1630 @@
+{
+    "timestamp": "2023-12-08T09:55:39Z",
+    "previous_timestamp": "2023-12-08T09:50:39Z",
+    "next_timestamp": "2023-12-08T10:00:39Z",
+    "data": {
+        "id": "394e6b40edf9d48ddb159853a4f40c7e",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2023-12-09T00:10:00Z",
+        "home_team": "Orlando Magic",
+        "away_team": "Detroit Pistons",
+        "bookmakers": [
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2023-12-08T09:53:43Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-08T09:55:29Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.71,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 2.1,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cade Cunningham",
+                                "price": 1.62,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cade Cunningham",
+                                "price": 2.24,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Franz Wagner",
+                                "price": 2.2,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Franz Wagner",
+                                "price": 1.67,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Goga Bitadze",
+                                "price": 2.35,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Goga Bitadze",
+                                "price": 1.57,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Killian Hayes",
+                                "price": 2.1,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Killian Hayes",
+                                "price": 1.71,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 1.83,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 1.91,
+                                "point": 4.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-08T09:55:29Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.8,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.95,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cade Cunningham",
+                                "price": 1.87,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cade Cunningham",
+                                "price": 1.87,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Franz Wagner",
+                                "price": 1.8,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Franz Wagner",
+                                "price": 1.95,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Goga Bitadze",
+                                "price": 1.87,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Goga Bitadze",
+                                "price": 1.87,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Isaiah Stewart",
+                                "price": 1.83,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Isaiah Stewart",
+                                "price": 1.91,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Killian Hayes",
+                                "price": 1.95,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Killian Hayes",
+                                "price": 1.8,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 1.87,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 1.87,
+                                "point": 22.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-08T09:55:29Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.62,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 2.24,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cade Cunningham",
+                                "price": 2.0,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cade Cunningham",
+                                "price": 1.77,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Franz Wagner",
+                                "price": 1.74,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Franz Wagner",
+                                "price": 2.05,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Goga Bitadze",
+                                "price": 1.71,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Goga Bitadze",
+                                "price": 2.1,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Isaiah Stewart",
+                                "price": 1.95,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Isaiah Stewart",
+                                "price": 1.8,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Killian Hayes",
+                                "price": 2.0,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Killian Hayes",
+                                "price": 1.77,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 1.83,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 1.91,
+                                "point": 7.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetus",
+                "title": "PointsBet (US)",
+                "last_update": "2023-12-08T09:54:52Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-08T09:55:29Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.77,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 2.0,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cade Cunningham",
+                                "price": 1.67,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cade Cunningham",
+                                "price": 2.15,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Franz Wagner",
+                                "price": 2.2,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Franz Wagner",
+                                "price": 1.62,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Goga Bitadze",
+                                "price": 2.35,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Goga Bitadze",
+                                "price": 1.57,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Killian Hayes",
+                                "price": 2.05,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Killian Hayes",
+                                "price": 1.71,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 1.83,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 1.91,
+                                "point": 4.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-08T09:55:29Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.83,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.91,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cade Cunningham",
+                                "price": 1.87,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cade Cunningham",
+                                "price": 1.87,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Franz Wagner",
+                                "price": 1.8,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Franz Wagner",
+                                "price": 1.95,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Goga Bitadze",
+                                "price": 1.87,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Goga Bitadze",
+                                "price": 1.87,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Isaiah Stewart",
+                                "price": 1.83,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Isaiah Stewart",
+                                "price": 1.91,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Killian Hayes",
+                                "price": 1.91,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Killian Hayes",
+                                "price": 1.83,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 1.87,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 1.87,
+                                "point": 22.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-08T09:55:29Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.62,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 2.2,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cade Cunningham",
+                                "price": 1.95,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cade Cunningham",
+                                "price": 1.8,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Franz Wagner",
+                                "price": 1.77,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Franz Wagner",
+                                "price": 2.0,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Goga Bitadze",
+                                "price": 1.69,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Goga Bitadze",
+                                "price": 2.1,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Isaiah Stewart",
+                                "price": 1.95,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Isaiah Stewart",
+                                "price": 1.8,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Killian Hayes",
+                                "price": 1.95,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Killian Hayes",
+                                "price": 1.8,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 1.87,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 1.87,
+                                "point": 7.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betonlineag",
+                "title": "BetOnline.ag",
+                "last_update": "2023-12-08T09:54:22Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-08T09:51:21Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Killian Hayes",
+                                "price": 2.15,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Killian Hayes",
+                                "price": 1.67,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cade Cunningham",
+                                "price": 2.14,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cade Cunningham",
+                                "price": 1.68,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Franz Wagner",
+                                "price": 2.22,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Franz Wagner",
+                                "price": 1.63,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 1.91,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 1.85,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 2.06,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.73,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Goga Bitadze",
+                                "price": 1.55,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Goga Bitadze",
+                                "price": 2.39,
+                                "point": 2.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-08T09:51:21Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Killian Hayes",
+                                "price": 1.98,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Killian Hayes",
+                                "price": 1.79,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cade Cunningham",
+                                "price": 1.86,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cade Cunningham",
+                                "price": 1.9,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Franz Wagner",
+                                "price": 1.94,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Franz Wagner",
+                                "price": 1.82,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 1.88,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 1.88,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Goga Bitadze",
+                                "price": 1.86,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Goga Bitadze",
+                                "price": 1.9,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Isaiah Stewart",
+                                "price": 1.88,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Isaiah Stewart",
+                                "price": 1.88,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.92,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.84,
+                                "point": 19.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-08T09:51:21Z",
+                        "outcomes": [
+                            {
+                                "name": "Under",
+                                "description": "Isaiah Stewart",
+                                "price": 1.75,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Isaiah Stewart",
+                                "price": 2.03,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Killian Hayes",
+                                "price": 1.76,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Killian Hayes",
+                                "price": 2.02,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cade Cunningham",
+                                "price": 1.78,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cade Cunningham",
+                                "price": 1.99,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Franz Wagner",
+                                "price": 1.76,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Franz Wagner",
+                                "price": 2.02,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 1.92,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 1.84,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.64,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 2.21,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Goga Bitadze",
+                                "price": 1.72,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Goga Bitadze",
+                                "price": 2.07,
+                                "point": 6.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2023-12-08T09:54:33Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-08T09:53:49Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Franz Wagner",
+                                "price": 2.22,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Franz Wagner",
+                                "price": 1.64,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cade Cunningham",
+                                "price": 1.64,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cade Cunningham",
+                                "price": 2.22,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Killian Hayes",
+                                "price": 2.24,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Killian Hayes",
+                                "price": 1.63,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.68,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 2.14,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 1.94,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 1.83,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Goga Bitadze",
+                                "price": 2.46,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Goga Bitadze",
+                                "price": 1.53,
+                                "point": 2.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-08T09:53:49Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Cade Cunningham",
+                                "price": 1.94,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cade Cunningham",
+                                "price": 1.83,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.96,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.82,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 1.96,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 1.82,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Goga Bitadze",
+                                "price": 1.8,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Goga Bitadze",
+                                "price": 1.98,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Isaiah Stewart",
+                                "price": 1.78,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Isaiah Stewart",
+                                "price": 2.0,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Killian Hayes",
+                                "price": 2.02,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Killian Hayes",
+                                "price": 1.77,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Franz Wagner",
+                                "price": 1.96,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Franz Wagner",
+                                "price": 1.82,
+                                "point": 23.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-08T09:53:49Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Isaiah Stewart",
+                                "price": 2.0,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Isaiah Stewart",
+                                "price": 1.78,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 2.06,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.74,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Franz Wagner",
+                                "price": 1.74,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Franz Wagner",
+                                "price": 2.06,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 2.02,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 1.77,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Killian Hayes",
+                                "price": 2.06,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Killian Hayes",
+                                "price": 1.74,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cade Cunningham",
+                                "price": 1.98,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cade Cunningham",
+                                "price": 1.8,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Goga Bitadze",
+                                "price": 1.77,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Goga Bitadze",
+                                "price": 2.02,
+                                "point": 6.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "Caesars",
+                "last_update": "2023-12-08T09:53:01Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-08T09:53:10Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Cade Cunningham",
+                                "price": 1.72,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cade Cunningham",
+                                "price": 2.02,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Franz Wagner",
+                                "price": 2.1,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Franz Wagner",
+                                "price": 1.66,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.76,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.96,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Isaiah Stewart",
+                                "price": 2.23,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Isaiah Stewart",
+                                "price": 1.59,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Killian Hayes",
+                                "price": 2.1,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Killian Hayes",
+                                "price": 1.66,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 1.94,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 1.78,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Goga Bitadze",
+                                "price": 2.26,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Goga Bitadze",
+                                "price": 1.57,
+                                "point": 2.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-08T09:53:10Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Franz Wagner",
+                                "price": 1.81,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Franz Wagner",
+                                "price": 1.9,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Isaiah Stewart",
+                                "price": 1.81,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Isaiah Stewart",
+                                "price": 1.9,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Killian Hayes",
+                                "price": 2.0,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Killian Hayes",
+                                "price": 1.73,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.83,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.88,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Goga Bitadze",
+                                "price": 1.81,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Goga Bitadze",
+                                "price": 1.9,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 1.76,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 1.96,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cade Cunningham",
+                                "price": 1.87,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cade Cunningham",
+                                "price": 1.84,
+                                "point": 21.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-08T09:53:10Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Killian Hayes",
+                                "price": 2.02,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Killian Hayes",
+                                "price": 1.72,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Isaiah Stewart",
+                                "price": 1.97,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Isaiah Stewart",
+                                "price": 1.75,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 1.79,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 1.93,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Franz Wagner",
+                                "price": 1.72,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Franz Wagner",
+                                "price": 2.02,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.59,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 2.23,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Goga Bitadze",
+                                "price": 1.75,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Goga Bitadze",
+                                "price": 1.97,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cade Cunningham",
+                                "price": 2.0,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cade Cunningham",
+                                "price": 1.73,
+                                "point": 4.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2023-12-08T09:53:40Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-08T09:53:14Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Cade Cunningham",
+                                "price": 1.69,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cade Cunningham",
+                                "price": 2.1,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Franz Wagner",
+                                "price": 2.3,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Franz Wagner",
+                                "price": 1.59,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Killian Hayes",
+                                "price": 2.15,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Killian Hayes",
+                                "price": 1.67,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 1.91,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 1.83,
+                                "point": 4.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-08T09:53:14Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.87,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.87,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cade Cunningham",
+                                "price": 1.87,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cade Cunningham",
+                                "price": 1.87,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Isaiah Stewart",
+                                "price": 1.69,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Isaiah Stewart",
+                                "price": 2.1,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Killian Hayes",
+                                "price": 2.0,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Killian Hayes",
+                                "price": 1.77,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 1.87,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 1.87,
+                                "point": 22.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-08T09:53:14Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Franz Wagner",
+                                "price": 1.77,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Franz Wagner",
+                                "price": 2.0,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Goga Bitadze",
+                                "price": 1.69,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Goga Bitadze",
+                                "price": 2.1,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Isaiah Stewart",
+                                "price": 2.15,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Isaiah Stewart",
+                                "price": 1.67,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 2.0,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 1.77,
+                                "point": 7.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": "2023-12-08T09:55:20Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-08T09:49:44Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Goga Bitadze",
+                                "price": 2.35,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Goga Bitadze",
+                                "price": 1.54,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovich",
+                                "price": 1.74,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovich",
+                                "price": 2.0,
+                                "point": 2.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-08T09:49:44Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Goga Bitadze",
+                                "price": 1.83,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Goga Bitadze",
+                                "price": 1.91,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovich",
+                                "price": 1.77,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovich",
+                                "price": 1.95,
+                                "point": 19.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-08T09:49:44Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Goga Bitadze",
+                                "price": 1.69,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Goga Bitadze",
+                                "price": 2.05,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovich",
+                                "price": 1.62,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovich",
+                                "price": 2.2,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

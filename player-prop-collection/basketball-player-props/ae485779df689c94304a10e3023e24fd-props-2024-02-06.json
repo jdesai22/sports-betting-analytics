@@ -1,0 +1,2566 @@
+{
+    "timestamp": "2024-02-06T09:55:38Z",
+    "previous_timestamp": "2024-02-06T09:50:39Z",
+    "next_timestamp": "2024-02-06T10:00:38Z",
+    "data": {
+        "id": "ae485779df689c94304a10e3023e24fd",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-02-07T01:10:00Z",
+        "home_team": "Chicago Bulls",
+        "away_team": "Minnesota Timberwolves",
+        "bookmakers": [
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2024-02-06T09:53:40Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-02-06T09:53:57Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Alex Caruso",
+                                "price": 2.35,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alex Caruso",
+                                "price": 1.57,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Anthony Edwards",
+                                "price": 2.14,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Edwards",
+                                "price": 1.69,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Ayo Dosunmu",
+                                "price": 2.2,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Ayo Dosunmu",
+                                "price": 1.67,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Coby White",
+                                "price": 1.67,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Coby White",
+                                "price": 2.2,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "DeMar DeRozan",
+                                "price": 1.69,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "DeMar DeRozan",
+                                "price": 2.14,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Karl-Anthony Towns",
+                                "price": 1.57,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Karl-Anthony Towns",
+                                "price": 2.35,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mike Conley",
+                                "price": 1.95,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mike Conley",
+                                "price": 1.8,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nikola Vucevic",
+                                "price": 2.3,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Vucevic",
+                                "price": 1.6,
+                                "point": 3.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-02-06T09:53:57Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Alex Caruso",
+                                "price": 2.0,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alex Caruso",
+                                "price": 1.77,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Anthony Edwards",
+                                "price": 1.95,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Edwards",
+                                "price": 1.8,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Ayo Dosunmu",
+                                "price": 1.95,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Ayo Dosunmu",
+                                "price": 1.8,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Coby White",
+                                "price": 1.83,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Coby White",
+                                "price": 1.91,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "DeMar DeRozan",
+                                "price": 1.87,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "DeMar DeRozan",
+                                "price": 1.87,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaden McDaniels",
+                                "price": 1.83,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaden McDaniels",
+                                "price": 1.91,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Karl-Anthony Towns",
+                                "price": 1.91,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Karl-Anthony Towns",
+                                "price": 1.83,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mike Conley",
+                                "price": 1.77,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mike Conley",
+                                "price": 2.0,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nikola Vucevic",
+                                "price": 1.77,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Vucevic",
+                                "price": 2.0,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Rudy Gobert",
+                                "price": 1.91,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Rudy Gobert",
+                                "price": 1.83,
+                                "point": 14.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-02-06T09:53:57Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Alex Caruso",
+                                "price": 1.77,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alex Caruso",
+                                "price": 2.0,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Anthony Edwards",
+                                "price": 1.8,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Edwards",
+                                "price": 1.95,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Ayo Dosunmu",
+                                "price": 1.91,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Ayo Dosunmu",
+                                "price": 1.83,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Coby White",
+                                "price": 2.05,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Coby White",
+                                "price": 1.74,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "DeMar DeRozan",
+                                "price": 1.6,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "DeMar DeRozan",
+                                "price": 2.3,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaden McDaniels",
+                                "price": 1.57,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaden McDaniels",
+                                "price": 2.3,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Karl-Anthony Towns",
+                                "price": 1.87,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Karl-Anthony Towns",
+                                "price": 1.87,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mike Conley",
+                                "price": 2.3,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mike Conley",
+                                "price": 1.6,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nikola Vucevic",
+                                "price": 1.77,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Vucevic",
+                                "price": 2.0,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Rudy Gobert",
+                                "price": 2.05,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Rudy Gobert",
+                                "price": 1.74,
+                                "point": 13.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2024-02-06T09:53:50Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-02-06T09:54:04Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Coby White",
+                                "price": 2.26,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Coby White",
+                                "price": 1.62,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Anthony Edwards",
+                                "price": 2.12,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Edwards",
+                                "price": 1.7,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Ayo Dosunmu",
+                                "price": 2.1,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Ayo Dosunmu",
+                                "price": 1.71,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "DeMar DeRozan",
+                                "price": 1.68,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "DeMar DeRozan",
+                                "price": 2.14,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Karl-Anthony Towns",
+                                "price": 1.58,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Karl-Anthony Towns",
+                                "price": 2.34,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Alex Caruso",
+                                "price": 2.28,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alex Caruso",
+                                "price": 1.61,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nikola Vucevic",
+                                "price": 2.32,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Vucevic",
+                                "price": 1.59,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mike Conley",
+                                "price": 1.94,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mike Conley",
+                                "price": 1.83,
+                                "point": 6.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-02-06T09:54:04Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Rudy Gobert",
+                                "price": 1.82,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Rudy Gobert",
+                                "price": 1.96,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "DeMar DeRozan",
+                                "price": 1.96,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "DeMar DeRozan",
+                                "price": 1.82,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Karl-Anthony Towns",
+                                "price": 1.88,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Karl-Anthony Towns",
+                                "price": 1.88,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaden McDaniels",
+                                "price": 1.83,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaden McDaniels",
+                                "price": 1.94,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Alex Caruso",
+                                "price": 1.8,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alex Caruso",
+                                "price": 1.98,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nikola Vucevic",
+                                "price": 1.98,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Vucevic",
+                                "price": 1.8,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Anthony Edwards",
+                                "price": 1.9,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Edwards",
+                                "price": 1.87,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mike Conley",
+                                "price": 1.9,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mike Conley",
+                                "price": 1.87,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Ayo Dosunmu",
+                                "price": 1.98,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Ayo Dosunmu",
+                                "price": 1.8,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Coby White",
+                                "price": 1.93,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Coby White",
+                                "price": 1.85,
+                                "point": 22.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-02-06T09:54:04Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Alex Caruso",
+                                "price": 1.68,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alex Caruso",
+                                "price": 2.14,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nikola Vucevic",
+                                "price": 2.16,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Vucevic",
+                                "price": 1.68,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mike Conley",
+                                "price": 2.24,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mike Conley",
+                                "price": 1.63,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "DeMar DeRozan",
+                                "price": 1.63,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "DeMar DeRozan",
+                                "price": 2.24,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Ayo Dosunmu",
+                                "price": 2.0,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Ayo Dosunmu",
+                                "price": 1.78,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Rudy Gobert",
+                                "price": 2.06,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Rudy Gobert",
+                                "price": 1.74,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Coby White",
+                                "price": 2.0,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Coby White",
+                                "price": 1.77,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaden McDaniels",
+                                "price": 1.61,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaden McDaniels",
+                                "price": 2.28,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Anthony Edwards",
+                                "price": 1.7,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Edwards",
+                                "price": 2.12,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Karl-Anthony Towns",
+                                "price": 1.88,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Karl-Anthony Towns",
+                                "price": 1.88,
+                                "point": 7.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetus",
+                "title": "PointsBet (US)",
+                "last_update": "2024-02-06T09:53:39Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-02-06T09:55:32Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Alex Caruso",
+                                "price": 2.3,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alex Caruso",
+                                "price": 1.59,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Anthony Edwards",
+                                "price": 2.1,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Edwards",
+                                "price": 1.69,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Ayo Dosunmu",
+                                "price": 2.25,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Ayo Dosunmu",
+                                "price": 1.61,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Coby White",
+                                "price": 1.67,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Coby White",
+                                "price": 2.15,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "DeMar DeRozan",
+                                "price": 1.69,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "DeMar DeRozan",
+                                "price": 2.1,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Karl-Anthony Towns",
+                                "price": 1.59,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Karl-Anthony Towns",
+                                "price": 2.3,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mike Conley",
+                                "price": 2.0,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mike Conley",
+                                "price": 1.77,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nikola Vucevic",
+                                "price": 2.25,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Vucevic",
+                                "price": 1.61,
+                                "point": 3.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-02-06T09:55:32Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Alex Caruso",
+                                "price": 1.95,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alex Caruso",
+                                "price": 1.8,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Anthony Edwards",
+                                "price": 1.8,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Edwards",
+                                "price": 1.95,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Ayo Dosunmu",
+                                "price": 1.91,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Ayo Dosunmu",
+                                "price": 1.83,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Coby White",
+                                "price": 1.83,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Coby White",
+                                "price": 1.91,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "DeMar DeRozan",
+                                "price": 1.87,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "DeMar DeRozan",
+                                "price": 1.87,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaden McDaniels",
+                                "price": 1.83,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaden McDaniels",
+                                "price": 1.91,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Karl-Anthony Towns",
+                                "price": 1.91,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Karl-Anthony Towns",
+                                "price": 1.83,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mike Conley",
+                                "price": 1.77,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mike Conley",
+                                "price": 2.0,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nikola Vucevic",
+                                "price": 1.8,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Vucevic",
+                                "price": 1.95,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Rudy Gobert",
+                                "price": 1.91,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Rudy Gobert",
+                                "price": 1.83,
+                                "point": 14.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-02-06T09:55:32Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Alex Caruso",
+                                "price": 1.77,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alex Caruso",
+                                "price": 2.0,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Anthony Edwards",
+                                "price": 1.8,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Edwards",
+                                "price": 1.95,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Ayo Dosunmu",
+                                "price": 1.91,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Ayo Dosunmu",
+                                "price": 1.83,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Coby White",
+                                "price": 2.0,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Coby White",
+                                "price": 1.77,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "DeMar DeRozan",
+                                "price": 1.59,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "DeMar DeRozan",
+                                "price": 2.3,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaden McDaniels",
+                                "price": 1.61,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaden McDaniels",
+                                "price": 2.25,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Karl-Anthony Towns",
+                                "price": 1.87,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Karl-Anthony Towns",
+                                "price": 1.87,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mike Conley",
+                                "price": 2.3,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mike Conley",
+                                "price": 1.59,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nikola Vucevic",
+                                "price": 1.77,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Vucevic",
+                                "price": 2.0,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Rudy Gobert",
+                                "price": 2.05,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Rudy Gobert",
+                                "price": 1.71,
+                                "point": 13.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betonlineag",
+                "title": "BetOnline.ag",
+                "last_update": "2024-02-06T09:53:38Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-02-06T09:55:05Z",
+                        "outcomes": [
+                            {
+                                "name": "Under",
+                                "description": "Karl-Anthony Towns",
+                                "price": 2.31,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Karl-Anthony Towns",
+                                "price": 1.58,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Anthony Edwards",
+                                "price": 2.12,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Edwards",
+                                "price": 1.69,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Coby White",
+                                "price": 2.17,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Coby White",
+                                "price": 1.66,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nikola Vucevic",
+                                "price": 2.3,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Vucevic",
+                                "price": 1.59,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "DeMar DeRozan",
+                                "price": 2.11,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "DeMar DeRozan",
+                                "price": 1.69,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Ayo Dosunmu",
+                                "price": 1.68,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Ayo Dosunmu",
+                                "price": 2.13,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Alex Caruso",
+                                "price": 2.3,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alex Caruso",
+                                "price": 1.59,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mike Conley",
+                                "price": 1.97,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mike Conley",
+                                "price": 1.8,
+                                "point": 6.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-02-06T09:55:05Z",
+                        "outcomes": [
+                            {
+                                "name": "Under",
+                                "description": "Karl-Anthony Towns",
+                                "price": 2.1,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Karl-Anthony Towns",
+                                "price": 1.7,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Edwards",
+                                "price": 1.81,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Anthony Edwards",
+                                "price": 1.95,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaden McDaniels",
+                                "price": 1.93,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaden McDaniels",
+                                "price": 1.83,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Coby White",
+                                "price": 2.0,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Coby White",
+                                "price": 1.77,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "DeMar DeRozan",
+                                "price": 1.84,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "DeMar DeRozan",
+                                "price": 1.92,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Ayo Dosunmu",
+                                "price": 1.95,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Ayo Dosunmu",
+                                "price": 1.81,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mike Conley",
+                                "price": 1.95,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mike Conley",
+                                "price": 1.81,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Rudy Gobert",
+                                "price": 1.93,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Rudy Gobert",
+                                "price": 1.83,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nikola Vucevic",
+                                "price": 1.93,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Vucevic",
+                                "price": 1.83,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alex Caruso",
+                                "price": 1.77,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Alex Caruso",
+                                "price": 2.0,
+                                "point": 11.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-02-06T09:55:05Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Karl-Anthony Towns",
+                                "price": 1.86,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Karl-Anthony Towns",
+                                "price": 1.9,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Coby White",
+                                "price": 1.74,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Coby White",
+                                "price": 2.04,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaden McDaniels",
+                                "price": 1.62,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaden McDaniels",
+                                "price": 2.24,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Edwards",
+                                "price": 1.99,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Anthony Edwards",
+                                "price": 1.78,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nikola Vucevic",
+                                "price": 1.75,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Vucevic",
+                                "price": 2.03,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "DeMar DeRozan",
+                                "price": 2.3,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "DeMar DeRozan",
+                                "price": 1.59,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Alex Caruso",
+                                "price": 1.78,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alex Caruso",
+                                "price": 1.99,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Ayo Dosunmu",
+                                "price": 1.84,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Ayo Dosunmu",
+                                "price": 1.92,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mike Conley",
+                                "price": 2.26,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mike Conley",
+                                "price": 1.61,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Rudy Gobert",
+                                "price": 1.85,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Rudy Gobert",
+                                "price": 1.91,
+                                "point": 13.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "Caesars",
+                "last_update": "2024-02-06T09:52:51Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-02-06T09:54:41Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Ayo Dosunmu",
+                                "price": 2.08,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Ayo Dosunmu",
+                                "price": 1.68,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mike Conley",
+                                "price": 1.94,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mike Conley",
+                                "price": 1.78,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaden McDaniels",
+                                "price": 2.39,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaden McDaniels",
+                                "price": 1.52,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Alex Caruso",
+                                "price": 2.26,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alex Caruso",
+                                "price": 1.57,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Karl-Anthony Towns",
+                                "price": 1.6,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Karl-Anthony Towns",
+                                "price": 2.2,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Anthony Edwards",
+                                "price": 2.06,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Edwards",
+                                "price": 1.69,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Rudy Gobert",
+                                "price": 1.47,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Rudy Gobert",
+                                "price": 2.52,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Coby White",
+                                "price": 1.62,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Coby White",
+                                "price": 2.16,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "DeMar DeRozan",
+                                "price": 1.68,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "DeMar DeRozan",
+                                "price": 2.08,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nikola Vucevic",
+                                "price": 2.26,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Vucevic",
+                                "price": 1.57,
+                                "point": 3.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-02-06T09:54:41Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Nikola Vucevic",
+                                "price": 1.72,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Vucevic",
+                                "price": 2.02,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Ayo Dosunmu",
+                                "price": 1.92,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Ayo Dosunmu",
+                                "price": 1.8,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "DeMar DeRozan",
+                                "price": 1.88,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "DeMar DeRozan",
+                                "price": 1.83,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Karl-Anthony Towns",
+                                "price": 1.85,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Karl-Anthony Towns",
+                                "price": 1.85,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mike Conley",
+                                "price": 1.78,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mike Conley",
+                                "price": 1.94,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Alex Caruso",
+                                "price": 1.97,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alex Caruso",
+                                "price": 1.75,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaden McDaniels",
+                                "price": 1.88,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaden McDaniels",
+                                "price": 1.83,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Coby White",
+                                "price": 1.87,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Coby White",
+                                "price": 1.84,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Rudy Gobert",
+                                "price": 1.97,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Rudy Gobert",
+                                "price": 1.75,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Anthony Edwards",
+                                "price": 1.93,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Edwards",
+                                "price": 1.79,
+                                "point": 26.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-02-06T09:54:41Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Alex Caruso",
+                                "price": 1.74,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alex Caruso",
+                                "price": 1.99,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Coby White",
+                                "price": 1.99,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Coby White",
+                                "price": 1.74,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Rudy Gobert",
+                                "price": 1.9,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Rudy Gobert",
+                                "price": 1.81,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Ayo Dosunmu",
+                                "price": 1.88,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Ayo Dosunmu",
+                                "price": 1.83,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Karl-Anthony Towns",
+                                "price": 1.84,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Karl-Anthony Towns",
+                                "price": 1.87,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mike Conley",
+                                "price": 2.29,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mike Conley",
+                                "price": 1.56,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaden McDaniels",
+                                "price": 1.65,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaden McDaniels",
+                                "price": 2.12,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "DeMar DeRozan",
+                                "price": 1.59,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "DeMar DeRozan",
+                                "price": 2.23,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nikola Vucevic",
+                                "price": 1.76,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Vucevic",
+                                "price": 1.96,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Anthony Edwards",
+                                "price": 1.74,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Edwards",
+                                "price": 1.99,
+                                "point": 4.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2024-02-06T09:55:21Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-02-06T09:54:53Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Alex Caruso",
+                                "price": 2.35,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alex Caruso",
+                                "price": 1.56,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Anthony Edwards",
+                                "price": 2.1,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Edwards",
+                                "price": 1.69,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Ayo Dosunmu",
+                                "price": 2.15,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Ayo Dosunmu",
+                                "price": 1.67,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Coby White",
+                                "price": 1.67,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Coby White",
+                                "price": 2.15,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "DeMar DeRozan",
+                                "price": 1.69,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "DeMar DeRozan",
+                                "price": 2.1,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Karl-Anthony Towns Jr.",
+                                "price": 1.56,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Karl-Anthony Towns Jr.",
+                                "price": 2.35,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mike Conley Jr.",
+                                "price": 1.95,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mike Conley Jr.",
+                                "price": 1.8,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nikola Vucevic",
+                                "price": 2.3,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Vucevic",
+                                "price": 1.59,
+                                "point": 3.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-02-06T09:54:53Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Alex Caruso",
+                                "price": 1.74,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alex Caruso",
+                                "price": 2.05,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Anthony Edwards",
+                                "price": 1.91,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Edwards",
+                                "price": 1.83,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Ayo Dosunmu",
+                                "price": 2.05,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Ayo Dosunmu",
+                                "price": 1.74,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Coby White",
+                                "price": 1.91,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Coby White",
+                                "price": 1.83,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "DeMar DeRozan",
+                                "price": 2.05,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "DeMar DeRozan",
+                                "price": 1.74,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaden McDaniels",
+                                "price": 1.8,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaden McDaniels",
+                                "price": 1.95,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Karl-Anthony Towns Jr.",
+                                "price": 1.87,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Karl-Anthony Towns Jr.",
+                                "price": 1.87,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mike Conley Jr.",
+                                "price": 1.87,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mike Conley Jr.",
+                                "price": 1.87,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nikola Vucevic",
+                                "price": 2.05,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Vucevic",
+                                "price": 1.74,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Rudy Gobert",
+                                "price": 1.74,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Rudy Gobert",
+                                "price": 2.05,
+                                "point": 13.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-02-06T09:54:53Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Alex Caruso",
+                                "price": 1.77,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alex Caruso",
+                                "price": 2.0,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Anthony Edwards",
+                                "price": 1.8,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Edwards",
+                                "price": 1.95,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Ayo Dosunmu",
+                                "price": 1.91,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Ayo Dosunmu",
+                                "price": 1.83,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Coby White",
+                                "price": 2.05,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Coby White",
+                                "price": 1.74,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "DeMar DeRozan",
+                                "price": 1.59,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "DeMar DeRozan",
+                                "price": 2.3,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaden McDaniels",
+                                "price": 1.59,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaden McDaniels",
+                                "price": 2.3,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Karl-Anthony Towns Jr.",
+                                "price": 1.87,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Karl-Anthony Towns Jr.",
+                                "price": 1.87,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mike Conley Jr.",
+                                "price": 2.3,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mike Conley Jr.",
+                                "price": 1.59,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nikola Vucevic",
+                                "price": 1.77,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Vucevic",
+                                "price": 2.0,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Rudy Gobert",
+                                "price": 2.05,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Rudy Gobert",
+                                "price": 1.74,
+                                "point": 13.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": "2024-02-06T09:54:46Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-02-06T09:54:21Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Ayo Dosunmu",
+                                "price": 2.15,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Ayo Dosunmu",
+                                "price": 1.65,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Alex Caruso",
+                                "price": 2.3,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alex Caruso",
+                                "price": 1.57,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "DeMar DeRozan",
+                                "price": 1.67,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "DeMar DeRozan",
+                                "price": 2.1,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Karl-Anthony Towns",
+                                "price": 1.62,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Karl-Anthony Towns",
+                                "price": 2.2,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mike Conley Jr.",
+                                "price": 1.91,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mike Conley Jr.",
+                                "price": 1.83,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Anthony Edwards",
+                                "price": 2.15,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Edwards",
+                                "price": 1.67,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Coby White",
+                                "price": 1.65,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Coby White",
+                                "price": 2.15,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nikola Vucevic",
+                                "price": 2.25,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Vucevic",
+                                "price": 1.61,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaden McDaniels",
+                                "price": 2.45,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaden McDaniels",
+                                "price": 1.53,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Rudy Gobert",
+                                "price": 1.5,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Rudy Gobert",
+                                "price": 2.5,
+                                "point": 0.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-02-06T09:54:21Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Ayo Dosunmu",
+                                "price": 1.95,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Ayo Dosunmu",
+                                "price": 1.8,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "DeMar DeRozan",
+                                "price": 1.87,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "DeMar DeRozan",
+                                "price": 1.83,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Karl-Anthony Towns",
+                                "price": 1.87,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Karl-Anthony Towns",
+                                "price": 1.83,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mike Conley Jr.",
+                                "price": 1.77,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mike Conley Jr.",
+                                "price": 2.0,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Anthony Edwards",
+                                "price": 1.95,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Edwards",
+                                "price": 1.8,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Coby White",
+                                "price": 1.95,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Coby White",
+                                "price": 1.8,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaden McDaniels",
+                                "price": 1.83,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaden McDaniels",
+                                "price": 1.91,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Rudy Gobert",
+                                "price": 1.91,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Rudy Gobert",
+                                "price": 1.83,
+                                "point": 14.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-02-06T09:54:21Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Ayo Dosunmu",
+                                "price": 1.95,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Ayo Dosunmu",
+                                "price": 1.8,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Alex Caruso",
+                                "price": 1.8,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alex Caruso",
+                                "price": 1.95,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "DeMar DeRozan",
+                                "price": 1.61,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "DeMar DeRozan",
+                                "price": 2.25,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Karl-Anthony Towns",
+                                "price": 1.87,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Karl-Anthony Towns",
+                                "price": 1.87,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mike Conley Jr.",
+                                "price": 2.35,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mike Conley Jr.",
+                                "price": 1.54,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Anthony Edwards",
+                                "price": 1.77,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Anthony Edwards",
+                                "price": 1.95,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Coby White",
+                                "price": 2.05,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Coby White",
+                                "price": 1.71,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaden McDaniels",
+                                "price": 1.65,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaden McDaniels",
+                                "price": 2.15,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nikola Vucevic",
+                                "price": 1.74,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Vucevic",
+                                "price": 2.0,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Rudy Gobert",
+                                "price": 2.05,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Rudy Gobert",
+                                "price": 1.71,
+                                "point": 13.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

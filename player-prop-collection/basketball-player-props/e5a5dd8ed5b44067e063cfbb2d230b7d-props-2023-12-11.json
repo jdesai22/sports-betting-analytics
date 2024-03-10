@@ -1,0 +1,1665 @@
+{
+    "timestamp": "2023-12-11T09:55:38Z",
+    "previous_timestamp": "2023-12-11T09:50:38Z",
+    "next_timestamp": "2023-12-11T10:00:38Z",
+    "data": {
+        "id": "e5a5dd8ed5b44067e063cfbb2d230b7d",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2023-12-12T00:10:00Z",
+        "home_team": "Philadelphia 76ers",
+        "away_team": "Washington Wizards",
+        "bookmakers": [
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2023-12-11T09:54:19Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-11T09:52:03Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Deni Avdija",
+                                "price": 1.67,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Deni Avdija",
+                                "price": 2.2,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.71,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 2.1,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jordan Poole",
+                                "price": 2.0,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jordan Poole",
+                                "price": 1.77,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyle Kuzma",
+                                "price": 1.67,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyle Kuzma",
+                                "price": 2.2,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 1.67,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 2.2,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyus Jones",
+                                "price": 2.24,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyus Jones",
+                                "price": 1.62,
+                                "point": 5.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-11T09:52:03Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Daniel Gafford",
+                                "price": 1.77,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Daniel Gafford",
+                                "price": 2.0,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Deni Avdija",
+                                "price": 1.83,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Deni Avdija",
+                                "price": 1.91,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.8,
+                                "point": 34.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.95,
+                                "point": 34.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jordan Poole",
+                                "price": 1.8,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jordan Poole",
+                                "price": 1.95,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyle Kuzma",
+                                "price": 1.71,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyle Kuzma",
+                                "price": 2.1,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 1.87,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.87,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyus Jones",
+                                "price": 1.83,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyus Jones",
+                                "price": 1.91,
+                                "point": 12.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-11T09:52:03Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Daniel Gafford",
+                                "price": 1.87,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Daniel Gafford",
+                                "price": 1.87,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Deni Avdija",
+                                "price": 2.14,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Deni Avdija",
+                                "price": 1.69,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.83,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.91,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jordan Poole",
+                                "price": 1.83,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jordan Poole",
+                                "price": 1.91,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyle Kuzma",
+                                "price": 1.74,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyle Kuzma",
+                                "price": 2.05,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 1.6,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 2.3,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyus Jones",
+                                "price": 1.77,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyus Jones",
+                                "price": 2.0,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetus",
+                "title": "PointsBet (US)",
+                "last_update": "2023-12-11T09:55:04Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-11T09:53:22Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "De'Anthony Melton",
+                                "price": 2.1,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Anthony Melton",
+                                "price": 1.69,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Deni Avdija",
+                                "price": 1.69,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Deni Avdija",
+                                "price": 2.1,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.69,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 2.1,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jordan Poole",
+                                "price": 2.0,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jordan Poole",
+                                "price": 1.77,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyle Kuzma",
+                                "price": 1.67,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyle Kuzma",
+                                "price": 2.15,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nicolas Batum",
+                                "price": 1.8,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nicolas Batum",
+                                "price": 1.95,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tobias Harris",
+                                "price": 2.2,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tobias Harris",
+                                "price": 1.62,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 2.15,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.67,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyus Jones",
+                                "price": 2.2,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyus Jones",
+                                "price": 1.62,
+                                "point": 5.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-11T09:53:22Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Daniel Gafford",
+                                "price": 1.8,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Daniel Gafford",
+                                "price": 1.95,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Anthony Melton",
+                                "price": 1.87,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Anthony Melton",
+                                "price": 1.87,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Deni Avdija",
+                                "price": 1.83,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Deni Avdija",
+                                "price": 1.91,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.91,
+                                "point": 35.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.83,
+                                "point": 35.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jordan Poole",
+                                "price": 1.8,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jordan Poole",
+                                "price": 1.95,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyle Kuzma",
+                                "price": 1.87,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyle Kuzma",
+                                "price": 1.87,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nicolas Batum",
+                                "price": 1.95,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nicolas Batum",
+                                "price": 1.8,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tobias Harris",
+                                "price": 1.91,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tobias Harris",
+                                "price": 1.83,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 1.87,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.87,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyus Jones",
+                                "price": 1.83,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyus Jones",
+                                "price": 1.91,
+                                "point": 12.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-11T09:53:22Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Daniel Gafford",
+                                "price": 1.91,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Daniel Gafford",
+                                "price": 1.83,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Anthony Melton",
+                                "price": 1.95,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Anthony Melton",
+                                "price": 1.8,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Deni Avdija",
+                                "price": 2.15,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Deni Avdija",
+                                "price": 1.67,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.83,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.91,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jordan Poole",
+                                "price": 1.83,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jordan Poole",
+                                "price": 1.91,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyle Kuzma",
+                                "price": 1.77,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyle Kuzma",
+                                "price": 2.0,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nicolas Batum",
+                                "price": 1.87,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nicolas Batum",
+                                "price": 1.87,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tobias Harris",
+                                "price": 2.1,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tobias Harris",
+                                "price": 1.69,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 2.25,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.61,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyus Jones",
+                                "price": 1.8,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyus Jones",
+                                "price": 1.95,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2023-12-11T09:54:43Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-11T09:53:57Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jordan Poole",
+                                "price": 2.08,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jordan Poole",
+                                "price": 1.72,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyle Kuzma",
+                                "price": 1.65,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyle Kuzma",
+                                "price": 2.2,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Deni Avdija",
+                                "price": 2.26,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Deni Avdija",
+                                "price": 1.62,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.74,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 2.06,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nicolas Batum",
+                                "price": 1.68,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nicolas Batum",
+                                "price": 2.14,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Anthony Melton",
+                                "price": 2.08,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Anthony Melton",
+                                "price": 1.72,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 2.18,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.67,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tobias Harris",
+                                "price": 2.12,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tobias Harris",
+                                "price": 1.7,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyus Jones",
+                                "price": 2.06,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyus Jones",
+                                "price": 1.74,
+                                "point": 5.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-11T09:53:57Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Deni Avdija",
+                                "price": 1.78,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Deni Avdija",
+                                "price": 2.0,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tobias Harris",
+                                "price": 1.9,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tobias Harris",
+                                "price": 1.87,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 1.83,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.94,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Anthony Melton",
+                                "price": 1.78,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Anthony Melton",
+                                "price": 2.0,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nicolas Batum",
+                                "price": 1.93,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nicolas Batum",
+                                "price": 1.85,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyle Kuzma",
+                                "price": 1.82,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyle Kuzma",
+                                "price": 1.96,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyus Jones",
+                                "price": 1.94,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyus Jones",
+                                "price": 1.83,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Daniel Gafford",
+                                "price": 1.96,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Daniel Gafford",
+                                "price": 1.82,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jordan Poole",
+                                "price": 1.9,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jordan Poole",
+                                "price": 1.87,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.9,
+                                "point": 34.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.87,
+                                "point": 34.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-11T09:53:57Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Deni Avdija",
+                                "price": 2.14,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Deni Avdija",
+                                "price": 1.68,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jordan Poole",
+                                "price": 1.88,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jordan Poole",
+                                "price": 1.88,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Daniel Gafford",
+                                "price": 1.87,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Daniel Gafford",
+                                "price": 1.9,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyle Kuzma",
+                                "price": 1.71,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyle Kuzma",
+                                "price": 2.1,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.78,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 2.0,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "De'Anthony Melton",
+                                "price": 1.8,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Anthony Melton",
+                                "price": 1.98,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 2.24,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.63,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tobias Harris",
+                                "price": 1.68,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tobias Harris",
+                                "price": 2.16,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nicolas Batum",
+                                "price": 1.82,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nicolas Batum",
+                                "price": 1.96,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyus Jones",
+                                "price": 1.72,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyus Jones",
+                                "price": 2.08,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betonlineag",
+                "title": "BetOnline.ag",
+                "last_update": "2023-12-11T09:55:26Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-11T09:54:09Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.71,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 2.08,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Deni Avdija",
+                                "price": 1.65,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Deni Avdija",
+                                "price": 2.18,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyle Kuzma",
+                                "price": 1.66,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyle Kuzma",
+                                "price": 2.17,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jordan Poole",
+                                "price": 2.04,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jordan Poole",
+                                "price": 1.74,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyus Jones",
+                                "price": 2.17,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyus Jones",
+                                "price": 1.66,
+                                "point": 5.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-11T09:54:09Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.9,
+                                "point": 34.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.86,
+                                "point": 34.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Daniel Gafford",
+                                "price": 1.86,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Daniel Gafford",
+                                "price": 1.9,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Deni Avdija",
+                                "price": 1.83,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Deni Avdija",
+                                "price": 1.93,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyle Kuzma",
+                                "price": 1.82,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyle Kuzma",
+                                "price": 1.94,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyus Jones",
+                                "price": 1.89,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyus Jones",
+                                "price": 1.87,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jordan Poole",
+                                "price": 1.88,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jordan Poole",
+                                "price": 1.88,
+                                "point": 17.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-11T09:54:09Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.84,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.92,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyle Kuzma",
+                                "price": 1.73,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyle Kuzma",
+                                "price": 2.06,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Daniel Gafford",
+                                "price": 1.88,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Daniel Gafford",
+                                "price": 1.88,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyus Jones",
+                                "price": 1.77,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyus Jones",
+                                "price": 2.01,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jordan Poole",
+                                "price": 1.87,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jordan Poole",
+                                "price": 1.89,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Deni Avdija",
+                                "price": 2.13,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Deni Avdija",
+                                "price": 1.68,
+                                "point": 6.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "Caesars",
+                "last_update": "2023-12-11T09:52:39Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-11T09:52:12Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Daniel Gafford",
+                                "price": 1.66,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Daniel Gafford",
+                                "price": 2.1,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.7,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 2.04,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jordan Poole",
+                                "price": 2.0,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jordan Poole",
+                                "price": 1.73,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyle Kuzma",
+                                "price": 1.66,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyle Kuzma",
+                                "price": 2.1,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Deni Avdija",
+                                "price": 1.6,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Deni Avdija",
+                                "price": 2.2,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 1.64,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 2.14,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyus Jones",
+                                "price": 2.16,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyus Jones",
+                                "price": 1.62,
+                                "point": 5.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-11T09:52:12Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Tyus Jones",
+                                "price": 1.88,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyus Jones",
+                                "price": 1.83,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.92,
+                                "point": 34.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.8,
+                                "point": 34.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyle Kuzma",
+                                "price": 1.79,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyle Kuzma",
+                                "price": 1.93,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Daniel Gafford",
+                                "price": 1.84,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Daniel Gafford",
+                                "price": 1.87,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 1.84,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 1.87,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jordan Poole",
+                                "price": 1.9,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jordan Poole",
+                                "price": 1.81,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Deni Avdija",
+                                "price": 1.78,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Deni Avdija",
+                                "price": 1.94,
+                                "point": 11.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-11T09:52:12Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Daniel Gafford",
+                                "price": 1.83,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Daniel Gafford",
+                                "price": 1.88,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyus Jones",
+                                "price": 1.74,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyus Jones",
+                                "price": 1.99,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.92,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.8,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Deni Avdija",
+                                "price": 2.12,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Deni Avdija",
+                                "price": 1.65,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyle Kuzma",
+                                "price": 1.65,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyle Kuzma",
+                                "price": 2.12,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jordan Poole",
+                                "price": 1.79,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jordan Poole",
+                                "price": 1.93,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyrese Maxey",
+                                "price": 1.59,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyrese Maxey",
+                                "price": 2.23,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2023-12-11T09:50:00Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-11T09:46:30Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Deni Avdija",
+                                "price": 1.67,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Deni Avdija",
+                                "price": 2.15,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyle Kuzma",
+                                "price": 1.62,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyle Kuzma",
+                                "price": 2.2,
+                                "point": 4.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-11T09:46:30Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Daniel Gafford",
+                                "price": 1.87,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Daniel Gafford",
+                                "price": 1.87,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 2.0,
+                                "point": 34.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.77,
+                                "point": 34.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyle Kuzma",
+                                "price": 1.8,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyle Kuzma",
+                                "price": 1.95,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyus Jones",
+                                "price": 1.91,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyus Jones",
+                                "price": 1.83,
+                                "point": 12.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-11T09:46:30Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Deni Avdija",
+                                "price": 2.2,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Deni Avdija",
+                                "price": 1.62,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joel Embiid",
+                                "price": 1.87,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joel Embiid",
+                                "price": 1.87,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyle Kuzma",
+                                "price": 1.67,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyle Kuzma",
+                                "price": 2.15,
+                                "point": 5.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

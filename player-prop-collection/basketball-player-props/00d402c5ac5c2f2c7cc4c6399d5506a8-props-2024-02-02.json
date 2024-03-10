@@ -1,0 +1,586 @@
+{
+    "timestamp": "2024-02-02T09:55:39Z",
+    "previous_timestamp": "2024-02-02T09:50:39Z",
+    "next_timestamp": "2024-02-02T10:00:38Z",
+    "data": {
+        "id": "00d402c5ac5c2f2c7cc4c6399d5506a8",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-02-03T01:10:00Z",
+        "home_team": "Houston Rockets",
+        "away_team": "Toronto Raptors",
+        "bookmakers": [
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2024-02-02T09:54:31Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-02-02T09:54:57Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Alperen Sengun",
+                                "price": 2.05,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alperen Sengun",
+                                "price": 1.74,
+                                "point": 5.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-02-02T09:54:57Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Alperen Sengun",
+                                "price": 1.83,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alperen Sengun",
+                                "price": 1.91,
+                                "point": 22.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-02-02T09:54:57Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Alperen Sengun",
+                                "price": 1.95,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alperen Sengun",
+                                "price": 1.8,
+                                "point": 10.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2024-02-02T09:53:45Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-02-02T09:55:07Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Fred VanVleet",
+                                "price": 1.96,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Fred VanVleet",
+                                "price": 1.82,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Green",
+                                "price": 2.12,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Green",
+                                "price": 1.7,
+                                "point": 3.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-02-02T09:55:07Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jalen Green",
+                                "price": 1.98,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Green",
+                                "price": 1.8,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dillon Brooks",
+                                "price": 1.94,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dillon Brooks",
+                                "price": 1.83,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Fred VanVleet",
+                                "price": 1.88,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Fred VanVleet",
+                                "price": 1.88,
+                                "point": 15.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-02-02T09:55:07Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Fred VanVleet",
+                                "price": 2.08,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Fred VanVleet",
+                                "price": 1.72,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Green",
+                                "price": 1.78,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Green",
+                                "price": 2.0,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dillon Brooks",
+                                "price": 2.12,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dillon Brooks",
+                                "price": 1.7,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetus",
+                "title": "PointsBet (US)",
+                "last_update": "2024-02-02T09:54:31Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-02-02T09:55:45Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Alperen Sengun",
+                                "price": 2.05,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alperen Sengun",
+                                "price": 1.71,
+                                "point": 5.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-02-02T09:55:45Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Alperen Sengun",
+                                "price": 1.87,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alperen Sengun",
+                                "price": 1.87,
+                                "point": 22.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-02-02T09:55:45Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Alperen Sengun",
+                                "price": 1.87,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alperen Sengun",
+                                "price": 1.87,
+                                "point": 10.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2024-02-02T09:53:49Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-02-02T09:54:58Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Alperen Sengun",
+                                "price": 2.05,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alperen Sengun",
+                                "price": 1.74,
+                                "point": 5.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-02-02T09:54:58Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Dillon Brooks",
+                                "price": 1.91,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dillon Brooks",
+                                "price": 1.83,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Fred VanVleet",
+                                "price": 1.87,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Fred VanVleet",
+                                "price": 1.87,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Green",
+                                "price": 2.05,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Green",
+                                "price": 1.74,
+                                "point": 22.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-02-02T09:54:58Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Alperen Sengun",
+                                "price": 1.95,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alperen Sengun",
+                                "price": 1.8,
+                                "point": 10.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "Caesars",
+                "last_update": "2024-02-02T09:51:48Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-02-02T09:54:37Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Alperen Sengun",
+                                "price": 2.16,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alperen Sengun",
+                                "price": 1.62,
+                                "point": 5.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-02-02T09:54:37Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Alperen Sengun",
+                                "price": 1.8,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alperen Sengun",
+                                "price": 1.92,
+                                "point": 22.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-02-02T09:54:37Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Alperen Sengun",
+                                "price": 1.88,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alperen Sengun",
+                                "price": 1.83,
+                                "point": 10.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": "2024-02-02T09:55:29Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-02-02T09:55:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Alperen Sengun",
+                                "price": 2.15,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alperen Sengun",
+                                "price": 1.65,
+                                "point": 5.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-02-02T09:55:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Alperen Sengun",
+                                "price": 1.87,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alperen Sengun",
+                                "price": 1.87,
+                                "point": 22.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-02-02T09:55:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Alperen Sengun",
+                                "price": 1.91,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alperen Sengun",
+                                "price": 1.83,
+                                "point": 10.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betonlineag",
+                "title": "BetOnline.ag",
+                "last_update": "2024-02-02T09:54:54Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-02-02T09:54:39Z",
+                        "outcomes": [
+                            {
+                                "name": "Under",
+                                "description": "Jalen Green",
+                                "price": 1.7,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Green",
+                                "price": 2.1,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Alperen Sengun",
+                                "price": 2.1,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alperen Sengun",
+                                "price": 1.7,
+                                "point": 5.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-02-02T09:54:39Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Alperen Sengun",
+                                "price": 1.87,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alperen Sengun",
+                                "price": 1.89,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Green",
+                                "price": 1.76,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Green",
+                                "price": 2.02,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dillon Brooks",
+                                "price": 1.91,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dillon Brooks",
+                                "price": 1.85,
+                                "point": 13.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-02-02T09:54:39Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jalen Green",
+                                "price": 1.8,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Green",
+                                "price": 1.97,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Alperen Sengun",
+                                "price": 1.94,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alperen Sengun",
+                                "price": 1.82,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dillon Brooks",
+                                "price": 2.13,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dillon Brooks",
+                                "price": 1.68,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

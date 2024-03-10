@@ -1,0 +1,632 @@
+{
+    "timestamp": "2023-11-28T09:55:39Z",
+    "previous_timestamp": "2023-11-28T09:50:39Z",
+    "next_timestamp": "2023-11-28T10:00:38Z",
+    "data": {
+        "id": "9775829c11d30d986a7a6b0dbbcfdaf8",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2023-11-29T00:30:00Z",
+        "home_team": "Miami Heat",
+        "away_team": "Milwaukee Bucks",
+        "bookmakers": [
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2023-11-28T09:54:35Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-28T09:53:15Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Damian Lillard",
+                                "price": 2.0,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Damian Lillard",
+                                "price": 1.8,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.65,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 2.25,
+                                "point": 4.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-28T09:53:15Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Brook Lopez",
+                                "price": 1.8,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brook Lopez",
+                                "price": 2.0,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Damian Lillard",
+                                "price": 1.95,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Damian Lillard",
+                                "price": 1.83,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.83,
+                                "point": 30.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.91,
+                                "point": 30.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-28T09:53:15Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Brook Lopez",
+                                "price": 1.8,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brook Lopez",
+                                "price": 1.95,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Damian Lillard",
+                                "price": 2.05,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Damian Lillard",
+                                "price": 1.74,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 2.0,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.8,
+                                "point": 11.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2023-11-28T09:55:30Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-28T09:52:40Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.68,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 2.16,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Damian Lillard",
+                                "price": 1.96,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Damian Lillard",
+                                "price": 1.82,
+                                "point": 6.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-28T09:52:40Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Brook Lopez",
+                                "price": 1.8,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brook Lopez",
+                                "price": 1.98,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Damian Lillard",
+                                "price": 1.93,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Damian Lillard",
+                                "price": 1.85,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.87,
+                                "point": 30.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.9,
+                                "point": 30.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-28T09:52:40Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Brook Lopez",
+                                "price": 1.83,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brook Lopez",
+                                "price": 1.94,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Damian Lillard",
+                                "price": 2.02,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Damian Lillard",
+                                "price": 1.77,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 2.02,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.77,
+                                "point": 11.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "Caesars",
+                "last_update": "2023-11-28T09:52:15Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-28T09:53:21Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.64,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 2.14,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brook Lopez",
+                                "price": 1.45,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brook Lopez",
+                                "price": 2.59,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Damian Lillard",
+                                "price": 1.92,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Damian Lillard",
+                                "price": 1.8,
+                                "point": 6.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-28T09:53:21Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Damian Lillard",
+                                "price": 1.93,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Damian Lillard",
+                                "price": 1.79,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brook Lopez",
+                                "price": 1.79,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brook Lopez",
+                                "price": 1.93,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.85,
+                                "point": 30.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.85,
+                                "point": 30.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-28T09:53:21Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Brook Lopez",
+                                "price": 1.76,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brook Lopez",
+                                "price": 1.96,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 2.0,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.73,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Damian Lillard",
+                                "price": 1.96,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Damian Lillard",
+                                "price": 1.76,
+                                "point": 4.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetus",
+                "title": "PointsBet (US)",
+                "last_update": "2023-11-28T09:54:35Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-28T09:53:35Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Damian Lillard",
+                                "price": 1.95,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Damian Lillard",
+                                "price": 1.8,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.62,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 2.2,
+                                "point": 4.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-28T09:53:35Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Brook Lopez",
+                                "price": 1.8,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brook Lopez",
+                                "price": 1.95,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Damian Lillard",
+                                "price": 1.87,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Damian Lillard",
+                                "price": 1.87,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.8,
+                                "point": 30.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.95,
+                                "point": 30.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-28T09:53:35Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Brook Lopez",
+                                "price": 1.83,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brook Lopez",
+                                "price": 1.91,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Damian Lillard",
+                                "price": 2.05,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Damian Lillard",
+                                "price": 1.71,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.95,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.8,
+                                "point": 11.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2023-11-28T09:54:59Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-28T09:53:22Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Damian Lillard",
+                                "price": 2.0,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Damian Lillard",
+                                "price": 1.77,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.62,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 2.2,
+                                "point": 4.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-28T09:53:22Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Brook Robert Lopez",
+                                "price": 1.77,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brook Robert Lopez",
+                                "price": 2.0,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Damian Lillard",
+                                "price": 1.95,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Damian Lillard",
+                                "price": 1.8,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.83,
+                                "point": 30.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.91,
+                                "point": 30.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-28T09:53:22Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Brook Robert Lopez",
+                                "price": 1.8,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brook Robert Lopez",
+                                "price": 1.95,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Damian Lillard",
+                                "price": 2.05,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Damian Lillard",
+                                "price": 1.74,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 2.0,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.77,
+                                "point": 11.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

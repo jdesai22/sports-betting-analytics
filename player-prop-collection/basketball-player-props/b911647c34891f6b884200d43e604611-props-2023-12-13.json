@@ -1,0 +1,523 @@
+{
+    "timestamp": "2023-12-13T09:55:38Z",
+    "previous_timestamp": "2023-12-13T09:50:38Z",
+    "next_timestamp": "2023-12-13T10:00:39Z",
+    "data": {
+        "id": "b911647c34891f6b884200d43e604611",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2023-12-14T01:00:00Z",
+        "home_team": "San Antonio Spurs",
+        "away_team": "Los Angeles Lakers",
+        "bookmakers": [
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2023-12-13T09:55:16Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-13T09:54:46Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Devin Vassell",
+                                "price": 2.05,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Vassell",
+                                "price": 1.74,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keldon Johnson",
+                                "price": 1.62,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keldon Johnson",
+                                "price": 2.24,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Victor Wembanyama",
+                                "price": 1.71,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Victor Wembanyama",
+                                "price": 2.1,
+                                "point": 2.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-13T09:54:46Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Devin Vassell",
+                                "price": 1.87,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Vassell",
+                                "price": 1.87,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keldon Johnson",
+                                "price": 1.87,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keldon Johnson",
+                                "price": 1.87,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Victor Wembanyama",
+                                "price": 1.71,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Victor Wembanyama",
+                                "price": 2.1,
+                                "point": 20.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-13T09:54:46Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Devin Vassell",
+                                "price": 2.0,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Vassell",
+                                "price": 1.77,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keldon Johnson",
+                                "price": 2.14,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keldon Johnson",
+                                "price": 1.69,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Victor Wembanyama",
+                                "price": 1.77,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Victor Wembanyama",
+                                "price": 2.0,
+                                "point": 11.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2023-12-13T09:55:29Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-13T09:51:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Victor Wembanyama",
+                                "price": 1.68,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Victor Wembanyama",
+                                "price": 2.14,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Devin Vassell",
+                                "price": 2.24,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Vassell",
+                                "price": 1.62,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keldon Johnson",
+                                "price": 2.3,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keldon Johnson",
+                                "price": 1.6,
+                                "point": 4.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-13T09:51:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Victor Wembanyama",
+                                "price": 1.87,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Victor Wembanyama",
+                                "price": 1.9,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keldon Johnson",
+                                "price": 1.88,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keldon Johnson",
+                                "price": 1.88,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Devin Vassell",
+                                "price": 1.88,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Vassell",
+                                "price": 1.88,
+                                "point": 17.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-13T09:51:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Victor Wembanyama",
+                                "price": 2.12,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Victor Wembanyama",
+                                "price": 1.7,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Devin Vassell",
+                                "price": 2.1,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Vassell",
+                                "price": 1.71,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keldon Johnson",
+                                "price": 2.12,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keldon Johnson",
+                                "price": 1.7,
+                                "point": 6.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetus",
+                "title": "PointsBet (US)",
+                "last_update": "2023-12-13T09:55:30Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-13T09:50:57Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Devin Vassell",
+                                "price": 2.05,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Vassell",
+                                "price": 1.71,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keldon Johnson",
+                                "price": 1.61,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keldon Johnson",
+                                "price": 2.25,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Victor Wembanyama",
+                                "price": 1.69,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Victor Wembanyama",
+                                "price": 2.1,
+                                "point": 2.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-13T09:50:57Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Devin Vassell",
+                                "price": 1.87,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Vassell",
+                                "price": 1.87,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keldon Johnson",
+                                "price": 1.87,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keldon Johnson",
+                                "price": 1.87,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Victor Wembanyama",
+                                "price": 1.87,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Victor Wembanyama",
+                                "price": 1.87,
+                                "point": 21.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-13T09:50:57Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Devin Vassell",
+                                "price": 1.95,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Vassell",
+                                "price": 1.8,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keldon Johnson",
+                                "price": 2.15,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keldon Johnson",
+                                "price": 1.67,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Victor Wembanyama",
+                                "price": 1.77,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Victor Wembanyama",
+                                "price": 2.0,
+                                "point": 11.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2023-12-13T09:54:56Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-13T09:54:00Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Devin Vassell",
+                                "price": 2.05,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Vassell",
+                                "price": 1.74,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keldon Johnson",
+                                "price": 1.62,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keldon Johnson",
+                                "price": 2.2,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Wembanyama Victor",
+                                "price": 1.69,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Wembanyama Victor",
+                                "price": 2.1,
+                                "point": 2.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-13T09:54:00Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Wembanyama Victor",
+                                "price": 1.83,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Wembanyama Victor",
+                                "price": 1.91,
+                                "point": 20.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-13T09:54:00Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Devin Vassell",
+                                "price": 2.0,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Vassell",
+                                "price": 1.77,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keldon Johnson",
+                                "price": 2.1,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keldon Johnson",
+                                "price": 1.69,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Wembanyama Victor",
+                                "price": 1.8,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Wembanyama Victor",
+                                "price": 1.95,
+                                "point": 11.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

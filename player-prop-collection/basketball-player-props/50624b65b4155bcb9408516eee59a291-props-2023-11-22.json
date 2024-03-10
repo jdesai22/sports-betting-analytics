@@ -1,0 +1,463 @@
+{
+    "timestamp": "2023-11-22T09:55:43Z",
+    "previous_timestamp": "2023-11-22T09:50:42Z",
+    "next_timestamp": "2023-11-22T10:00:44Z",
+    "data": {
+        "id": "50624b65b4155bcb9408516eee59a291",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2023-11-23T00:30:00Z",
+        "home_team": "Cleveland Cavaliers",
+        "away_team": "Miami Heat",
+        "bookmakers": [
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2023-11-22T09:54:12Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-22T09:54:58Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bam Adebayo",
+                                "price": 1.69,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bam Adebayo",
+                                "price": 2.1,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jimmy Butler",
+                                "price": 2.0,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jimmy Butler",
+                                "price": 1.8,
+                                "point": 4.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-22T09:54:58Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bam Adebayo",
+                                "price": 1.91,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bam Adebayo",
+                                "price": 1.83,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jimmy Butler",
+                                "price": 1.8,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jimmy Butler",
+                                "price": 1.95,
+                                "point": 23.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-22T09:54:58Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bam Adebayo",
+                                "price": 1.95,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bam Adebayo",
+                                "price": 1.83,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jimmy Butler",
+                                "price": 1.91,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jimmy Butler",
+                                "price": 1.83,
+                                "point": 5.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2023-11-22T09:54:41Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-22T09:55:11Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jimmy Butler",
+                                "price": 2.0,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jimmy Butler",
+                                "price": 1.78,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bam Adebayo",
+                                "price": 1.65,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bam Adebayo",
+                                "price": 2.22,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Duncan Robinson",
+                                "price": 1.94,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Duncan Robinson",
+                                "price": 1.83,
+                                "point": 2.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-22T09:55:11Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Duncan Robinson",
+                                "price": 1.94,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Duncan Robinson",
+                                "price": 1.83,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bam Adebayo",
+                                "price": 1.94,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bam Adebayo",
+                                "price": 1.83,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jimmy Butler",
+                                "price": 1.87,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jimmy Butler",
+                                "price": 1.9,
+                                "point": 23.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-22T09:55:11Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jimmy Butler",
+                                "price": 1.88,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jimmy Butler",
+                                "price": 1.88,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Duncan Robinson",
+                                "price": 1.6,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Duncan Robinson",
+                                "price": 2.3,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bam Adebayo",
+                                "price": 2.04,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bam Adebayo",
+                                "price": 1.76,
+                                "point": 10.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetus",
+                "title": "PointsBet (US)",
+                "last_update": "2023-11-22T09:53:52Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-22T09:53:39Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bam Adebayo",
+                                "price": 1.69,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bam Adebayo",
+                                "price": 2.1,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jimmy Butler",
+                                "price": 1.95,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jimmy Butler",
+                                "price": 1.8,
+                                "point": 4.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-22T09:53:39Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bam Adebayo",
+                                "price": 1.91,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bam Adebayo",
+                                "price": 1.83,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jimmy Butler",
+                                "price": 1.87,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jimmy Butler",
+                                "price": 1.87,
+                                "point": 23.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-22T09:53:39Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bam Adebayo",
+                                "price": 1.95,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bam Adebayo",
+                                "price": 1.8,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jimmy Butler",
+                                "price": 1.95,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jimmy Butler",
+                                "price": 1.8,
+                                "point": 5.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2023-11-22T09:54:59Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-22T09:52:22Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bam Adebayo",
+                                "price": 1.69,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bam Adebayo",
+                                "price": 2.1,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Duncan Robinson",
+                                "price": 1.91,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Duncan Robinson",
+                                "price": 1.83,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jimmy Butler III",
+                                "price": 2.0,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jimmy Butler III",
+                                "price": 1.77,
+                                "point": 4.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-22T09:52:22Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bam Adebayo",
+                                "price": 1.91,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bam Adebayo",
+                                "price": 1.83,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Duncan Robinson",
+                                "price": 1.91,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Duncan Robinson",
+                                "price": 1.83,
+                                "point": 14.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-22T09:52:22Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bam Adebayo",
+                                "price": 1.95,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bam Adebayo",
+                                "price": 1.8,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Duncan Robinson",
+                                "price": 1.59,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Duncan Robinson",
+                                "price": 2.3,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jimmy Butler III",
+                                "price": 1.91,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jimmy Butler III",
+                                "price": 1.83,
+                                "point": 5.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,734 @@
+{
+    "timestamp": "2024-02-10T09:55:39Z",
+    "previous_timestamp": "2024-02-10T09:50:40Z",
+    "next_timestamp": "2024-02-10T10:00:39Z",
+    "data": {
+        "id": "aaadace6e33b63cd1bcce402c9c2524b",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-02-11T00:40:00Z",
+        "home_team": "Atlanta Hawks",
+        "away_team": "Houston Rockets",
+        "bookmakers": [
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2024-02-10T09:55:04Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-02-10T09:56:09Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Alperen Sengun",
+                                "price": 2.24,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alperen Sengun",
+                                "price": 1.62,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Green",
+                                "price": 2.0,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Green",
+                                "price": 1.77,
+                                "point": 3.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-02-10T09:56:09Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Alperen Sengun",
+                                "price": 1.91,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alperen Sengun",
+                                "price": 1.83,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dillon Brooks",
+                                "price": 1.83,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dillon Brooks",
+                                "price": 1.91,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jabari Smith Jr.",
+                                "price": 1.83,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jabari Smith Jr.",
+                                "price": 1.91,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Green",
+                                "price": 1.95,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Green",
+                                "price": 1.8,
+                                "point": 20.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-02-10T09:56:09Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Alperen Sengun",
+                                "price": 1.8,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alperen Sengun",
+                                "price": 1.95,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dillon Brooks",
+                                "price": 2.24,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dillon Brooks",
+                                "price": 1.62,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jabari Smith Jr.",
+                                "price": 2.1,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jabari Smith Jr.",
+                                "price": 1.71,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Green",
+                                "price": 2.05,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Green",
+                                "price": 1.74,
+                                "point": 4.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetus",
+                "title": "PointsBet (US)",
+                "last_update": "2024-02-10T09:54:44Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-02-10T09:56:27Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Alperen Sengun",
+                                "price": 2.25,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alperen Sengun",
+                                "price": 1.61,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Green",
+                                "price": 1.95,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Green",
+                                "price": 1.8,
+                                "point": 3.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-02-10T09:56:27Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Alperen Sengun",
+                                "price": 1.87,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alperen Sengun",
+                                "price": 1.87,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dillon Brooks",
+                                "price": 1.83,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dillon Brooks",
+                                "price": 1.91,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jabari Smith Jr.",
+                                "price": 1.87,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jabari Smith Jr.",
+                                "price": 1.87,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Green",
+                                "price": 1.95,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Green",
+                                "price": 1.8,
+                                "point": 20.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-02-10T09:56:27Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Alperen Sengun",
+                                "price": 1.8,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alperen Sengun",
+                                "price": 1.95,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dillon Brooks",
+                                "price": 2.25,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dillon Brooks",
+                                "price": 1.61,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jabari Smith Jr.",
+                                "price": 2.05,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jabari Smith Jr.",
+                                "price": 1.71,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Green",
+                                "price": 2.05,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Green",
+                                "price": 1.71,
+                                "point": 4.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": "2024-02-10T09:55:14Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-02-10T09:56:28Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jabari Smith Jr",
+                                "price": 2.5,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jabari Smith Jr",
+                                "price": 1.5,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Alperen Sengun",
+                                "price": 2.2,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alperen Sengun",
+                                "price": 1.62,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Green",
+                                "price": 2.0,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Green",
+                                "price": 1.77,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dillon Brooks",
+                                "price": 1.67,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dillon Brooks",
+                                "price": 2.1,
+                                "point": 1.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-02-10T09:56:28Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jabari Smith Jr",
+                                "price": 1.83,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jabari Smith Jr",
+                                "price": 1.91,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Alperen Sengun",
+                                "price": 1.91,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alperen Sengun",
+                                "price": 1.83,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Green",
+                                "price": 1.95,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Green",
+                                "price": 1.8,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dillon Brooks",
+                                "price": 1.83,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dillon Brooks",
+                                "price": 1.91,
+                                "point": 14.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-02-10T09:56:28Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jabari Smith Jr",
+                                "price": 2.1,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jabari Smith Jr",
+                                "price": 1.69,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Alperen Sengun",
+                                "price": 1.8,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alperen Sengun",
+                                "price": 1.95,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Green",
+                                "price": 2.05,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Green",
+                                "price": 1.71,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dillon Brooks",
+                                "price": 2.2,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dillon Brooks",
+                                "price": 1.62,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "Caesars",
+                "last_update": "2024-02-10T09:54:44Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-02-10T09:56:17Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jalen Green",
+                                "price": 1.92,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Green",
+                                "price": 1.8,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Alperen Sengun",
+                                "price": 2.16,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alperen Sengun",
+                                "price": 1.62,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dillon Brooks",
+                                "price": 1.62,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dillon Brooks",
+                                "price": 2.16,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jabari Smith Jr.",
+                                "price": 2.43,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jabari Smith Jr.",
+                                "price": 1.5,
+                                "point": 1.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-02-10T09:56:17Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jalen Green",
+                                "price": 1.92,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Green",
+                                "price": 1.8,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Alperen Sengun",
+                                "price": 1.87,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alperen Sengun",
+                                "price": 1.84,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dillon Brooks",
+                                "price": 1.83,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dillon Brooks",
+                                "price": 1.88,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jabari Smith Jr.",
+                                "price": 1.81,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jabari Smith Jr.",
+                                "price": 1.9,
+                                "point": 13.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-02-10T09:56:17Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jabari Smith Jr.",
+                                "price": 2.04,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jabari Smith Jr.",
+                                "price": 1.7,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dillon Brooks",
+                                "price": 2.2,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dillon Brooks",
+                                "price": 1.6,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Alperen Sengun",
+                                "price": 1.75,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alperen Sengun",
+                                "price": 1.97,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Green",
+                                "price": 1.96,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Green",
+                                "price": 1.76,
+                                "point": 4.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2024-02-10T09:53:57Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-02-10T09:54:55Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Alperen Sengun",
+                                "price": 2.2,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alperen Sengun",
+                                "price": 1.62,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Green",
+                                "price": 2.0,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Green",
+                                "price": 1.77,
+                                "point": 3.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-02-10T09:54:55Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Alperen Sengun",
+                                "price": 1.8,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Alperen Sengun",
+                                "price": 1.95,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dillon Brooks",
+                                "price": 2.2,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dillon Brooks",
+                                "price": 1.62,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jabari Smith",
+                                "price": 2.1,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jabari Smith",
+                                "price": 1.69,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Green",
+                                "price": 2.05,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Green",
+                                "price": 1.74,
+                                "point": 4.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

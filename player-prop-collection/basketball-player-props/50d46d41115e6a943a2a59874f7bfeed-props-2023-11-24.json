@@ -1,0 +1,4206 @@
+{
+    "timestamp": "2023-11-24T09:55:40Z",
+    "previous_timestamp": "2023-11-24T09:50:40Z",
+    "next_timestamp": "2023-11-24T10:00:40Z",
+    "data": {
+        "id": "50d46d41115e6a943a2a59874f7bfeed",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2023-11-24T19:30:00Z",
+        "home_team": "Orlando Magic",
+        "away_team": "Boston Celtics",
+        "bookmakers": [
+            {
+                "key": "unibet_us",
+                "title": "Unibet",
+                "last_update": "2023-11-24T09:54:59Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-24T09:50:36Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jrue Holiday",
+                                "price": 2.08,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jrue Holiday",
+                                "price": 1.7,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 2.17,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.64,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 2.07,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.7,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 1.76,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 2.0,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Suggs",
+                                "price": 1.71,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Suggs",
+                                "price": 2.06,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Franz Wagner",
+                                "price": 1.68,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Franz Wagner",
+                                "price": 2.12,
+                                "point": 2.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-24T09:50:36Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jrue Holiday",
+                                "price": 1.71,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jrue Holiday",
+                                "price": 2.06,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 2.07,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.7,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.7,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 2.07,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.8,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.94,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jrue Holiday",
+                                "price": 1.96,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jrue Holiday",
+                                "price": 1.78,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.85,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.88,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.87,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.87,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 1.7,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 2.06,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Suggs",
+                                "price": 1.68,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Suggs",
+                                "price": 2.08,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Franz Wagner",
+                                "price": 1.93,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Franz Wagner",
+                                "price": 1.81,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Suggs",
+                                "price": 1.95,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Suggs",
+                                "price": 1.79,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 1.92,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 1.82,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 2.32,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.53,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jrue Holiday",
+                                "price": 2.28,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jrue Holiday",
+                                "price": 1.56,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 1.51,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 2.35,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 2.06,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.71,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Franz Wagner",
+                                "price": 2.9,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Franz Wagner",
+                                "price": 1.32,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.6,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kristaps Porzingis",
+                                "price": 2.2,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kristaps Porzingis",
+                                "price": 3.0,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.3,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 2.55,
+                                "point": 30.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.43,
+                                "point": 30.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jrue Holiday",
+                                "price": 1.33,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jrue Holiday",
+                                "price": 2.88,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Suggs",
+                                "price": 1.45,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Suggs",
+                                "price": 2.48,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Franz Wagner",
+                                "price": 1.51,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Franz Wagner",
+                                "price": 2.35,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.3,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 3.0,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 2.88,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 1.33,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kristaps Porzingis",
+                                "price": 2.02,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.74,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.36,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 2.75,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 3.05,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.29,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Franz Wagner",
+                                "price": 2.5,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Franz Wagner",
+                                "price": 1.43,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.32,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kristaps Porzingis",
+                                "price": 2.95,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 2.17,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 1.62,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.54,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 2.3,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.43,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kristaps Porzingis",
+                                "price": 2.5,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Suggs",
+                                "price": 2.7,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Suggs",
+                                "price": 1.36,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 2.28,
+                                "point": 29.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.55,
+                                "point": 29.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 1.36,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 2.75,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jrue Holiday",
+                                "price": 2.65,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jrue Holiday",
+                                "price": 1.38,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jrue Holiday",
+                                "price": 1.49,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jrue Holiday",
+                                "price": 2.4,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 2.63,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.4,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Franz Wagner",
+                                "price": 1.36,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Franz Wagner",
+                                "price": 2.75,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.66,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 2.12,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kristaps Porzingis",
+                                "price": 2.6,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.42,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 2.88,
+                                "point": 31.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.33,
+                                "point": 31.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.41,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 2.6,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 2.48,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 1.45,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kristaps Porzingis",
+                                "price": 2.28,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.55,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.49,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 2.4,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Franz Wagner",
+                                "price": 1.71,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Franz Wagner",
+                                "price": 2.06,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Suggs",
+                                "price": 1.29,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Suggs",
+                                "price": 3.05,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Franz Wagner",
+                                "price": 2.2,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Franz Wagner",
+                                "price": 1.6,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Suggs",
+                                "price": 2.28,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Suggs",
+                                "price": 1.55,
+                                "point": 12.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-24T09:50:36Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 2.35,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.55,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jrue Holiday",
+                                "price": 1.72,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jrue Holiday",
+                                "price": 2.06,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kristaps Porzingis",
+                                "price": 2.75,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.42,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 2.0,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.75,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jrue Holiday",
+                                "price": 2.38,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jrue Holiday",
+                                "price": 1.55,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kristaps Porzingis",
+                                "price": 2.0,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.75,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.67,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 2.12,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Suggs",
+                                "price": 1.75,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Suggs",
+                                "price": 2.0,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 1.73,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 2.04,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Franz Wagner",
+                                "price": 1.93,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Franz Wagner",
+                                "price": 1.81,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 2.7,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.43,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 2.33,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 1.56,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.56,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kristaps Porzingis",
+                                "price": 2.33,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Suggs",
+                                "price": 2.7,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Suggs",
+                                "price": 1.43,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Franz Wagner",
+                                "price": 1.42,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Franz Wagner",
+                                "price": 2.75,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.57,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 2.28,
+                                "point": 8.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betrivers",
+                "title": "BetRivers",
+                "last_update": "2023-11-24T09:55:00Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-24T09:51:28Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jrue Holiday",
+                                "price": 2.08,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jrue Holiday",
+                                "price": 1.7,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 2.17,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.64,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 2.07,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.7,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 1.76,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 2.0,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Suggs",
+                                "price": 1.71,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Suggs",
+                                "price": 2.06,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Franz Wagner",
+                                "price": 1.68,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Franz Wagner",
+                                "price": 2.12,
+                                "point": 2.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-24T09:51:28Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jrue Holiday",
+                                "price": 1.71,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jrue Holiday",
+                                "price": 2.06,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 2.07,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.7,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.7,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 2.07,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.8,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.94,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jrue Holiday",
+                                "price": 1.96,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jrue Holiday",
+                                "price": 1.78,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.85,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.88,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.87,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.87,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 1.7,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 2.06,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Suggs",
+                                "price": 1.68,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Suggs",
+                                "price": 2.08,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Franz Wagner",
+                                "price": 1.93,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Franz Wagner",
+                                "price": 1.81,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Suggs",
+                                "price": 1.95,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Suggs",
+                                "price": 1.79,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 1.92,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 1.82,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 2.32,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.53,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jrue Holiday",
+                                "price": 2.28,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jrue Holiday",
+                                "price": 1.56,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 1.51,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 2.35,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 2.06,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.71,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Franz Wagner",
+                                "price": 2.9,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Franz Wagner",
+                                "price": 1.32,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.6,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kristaps Porzingis",
+                                "price": 2.2,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kristaps Porzingis",
+                                "price": 3.0,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.3,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 2.55,
+                                "point": 30.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.43,
+                                "point": 30.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jrue Holiday",
+                                "price": 1.33,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jrue Holiday",
+                                "price": 2.88,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Suggs",
+                                "price": 1.45,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Suggs",
+                                "price": 2.48,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Franz Wagner",
+                                "price": 1.51,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Franz Wagner",
+                                "price": 2.35,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.3,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 3.0,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 2.88,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 1.33,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kristaps Porzingis",
+                                "price": 2.02,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.74,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.36,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 2.75,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 3.05,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.29,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Franz Wagner",
+                                "price": 2.5,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Franz Wagner",
+                                "price": 1.43,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.32,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kristaps Porzingis",
+                                "price": 2.95,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 2.17,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 1.62,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.54,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 2.3,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.43,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kristaps Porzingis",
+                                "price": 2.5,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Suggs",
+                                "price": 2.7,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Suggs",
+                                "price": 1.36,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 2.28,
+                                "point": 29.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.55,
+                                "point": 29.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 1.36,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 2.75,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jrue Holiday",
+                                "price": 2.65,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jrue Holiday",
+                                "price": 1.38,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jrue Holiday",
+                                "price": 1.49,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jrue Holiday",
+                                "price": 2.4,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 2.63,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.4,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Franz Wagner",
+                                "price": 1.36,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Franz Wagner",
+                                "price": 2.75,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.66,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 2.12,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kristaps Porzingis",
+                                "price": 2.6,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.42,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 2.88,
+                                "point": 31.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.33,
+                                "point": 31.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.41,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 2.6,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 2.48,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 1.45,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kristaps Porzingis",
+                                "price": 2.28,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.55,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.49,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 2.4,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Franz Wagner",
+                                "price": 1.71,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Franz Wagner",
+                                "price": 2.06,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Suggs",
+                                "price": 1.29,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Suggs",
+                                "price": 3.05,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Franz Wagner",
+                                "price": 2.2,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Franz Wagner",
+                                "price": 1.6,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Suggs",
+                                "price": 2.28,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Suggs",
+                                "price": 1.55,
+                                "point": 12.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-24T09:51:28Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 2.35,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.55,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jrue Holiday",
+                                "price": 1.72,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jrue Holiday",
+                                "price": 2.06,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kristaps Porzingis",
+                                "price": 2.75,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.42,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 2.0,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.75,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jrue Holiday",
+                                "price": 2.38,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jrue Holiday",
+                                "price": 1.55,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kristaps Porzingis",
+                                "price": 2.0,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.75,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.67,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 2.12,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Suggs",
+                                "price": 1.75,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Suggs",
+                                "price": 2.0,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 1.73,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 2.04,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Franz Wagner",
+                                "price": 1.93,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Franz Wagner",
+                                "price": 1.81,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 2.7,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.43,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 2.33,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 1.56,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.56,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kristaps Porzingis",
+                                "price": 2.33,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Suggs",
+                                "price": 2.7,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Suggs",
+                                "price": 1.43,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Franz Wagner",
+                                "price": 1.42,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Franz Wagner",
+                                "price": 2.75,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.57,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 2.28,
+                                "point": 8.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2023-11-24T09:53:31Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-24T09:53:24Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Franz Wagner",
+                                "price": 1.58,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Franz Wagner",
+                                "price": 2.34,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 2.12,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.7,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 1.77,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 2.02,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jrue Holiday",
+                                "price": 2.28,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jrue Holiday",
+                                "price": 1.61,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 2.36,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.57,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Derrick White",
+                                "price": 1.88,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Derrick White",
+                                "price": 1.88,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Suggs",
+                                "price": 1.71,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Suggs",
+                                "price": 2.1,
+                                "point": 2.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-24T09:53:24Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.85,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.93,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.83,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.94,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Suggs",
+                                "price": 1.98,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Suggs",
+                                "price": 1.8,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Derrick White",
+                                "price": 1.87,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Derrick White",
+                                "price": 1.9,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 1.9,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 1.87,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.88,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.88,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jrue Holiday",
+                                "price": 1.94,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jrue Holiday",
+                                "price": 1.83,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Franz Wagner",
+                                "price": 1.93,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Franz Wagner",
+                                "price": 1.85,
+                                "point": 18.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-24T09:53:24Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Franz Wagner",
+                                "price": 1.98,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Franz Wagner",
+                                "price": 1.8,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 1.74,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 2.08,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jrue Holiday",
+                                "price": 1.72,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jrue Holiday",
+                                "price": 2.08,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 2.04,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.76,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.64,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 2.22,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kristaps Porzingis",
+                                "price": 2.0,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.78,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Derrick White",
+                                "price": 1.9,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Derrick White",
+                                "price": 1.87,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Suggs",
+                                "price": 1.8,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Suggs",
+                                "price": 1.98,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2023-11-24T09:53:56Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-24T09:50:44Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Derrick White",
+                                "price": 1.77,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Derrick White",
+                                "price": 2.0,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Suggs",
+                                "price": 1.67,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Suggs",
+                                "price": 2.15,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 2.25,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.61,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jrue Holiday",
+                                "price": 2.3,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jrue Holiday",
+                                "price": 1.59,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 1.77,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 2.0,
+                                "point": 3.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-24T09:50:44Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Derrick White",
+                                "price": 1.87,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Derrick White",
+                                "price": 1.87,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Franz Wagner",
+                                "price": 1.94,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Goga Bitadze",
+                                "price": 2.05,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Goga Bitadze",
+                                "price": 1.74,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Suggs",
+                                "price": 1.95,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Suggs",
+                                "price": 1.8,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.83,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.91,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.87,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.87,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jrue Holiday",
+                                "price": 1.91,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jrue Holiday",
+                                "price": 1.83,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.83,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.91,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 2.0,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 1.77,
+                                "point": 19.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-24T09:50:44Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Derrick White",
+                                "price": 1.83,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Derrick White",
+                                "price": 1.91,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Franz Wagner",
+                                "price": 2.05,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Franz Wagner",
+                                "price": 1.74,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Goga Bitadze",
+                                "price": 1.91,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Goga Bitadze",
+                                "price": 1.83,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Suggs",
+                                "price": 1.74,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Suggs",
+                                "price": 2.05,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.62,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 2.2,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 2.0,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.77,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 1.67,
+                                "point": 6.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2023-11-24T09:54:59Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-24T09:55:55Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Derrick White",
+                                "price": 1.8,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Derrick White",
+                                "price": 2.0,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Franz Wagner",
+                                "price": 1.65,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Franz Wagner",
+                                "price": 2.2,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Suggs",
+                                "price": 1.67,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Suggs",
+                                "price": 2.15,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 2.3,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.59,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 2.25,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.61,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jrue Holiday",
+                                "price": 1.65,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jrue Holiday",
+                                "price": 2.25,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 1.77,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 2.05,
+                                "point": 3.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-24T09:55:55Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Derrick White",
+                                "price": 1.87,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Derrick White",
+                                "price": 1.87,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Franz Wagner",
+                                "price": 1.95,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Franz Wagner",
+                                "price": 1.8,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Goga Bitadze",
+                                "price": 2.05,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Goga Bitadze",
+                                "price": 1.74,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Suggs",
+                                "price": 1.95,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Suggs",
+                                "price": 1.83,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.87,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.91,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.91,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.87,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jrue Holiday",
+                                "price": 1.91,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jrue Holiday",
+                                "price": 1.87,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.95,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.8,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 2.0,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 1.8,
+                                "point": 19.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-24T09:55:55Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Derrick White",
+                                "price": 1.87,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Derrick White",
+                                "price": 1.91,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Franz Wagner",
+                                "price": 2.05,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Franz Wagner",
+                                "price": 1.74,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Goga Bitadze",
+                                "price": 1.91,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Goga Bitadze",
+                                "price": 1.87,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Suggs",
+                                "price": 1.74,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Suggs",
+                                "price": 2.05,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 2.2,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.65,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 2.0,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.8,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jrue Holiday",
+                                "price": 1.67,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jrue Holiday",
+                                "price": 2.15,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.83,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.95,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 2.15,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 1.69,
+                                "point": 7.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetus",
+                "title": "PointsBet (US)",
+                "last_update": "2023-11-24T09:54:59Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-24T09:51:28Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Derrick White",
+                                "price": 1.8,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Derrick White",
+                                "price": 1.95,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Franz Wagner",
+                                "price": 1.67,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Franz Wagner",
+                                "price": 2.15,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Suggs",
+                                "price": 1.69,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Suggs",
+                                "price": 2.1,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 2.3,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.59,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 2.25,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.61,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jrue Holiday",
+                                "price": 1.62,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jrue Holiday",
+                                "price": 2.2,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 1.77,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 2.0,
+                                "point": 3.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-24T09:51:28Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Derrick White",
+                                "price": 1.83,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Derrick White",
+                                "price": 1.91,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Franz Wagner",
+                                "price": 1.95,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Franz Wagner",
+                                "price": 1.8,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Goga Bitadze",
+                                "price": 1.71,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Goga Bitadze",
+                                "price": 2.05,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Suggs",
+                                "price": 1.91,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Suggs",
+                                "price": 1.83,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.87,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.87,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.87,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.87,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jrue Holiday",
+                                "price": 1.87,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jrue Holiday",
+                                "price": 1.87,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.95,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.8,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 1.8,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 1.95,
+                                "point": 18.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-24T09:51:28Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Derrick White",
+                                "price": 1.87,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Derrick White",
+                                "price": 1.87,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Franz Wagner",
+                                "price": 2.0,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Franz Wagner",
+                                "price": 1.77,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Goga Bitadze",
+                                "price": 1.87,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Goga Bitadze",
+                                "price": 1.87,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Suggs",
+                                "price": 1.77,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Suggs",
+                                "price": 2.0,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 2.2,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.62,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.95,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.8,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jrue Holiday",
+                                "price": 1.67,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jrue Holiday",
+                                "price": 2.15,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.87,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.87,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 2.15,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 1.67,
+                                "point": 7.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "Caesars",
+                "last_update": "2023-11-24T09:53:41Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-24T09:53:47Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Franz Wagner",
+                                "price": 1.65,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Franz Wagner",
+                                "price": 2.12,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.66,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kristaps Porzingis",
+                                "price": 2.1,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Goga Bitadze",
+                                "price": 1.7,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Goga Bitadze",
+                                "price": 2.04,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 2.33,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.54,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 1.75,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 1.97,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Suggs",
+                                "price": 1.62,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Suggs",
+                                "price": 2.16,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Derrick White",
+                                "price": 1.76,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Derrick White",
+                                "price": 1.96,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jrue Holiday",
+                                "price": 1.61,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jrue Holiday",
+                                "price": 2.18,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 2.23,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.59,
+                                "point": 4.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-24T09:53:47Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Goga Bitadze",
+                                "price": 1.97,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Goga Bitadze",
+                                "price": 1.75,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.85,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.85,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Suggs",
+                                "price": 1.93,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Suggs",
+                                "price": 1.79,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jrue Holiday",
+                                "price": 1.92,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jrue Holiday",
+                                "price": 1.8,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Derrick White",
+                                "price": 1.84,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Derrick White",
+                                "price": 1.87,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 1.84,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 1.87,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.93,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.79,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Franz Wagner",
+                                "price": 1.93,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Franz Wagner",
+                                "price": 1.79,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.92,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.8,
+                                "point": 27.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-24T09:53:47Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 2.16,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.62,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Goga Bitadze",
+                                "price": 1.85,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Goga Bitadze",
+                                "price": 1.85,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Suggs",
+                                "price": 1.72,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Suggs",
+                                "price": 2.02,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jrue Holiday",
+                                "price": 1.65,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jrue Holiday",
+                                "price": 2.12,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Franz Wagner",
+                                "price": 1.99,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Franz Wagner",
+                                "price": 1.74,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Derrick White",
+                                "price": 1.81,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Derrick White",
+                                "price": 1.9,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.97,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.75,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 2.08,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 1.68,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.8,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.92,
+                                "point": 7.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betonlineag",
+                "title": "BetOnline.ag",
+                "last_update": "2023-11-24T09:53:41Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-24T09:53:55Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 2.22,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.63,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.58,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 2.32,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Franz Wagner",
+                                "price": 2.22,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Franz Wagner",
+                                "price": 1.63,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Suggs",
+                                "price": 1.68,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Suggs",
+                                "price": 2.14,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Derrick White",
+                                "price": 1.81,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Derrick White",
+                                "price": 1.95,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 1.77,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 2.0,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jrue Holiday",
+                                "price": 1.61,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jrue Holiday",
+                                "price": 2.26,
+                                "point": 5.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-24T09:53:55Z",
+                        "outcomes": [
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.9,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.86,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.9,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.86,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Franz Wagner",
+                                "price": 1.81,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Franz Wagner",
+                                "price": 1.95,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Suggs",
+                                "price": 1.93,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Suggs",
+                                "price": 1.83,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Derrick White",
+                                "price": 1.88,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Derrick White",
+                                "price": 1.88,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.8,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.97,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jrue Holiday",
+                                "price": 1.84,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jrue Holiday",
+                                "price": 1.92,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Goga Bitadze",
+                                "price": 1.73,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Goga Bitadze",
+                                "price": 2.06,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 1.88,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 1.88,
+                                "point": 19.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-24T09:53:55Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 2.22,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaylen Brown",
+                                "price": 1.63,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Franz Wagner",
+                                "price": 2.02,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Franz Wagner",
+                                "price": 1.76,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jayson Tatum",
+                                "price": 1.74,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 2.04,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Derrick White",
+                                "price": 1.87,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Derrick White",
+                                "price": 1.89,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Suggs",
+                                "price": 1.75,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Suggs",
+                                "price": 2.03,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 2.17,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paolo Banchero",
+                                "price": 1.66,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.86,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.9,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jrue Holiday",
+                                "price": 2.14,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jrue Holiday",
+                                "price": 1.68,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Goga Bitadze",
+                                "price": 1.9,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Goga Bitadze",
+                                "price": 1.86,
+                                "point": 7.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "mybookieag",
+                "title": "MyBookie.ag",
+                "last_update": "2023-11-24T09:53:55Z",
+                "markets": [
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-24T09:54:15Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.56,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 1.91,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 2.25,
+                                "point": 29.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 2.8,
+                                "point": 31.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 3.6,
+                                "point": 33.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 4.75,
+                                "point": 35.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 6.25,
+                                "point": 37.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 9.0,
+                                "point": 39.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jayson Tatum",
+                                "price": 13.5,
+                                "point": 41.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.56,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kristaps Porzingis",
+                                "price": 1.95,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kristaps Porzingis",
+                                "price": 2.35,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kristaps Porzingis",
+                                "price": 3.0,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kristaps Porzingis",
+                                "price": 4.0,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kristaps Porzingis",
+                                "price": 5.5,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kristaps Porzingis",
+                                "price": 7.5,
+                                "point": 29.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kristaps Porzingis",
+                                "price": 10.0,
+                                "point": 31.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kristaps Porzingis",
+                                "price": 12.5,
+                                "point": 33.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jrue Holiday",
+                                "price": 1.56,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jrue Holiday",
+                                "price": 1.91,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jrue Holiday",
+                                "price": 2.25,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jrue Holiday",
+                                "price": 2.8,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jrue Holiday",
+                                "price": 3.65,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jrue Holiday",
+                                "price": 4.75,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jrue Holiday",
+                                "price": 6.5,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jrue Holiday",
+                                "price": 8.5,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jrue Holiday",
+                                "price": 11.0,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Derrick White",
+                                "price": 1.5,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Derrick White",
+                                "price": 1.87,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Derrick White",
+                                "price": 2.25,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Derrick White",
+                                "price": 3.0,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Derrick White",
+                                "price": 4.15,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Derrick White",
+                                "price": 5.75,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Derrick White",
+                                "price": 8.25,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Derrick White",
+                                "price": 11.0,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Derrick White",
+                                "price": 14.0,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.5,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 1.87,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 2.2,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 2.85,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 3.85,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 5.25,
+                                "point": 29.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 7.25,
+                                "point": 31.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 9.75,
+                                "point": 33.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaylen Brown",
+                                "price": 12.5,
+                                "point": 35.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Franz Wagner",
+                                "price": 1.5,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Franz Wagner",
+                                "price": 1.95,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Franz Wagner",
+                                "price": 2.45,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Franz Wagner",
+                                "price": 3.3,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Franz Wagner",
+                                "price": 4.75,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Franz Wagner",
+                                "price": 7.0,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Franz Wagner",
+                                "price": 10.0,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Franz Wagner",
+                                "price": 15.0,
+                                "point": 30.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Franz Wagner",
+                                "price": 26.0,
+                                "point": 32.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Suggs",
+                                "price": 1.49,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Suggs",
+                                "price": 1.91,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Suggs",
+                                "price": 2.4,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Suggs",
+                                "price": 3.4,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Suggs",
+                                "price": 5.0,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Suggs",
+                                "price": 7.25,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Suggs",
+                                "price": 10.5,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Suggs",
+                                "price": 16.0,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Suggs",
+                                "price": 26.0,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 1.43,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 1.87,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 2.1,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 2.7,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 3.7,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 5.25,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 7.75,
+                                "point": 29.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 12.0,
+                                "point": 31.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paolo Banchero",
+                                "price": 20.0,
+                                "point": 33.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Goga Bitadze",
+                                "price": 2.55,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Goga Bitadze",
+                                "price": 3.6,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Goga Bitadze",
+                                "price": 5.25,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Goga Bitadze",
+                                "price": 7.75,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Goga Bitadze",
+                                "price": 11.0,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Goga Bitadze",
+                                "price": 17.0,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Goga Bitadze",
+                                "price": 26.0,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Goga Bitadze",
+                                "price": 1.53,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Goga Bitadze",
+                                "price": 2.05,
+                                "point": 8.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

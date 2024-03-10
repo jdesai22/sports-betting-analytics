@@ -1,0 +1,2073 @@
+{
+    "timestamp": "2023-11-03T09:55:43Z",
+    "previous_timestamp": "2023-11-03T09:50:42Z",
+    "next_timestamp": "2023-11-03T10:00:44Z",
+    "data": {
+        "id": "8e5ebfcb0d7d4b85e9fc84db9ca446bc",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2023-11-04T00:00:00Z",
+        "home_team": "Miami Heat",
+        "away_team": "Washington Wizards",
+        "bookmakers": [
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2023-11-03T09:55:26Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-03T09:54:42Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bam Adebayo",
+                                "price": 1.71,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bam Adebayo",
+                                "price": 2.1,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Deni Avdija",
+                                "price": 1.61,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Deni Avdija",
+                                "price": 2.3,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jimmy Butler",
+                                "price": 2.1,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jimmy Butler",
+                                "price": 1.69,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jordan Poole",
+                                "price": 2.25,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jordan Poole",
+                                "price": 1.62,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyle Kuzma",
+                                "price": 1.87,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyle Kuzma",
+                                "price": 1.87,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyle Lowry",
+                                "price": 1.91,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyle Lowry",
+                                "price": 1.87,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyler Herro",
+                                "price": 1.83,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyler Herro",
+                                "price": 1.91,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyus Jones",
+                                "price": 1.67,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyus Jones",
+                                "price": 2.15,
+                                "point": 5.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-03T09:54:42Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bam Adebayo",
+                                "price": 2.0,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bam Adebayo",
+                                "price": 1.8,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Daniel Gafford",
+                                "price": 2.0,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Daniel Gafford",
+                                "price": 1.8,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Deni Avdija",
+                                "price": 1.77,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Deni Avdija",
+                                "price": 2.05,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jimmy Butler",
+                                "price": 1.83,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jimmy Butler",
+                                "price": 1.91,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jordan Poole",
+                                "price": 1.83,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jordan Poole",
+                                "price": 1.91,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kevin Love",
+                                "price": 1.87,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Love",
+                                "price": 1.91,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyle Kuzma",
+                                "price": 1.95,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyle Kuzma",
+                                "price": 1.8,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyle Lowry",
+                                "price": 1.91,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyle Lowry",
+                                "price": 1.87,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyler Herro",
+                                "price": 1.87,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyler Herro",
+                                "price": 1.91,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyus Jones",
+                                "price": 2.0,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyus Jones",
+                                "price": 1.77,
+                                "point": 10.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-03T09:54:42Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bam Adebayo",
+                                "price": 1.91,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bam Adebayo",
+                                "price": 1.87,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Daniel Gafford",
+                                "price": 1.74,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Daniel Gafford",
+                                "price": 2.05,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Deni Avdija",
+                                "price": 2.0,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Deni Avdija",
+                                "price": 1.8,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jimmy Butler",
+                                "price": 1.95,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jimmy Butler",
+                                "price": 1.83,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jordan Poole",
+                                "price": 1.83,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jordan Poole",
+                                "price": 1.91,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kevin Love",
+                                "price": 1.91,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Love",
+                                "price": 1.87,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyle Kuzma",
+                                "price": 2.05,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyle Kuzma",
+                                "price": 1.77,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyle Lowry",
+                                "price": 1.91,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyle Lowry",
+                                "price": 1.83,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyler Herro",
+                                "price": 2.25,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyler Herro",
+                                "price": 1.62,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyus Jones",
+                                "price": 1.8,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyus Jones",
+                                "price": 1.95,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betonlineag",
+                "title": "BetOnline.ag",
+                "last_update": "2023-11-03T09:55:26Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-03T09:56:15Z",
+                        "outcomes": [
+                            {
+                                "name": "Under",
+                                "description": "Bam Adebayo",
+                                "price": 2.05,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bam Adebayo",
+                                "price": 1.74,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyler Herro",
+                                "price": 1.89,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyler Herro",
+                                "price": 1.87,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jimmy Butler III",
+                                "price": 1.68,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jimmy Butler III",
+                                "price": 2.13,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Deni Avdija",
+                                "price": 2.28,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Deni Avdija",
+                                "price": 1.6,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyle Lowry",
+                                "price": 1.87,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyle Lowry",
+                                "price": 1.89,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyus Jones",
+                                "price": 2.14,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyus Jones",
+                                "price": 1.68,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jordan Poole",
+                                "price": 1.62,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jordan Poole",
+                                "price": 2.24,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyle Kuzma",
+                                "price": 1.86,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyle Kuzma",
+                                "price": 1.9,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Love",
+                                "price": 1.8,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kevin Love",
+                                "price": 1.97,
+                                "point": 1.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-03T09:56:15Z",
+                        "outcomes": [
+                            {
+                                "name": "Under",
+                                "description": "Tyler Herro",
+                                "price": 1.9,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyler Herro",
+                                "price": 1.86,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jimmy Butler III",
+                                "price": 1.92,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jimmy Butler III",
+                                "price": 1.84,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Deni Avdija",
+                                "price": 2.03,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Deni Avdija",
+                                "price": 1.75,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyle Lowry",
+                                "price": 1.85,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyle Lowry",
+                                "price": 1.91,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jordan Poole",
+                                "price": 1.94,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jordan Poole",
+                                "price": 1.82,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Daniel Gafford",
+                                "price": 1.79,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Daniel Gafford",
+                                "price": 1.98,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Love",
+                                "price": 1.89,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kevin Love",
+                                "price": 1.87,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bam Adebayo",
+                                "price": 1.97,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bam Adebayo",
+                                "price": 1.8,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyle Kuzma",
+                                "price": 1.8,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyle Kuzma",
+                                "price": 1.97,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyus Jones",
+                                "price": 1.76,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyus Jones",
+                                "price": 2.02,
+                                "point": 10.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-03T09:56:15Z",
+                        "outcomes": [
+                            {
+                                "name": "Under",
+                                "description": "Bam Adebayo",
+                                "price": 1.89,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bam Adebayo",
+                                "price": 1.87,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jimmy Butler III",
+                                "price": 1.86,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jimmy Butler III",
+                                "price": 1.9,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Deni Avdija",
+                                "price": 1.79,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Deni Avdija",
+                                "price": 1.98,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyle Lowry",
+                                "price": 1.85,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyle Lowry",
+                                "price": 1.91,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyus Jones",
+                                "price": 1.95,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyus Jones",
+                                "price": 1.81,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jordan Poole",
+                                "price": 1.88,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jordan Poole",
+                                "price": 1.88,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Daniel Gafford",
+                                "price": 2.08,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Daniel Gafford",
+                                "price": 1.71,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyle Kuzma",
+                                "price": 1.73,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyle Kuzma",
+                                "price": 2.06,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Love",
+                                "price": 1.86,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kevin Love",
+                                "price": 1.9,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyler Herro",
+                                "price": 1.63,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyler Herro",
+                                "price": 2.22,
+                                "point": 5.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "Caesars",
+                "last_update": "2023-11-03T09:55:27Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-03T09:53:14Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Kyle Kuzma",
+                                "price": 1.99,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyle Kuzma",
+                                "price": 1.74,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyle Lowry",
+                                "price": 1.88,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyle Lowry",
+                                "price": 1.83,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jordan Poole",
+                                "price": 2.2,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jordan Poole",
+                                "price": 1.6,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bam Adebayo",
+                                "price": 1.7,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bam Adebayo",
+                                "price": 2.04,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Daniel Gafford",
+                                "price": 2.52,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Daniel Gafford",
+                                "price": 1.47,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyus Jones",
+                                "price": 1.65,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyus Jones",
+                                "price": 2.12,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Deni Avdija",
+                                "price": 1.59,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Deni Avdija",
+                                "price": 2.23,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kevin Love",
+                                "price": 1.93,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Love",
+                                "price": 1.79,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jimmy Butler",
+                                "price": 2.08,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jimmy Butler",
+                                "price": 1.68,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyler Herro",
+                                "price": 1.81,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyler Herro",
+                                "price": 1.9,
+                                "point": 3.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-03T09:53:14Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Kevin Love",
+                                "price": 1.84,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Love",
+                                "price": 1.87,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyle Lowry",
+                                "price": 1.85,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyle Lowry",
+                                "price": 1.85,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bam Adebayo",
+                                "price": 1.94,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bam Adebayo",
+                                "price": 1.78,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jordan Poole",
+                                "price": 1.79,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jordan Poole",
+                                "price": 1.93,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyle Kuzma",
+                                "price": 1.87,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyle Kuzma",
+                                "price": 1.84,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyler Herro",
+                                "price": 1.84,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyler Herro",
+                                "price": 1.87,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jimmy Butler",
+                                "price": 1.83,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jimmy Butler",
+                                "price": 1.88,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Daniel Gafford",
+                                "price": 1.94,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Daniel Gafford",
+                                "price": 1.78,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyus Jones",
+                                "price": 1.99,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyus Jones",
+                                "price": 1.74,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Deni Avdija",
+                                "price": 1.76,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Deni Avdija",
+                                "price": 1.96,
+                                "point": 9.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-03T09:53:14Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Tyler Herro",
+                                "price": 2.18,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyler Herro",
+                                "price": 1.61,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyle Lowry",
+                                "price": 1.94,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyle Lowry",
+                                "price": 1.78,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jordan Poole",
+                                "price": 1.8,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jordan Poole",
+                                "price": 1.92,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyus Jones",
+                                "price": 1.8,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyus Jones",
+                                "price": 1.92,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Deni Avdija",
+                                "price": 1.94,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Deni Avdija",
+                                "price": 1.78,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kevin Love",
+                                "price": 1.9,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Love",
+                                "price": 1.81,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Daniel Gafford",
+                                "price": 1.74,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Daniel Gafford",
+                                "price": 1.99,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jimmy Butler",
+                                "price": 1.87,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jimmy Butler",
+                                "price": 1.84,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyle Kuzma",
+                                "price": 2.02,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyle Kuzma",
+                                "price": 1.72,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bam Adebayo",
+                                "price": 1.85,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bam Adebayo",
+                                "price": 1.85,
+                                "point": 9.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2023-11-03T09:54:28Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-03T09:52:59Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Tyus Jones",
+                                "price": 2.08,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyus Jones",
+                                "price": 1.72,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyle Kuzma",
+                                "price": 1.82,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyle Kuzma",
+                                "price": 1.96,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Deni Avdija",
+                                "price": 2.4,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Deni Avdija",
+                                "price": 1.56,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bam Adebayo",
+                                "price": 1.83,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bam Adebayo",
+                                "price": 1.94,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jordan Poole",
+                                "price": 2.28,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jordan Poole",
+                                "price": 1.6,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyle Lowry",
+                                "price": 1.82,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyle Lowry",
+                                "price": 1.96,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jimmy Butler",
+                                "price": 2.16,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jimmy Butler",
+                                "price": 1.68,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyler Herro",
+                                "price": 1.94,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyler Herro",
+                                "price": 1.83,
+                                "point": 3.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-03T09:52:59Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Kevin Love",
+                                "price": 1.9,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Love",
+                                "price": 1.87,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyus Jones",
+                                "price": 2.04,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyus Jones",
+                                "price": 1.76,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyle Kuzma",
+                                "price": 1.9,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyle Kuzma",
+                                "price": 1.87,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bam Adebayo",
+                                "price": 1.98,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bam Adebayo",
+                                "price": 1.8,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jimmy Butler",
+                                "price": 1.94,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jimmy Butler",
+                                "price": 1.83,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyle Lowry",
+                                "price": 1.94,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyle Lowry",
+                                "price": 1.83,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jordan Poole",
+                                "price": 1.8,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jordan Poole",
+                                "price": 1.98,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyler Herro",
+                                "price": 1.8,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyler Herro",
+                                "price": 1.98,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Deni Avdija",
+                                "price": 2.04,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Deni Avdija",
+                                "price": 1.76,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Daniel Gafford",
+                                "price": 1.77,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Daniel Gafford",
+                                "price": 2.02,
+                                "point": 8.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2023-11-03T09:55:26Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-03T09:52:05Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bam Adebayo",
+                                "price": 1.69,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bam Adebayo",
+                                "price": 2.1,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Deni Avdija",
+                                "price": 1.61,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Deni Avdija",
+                                "price": 2.25,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jimmy Butler III",
+                                "price": 2.1,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jimmy Butler III",
+                                "price": 1.69,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jordan Poole",
+                                "price": 2.2,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jordan Poole",
+                                "price": 1.62,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyle Kuzma",
+                                "price": 1.87,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyle Kuzma",
+                                "price": 1.87,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyle Lowry",
+                                "price": 1.91,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyle Lowry",
+                                "price": 1.83,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyler Herro",
+                                "price": 1.83,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyler Herro",
+                                "price": 1.91,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyus Jones",
+                                "price": 1.67,
+                                "point": 5.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-03T09:52:05Z",
+                        "outcomes": [
+                            {
+                                "name": "Under",
+                                "description": "Bam Adebayo",
+                                "price": 1.8,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Daniel Gafford",
+                                "price": 2.0,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Daniel Gafford",
+                                "price": 1.77,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Deni Avdija",
+                                "price": 1.74,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Deni Avdija",
+                                "price": 2.05,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jimmy Butler III",
+                                "price": 1.83,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jordan Poole",
+                                "price": 1.83,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jordan Poole",
+                                "price": 1.91,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyle Kuzma",
+                                "price": 1.95,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyle Kuzma",
+                                "price": 1.8,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyle Lowry",
+                                "price": 1.91,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyle Lowry",
+                                "price": 1.83,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Love Kevin",
+                                "price": 1.83,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Love Kevin",
+                                "price": 1.91,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyler Herro",
+                                "price": 1.83,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyler Herro",
+                                "price": 1.91,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyus Jones",
+                                "price": 2.0,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyus Jones",
+                                "price": 1.77,
+                                "point": 10.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-03T09:52:05Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bam Adebayo",
+                                "price": 1.91,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bam Adebayo",
+                                "price": 1.83,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Daniel Gafford",
+                                "price": 1.74,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Daniel Gafford",
+                                "price": 2.05,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Deni Avdija",
+                                "price": 2.0,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Deni Avdija",
+                                "price": 1.77,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jimmy Butler III",
+                                "price": 1.95,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jimmy Butler III",
+                                "price": 1.8,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jordan Poole",
+                                "price": 1.83,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jordan Poole",
+                                "price": 1.91,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyle Kuzma",
+                                "price": 2.05,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyle Kuzma",
+                                "price": 1.74,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyle Lowry",
+                                "price": 1.91,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyle Lowry",
+                                "price": 1.83,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Love Kevin",
+                                "price": 1.91,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Love Kevin",
+                                "price": 1.83,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyler Herro",
+                                "price": 2.2,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyler Herro",
+                                "price": 1.62,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyus Jones",
+                                "price": 1.8,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyus Jones",
+                                "price": 1.95,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetus",
+                "title": "PointsBet (US)",
+                "last_update": "2023-11-03T09:55:26Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-03T09:50:31Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bam Adebayo",
+                                "price": 1.71,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bam Adebayo",
+                                "price": 2.05,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Deni Avdija",
+                                "price": 1.62,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Deni Avdija",
+                                "price": 2.2,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jimmy Butler",
+                                "price": 2.1,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jimmy Butler",
+                                "price": 1.69,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jordan Poole",
+                                "price": 2.2,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jordan Poole",
+                                "price": 1.62,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyle Kuzma",
+                                "price": 1.87,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyle Kuzma",
+                                "price": 1.87,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyle Lowry",
+                                "price": 1.87,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyle Lowry",
+                                "price": 1.87,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyler Herro",
+                                "price": 1.8,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyler Herro",
+                                "price": 1.95,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyus Jones",
+                                "price": 1.67,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyus Jones",
+                                "price": 2.15,
+                                "point": 5.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-03T09:50:31Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bam Adebayo",
+                                "price": 1.91,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bam Adebayo",
+                                "price": 1.83,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Daniel Gafford",
+                                "price": 1.95,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Daniel Gafford",
+                                "price": 1.8,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Deni Avdija",
+                                "price": 1.71,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Deni Avdija",
+                                "price": 2.05,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jimmy Butler",
+                                "price": 1.8,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jimmy Butler",
+                                "price": 1.95,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jordan Poole",
+                                "price": 1.87,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jordan Poole",
+                                "price": 1.87,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kevin Love",
+                                "price": 1.87,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Love",
+                                "price": 1.87,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyle Kuzma",
+                                "price": 1.83,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyle Kuzma",
+                                "price": 1.91,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyle Lowry",
+                                "price": 1.87,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyle Lowry",
+                                "price": 1.87,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyler Herro",
+                                "price": 1.87,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyler Herro",
+                                "price": 1.87,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyus Jones",
+                                "price": 2.0,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyus Jones",
+                                "price": 1.77,
+                                "point": 10.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-03T09:50:31Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bam Adebayo",
+                                "price": 1.87,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bam Adebayo",
+                                "price": 1.87,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Daniel Gafford",
+                                "price": 1.71,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Daniel Gafford",
+                                "price": 2.05,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Deni Avdija",
+                                "price": 2.0,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Deni Avdija",
+                                "price": 1.77,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jimmy Butler",
+                                "price": 1.91,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jimmy Butler",
+                                "price": 1.83,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jordan Poole",
+                                "price": 1.87,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jordan Poole",
+                                "price": 1.87,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kevin Love",
+                                "price": 1.87,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Love",
+                                "price": 1.87,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyle Kuzma",
+                                "price": 2.05,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyle Kuzma",
+                                "price": 1.71,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyle Lowry",
+                                "price": 1.87,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyle Lowry",
+                                "price": 1.87,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyler Herro",
+                                "price": 2.2,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyler Herro",
+                                "price": 1.62,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Tyus Jones",
+                                "price": 1.8,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Tyus Jones",
+                                "price": 1.95,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

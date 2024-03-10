@@ -1,0 +1,1329 @@
+{
+    "timestamp": "2023-12-18T09:55:38Z",
+    "previous_timestamp": "2023-12-18T09:50:38Z",
+    "next_timestamp": "2023-12-18T10:00:38Z",
+    "data": {
+        "id": "94c8b2d44f2326c0065345dba27bd79b",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2023-12-19T02:10:00Z",
+        "home_team": "Utah Jazz",
+        "away_team": "Brooklyn Nets",
+        "bookmakers": [
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2023-12-18T09:53:56Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-18T09:52:02Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Cameron Johnson",
+                                "price": 1.87,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cameron Johnson",
+                                "price": 1.87,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cameron Thomas",
+                                "price": 2.2,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cameron Thomas",
+                                "price": 1.67,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Collin Sexton",
+                                "price": 1.71,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Collin Sexton",
+                                "price": 2.1,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mikal Bridges",
+                                "price": 1.71,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mikal Bridges",
+                                "price": 2.1,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Spencer Dinwiddie",
+                                "price": 2.1,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Spencer Dinwiddie",
+                                "price": 1.71,
+                                "point": 8.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-18T09:52:02Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Cameron Johnson",
+                                "price": 1.83,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cameron Johnson",
+                                "price": 1.91,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cameron Thomas",
+                                "price": 1.95,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cameron Thomas",
+                                "price": 1.8,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Collin Sexton",
+                                "price": 1.87,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Collin Sexton",
+                                "price": 1.87,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mikal Bridges",
+                                "price": 1.74,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mikal Bridges",
+                                "price": 1.95,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nicolas Claxton",
+                                "price": 1.91,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nicolas Claxton",
+                                "price": 1.83,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Spencer Dinwiddie",
+                                "price": 1.74,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Spencer Dinwiddie",
+                                "price": 1.95,
+                                "point": 16.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-18T09:52:02Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Cameron Johnson",
+                                "price": 1.69,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cameron Johnson",
+                                "price": 2.14,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cameron Thomas",
+                                "price": 2.05,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cameron Thomas",
+                                "price": 1.74,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Collin Sexton",
+                                "price": 2.05,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Collin Sexton",
+                                "price": 1.74,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mikal Bridges",
+                                "price": 2.0,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mikal Bridges",
+                                "price": 1.77,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nicolas Claxton",
+                                "price": 1.71,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nicolas Claxton",
+                                "price": 2.1,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Spencer Dinwiddie",
+                                "price": 1.71,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Spencer Dinwiddie",
+                                "price": 2.1,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betonlineag",
+                "title": "BetOnline.ag",
+                "last_update": "2023-12-18T09:54:24Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-18T09:54:17Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Spencer Dinwiddie",
+                                "price": 2.1,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Spencer Dinwiddie",
+                                "price": 1.7,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mikal Bridges",
+                                "price": 2.08,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mikal Bridges",
+                                "price": 1.71,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cameron Thomas",
+                                "price": 2.15,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cameron Thomas",
+                                "price": 1.67,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cameron Johnson",
+                                "price": 1.86,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cameron Johnson",
+                                "price": 1.9,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Collin Sexton",
+                                "price": 1.71,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Collin Sexton",
+                                "price": 2.09,
+                                "point": 4.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-18T09:54:17Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Nicolas Claxton",
+                                "price": 1.91,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nicolas Claxton",
+                                "price": 1.85,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Spencer Dinwiddie",
+                                "price": 1.9,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Spencer Dinwiddie",
+                                "price": 1.86,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mikal Bridges",
+                                "price": 1.93,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mikal Bridges",
+                                "price": 1.83,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cameron Thomas",
+                                "price": 1.83,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cameron Thomas",
+                                "price": 1.93,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Collin Sexton",
+                                "price": 1.89,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Collin Sexton",
+                                "price": 1.87,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cameron Johnson",
+                                "price": 2.0,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cameron Johnson",
+                                "price": 1.77,
+                                "point": 15.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-18T09:54:17Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Nicolas Claxton",
+                                "price": 1.71,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nicolas Claxton",
+                                "price": 2.08,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mikal Bridges",
+                                "price": 2.02,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mikal Bridges",
+                                "price": 1.76,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Spencer Dinwiddie",
+                                "price": 1.71,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Spencer Dinwiddie",
+                                "price": 2.08,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cameron Johnson",
+                                "price": 2.12,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cameron Johnson",
+                                "price": 1.69,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cameron Thomas",
+                                "price": 1.75,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cameron Thomas",
+                                "price": 2.03,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Collin Sexton",
+                                "price": 1.75,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Collin Sexton",
+                                "price": 2.03,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "Caesars",
+                "last_update": "2023-12-18T09:55:33Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-18T09:51:15Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Collin Sexton",
+                                "price": 1.72,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Collin Sexton",
+                                "price": 2.02,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nic Claxton",
+                                "price": 1.88,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nic Claxton",
+                                "price": 1.83,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cameron Johnson",
+                                "price": 1.93,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cameron Johnson",
+                                "price": 1.79,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Spencer Dinwiddie",
+                                "price": 2.02,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Spencer Dinwiddie",
+                                "price": 1.72,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cam Thomas",
+                                "price": 2.12,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cam Thomas",
+                                "price": 1.65,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mikal Bridges",
+                                "price": 1.7,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mikal Bridges",
+                                "price": 2.04,
+                                "point": 3.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-18T09:51:15Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Nic Claxton",
+                                "price": 1.93,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nic Claxton",
+                                "price": 1.79,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mikal Bridges",
+                                "price": 1.8,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mikal Bridges",
+                                "price": 1.92,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Collin Sexton",
+                                "price": 1.84,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Collin Sexton",
+                                "price": 1.87,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Spencer Dinwiddie",
+                                "price": 1.79,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Spencer Dinwiddie",
+                                "price": 1.93,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cameron Johnson",
+                                "price": 1.8,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cameron Johnson",
+                                "price": 1.92,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cam Thomas",
+                                "price": 1.92,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cam Thomas",
+                                "price": 1.8,
+                                "point": 24.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-18T09:51:15Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Nic Claxton",
+                                "price": 1.9,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nic Claxton",
+                                "price": 1.81,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cam Thomas",
+                                "price": 2.04,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cam Thomas",
+                                "price": 1.7,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mikal Bridges",
+                                "price": 1.96,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mikal Bridges",
+                                "price": 1.76,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Spencer Dinwiddie",
+                                "price": 1.65,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Spencer Dinwiddie",
+                                "price": 2.12,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cameron Johnson",
+                                "price": 1.7,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cameron Johnson",
+                                "price": 2.04,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Collin Sexton",
+                                "price": 2.02,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Collin Sexton",
+                                "price": 1.72,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2023-12-18T09:53:59Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-18T09:51:15Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Cameron Johnson",
+                                "price": 1.87,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cameron Johnson",
+                                "price": 1.87,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cameron Thomas",
+                                "price": 2.15,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cameron Thomas",
+                                "price": 1.67,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Collin Sexton",
+                                "price": 1.69,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Collin Sexton",
+                                "price": 2.1,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mikal Bridges",
+                                "price": 1.69,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mikal Bridges",
+                                "price": 2.1,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Spencer Dinwiddie",
+                                "price": 2.1,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Spencer Dinwiddie",
+                                "price": 1.69,
+                                "point": 8.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-18T09:51:15Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Cameron Johnson",
+                                "price": 2.05,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cameron Johnson",
+                                "price": 1.74,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cameron Thomas",
+                                "price": 1.91,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cameron Thomas",
+                                "price": 1.83,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mikal Bridges",
+                                "price": 1.91,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mikal Bridges",
+                                "price": 1.83,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nicolas Claxton",
+                                "price": 1.83,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nicolas Claxton",
+                                "price": 1.91,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Spencer Dinwiddie",
+                                "price": 1.91,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Spencer Dinwiddie",
+                                "price": 1.83,
+                                "point": 16.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-18T09:51:15Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Cameron Johnson",
+                                "price": 1.69,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cameron Johnson",
+                                "price": 2.1,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cameron Thomas",
+                                "price": 2.05,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cameron Thomas",
+                                "price": 1.74,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Collin Sexton",
+                                "price": 2.05,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Collin Sexton",
+                                "price": 1.74,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mikal Bridges",
+                                "price": 2.0,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mikal Bridges",
+                                "price": 1.77,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nicolas Claxton",
+                                "price": 1.69,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nicolas Claxton",
+                                "price": 2.1,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Spencer Dinwiddie",
+                                "price": 1.69,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Spencer Dinwiddie",
+                                "price": 2.1,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2023-12-18T09:48:15Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-18T09:47:10Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Mikal Bridges",
+                                "price": 1.68,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mikal Bridges",
+                                "price": 2.14,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Spencer Dinwiddie",
+                                "price": 2.0,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Spencer Dinwiddie",
+                                "price": 1.78,
+                                "point": 8.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-18T09:47:10Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Mikal Bridges",
+                                "price": 1.9,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mikal Bridges",
+                                "price": 1.87,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cam Johnson",
+                                "price": 2.0,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cam Johnson",
+                                "price": 1.78,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nic Claxton",
+                                "price": 1.85,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nic Claxton",
+                                "price": 1.93,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cam Thomas",
+                                "price": 1.9,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cam Thomas",
+                                "price": 1.87,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Spencer Dinwiddie",
+                                "price": 1.9,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Spencer Dinwiddie",
+                                "price": 1.87,
+                                "point": 16.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-18T09:46:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Mikal Bridges",
+                                "price": 2.12,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mikal Bridges",
+                                "price": 1.7,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cam Johnson",
+                                "price": 1.68,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cam Johnson",
+                                "price": 2.14,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cam Thomas",
+                                "price": 2.02,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cam Thomas",
+                                "price": 1.77,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nic Claxton",
+                                "price": 1.85,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nic Claxton",
+                                "price": 1.93,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Spencer Dinwiddie",
+                                "price": 1.68,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Spencer Dinwiddie",
+                                "price": 2.14,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetus",
+                "title": "PointsBet (US)",
+                "last_update": "2023-12-18T09:55:24Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-18T09:52:23Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Cameron Johnson",
+                                "price": 1.87,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cameron Johnson",
+                                "price": 1.87,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cameron Thomas",
+                                "price": 2.15,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cameron Thomas",
+                                "price": 1.67,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Collin Sexton",
+                                "price": 1.77,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Collin Sexton",
+                                "price": 2.0,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mikal Bridges",
+                                "price": 1.71,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mikal Bridges",
+                                "price": 2.05,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Spencer Dinwiddie",
+                                "price": 2.05,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Spencer Dinwiddie",
+                                "price": 1.71,
+                                "point": 8.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-18T09:52:23Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Cameron Johnson",
+                                "price": 1.83,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cameron Johnson",
+                                "price": 1.91,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cameron Thomas",
+                                "price": 1.95,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cameron Thomas",
+                                "price": 1.8,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Collin Sexton",
+                                "price": 1.87,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Collin Sexton",
+                                "price": 1.87,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mikal Bridges",
+                                "price": 1.95,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mikal Bridges",
+                                "price": 1.8,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nicolas Claxton",
+                                "price": 1.95,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nicolas Claxton",
+                                "price": 1.8,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Spencer Dinwiddie",
+                                "price": 1.8,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Spencer Dinwiddie",
+                                "price": 1.95,
+                                "point": 16.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-18T09:52:23Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Cameron Johnson",
+                                "price": 1.69,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cameron Johnson",
+                                "price": 2.1,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cameron Thomas",
+                                "price": 2.0,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cameron Thomas",
+                                "price": 1.77,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Collin Sexton",
+                                "price": 2.05,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Collin Sexton",
+                                "price": 1.71,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mikal Bridges",
+                                "price": 1.95,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mikal Bridges",
+                                "price": 1.8,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nicolas Claxton",
+                                "price": 2.1,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nicolas Claxton",
+                                "price": 1.69,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Spencer Dinwiddie",
+                                "price": 1.69,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Spencer Dinwiddie",
+                                "price": 2.1,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,2206 @@
+{
+    "timestamp": "2024-02-02T09:55:39Z",
+    "previous_timestamp": "2024-02-02T09:50:39Z",
+    "next_timestamp": "2024-02-02T10:00:38Z",
+    "data": {
+        "id": "edcad241d6bcc087fa882d1c51dca158",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-02-03T00:10:00Z",
+        "home_team": "Detroit Pistons",
+        "away_team": "Los Angeles Clippers",
+        "bookmakers": [
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2024-02-02T09:54:31Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-02-02T09:54:40Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 2.4,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.56,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cade Cunningham",
+                                "price": 1.83,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cade Cunningham",
+                                "price": 1.91,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaden Ivey",
+                                "price": 1.71,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaden Ivey",
+                                "price": 2.1,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 1.69,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "James Harden",
+                                "price": 2.14,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.77,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 2.0,
+                                "point": 3.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-02-02T09:54:40Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 2.0,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.77,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cade Cunningham",
+                                "price": 1.83,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cade Cunningham",
+                                "price": 1.91,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaden Ivey",
+                                "price": 1.95,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaden Ivey",
+                                "price": 1.8,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Duren",
+                                "price": 1.87,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Duren",
+                                "price": 1.87,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 1.8,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "James Harden",
+                                "price": 1.95,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.91,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.83,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mason Plumlee",
+                                "price": 1.91,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mason Plumlee",
+                                "price": 1.83,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 1.91,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paul George",
+                                "price": 1.83,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terance Mann",
+                                "price": 1.77,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terance Mann",
+                                "price": 2.0,
+                                "point": 7.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-02-02T09:54:40Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 2.1,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.71,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cade Cunningham",
+                                "price": 1.8,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cade Cunningham",
+                                "price": 1.95,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaden Ivey",
+                                "price": 1.91,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaden Ivey",
+                                "price": 1.83,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Duren",
+                                "price": 1.71,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Duren",
+                                "price": 2.1,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 1.77,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "James Harden",
+                                "price": 2.0,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.87,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.87,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mason Plumlee",
+                                "price": 1.95,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mason Plumlee",
+                                "price": 1.8,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 1.83,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paul George",
+                                "price": 1.91,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terance Mann",
+                                "price": 1.74,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terance Mann",
+                                "price": 2.05,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2024-02-02T09:53:45Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-02-02T09:54:35Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.7,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 2.12,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cade Cunningham",
+                                "price": 1.88,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cade Cunningham",
+                                "price": 1.88,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaden Ivey",
+                                "price": 1.74,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaden Ivey",
+                                "price": 2.06,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 1.72,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "James Harden",
+                                "price": 2.08,
+                                "point": 8.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-02-02T09:54:35Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 1.93,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paul George",
+                                "price": 1.85,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaden Ivey",
+                                "price": 1.94,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaden Ivey",
+                                "price": 1.83,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.94,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.83,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terance Mann",
+                                "price": 1.8,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terance Mann",
+                                "price": 1.98,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cade Cunningham",
+                                "price": 1.9,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cade Cunningham",
+                                "price": 1.87,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Duren",
+                                "price": 1.9,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Duren",
+                                "price": 1.87,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 1.93,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "James Harden",
+                                "price": 1.85,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mason Plumlee",
+                                "price": 1.88,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mason Plumlee",
+                                "price": 1.88,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.94,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.83,
+                                "point": 26.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-02-02T09:54:35Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 2.22,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.64,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terance Mann",
+                                "price": 1.77,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terance Mann",
+                                "price": 2.02,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaden Ivey",
+                                "price": 2.06,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaden Ivey",
+                                "price": 1.74,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 1.87,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paul George",
+                                "price": 1.9,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Duren",
+                                "price": 1.83,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Duren",
+                                "price": 1.94,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 1.77,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "James Harden",
+                                "price": 2.02,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mason Plumlee",
+                                "price": 2.06,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mason Plumlee",
+                                "price": 1.74,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cade Cunningham",
+                                "price": 1.72,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cade Cunningham",
+                                "price": 2.08,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.93,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.83,
+                                "point": 6.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetus",
+                "title": "PointsBet (US)",
+                "last_update": "2024-02-02T09:54:31Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-02-02T09:54:36Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 2.35,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.57,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cade Cunningham",
+                                "price": 1.83,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cade Cunningham",
+                                "price": 1.91,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaden Ivey",
+                                "price": 1.77,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaden Ivey",
+                                "price": 2.0,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 2.15,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "James Harden",
+                                "price": 1.67,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.77,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 2.0,
+                                "point": 3.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-02-02T09:54:36Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.8,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.95,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cade Cunningham",
+                                "price": 1.83,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cade Cunningham",
+                                "price": 1.91,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaden Ivey",
+                                "price": 1.87,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaden Ivey",
+                                "price": 1.87,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Duren",
+                                "price": 1.87,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Duren",
+                                "price": 1.87,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 1.8,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "James Harden",
+                                "price": 1.95,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.95,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.8,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mason Plumlee",
+                                "price": 1.87,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mason Plumlee",
+                                "price": 1.87,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 1.95,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paul George",
+                                "price": 1.8,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terance Mann",
+                                "price": 1.71,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terance Mann",
+                                "price": 2.05,
+                                "point": 7.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-02-02T09:54:36Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 2.1,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.69,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cade Cunningham",
+                                "price": 1.8,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cade Cunningham",
+                                "price": 1.95,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaden Ivey",
+                                "price": 1.91,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaden Ivey",
+                                "price": 1.83,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Duren",
+                                "price": 2.05,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Duren",
+                                "price": 1.71,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 1.8,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "James Harden",
+                                "price": 1.95,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.87,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.87,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mason Plumlee",
+                                "price": 1.91,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mason Plumlee",
+                                "price": 1.83,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 1.83,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paul George",
+                                "price": 1.91,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terance Mann",
+                                "price": 1.71,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terance Mann",
+                                "price": 2.05,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2024-02-02T09:53:49Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-02-02T09:55:54Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 2.35,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.56,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cade Cunningham",
+                                "price": 1.83,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cade Cunningham",
+                                "price": 1.91,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaden Ivey",
+                                "price": 1.69,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaden Ivey",
+                                "price": 2.1,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 1.69,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "James Harden",
+                                "price": 2.1,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.77,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 2.0,
+                                "point": 3.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-02-02T09:55:54Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.91,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.83,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cade Cunningham",
+                                "price": 1.91,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cade Cunningham",
+                                "price": 1.83,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaden Ivey",
+                                "price": 1.91,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaden Ivey",
+                                "price": 1.83,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Duren",
+                                "price": 1.91,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Duren",
+                                "price": 1.83,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 1.91,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "James Harden",
+                                "price": 1.83,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.91,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.83,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mason Plumlee",
+                                "price": 1.87,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mason Plumlee",
+                                "price": 1.87,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 1.91,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paul George",
+                                "price": 1.83,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terance Mann",
+                                "price": 1.74,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terance Mann",
+                                "price": 2.05,
+                                "point": 7.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-02-02T09:55:54Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 2.1,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.69,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cade Cunningham",
+                                "price": 1.8,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cade Cunningham",
+                                "price": 1.95,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaden Ivey",
+                                "price": 1.91,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaden Ivey",
+                                "price": 1.83,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Duren",
+                                "price": 1.69,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Duren",
+                                "price": 2.1,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 1.77,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "James Harden",
+                                "price": 2.0,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.87,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.87,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mason Plumlee",
+                                "price": 1.95,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mason Plumlee",
+                                "price": 1.8,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 1.83,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paul George",
+                                "price": 1.91,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terance Mann",
+                                "price": 1.74,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terance Mann",
+                                "price": 2.05,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": "2024-02-02T09:55:29Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-02-02T09:54:39Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Mason Plumlee",
+                                "price": 1.91,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mason Plumlee",
+                                "price": 1.83,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 1.57,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paul George",
+                                "price": 2.3,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 1.71,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "James Harden",
+                                "price": 2.05,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terance Mann",
+                                "price": 2.05,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terance Mann",
+                                "price": 1.71,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.77,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 2.0,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cade Cunningham",
+                                "price": 1.83,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cade Cunningham",
+                                "price": 1.91,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Duren",
+                                "price": 1.54,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Duren",
+                                "price": 2.35,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaden Ivey",
+                                "price": 1.71,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaden Ivey",
+                                "price": 2.05,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovich",
+                                "price": 2.4,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovich",
+                                "price": 1.53,
+                                "point": 2.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-02-02T09:54:39Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Mason Plumlee",
+                                "price": 1.91,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mason Plumlee",
+                                "price": 1.83,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 1.91,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paul George",
+                                "price": 1.83,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 1.91,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "James Harden",
+                                "price": 1.83,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terance Mann",
+                                "price": 1.74,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terance Mann",
+                                "price": 2.0,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.87,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.83,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cade Cunningham",
+                                "price": 1.83,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cade Cunningham",
+                                "price": 1.91,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Duren",
+                                "price": 1.87,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Duren",
+                                "price": 1.87,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaden Ivey",
+                                "price": 1.95,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaden Ivey",
+                                "price": 1.8,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovich",
+                                "price": 1.95,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovich",
+                                "price": 1.77,
+                                "point": 18.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-02-02T09:54:39Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Mason Plumlee",
+                                "price": 1.95,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mason Plumlee",
+                                "price": 1.77,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 2.0,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paul George",
+                                "price": 1.77,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 1.77,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "James Harden",
+                                "price": 2.0,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terance Mann",
+                                "price": 1.71,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terance Mann",
+                                "price": 2.05,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 2.0,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.77,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cade Cunningham",
+                                "price": 1.77,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cade Cunningham",
+                                "price": 1.95,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Duren",
+                                "price": 1.77,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Duren",
+                                "price": 1.95,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaden Ivey",
+                                "price": 2.05,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaden Ivey",
+                                "price": 1.71,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovich",
+                                "price": 2.1,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovich",
+                                "price": 1.67,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "Caesars",
+                "last_update": "2024-02-02T09:51:48Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-02-02T09:55:12Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 2.39,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.52,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cade Cunningham",
+                                "price": 1.8,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cade Cunningham",
+                                "price": 1.92,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.8,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.92,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 1.69,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "James Harden",
+                                "price": 2.06,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Duren",
+                                "price": 1.57,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Duren",
+                                "price": 2.26,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mason Plumlee",
+                                "price": 1.94,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mason Plumlee",
+                                "price": 1.78,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 1.57,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paul George",
+                                "price": 2.26,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaden Ivey",
+                                "price": 1.73,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaden Ivey",
+                                "price": 2.0,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terance Mann",
+                                "price": 2.02,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terance Mann",
+                                "price": 1.72,
+                                "point": 1.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-02-02T09:55:12Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.96,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.76,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Duren",
+                                "price": 1.87,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Duren",
+                                "price": 1.84,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mason Plumlee",
+                                "price": 1.9,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mason Plumlee",
+                                "price": 1.81,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaden Ivey",
+                                "price": 1.97,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaden Ivey",
+                                "price": 1.75,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terance Mann",
+                                "price": 1.72,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terance Mann",
+                                "price": 2.02,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cade Cunningham",
+                                "price": 1.84,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cade Cunningham",
+                                "price": 1.87,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.88,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.83,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 1.9,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "James Harden",
+                                "price": 1.81,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 1.92,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paul George",
+                                "price": 1.8,
+                                "point": 20.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-02-02T09:55:12Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Cade Cunningham",
+                                "price": 1.78,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cade Cunningham",
+                                "price": 1.94,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 1.74,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "James Harden",
+                                "price": 1.99,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mason Plumlee",
+                                "price": 1.96,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mason Plumlee",
+                                "price": 1.76,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 1.83,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paul George",
+                                "price": 1.88,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Duren",
+                                "price": 1.75,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Duren",
+                                "price": 1.97,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terance Mann",
+                                "price": 1.72,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terance Mann",
+                                "price": 2.02,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.97,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.75,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaden Ivey",
+                                "price": 1.97,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaden Ivey",
+                                "price": 1.75,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 2.08,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.68,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betonlineag",
+                "title": "BetOnline.ag",
+                "last_update": "2024-02-02T09:54:54Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-02-02T09:55:57Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.77,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 2.0,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cade Cunningham",
+                                "price": 1.88,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cade Cunningham",
+                                "price": 1.88,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaden Ivey",
+                                "price": 1.73,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaden Ivey",
+                                "price": 2.06,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 2.41,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.54,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 1.71,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "James Harden",
+                                "price": 2.09,
+                                "point": 8.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-02-02T09:55:57Z",
+                        "outcomes": [
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.85,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.91,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 1.92,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paul George",
+                                "price": 1.84,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Duren",
+                                "price": 1.92,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Duren",
+                                "price": 1.84,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terance Mann",
+                                "price": 2.1,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terance Mann",
+                                "price": 1.7,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cade Cunningham",
+                                "price": 1.86,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cade Cunningham",
+                                "price": 1.9,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaden Ivey",
+                                "price": 1.97,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaden Ivey",
+                                "price": 1.8,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 1.9,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "James Harden",
+                                "price": 1.86,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mason Plumlee",
+                                "price": 1.9,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mason Plumlee",
+                                "price": 1.86,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.96,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.81,
+                                "point": 17.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-02-02T09:55:57Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Terance Mann",
+                                "price": 1.7,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terance Mann",
+                                "price": 2.1,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.81,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.95,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paul George",
+                                "price": 1.86,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 1.9,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Cade Cunningham",
+                                "price": 1.8,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Cade Cunningham",
+                                "price": 1.97,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Duren",
+                                "price": 1.74,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Duren",
+                                "price": 2.04,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaden Ivey",
+                                "price": 1.78,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaden Ivey",
+                                "price": 1.99,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mason Plumlee",
+                                "price": 1.8,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mason Plumlee",
+                                "price": 1.97,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Bojan Bogdanovic",
+                                "price": 1.7,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Bojan Bogdanovic",
+                                "price": 2.1,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 1.78,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "James Harden",
+                                "price": 1.99,
+                                "point": 4.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

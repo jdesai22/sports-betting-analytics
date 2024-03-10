@@ -1,0 +1,1700 @@
+{
+    "timestamp": "2023-11-26T09:55:39Z",
+    "previous_timestamp": "2023-11-26T09:50:38Z",
+    "next_timestamp": "2023-11-26T10:00:39Z",
+    "data": {
+        "id": "0c0efe94b3f5002d1a461c59f7169c3b",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2023-11-27T01:10:00Z",
+        "home_team": "Denver Nuggets",
+        "away_team": "San Antonio Spurs",
+        "bookmakers": [
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2023-11-26T09:54:59Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-26T09:54:00Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Aaron Gordon",
+                                "price": 2.2,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Aaron Gordon",
+                                "price": 1.65,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jeremy Sochan",
+                                "price": 2.25,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jeremy Sochan",
+                                "price": 1.62,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keldon Johnson",
+                                "price": 2.25,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keldon Johnson",
+                                "price": 1.61,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 1.71,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 2.1,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nikola Jokic",
+                                "price": 1.69,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Jokic",
+                                "price": 2.1,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Reggie Jackson",
+                                "price": 2.15,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Reggie Jackson",
+                                "price": 1.67,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Victor Wembanyama",
+                                "price": 2.15,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Victor Wembanyama",
+                                "price": 1.67,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Zach Collins",
+                                "price": 1.77,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Zach Collins",
+                                "price": 2.0,
+                                "point": 3.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-26T09:54:00Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Aaron Gordon",
+                                "price": 1.95,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Aaron Gordon",
+                                "price": 1.8,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jeremy Sochan",
+                                "price": 1.87,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jeremy Sochan",
+                                "price": 1.91,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keldon Johnson",
+                                "price": 1.91,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keldon Johnson",
+                                "price": 1.83,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 1.83,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 1.95,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Michael Porter Jr.",
+                                "price": 1.87,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Michael Porter Jr.",
+                                "price": 1.87,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nikola Jokic",
+                                "price": 1.87,
+                                "point": 30.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Jokic",
+                                "price": 1.87,
+                                "point": 30.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Reggie Jackson",
+                                "price": 1.87,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Reggie Jackson",
+                                "price": 1.87,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Victor Wembanyama",
+                                "price": 1.95,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Victor Wembanyama",
+                                "price": 1.8,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Zach Collins",
+                                "price": 1.8,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Zach Collins",
+                                "price": 2.0,
+                                "point": 11.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-26T09:54:00Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Aaron Gordon",
+                                "price": 1.91,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Aaron Gordon",
+                                "price": 1.83,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jeremy Sochan",
+                                "price": 1.91,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jeremy Sochan",
+                                "price": 1.83,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keldon Johnson",
+                                "price": 2.0,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keldon Johnson",
+                                "price": 1.8,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 1.62,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 2.25,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Michael Porter Jr.",
+                                "price": 1.77,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Michael Porter Jr.",
+                                "price": 2.0,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nikola Jokic",
+                                "price": 2.0,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Jokic",
+                                "price": 1.77,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Reggie Jackson",
+                                "price": 1.8,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Reggie Jackson",
+                                "price": 1.95,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Victor Wembanyama",
+                                "price": 2.05,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Victor Wembanyama",
+                                "price": 1.74,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Zach Collins",
+                                "price": 2.0,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Zach Collins",
+                                "price": 1.8,
+                                "point": 6.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetus",
+                "title": "PointsBet (US)",
+                "last_update": "2023-11-26T09:54:59Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-26T09:54:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Aaron Gordon",
+                                "price": 2.15,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Aaron Gordon",
+                                "price": 1.67,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jeremy Sochan",
+                                "price": 2.25,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jeremy Sochan",
+                                "price": 1.61,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 1.71,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 2.05,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keldon Johnson",
+                                "price": 2.2,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keldon Johnson",
+                                "price": 1.62,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nikola Jokic",
+                                "price": 1.69,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Jokic",
+                                "price": 2.1,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Reggie Jackson",
+                                "price": 2.15,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Reggie Jackson",
+                                "price": 1.67,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Victor Wembanyama",
+                                "price": 2.1,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Victor Wembanyama",
+                                "price": 1.69,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Zach Collins",
+                                "price": 1.8,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Zach Collins",
+                                "price": 1.95,
+                                "point": 3.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-26T09:54:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Aaron Gordon",
+                                "price": 1.91,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Aaron Gordon",
+                                "price": 1.83,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jeremy Sochan",
+                                "price": 1.87,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jeremy Sochan",
+                                "price": 1.87,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 1.83,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 1.91,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keldon Johnson",
+                                "price": 1.91,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keldon Johnson",
+                                "price": 1.83,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Michael Porter",
+                                "price": 1.87,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Michael Porter",
+                                "price": 1.87,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nikola Jokic",
+                                "price": 1.87,
+                                "point": 30.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Jokic",
+                                "price": 1.87,
+                                "point": 30.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Reggie Jackson",
+                                "price": 1.87,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Reggie Jackson",
+                                "price": 1.87,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Victor Wembanyama",
+                                "price": 1.87,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Victor Wembanyama",
+                                "price": 1.87,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Zach Collins",
+                                "price": 1.8,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Zach Collins",
+                                "price": 1.95,
+                                "point": 11.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-26T09:54:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Aaron Gordon",
+                                "price": 1.87,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Aaron Gordon",
+                                "price": 1.87,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jeremy Sochan",
+                                "price": 1.91,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jeremy Sochan",
+                                "price": 1.83,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 1.62,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 2.2,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keldon Johnson",
+                                "price": 2.0,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keldon Johnson",
+                                "price": 1.77,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Michael Porter",
+                                "price": 1.83,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Michael Porter",
+                                "price": 1.91,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nikola Jokic",
+                                "price": 2.0,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Jokic",
+                                "price": 1.77,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Reggie Jackson",
+                                "price": 1.8,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Reggie Jackson",
+                                "price": 1.95,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Victor Wembanyama",
+                                "price": 2.05,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Victor Wembanyama",
+                                "price": 1.71,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Zach Collins",
+                                "price": 1.95,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Zach Collins",
+                                "price": 1.8,
+                                "point": 6.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2023-11-26T09:53:37Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-26T09:53:06Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Nikola Jokic",
+                                "price": 1.68,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Jokic",
+                                "price": 2.14,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Zach Collins",
+                                "price": 1.77,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Zach Collins",
+                                "price": 2.02,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Victor Wembanyama",
+                                "price": 2.08,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Victor Wembanyama",
+                                "price": 1.72,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Aaron Gordon",
+                                "price": 2.12,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Aaron Gordon",
+                                "price": 1.7,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Reggie Jackson",
+                                "price": 2.06,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Reggie Jackson",
+                                "price": 1.74,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keldon Johnson",
+                                "price": 1.64,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keldon Johnson",
+                                "price": 2.22,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 1.74,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 2.06,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jeremy Sochan",
+                                "price": 2.16,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jeremy Sochan",
+                                "price": 1.68,
+                                "point": 4.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-26T09:53:06Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Reggie Jackson",
+                                "price": 1.94,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Reggie Jackson",
+                                "price": 1.83,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Victor Wembanyama",
+                                "price": 1.93,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Victor Wembanyama",
+                                "price": 1.83,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Aaron Gordon",
+                                "price": 1.96,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Aaron Gordon",
+                                "price": 1.82,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Zach Collins",
+                                "price": 1.88,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Zach Collins",
+                                "price": 1.88,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Michael Porter Jr.",
+                                "price": 1.88,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Michael Porter Jr.",
+                                "price": 1.88,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jeremy Sochan",
+                                "price": 1.9,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jeremy Sochan",
+                                "price": 1.87,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keldon Johnson",
+                                "price": 1.93,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keldon Johnson",
+                                "price": 1.85,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nikola Jokic",
+                                "price": 1.88,
+                                "point": 30.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Jokic",
+                                "price": 1.88,
+                                "point": 30.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 1.88,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 1.88,
+                                "point": 12.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-26T09:53:06Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Zach Collins",
+                                "price": 1.98,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Zach Collins",
+                                "price": 1.8,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Michael Porter Jr.",
+                                "price": 1.77,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Michael Porter Jr.",
+                                "price": 2.02,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keldon Johnson",
+                                "price": 2.02,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keldon Johnson",
+                                "price": 1.77,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nikola Jokic",
+                                "price": 2.0,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Jokic",
+                                "price": 1.78,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jeremy Sochan",
+                                "price": 1.94,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jeremy Sochan",
+                                "price": 1.83,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Reggie Jackson",
+                                "price": 1.82,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Reggie Jackson",
+                                "price": 1.96,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Aaron Gordon",
+                                "price": 1.85,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Aaron Gordon",
+                                "price": 1.93,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Victor Wembanyama",
+                                "price": 1.98,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Victor Wembanyama",
+                                "price": 1.8,
+                                "point": 9.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betonlineag",
+                "title": "BetOnline.ag",
+                "last_update": "2023-11-26T09:55:27Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-26T09:55:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Under",
+                                "description": "Nikola Jokic",
+                                "price": 2.11,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nikola Jokic",
+                                "price": 1.69,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keldon Johnson",
+                                "price": 1.61,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keldon Johnson",
+                                "price": 2.26,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Aaron Gordon",
+                                "price": 2.17,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Aaron Gordon",
+                                "price": 1.66,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Zach Collins",
+                                "price": 1.97,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Zach Collins",
+                                "price": 1.8,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jeremy Sochan",
+                                "price": 1.63,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jeremy Sochan",
+                                "price": 2.22,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 1.73,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 2.06,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Reggie Jackson",
+                                "price": 2.13,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Reggie Jackson",
+                                "price": 1.68,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Victor Wembanyama",
+                                "price": 2.13,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Victor Wembanyama",
+                                "price": 1.68,
+                                "point": 2.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-26T09:55:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Nikola Jokic",
+                                "price": 1.9,
+                                "point": 30.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Jokic",
+                                "price": 1.86,
+                                "point": 30.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Michael Porter Jr.",
+                                "price": 1.88,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Michael Porter Jr.",
+                                "price": 1.88,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Aaron Gordon",
+                                "price": 1.95,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Aaron Gordon",
+                                "price": 1.81,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keldon Johnson",
+                                "price": 1.84,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keldon Johnson",
+                                "price": 1.92,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Zach Collins",
+                                "price": 1.96,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Zach Collins",
+                                "price": 1.81,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jeremy Sochan",
+                                "price": 1.88,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jeremy Sochan",
+                                "price": 1.88,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 1.84,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 1.92,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Reggie Jackson",
+                                "price": 1.87,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Reggie Jackson",
+                                "price": 1.89,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Victor Wembanyama",
+                                "price": 1.82,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Victor Wembanyama",
+                                "price": 1.94,
+                                "point": 19.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-26T09:55:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Under",
+                                "description": "Nikola Jokic",
+                                "price": 1.78,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nikola Jokic",
+                                "price": 1.99,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Michael Porter Jr.",
+                                "price": 1.79,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Michael Porter Jr.",
+                                "price": 1.98,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keldon Johnson",
+                                "price": 1.98,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keldon Johnson",
+                                "price": 1.79,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Aaron Gordon",
+                                "price": 1.92,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Aaron Gordon",
+                                "price": 1.84,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Zach Collins",
+                                "price": 1.79,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Zach Collins",
+                                "price": 1.98,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jeremy Sochan",
+                                "price": 1.93,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jeremy Sochan",
+                                "price": 1.83,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 2.25,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 1.61,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Reggie Jackson",
+                                "price": 1.94,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Reggie Jackson",
+                                "price": 1.82,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Victor Wembanyama",
+                                "price": 1.72,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Victor Wembanyama",
+                                "price": 2.07,
+                                "point": 9.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "Caesars",
+                "last_update": "2023-11-26T09:53:06Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-26T09:54:42Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Keldon Johnson",
+                                "price": 2.2,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keldon Johnson",
+                                "price": 1.6,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Zach Collins",
+                                "price": 1.73,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Zach Collins",
+                                "price": 2.0,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 1.72,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 2.02,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jeremy Sochan",
+                                "price": 2.23,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jeremy Sochan",
+                                "price": 1.59,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nikola Jokic",
+                                "price": 1.68,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Jokic",
+                                "price": 2.08,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Michael Porter Jr.",
+                                "price": 2.04,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Michael Porter Jr.",
+                                "price": 1.7,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Aaron Gordon",
+                                "price": 2.14,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Aaron Gordon",
+                                "price": 1.64,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Reggie Jackson",
+                                "price": 2.14,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Reggie Jackson",
+                                "price": 1.64,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Victor Wembanyama",
+                                "price": 2.12,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Victor Wembanyama",
+                                "price": 1.65,
+                                "point": 2.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-26T09:54:42Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Reggie Jackson",
+                                "price": 1.92,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Reggie Jackson",
+                                "price": 1.8,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keldon Johnson",
+                                "price": 1.94,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keldon Johnson",
+                                "price": 1.78,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Aaron Gordon",
+                                "price": 1.97,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Aaron Gordon",
+                                "price": 1.75,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Victor Wembanyama",
+                                "price": 1.94,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Victor Wembanyama",
+                                "price": 1.78,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 1.76,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 1.96,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Michael Porter Jr.",
+                                "price": 1.87,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Michael Porter Jr.",
+                                "price": 1.84,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jeremy Sochan",
+                                "price": 1.85,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jeremy Sochan",
+                                "price": 1.85,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Zach Collins",
+                                "price": 1.73,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Zach Collins",
+                                "price": 2.0,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nikola Jokic",
+                                "price": 1.85,
+                                "point": 30.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Jokic",
+                                "price": 1.85,
+                                "point": 30.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-26T09:54:42Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Zach Collins",
+                                "price": 1.96,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Zach Collins",
+                                "price": 1.76,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Reggie Jackson",
+                                "price": 1.75,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Reggie Jackson",
+                                "price": 1.97,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Victor Wembanyama",
+                                "price": 2.04,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Victor Wembanyama",
+                                "price": 1.7,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 1.59,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kentavious Caldwell-Pope",
+                                "price": 2.23,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keldon Johnson",
+                                "price": 1.99,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keldon Johnson",
+                                "price": 1.74,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jeremy Sochan",
+                                "price": 1.94,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jeremy Sochan",
+                                "price": 1.78,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Michael Porter Jr.",
+                                "price": 1.76,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Michael Porter Jr.",
+                                "price": 1.96,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Nikola Jokic",
+                                "price": 1.94,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Nikola Jokic",
+                                "price": 1.78,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Aaron Gordon",
+                                "price": 1.87,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Aaron Gordon",
+                                "price": 1.84,
+                                "point": 7.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

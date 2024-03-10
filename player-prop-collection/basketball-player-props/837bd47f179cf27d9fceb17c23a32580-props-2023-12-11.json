@@ -1,0 +1,1810 @@
+{
+    "timestamp": "2023-12-11T09:55:38Z",
+    "previous_timestamp": "2023-12-11T09:50:38Z",
+    "next_timestamp": "2023-12-11T10:00:38Z",
+    "data": {
+        "id": "837bd47f179cf27d9fceb17c23a32580",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2023-12-12T00:10:00Z",
+        "home_team": "Charlotte Hornets",
+        "away_team": "Miami Heat",
+        "bookmakers": [
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2023-12-11T09:54:19Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-11T09:51:34Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Brandon Miller",
+                                "price": 2.4,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandon Miller",
+                                "price": 1.56,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Caleb Martin",
+                                "price": 1.95,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Caleb Martin",
+                                "price": 1.8,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Duncan Robinson",
+                                "price": 2.35,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Duncan Robinson",
+                                "price": 1.57,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Gordon Hayward",
+                                "price": 1.95,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Gordon Hayward",
+                                "price": 1.8,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jimmy Butler",
+                                "price": 2.14,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jimmy Butler",
+                                "price": 1.69,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyle Lowry",
+                                "price": 1.8,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyle Lowry",
+                                "price": 1.95,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Miles Bridges",
+                                "price": 1.62,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Miles Bridges",
+                                "price": 2.24,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terry Rozier",
+                                "price": 1.91,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terry Rozier",
+                                "price": 1.83,
+                                "point": 7.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-11T09:51:34Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Brandon Miller",
+                                "price": 1.87,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandon Miller",
+                                "price": 1.87,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Caleb Martin",
+                                "price": 1.8,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Caleb Martin",
+                                "price": 1.95,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Duncan Robinson",
+                                "price": 1.87,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Duncan Robinson",
+                                "price": 1.87,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Gordon Hayward",
+                                "price": 1.91,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Gordon Hayward",
+                                "price": 1.83,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jimmy Butler",
+                                "price": 1.71,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jimmy Butler",
+                                "price": 2.1,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyle Lowry",
+                                "price": 1.74,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyle Lowry",
+                                "price": 2.05,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Miles Bridges",
+                                "price": 1.87,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Miles Bridges",
+                                "price": 1.87,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terry Rozier",
+                                "price": 1.91,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terry Rozier",
+                                "price": 1.83,
+                                "point": 23.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-11T09:51:34Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Brandon Miller",
+                                "price": 2.14,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandon Miller",
+                                "price": 1.69,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Caleb Martin",
+                                "price": 1.69,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Caleb Martin",
+                                "price": 2.14,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Duncan Robinson",
+                                "price": 1.77,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Duncan Robinson",
+                                "price": 2.0,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Gordon Hayward",
+                                "price": 1.8,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Gordon Hayward",
+                                "price": 1.95,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jimmy Butler",
+                                "price": 1.95,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jimmy Butler",
+                                "price": 1.8,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyle Lowry",
+                                "price": 1.69,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyle Lowry",
+                                "price": 2.14,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Miles Bridges",
+                                "price": 1.91,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Miles Bridges",
+                                "price": 1.83,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terry Rozier",
+                                "price": 2.24,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terry Rozier",
+                                "price": 1.62,
+                                "point": 4.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2023-12-11T09:54:43Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-11T09:53:47Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Duncan Robinson",
+                                "price": 2.28,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Duncan Robinson",
+                                "price": 1.62,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brandon Miller",
+                                "price": 2.26,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandon Miller",
+                                "price": 1.62,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyle Lowry",
+                                "price": 1.82,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyle Lowry",
+                                "price": 1.96,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terry Rozier",
+                                "price": 1.94,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terry Rozier",
+                                "price": 1.83,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Miles Bridges",
+                                "price": 2.34,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Miles Bridges",
+                                "price": 1.58,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jimmy Butler",
+                                "price": 2.14,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jimmy Butler",
+                                "price": 1.68,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Gordon Hayward",
+                                "price": 1.96,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Gordon Hayward",
+                                "price": 1.82,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Caleb Martin",
+                                "price": 2.0,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Caleb Martin",
+                                "price": 1.78,
+                                "point": 2.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-11T09:53:54Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Caleb Martin",
+                                "price": 1.87,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Caleb Martin",
+                                "price": 1.9,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jimmy Butler",
+                                "price": 1.96,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jimmy Butler",
+                                "price": 1.82,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Gordon Hayward",
+                                "price": 2.0,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Gordon Hayward",
+                                "price": 1.78,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Duncan Robinson",
+                                "price": 1.78,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Duncan Robinson",
+                                "price": 2.0,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brandon Miller",
+                                "price": 1.98,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandon Miller",
+                                "price": 1.8,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyle Lowry",
+                                "price": 1.83,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyle Lowry",
+                                "price": 1.94,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terry Rozier",
+                                "price": 1.96,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terry Rozier",
+                                "price": 1.82,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Miles Bridges",
+                                "price": 1.9,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Miles Bridges",
+                                "price": 1.87,
+                                "point": 20.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-11T09:53:54Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jimmy Butler",
+                                "price": 2.0,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jimmy Butler",
+                                "price": 1.78,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyle Lowry",
+                                "price": 1.7,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyle Lowry",
+                                "price": 2.12,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terry Rozier",
+                                "price": 2.1,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terry Rozier",
+                                "price": 1.71,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brandon Miller",
+                                "price": 1.65,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandon Miller",
+                                "price": 2.2,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Miles Bridges",
+                                "price": 1.88,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Miles Bridges",
+                                "price": 1.88,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Caleb Martin",
+                                "price": 1.72,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Caleb Martin",
+                                "price": 2.08,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Gordon Hayward",
+                                "price": 1.8,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Gordon Hayward",
+                                "price": 1.98,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Duncan Robinson",
+                                "price": 1.8,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Duncan Robinson",
+                                "price": 1.98,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetus",
+                "title": "PointsBet (US)",
+                "last_update": "2023-12-11T09:55:04Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-11T09:55:16Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Brandon Miller",
+                                "price": 2.35,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandon Miller",
+                                "price": 1.57,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Caleb Martin",
+                                "price": 1.91,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Caleb Martin",
+                                "price": 1.83,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Duncan Robinson",
+                                "price": 1.59,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Duncan Robinson",
+                                "price": 2.3,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Gordon Hayward",
+                                "price": 1.95,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Gordon Hayward",
+                                "price": 1.8,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jimmy Butler",
+                                "price": 2.1,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jimmy Butler",
+                                "price": 1.69,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyle Lowry",
+                                "price": 1.77,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyle Lowry",
+                                "price": 2.0,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Miles Bridges",
+                                "price": 1.59,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Miles Bridges",
+                                "price": 2.3,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terry Rozier",
+                                "price": 1.91,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terry Rozier",
+                                "price": 1.83,
+                                "point": 7.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-11T09:55:16Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Brandon Miller",
+                                "price": 1.87,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandon Miller",
+                                "price": 1.87,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Caleb Martin",
+                                "price": 1.83,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Caleb Martin",
+                                "price": 1.91,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Duncan Robinson",
+                                "price": 1.87,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Duncan Robinson",
+                                "price": 1.87,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Gordon Hayward",
+                                "price": 1.91,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Gordon Hayward",
+                                "price": 1.83,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jimmy Butler",
+                                "price": 1.91,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jimmy Butler",
+                                "price": 1.83,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyle Lowry",
+                                "price": 2.0,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyle Lowry",
+                                "price": 1.77,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mark Williams",
+                                "price": 1.87,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mark Williams",
+                                "price": 1.87,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Miles Bridges",
+                                "price": 1.87,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Miles Bridges",
+                                "price": 1.87,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terry Rozier",
+                                "price": 1.87,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terry Rozier",
+                                "price": 1.87,
+                                "point": 23.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-11T09:55:16Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Brandon Miller",
+                                "price": 2.1,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandon Miller",
+                                "price": 1.69,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Caleb Martin",
+                                "price": 1.62,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Caleb Martin",
+                                "price": 2.2,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Duncan Robinson",
+                                "price": 1.8,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Duncan Robinson",
+                                "price": 1.95,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Gordon Hayward",
+                                "price": 1.83,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Gordon Hayward",
+                                "price": 1.91,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jimmy Butler",
+                                "price": 1.91,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jimmy Butler",
+                                "price": 1.83,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyle Lowry",
+                                "price": 1.67,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyle Lowry",
+                                "price": 2.15,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mark Williams",
+                                "price": 2.1,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mark Williams",
+                                "price": 1.69,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Miles Bridges",
+                                "price": 1.87,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Miles Bridges",
+                                "price": 1.87,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terry Rozier",
+                                "price": 2.25,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terry Rozier",
+                                "price": 1.61,
+                                "point": 4.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "Caesars",
+                "last_update": "2023-12-11T09:52:39Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-11T09:52:12Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Miles Bridges",
+                                "price": 1.62,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Miles Bridges",
+                                "price": 2.16,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Duncan Robinson",
+                                "price": 2.26,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Duncan Robinson",
+                                "price": 1.57,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jimmy Butler",
+                                "price": 2.1,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jimmy Butler",
+                                "price": 1.66,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terry Rozier",
+                                "price": 1.88,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terry Rozier",
+                                "price": 1.83,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Gordon Hayward",
+                                "price": 1.92,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Gordon Hayward",
+                                "price": 1.8,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyle Lowry",
+                                "price": 1.8,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyle Lowry",
+                                "price": 1.92,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Caleb Martin",
+                                "price": 1.94,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Caleb Martin",
+                                "price": 1.78,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brandon Miller",
+                                "price": 2.29,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandon Miller",
+                                "price": 1.56,
+                                "point": 2.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-11T09:52:12Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Caleb Martin",
+                                "price": 1.87,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Caleb Martin",
+                                "price": 1.84,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brandon Miller",
+                                "price": 1.84,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandon Miller",
+                                "price": 1.87,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Miles Bridges",
+                                "price": 1.84,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Miles Bridges",
+                                "price": 1.87,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Duncan Robinson",
+                                "price": 1.94,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Duncan Robinson",
+                                "price": 1.78,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyle Lowry",
+                                "price": 1.83,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyle Lowry",
+                                "price": 1.88,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Gordon Hayward",
+                                "price": 1.85,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Gordon Hayward",
+                                "price": 1.85,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jimmy Butler",
+                                "price": 1.79,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jimmy Butler",
+                                "price": 1.93,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terry Rozier",
+                                "price": 1.84,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terry Rozier",
+                                "price": 1.87,
+                                "point": 23.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-11T09:52:12Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Gordon Hayward",
+                                "price": 1.79,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Gordon Hayward",
+                                "price": 1.93,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Miles Bridges",
+                                "price": 1.88,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Miles Bridges",
+                                "price": 1.83,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyle Lowry",
+                                "price": 1.66,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyle Lowry",
+                                "price": 2.1,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terry Rozier",
+                                "price": 2.2,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terry Rozier",
+                                "price": 1.6,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Duncan Robinson",
+                                "price": 1.76,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Duncan Robinson",
+                                "price": 1.96,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brandon Miller",
+                                "price": 2.04,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandon Miller",
+                                "price": 1.7,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jimmy Butler",
+                                "price": 1.94,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jimmy Butler",
+                                "price": 1.78,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Caleb Martin",
+                                "price": 1.66,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Caleb Martin",
+                                "price": 2.1,
+                                "point": 5.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": "2023-12-11T09:55:07Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-11T09:52:25Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Caleb Martin",
+                                "price": 1.91,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Caleb Martin",
+                                "price": 1.83,
+                                "point": 2.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-11T09:52:25Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Caleb Martin",
+                                "price": 1.91,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Caleb Martin",
+                                "price": 1.83,
+                                "point": 16.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-11T09:52:25Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Caleb Martin",
+                                "price": 1.67,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Caleb Martin",
+                                "price": 2.1,
+                                "point": 5.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betonlineag",
+                "title": "BetOnline.ag",
+                "last_update": "2023-12-11T09:55:26Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-11T09:54:05Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Miles Bridges",
+                                "price": 1.64,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Miles Bridges",
+                                "price": 2.21,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jimmy Butler III",
+                                "price": 2.13,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jimmy Butler III",
+                                "price": 1.68,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Gordon Hayward",
+                                "price": 1.98,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Gordon Hayward",
+                                "price": 1.79,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Caleb Martin",
+                                "price": 1.95,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Caleb Martin",
+                                "price": 1.81,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyle Lowry",
+                                "price": 1.81,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyle Lowry",
+                                "price": 1.95,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brandon Miller",
+                                "price": 2.34,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandon Miller",
+                                "price": 1.57,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Duncan Robinson",
+                                "price": 2.32,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Duncan Robinson",
+                                "price": 1.58,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terry Rozier",
+                                "price": 1.8,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terry Rozier",
+                                "price": 1.97,
+                                "point": 6.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-11T09:54:05Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Duncan Robinson",
+                                "price": 1.7,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Duncan Robinson",
+                                "price": 2.1,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Caleb Martin",
+                                "price": 1.97,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Caleb Martin",
+                                "price": 1.8,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyle Lowry",
+                                "price": 1.82,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyle Lowry",
+                                "price": 1.94,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mark Williams",
+                                "price": 1.93,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mark Williams",
+                                "price": 1.83,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brandon Miller",
+                                "price": 1.92,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandon Miller",
+                                "price": 1.84,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Miles Bridges",
+                                "price": 1.88,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Miles Bridges",
+                                "price": 1.88,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Gordon Hayward",
+                                "price": 1.92,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Gordon Hayward",
+                                "price": 1.84,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terry Rozier",
+                                "price": 1.99,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terry Rozier",
+                                "price": 1.78,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jimmy Butler III",
+                                "price": 1.94,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jimmy Butler III",
+                                "price": 1.82,
+                                "point": 25.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-11T09:54:05Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Duncan Robinson",
+                                "price": 1.79,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Duncan Robinson",
+                                "price": 1.98,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jimmy Butler III",
+                                "price": 1.95,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jimmy Butler III",
+                                "price": 1.81,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Gordon Hayward",
+                                "price": 1.81,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Gordon Hayward",
+                                "price": 1.95,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Caleb Martin",
+                                "price": 1.7,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Caleb Martin",
+                                "price": 2.1,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyle Lowry",
+                                "price": 1.68,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyle Lowry",
+                                "price": 2.13,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Mark Williams",
+                                "price": 2.0,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Mark Williams",
+                                "price": 1.77,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terry Rozier",
+                                "price": 2.18,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terry Rozier",
+                                "price": 1.65,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Miles Bridges",
+                                "price": 1.95,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Miles Bridges",
+                                "price": 1.81,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brandon Miller",
+                                "price": 2.17,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandon Miller",
+                                "price": 1.66,
+                                "point": 5.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2023-12-11T09:54:05Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-11T09:51:23Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Kyle Lowry",
+                                "price": 1.8,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyle Lowry",
+                                "price": 1.95,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terry Rozier",
+                                "price": 1.95,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terry Rozier",
+                                "price": 1.8,
+                                "point": 7.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-11T09:51:23Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Brandon Miller",
+                                "price": 1.91,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandon Miller",
+                                "price": 1.83,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Duncan Robinson",
+                                "price": 1.8,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Duncan Robinson",
+                                "price": 1.95,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Terry Rozier",
+                                "price": 2.1,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Terry Rozier",
+                                "price": 1.69,
+                                "point": 23.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-11T09:51:23Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Brandon Miller",
+                                "price": 2.25,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brandon Miller",
+                                "price": 1.61,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jimmy Butler",
+                                "price": 1.95,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jimmy Butler",
+                                "price": 1.8,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Miles Bridges",
+                                "price": 2.05,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Miles Bridges",
+                                "price": 1.74,
+                                "point": 7.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

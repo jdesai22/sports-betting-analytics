@@ -1,0 +1,403 @@
+{
+    "timestamp": "2023-12-02T09:55:39Z",
+    "previous_timestamp": "2023-12-02T09:50:39Z",
+    "next_timestamp": "2023-12-02T10:00:39Z",
+    "data": {
+        "id": "8041c154530b720bbe5300ae311ec4ca",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2023-12-03T03:00:00Z",
+        "home_team": "Sacramento Kings",
+        "away_team": "Denver Nuggets",
+        "bookmakers": [
+            {
+                "key": "pointsbetus",
+                "title": "PointsBet (US)",
+                "last_update": "2023-12-02T09:54:03Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-02T09:53:24Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.83,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.91,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.87,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.87,
+                                "point": 6.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-02T09:53:24Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.95,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.8,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.83,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.91,
+                                "point": 17.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-02T09:53:24Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 2.2,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.62,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.8,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.95,
+                                "point": 11.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2023-12-02T09:54:21Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-02T09:51:57Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.76,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 2.04,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.98,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.8,
+                                "point": 6.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-02T09:51:57Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.87,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.88,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.96,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.82,
+                                "point": 18.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-02T09:51:57Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 2.24,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.63,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.85,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.93,
+                                "point": 11.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2023-12-02T09:55:13Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-02T09:53:25Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.83,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.91,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.91,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.83,
+                                "point": 6.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-02T09:53:25Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.87,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.87,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.95,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.8,
+                                "point": 18.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-02T09:53:25Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 2.2,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.62,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.8,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.95,
+                                "point": 11.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2023-12-02T09:53:52Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-02T09:53:11Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.83,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.91,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.91,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.83,
+                                "point": 6.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-02T09:53:11Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 1.91,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.83,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.83,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.91,
+                                "point": 17.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-02T09:53:11Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "De'Aaron Fox",
+                                "price": 2.24,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Aaron Fox",
+                                "price": 1.62,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Domantas Sabonis",
+                                "price": 1.8,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Domantas Sabonis",
+                                "price": 1.95,
+                                "point": 11.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

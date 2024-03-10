@@ -1,0 +1,877 @@
+{
+    "timestamp": "2023-11-22T09:55:43Z",
+    "previous_timestamp": "2023-11-22T09:50:42Z",
+    "next_timestamp": "2023-11-22T10:00:44Z",
+    "data": {
+        "id": "6a38113d67fc412dfe0c068080117119",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2023-11-23T03:00:00Z",
+        "home_team": "Phoenix Suns",
+        "away_team": "Golden State Warriors",
+        "bookmakers": [
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2023-11-22T09:54:12Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-22T09:51:47Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Chris Paul",
+                                "price": 2.0,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Chris Paul",
+                                "price": 1.8,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kevin Durant",
+                                "price": 1.95,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Durant",
+                                "price": 1.8,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 1.61,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 2.25,
+                                "point": 3.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-22T09:51:47Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Andrew Wiggins",
+                                "price": 1.87,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Andrew Wiggins",
+                                "price": 1.91,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Chris Paul",
+                                "price": 2.0,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Chris Paul",
+                                "price": 1.8,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kevin Durant",
+                                "price": 1.91,
+                                "point": 31.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Durant",
+                                "price": 1.87,
+                                "point": 31.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Klay Thompson",
+                                "price": 1.83,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Klay Thompson",
+                                "price": 1.95,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 1.91,
+                                "point": 30.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 1.83,
+                                "point": 30.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-22T09:51:47Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Andrew Wiggins",
+                                "price": 1.71,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Andrew Wiggins",
+                                "price": 2.1,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Chris Paul",
+                                "price": 1.65,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Chris Paul",
+                                "price": 2.2,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kevin Durant",
+                                "price": 2.0,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Durant",
+                                "price": 1.8,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Klay Thompson",
+                                "price": 2.0,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Klay Thompson",
+                                "price": 1.8,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 1.87,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 1.91,
+                                "point": 4.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2023-11-22T09:54:41Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-22T09:55:20Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Devin Booker",
+                                "price": 2.02,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Booker",
+                                "price": 1.77,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Chris Paul",
+                                "price": 1.8,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Chris Paul",
+                                "price": 1.98,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kevin Durant",
+                                "price": 1.82,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Durant",
+                                "price": 1.96,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.62,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jusuf Nurkic",
+                                "price": 2.26,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 2.3,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 1.6,
+                                "point": 4.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-22T09:55:20Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.93,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.85,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Devin Booker",
+                                "price": 1.96,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Booker",
+                                "price": 1.82,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Chris Paul",
+                                "price": 1.98,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Chris Paul",
+                                "price": 1.8,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 1.96,
+                                "point": 30.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 1.82,
+                                "point": 30.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Klay Thompson",
+                                "price": 1.88,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Klay Thompson",
+                                "price": 1.88,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kevin Durant",
+                                "price": 1.94,
+                                "point": 31.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Durant",
+                                "price": 1.83,
+                                "point": 31.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Andrew Wiggins",
+                                "price": 1.88,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Andrew Wiggins",
+                                "price": 1.88,
+                                "point": 12.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-22T09:43:50Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Kevin Durant",
+                                "price": 2.02,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Durant",
+                                "price": 1.77,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Chris Paul",
+                                "price": 1.68,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Chris Paul",
+                                "price": 2.16,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Klay Thompson",
+                                "price": 2.08,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Klay Thompson",
+                                "price": 1.72,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Andrew Wiggins",
+                                "price": 1.77,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Andrew Wiggins",
+                                "price": 2.02,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 1.9,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 1.87,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Devin Booker",
+                                "price": 1.9,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Booker",
+                                "price": 1.87,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.87,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.9,
+                                "point": 9.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetus",
+                "title": "PointsBet (US)",
+                "last_update": "2023-11-22T09:53:52Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-22T09:53:34Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Chris Paul",
+                                "price": 1.95,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Chris Paul",
+                                "price": 1.8,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kevin Durant",
+                                "price": 1.95,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Durant",
+                                "price": 1.8,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 1.67,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 2.15,
+                                "point": 3.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-22T09:53:34Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Andrew Wiggins",
+                                "price": 1.87,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Andrew Wiggins",
+                                "price": 1.87,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Chris Paul",
+                                "price": 2.0,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Chris Paul",
+                                "price": 1.77,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kevin Durant",
+                                "price": 1.87,
+                                "point": 31.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Durant",
+                                "price": 1.87,
+                                "point": 31.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Klay Thompson",
+                                "price": 1.83,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Klay Thompson",
+                                "price": 1.91,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 2.0,
+                                "point": 30.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 1.77,
+                                "point": 30.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-22T09:53:34Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Andrew Wiggins",
+                                "price": 1.69,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Andrew Wiggins",
+                                "price": 2.1,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Chris Paul",
+                                "price": 1.67,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Chris Paul",
+                                "price": 2.15,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kevin Durant",
+                                "price": 1.95,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Durant",
+                                "price": 1.8,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Klay Thompson",
+                                "price": 2.0,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Klay Thompson",
+                                "price": 1.77,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 1.83,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 1.91,
+                                "point": 4.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2023-11-22T09:54:59Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-22T09:52:23Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Chris Paul",
+                                "price": 2.0,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Chris Paul",
+                                "price": 1.77,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Devin Booker",
+                                "price": 2.05,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Booker",
+                                "price": 1.74,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.59,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jusuf Nurkic",
+                                "price": 2.3,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kevin Durant",
+                                "price": 1.95,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Durant",
+                                "price": 1.8,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 2.25,
+                                "point": 3.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-22T09:52:23Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Andrew Wiggins",
+                                "price": 1.83,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Andrew Wiggins",
+                                "price": 1.91,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Chris Paul",
+                                "price": 2.0,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Chris Paul",
+                                "price": 1.77,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Devin Booker",
+                                "price": 2.05,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Booker",
+                                "price": 1.74,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.91,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.83,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kevin Durant",
+                                "price": 1.91,
+                                "point": 31.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Durant",
+                                "price": 1.83,
+                                "point": 31.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Klay Thompson",
+                                "price": 1.8,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Klay Thompson",
+                                "price": 1.95,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 1.91,
+                                "point": 30.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 1.83,
+                                "point": 30.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-22T09:52:23Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Andrew Wiggins",
+                                "price": 1.69,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Andrew Wiggins",
+                                "price": 2.1,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Chris Paul",
+                                "price": 1.62,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Chris Paul",
+                                "price": 2.2,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Devin Booker",
+                                "price": 1.91,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Devin Booker",
+                                "price": 1.83,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.83,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jusuf Nurkic",
+                                "price": 1.91,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kevin Durant",
+                                "price": 2.0,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kevin Durant",
+                                "price": 1.77,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Klay Thompson",
+                                "price": 2.0,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Klay Thompson",
+                                "price": 1.77,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 1.83,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 1.91,
+                                "point": 4.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

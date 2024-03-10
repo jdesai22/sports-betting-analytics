@@ -1,0 +1,1629 @@
+{
+    "timestamp": "2024-02-04T09:55:38Z",
+    "previous_timestamp": "2024-02-04T09:50:38Z",
+    "next_timestamp": "2024-02-04T10:00:37Z",
+    "data": {
+        "id": "964828ad63abbe09a1ce39b33e183ac0",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-02-05T01:10:00Z",
+        "home_team": "Utah Jazz",
+        "away_team": "Milwaukee Bucks",
+        "bookmakers": [
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2024-02-04T09:55:04Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-02-04T09:55:24Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Collin Sexton",
+                                "price": 1.74,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Collin Sexton",
+                                "price": 2.05,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Damian Lillard",
+                                "price": 2.14,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Damian Lillard",
+                                "price": 1.69,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kris Dunn",
+                                "price": 1.6,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kris Dunn",
+                                "price": 2.3,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Lauri Markkanen",
+                                "price": 2.4,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Lauri Markkanen",
+                                "price": 1.56,
+                                "point": 2.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-02-04T09:55:24Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Brook Lopez",
+                                "price": 1.83,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brook Lopez",
+                                "price": 1.91,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Collin Sexton",
+                                "price": 1.77,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Collin Sexton",
+                                "price": 2.0,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Damian Lillard",
+                                "price": 1.77,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Damian Lillard",
+                                "price": 2.0,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "John Collins",
+                                "price": 1.91,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "John Collins",
+                                "price": 1.83,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Lauri Markkanen",
+                                "price": 1.87,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Lauri Markkanen",
+                                "price": 1.87,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malik Beasley",
+                                "price": 1.87,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malik Beasley",
+                                "price": 1.87,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Simone Fontecchio",
+                                "price": 2.0,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Simone Fontecchio",
+                                "price": 1.77,
+                                "point": 8.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-02-04T09:55:24Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Brook Lopez",
+                                "price": 2.24,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brook Lopez",
+                                "price": 1.62,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Collin Sexton",
+                                "price": 1.87,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Collin Sexton",
+                                "price": 1.87,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Damian Lillard",
+                                "price": 1.74,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Damian Lillard",
+                                "price": 2.05,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "John Collins",
+                                "price": 1.83,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "John Collins",
+                                "price": 1.91,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kris Dunn",
+                                "price": 2.0,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kris Dunn",
+                                "price": 1.77,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Lauri Markkanen",
+                                "price": 1.77,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Lauri Markkanen",
+                                "price": 2.0,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malik Beasley",
+                                "price": 2.2,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malik Beasley",
+                                "price": 1.67,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Simone Fontecchio",
+                                "price": 1.71,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Simone Fontecchio",
+                                "price": 2.1,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2024-02-04T09:53:11Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-02-04T09:55:28Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Keyonte George",
+                                "price": 1.62,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keyonte George",
+                                "price": 2.26,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Collin Sexton",
+                                "price": 2.14,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Collin Sexton",
+                                "price": 1.68,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kris Dunn",
+                                "price": 2.1,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kris Dunn",
+                                "price": 1.71,
+                                "point": 4.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-02-04T09:55:28Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Collin Sexton",
+                                "price": 1.88,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Collin Sexton",
+                                "price": 1.88,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Lauri Markkanen",
+                                "price": 1.94,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Lauri Markkanen",
+                                "price": 1.83,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "John Collins",
+                                "price": 1.96,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "John Collins",
+                                "price": 1.82,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keyonte George",
+                                "price": 1.77,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keyonte George",
+                                "price": 2.02,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Walker Kessler",
+                                "price": 1.83,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Walker Kessler",
+                                "price": 1.94,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Simone Fontecchio",
+                                "price": 1.93,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Simone Fontecchio",
+                                "price": 1.85,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kris Dunn",
+                                "price": 1.93,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kris Dunn",
+                                "price": 1.85,
+                                "point": 4.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-02-04T09:55:28Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Collin Sexton",
+                                "price": 1.77,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Collin Sexton",
+                                "price": 2.02,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Lauri Markkanen",
+                                "price": 1.72,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Lauri Markkanen",
+                                "price": 2.08,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Simone Fontecchio",
+                                "price": 1.65,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Simone Fontecchio",
+                                "price": 2.2,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Walker Kessler",
+                                "price": 1.87,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Walker Kessler",
+                                "price": 1.9,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kris Dunn",
+                                "price": 1.9,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kris Dunn",
+                                "price": 1.87,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "John Collins",
+                                "price": 1.78,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "John Collins",
+                                "price": 2.0,
+                                "point": 7.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetus",
+                "title": "PointsBet (US)",
+                "last_update": "2024-02-04T09:55:15Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-02-04T09:55:56Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Collin Sexton",
+                                "price": 1.71,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Collin Sexton",
+                                "price": 2.05,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Damian Lillard",
+                                "price": 2.05,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Damian Lillard",
+                                "price": 1.71,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.8,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.95,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Lauri Markkanen",
+                                "price": 2.35,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Lauri Markkanen",
+                                "price": 1.57,
+                                "point": 2.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-02-04T09:55:56Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Brook Lopez",
+                                "price": 1.83,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brook Lopez",
+                                "price": 1.91,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Collin Sexton",
+                                "price": 1.8,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Collin Sexton",
+                                "price": 1.95,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Damian Lillard",
+                                "price": 1.91,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Damian Lillard",
+                                "price": 1.83,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.87,
+                                "point": 33.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.87,
+                                "point": 33.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "John Collins",
+                                "price": 1.87,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "John Collins",
+                                "price": 1.87,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Lauri Markkanen",
+                                "price": 1.87,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Lauri Markkanen",
+                                "price": 1.87,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malik Beasley",
+                                "price": 1.83,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malik Beasley",
+                                "price": 1.91,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Simone Fontecchio",
+                                "price": 1.95,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Simone Fontecchio",
+                                "price": 1.8,
+                                "point": 8.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-02-04T09:55:56Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Brook Lopez",
+                                "price": 2.2,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brook Lopez",
+                                "price": 1.62,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Collin Sexton",
+                                "price": 1.87,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Collin Sexton",
+                                "price": 1.87,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Damian Lillard",
+                                "price": 1.71,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Damian Lillard",
+                                "price": 2.05,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.87,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Giannis Antetokounmpo",
+                                "price": 1.87,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "John Collins",
+                                "price": 1.83,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "John Collins",
+                                "price": 1.91,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Lauri Markkanen",
+                                "price": 1.77,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Lauri Markkanen",
+                                "price": 2.0,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malik Beasley",
+                                "price": 2.2,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malik Beasley",
+                                "price": 1.62,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Simone Fontecchio",
+                                "price": 1.69,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Simone Fontecchio",
+                                "price": 2.1,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "Caesars",
+                "last_update": "2024-02-04T09:55:12Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-02-04T09:54:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Malik Beasley",
+                                "price": 2.26,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malik Beasley",
+                                "price": 1.57,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brook Lopez",
+                                "price": 1.56,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brook Lopez",
+                                "price": 2.29,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kris Dunn",
+                                "price": 1.59,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kris Dunn",
+                                "price": 2.23,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Lauri Markkanen",
+                                "price": 2.33,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Lauri Markkanen",
+                                "price": 1.54,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Simone Fontecchio",
+                                "price": 1.85,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Simone Fontecchio",
+                                "price": 1.85,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Collin Sexton",
+                                "price": 1.72,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Collin Sexton",
+                                "price": 2.02,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Damian Lillard",
+                                "price": 2.1,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Damian Lillard",
+                                "price": 1.66,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "John Collins",
+                                "price": 2.29,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "John Collins",
+                                "price": 1.56,
+                                "point": 1.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-02-04T09:54:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Brook Lopez",
+                                "price": 1.85,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brook Lopez",
+                                "price": 1.85,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Simone Fontecchio",
+                                "price": 1.92,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Simone Fontecchio",
+                                "price": 1.8,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Collin Sexton",
+                                "price": 1.7,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Collin Sexton",
+                                "price": 2.04,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malik Beasley",
+                                "price": 1.83,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malik Beasley",
+                                "price": 1.88,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Damian Lillard",
+                                "price": 1.93,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Damian Lillard",
+                                "price": 1.79,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "John Collins",
+                                "price": 1.84,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "John Collins",
+                                "price": 1.87,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kris Dunn",
+                                "price": 1.9,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kris Dunn",
+                                "price": 1.81,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Lauri Markkanen",
+                                "price": 1.88,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Lauri Markkanen",
+                                "price": 1.83,
+                                "point": 23.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-02-04T09:54:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "John Collins",
+                                "price": 1.81,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "John Collins",
+                                "price": 1.9,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brook Lopez",
+                                "price": 2.18,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brook Lopez",
+                                "price": 1.61,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kris Dunn",
+                                "price": 2.0,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kris Dunn",
+                                "price": 1.73,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Simone Fontecchio",
+                                "price": 1.68,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Simone Fontecchio",
+                                "price": 2.08,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Damian Lillard",
+                                "price": 1.69,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Damian Lillard",
+                                "price": 2.06,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malik Beasley",
+                                "price": 2.2,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malik Beasley",
+                                "price": 1.6,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Lauri Markkanen",
+                                "price": 1.73,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Lauri Markkanen",
+                                "price": 2.0,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Collin Sexton",
+                                "price": 1.83,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Collin Sexton",
+                                "price": 1.88,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": "2024-02-04T09:54:20Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-02-04T09:54:31Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Lauri Markkanen",
+                                "price": 2.4,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Lauri Markkanen",
+                                "price": 1.53,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Collin Sexton",
+                                "price": 1.69,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Collin Sexton",
+                                "price": 2.1,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brook Lopez",
+                                "price": 1.53,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brook Lopez",
+                                "price": 2.45,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malik Beasley",
+                                "price": 2.3,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malik Beasley",
+                                "price": 1.57,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "John Collins",
+                                "price": 2.35,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "John Collins",
+                                "price": 1.54,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Simone Fontecchio",
+                                "price": 1.87,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Simone Fontecchio",
+                                "price": 1.83,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kris Dunn",
+                                "price": 1.61,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kris Dunn",
+                                "price": 2.25,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Damian Lillard",
+                                "price": 2.1,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Damian Lillard",
+                                "price": 1.67,
+                                "point": 8.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-02-04T09:54:31Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Lauri Markkanen",
+                                "price": 1.87,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Lauri Markkanen",
+                                "price": 1.87,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kris Dunn",
+                                "price": 1.95,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kris Dunn",
+                                "price": 1.77,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Collin Sexton",
+                                "price": 1.87,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Collin Sexton",
+                                "price": 1.87,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brook Lopez",
+                                "price": 1.83,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brook Lopez",
+                                "price": 1.91,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malik Beasley",
+                                "price": 1.83,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malik Beasley",
+                                "price": 1.91,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "John Collins",
+                                "price": 1.87,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "John Collins",
+                                "price": 1.87,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Simone Fontecchio",
+                                "price": 2.0,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Simone Fontecchio",
+                                "price": 1.77,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Damian Lillard",
+                                "price": 1.91,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Damian Lillard",
+                                "price": 1.83,
+                                "point": 27.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-02-04T09:54:31Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Lauri Markkanen",
+                                "price": 1.71,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Lauri Markkanen",
+                                "price": 2.05,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Damian Lillard",
+                                "price": 1.74,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Damian Lillard",
+                                "price": 2.0,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kris Dunn",
+                                "price": 2.0,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kris Dunn",
+                                "price": 1.74,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Collin Sexton",
+                                "price": 1.87,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Collin Sexton",
+                                "price": 1.87,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malik Beasley",
+                                "price": 2.2,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malik Beasley",
+                                "price": 1.65,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "John Collins",
+                                "price": 1.83,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "John Collins",
+                                "price": 1.91,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Simone Fontecchio",
+                                "price": 1.67,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Simone Fontecchio",
+                                "price": 2.1,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Brook Lopez",
+                                "price": 2.2,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brook Lopez",
+                                "price": 1.62,
+                                "point": 5.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2024-02-04T09:54:02Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2024-02-04T09:54:49Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Collin Sexton",
+                                "price": 1.74,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Collin Sexton",
+                                "price": 2.05,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Damian Lillard",
+                                "price": 2.1,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Damian Lillard",
+                                "price": 1.69,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kris Dunn",
+                                "price": 1.59,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kris Dunn",
+                                "price": 2.3,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Lauri Markkanen",
+                                "price": 2.35,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Lauri Markkanen",
+                                "price": 1.56,
+                                "point": 2.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2024-02-04T09:54:49Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Collin Sexton",
+                                "price": 1.87,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Collin Sexton",
+                                "price": 1.87,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "John Collins",
+                                "price": 2.05,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "John Collins",
+                                "price": 1.74,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Keyonte George",
+                                "price": 1.74,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Keyonte George",
+                                "price": 2.05,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kris Dunn",
+                                "price": 1.91,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kris Dunn",
+                                "price": 1.83,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Lauri Markkanen",
+                                "price": 1.91,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Lauri Markkanen",
+                                "price": 1.83,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Simone Fontecchio",
+                                "price": 1.91,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Simone Fontecchio",
+                                "price": 1.83,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Walker Kessler",
+                                "price": 1.83,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Walker Kessler",
+                                "price": 1.91,
+                                "point": 6.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2024-02-04T09:54:49Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Brook Robert Lopez",
+                                "price": 2.2,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Brook Robert Lopez",
+                                "price": 1.62,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Collin Sexton",
+                                "price": 1.87,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Collin Sexton",
+                                "price": 1.87,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Damian Lillard",
+                                "price": 1.74,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Damian Lillard",
+                                "price": 2.05,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "John Collins",
+                                "price": 1.83,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "John Collins",
+                                "price": 1.91,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kris Dunn",
+                                "price": 2.0,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kris Dunn",
+                                "price": 1.77,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Lauri Markkanen",
+                                "price": 1.77,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Lauri Markkanen",
+                                "price": 2.0,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Malik Beasley",
+                                "price": 2.15,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Malik Beasley",
+                                "price": 1.67,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Simone Fontecchio",
+                                "price": 1.69,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Simone Fontecchio",
+                                "price": 2.1,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

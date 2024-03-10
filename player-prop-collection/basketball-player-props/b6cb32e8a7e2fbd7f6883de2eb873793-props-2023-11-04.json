@@ -1,0 +1,781 @@
+{
+    "timestamp": "2023-11-04T09:55:43Z",
+    "previous_timestamp": "2023-11-04T09:50:42Z",
+    "next_timestamp": "2023-11-04T10:00:43Z",
+    "data": {
+        "id": "b6cb32e8a7e2fbd7f6883de2eb873793",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2023-11-04T23:00:00Z",
+        "home_team": "New Orleans Pelicans",
+        "away_team": "Atlanta Hawks",
+        "bookmakers": [
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2023-11-04T09:54:39Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-04T09:54:34Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Trae Young",
+                                "price": 1.87,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Trae Young",
+                                "price": 1.9,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dejounte Murray",
+                                "price": 1.83,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dejounte Murray",
+                                "price": 1.94,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Zion Williamson",
+                                "price": 1.88,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Zion Williamson",
+                                "price": 1.88,
+                                "point": 4.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-04T09:54:34Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "De'Andre Hunter",
+                                "price": 1.8,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Andre Hunter",
+                                "price": 1.98,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dejounte Murray",
+                                "price": 1.96,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dejounte Murray",
+                                "price": 1.82,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Trae Young",
+                                "price": 1.9,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Trae Young",
+                                "price": 1.87,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jonas Valanciunas",
+                                "price": 1.87,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jonas Valanciunas",
+                                "price": 1.9,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Zion Williamson",
+                                "price": 1.93,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Zion Williamson",
+                                "price": 1.85,
+                                "point": 25.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-04T09:54:34Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "De'Andre Hunter",
+                                "price": 1.7,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Andre Hunter",
+                                "price": 2.12,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Zion Williamson",
+                                "price": 1.8,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Zion Williamson",
+                                "price": 1.98,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jonas Valanciunas",
+                                "price": 2.1,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jonas Valanciunas",
+                                "price": 1.71,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dejounte Murray",
+                                "price": 2.1,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dejounte Murray",
+                                "price": 1.71,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Trae Young",
+                                "price": 1.7,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Trae Young",
+                                "price": 2.12,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2023-11-04T09:54:38Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-04T09:54:25Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Dejounte Murray",
+                                "price": 2.0,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dejounte Murray",
+                                "price": 1.77,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Trae Young",
+                                "price": 1.91,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Trae Young",
+                                "price": 1.87,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Zion Williamson",
+                                "price": 1.83,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Zion Williamson",
+                                "price": 1.95,
+                                "point": 4.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-04T09:54:25Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "De'Andre Hunter",
+                                "price": 1.91,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Andre Hunter",
+                                "price": 1.87,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dejounte Murray",
+                                "price": 1.83,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dejounte Murray",
+                                "price": 1.95,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jonas Valanciunas",
+                                "price": 1.87,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jonas Valanciunas",
+                                "price": 1.91,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Trae Young",
+                                "price": 1.95,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Trae Young",
+                                "price": 1.83,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Zion Williamson",
+                                "price": 1.91,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Zion Williamson",
+                                "price": 1.87,
+                                "point": 25.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-04T09:54:25Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "De'Andre Hunter",
+                                "price": 2.25,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Andre Hunter",
+                                "price": 1.62,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dejounte Murray",
+                                "price": 2.2,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dejounte Murray",
+                                "price": 1.67,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jonas Valanciunas",
+                                "price": 1.95,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jonas Valanciunas",
+                                "price": 1.83,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Trae Young",
+                                "price": 1.77,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Trae Young",
+                                "price": 2.0,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Zion Williamson",
+                                "price": 1.77,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Zion Williamson",
+                                "price": 2.0,
+                                "point": 6.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetus",
+                "title": "PointsBet (US)",
+                "last_update": "2023-11-04T09:54:37Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-04T09:53:27Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Dejounte Murray",
+                                "price": 1.95,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dejounte Murray",
+                                "price": 1.8,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Trae Young",
+                                "price": 1.91,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Trae Young",
+                                "price": 1.83,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Zion Williamson",
+                                "price": 1.8,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Zion Williamson",
+                                "price": 1.95,
+                                "point": 4.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-04T09:53:27Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "De'Andre Hunter",
+                                "price": 1.87,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Andre Hunter",
+                                "price": 1.87,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dejounte Murray",
+                                "price": 1.87,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dejounte Murray",
+                                "price": 1.87,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jonas Valanciunas",
+                                "price": 1.83,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jonas Valanciunas",
+                                "price": 1.91,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Trae Young",
+                                "price": 1.91,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Trae Young",
+                                "price": 1.83,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Zion Williamson",
+                                "price": 1.91,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Zion Williamson",
+                                "price": 1.83,
+                                "point": 25.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-04T09:53:27Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "De'Andre Hunter",
+                                "price": 1.56,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Andre Hunter",
+                                "price": 2.4,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dejounte Murray",
+                                "price": 2.2,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dejounte Murray",
+                                "price": 1.62,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jonas Valanciunas",
+                                "price": 1.91,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jonas Valanciunas",
+                                "price": 1.83,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Trae Young",
+                                "price": 1.83,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Trae Young",
+                                "price": 1.91,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Zion Williamson",
+                                "price": 1.8,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Zion Williamson",
+                                "price": 1.95,
+                                "point": 6.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2023-11-04T09:54:37Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-04T09:56:47Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Dejounte Murray",
+                                "price": 1.95,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dejounte Murray",
+                                "price": 1.8,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dejounte Murray",
+                                "price": 2.0,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dejounte Murray",
+                                "price": 1.77,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jonas Valanciunas",
+                                "price": 1.59,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jonas Valanciunas",
+                                "price": 2.3,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Trae Young",
+                                "price": 1.91,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Trae Young",
+                                "price": 1.83,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Zion Williamson",
+                                "price": 1.8,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Zion Williamson",
+                                "price": 1.95,
+                                "point": 4.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-04T09:56:47Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "De'Andre Hunter",
+                                "price": 1.91,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Andre Hunter",
+                                "price": 1.83,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dejounte Murray",
+                                "price": 1.87,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dejounte Murray",
+                                "price": 1.87,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dejounte Murray",
+                                "price": 1.8,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dejounte Murray",
+                                "price": 1.95,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jonas Valanciunas",
+                                "price": 1.83,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jonas Valanciunas",
+                                "price": 1.91,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Trae Young",
+                                "price": 1.95,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Trae Young",
+                                "price": 1.8,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Zion Williamson",
+                                "price": 1.94,
+                                "point": 24.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-04T09:56:47Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "De'Andre Hunter",
+                                "price": 2.2,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "De'Andre Hunter",
+                                "price": 1.62,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dejounte Murray",
+                                "price": 2.15,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dejounte Murray",
+                                "price": 1.67,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dejounte Murray",
+                                "price": 2.15,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dejounte Murray",
+                                "price": 1.67,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jonas Valanciunas",
+                                "price": 1.95,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jonas Valanciunas",
+                                "price": 1.8,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Trae Young",
+                                "price": 1.77,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Trae Young",
+                                "price": 2.0,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Zion Williamson",
+                                "price": 1.77,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Zion Williamson",
+                                "price": 2.0,
+                                "point": 6.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,342 @@
+{
+    "timestamp": "2023-12-08T09:55:39Z",
+    "previous_timestamp": "2023-12-08T09:50:39Z",
+    "next_timestamp": "2023-12-08T10:00:39Z",
+    "data": {
+        "id": "bd8d3c74fcb94da369b807b305d19d86",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2023-12-09T03:00:00Z",
+        "home_team": "Portland Trail Blazers",
+        "away_team": "Dallas Mavericks",
+        "bookmakers": [
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2023-12-08T09:54:33Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-08T09:52:03Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Kyrie Irving",
+                                "price": 1.72,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyrie Irving",
+                                "price": 2.08,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luka Doncic",
+                                "price": 1.8,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Doncic",
+                                "price": 1.98,
+                                "point": 8.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-08T09:52:03Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Luka Doncic",
+                                "price": 1.83,
+                                "point": 32.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Doncic",
+                                "price": 1.93,
+                                "point": 32.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyrie Irving",
+                                "price": 1.87,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyrie Irving",
+                                "price": 1.9,
+                                "point": 24.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-08T09:46:16Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Luka Doncic",
+                                "price": 2.02,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Doncic",
+                                "price": 1.77,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyrie Irving",
+                                "price": 1.83,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyrie Irving",
+                                "price": 1.94,
+                                "point": 4.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2023-12-08T09:53:43Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-08T09:51:15Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Kyrie Irving",
+                                "price": 1.83,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyrie Irving",
+                                "price": 1.91,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luka Doncic",
+                                "price": 1.87,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Doncic",
+                                "price": 1.87,
+                                "point": 8.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-08T09:51:15Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Dereck Lively II",
+                                "price": 1.95,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dereck Lively II",
+                                "price": 1.8,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyrie Irving",
+                                "price": 1.95,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyrie Irving",
+                                "price": 1.8,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luka Doncic",
+                                "price": 1.83,
+                                "point": 31.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Doncic",
+                                "price": 1.91,
+                                "point": 31.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-08T09:51:15Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Dereck Lively II",
+                                "price": 1.74,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dereck Lively II",
+                                "price": 2.05,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyrie Irving",
+                                "price": 1.74,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyrie Irving",
+                                "price": 2.05,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luka Doncic",
+                                "price": 2.1,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Doncic",
+                                "price": 1.71,
+                                "point": 9.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetus",
+                "title": "PointsBet (US)",
+                "last_update": "2023-12-08T09:54:52Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-08T09:51:58Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Kyrie Irving",
+                                "price": 1.83,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyrie Irving",
+                                "price": 1.91,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luka Doncic",
+                                "price": 1.87,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Doncic",
+                                "price": 1.87,
+                                "point": 8.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-08T09:51:58Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Dereck Lively II",
+                                "price": 1.91,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dereck Lively II",
+                                "price": 1.83,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyrie Irving",
+                                "price": 1.95,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyrie Irving",
+                                "price": 1.8,
+                                "point": 25.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-08T09:51:58Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Dereck Lively II",
+                                "price": 2.05,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dereck Lively II",
+                                "price": 1.71,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kyrie Irving",
+                                "price": 1.71,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kyrie Irving",
+                                "price": 2.05,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luka Doncic",
+                                "price": 2.05,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luka Doncic",
+                                "price": 1.71,
+                                "point": 9.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

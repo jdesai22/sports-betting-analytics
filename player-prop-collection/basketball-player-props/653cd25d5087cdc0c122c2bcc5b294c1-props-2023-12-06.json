@@ -1,0 +1,909 @@
+{
+    "timestamp": "2023-12-06T09:55:39Z",
+    "previous_timestamp": "2023-12-06T09:50:39Z",
+    "next_timestamp": "2023-12-06T10:00:39Z",
+    "data": {
+        "id": "653cd25d5087cdc0c122c2bcc5b294c1",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2023-12-07T03:10:00Z",
+        "home_team": "Golden State Warriors",
+        "away_team": "Portland Trail Blazers",
+        "bookmakers": [
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2023-12-06T09:54:09Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-06T09:55:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Draymond Green",
+                                "price": 1.71,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Draymond Green",
+                                "price": 2.1,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 1.67,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 2.2,
+                                "point": 4.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-06T09:55:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Andrew Wiggins",
+                                "price": 1.83,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Andrew Wiggins",
+                                "price": 1.91,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Draymond Green",
+                                "price": 1.91,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Draymond Green",
+                                "price": 1.83,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Klay Thompson",
+                                "price": 1.77,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Klay Thompson",
+                                "price": 2.0,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 1.87,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 1.87,
+                                "point": 27.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-06T09:55:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Andrew Wiggins",
+                                "price": 1.67,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Andrew Wiggins",
+                                "price": 2.2,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Draymond Green",
+                                "price": 2.05,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Draymond Green",
+                                "price": 1.74,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Klay Thompson",
+                                "price": 1.62,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Klay Thompson",
+                                "price": 2.24,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 1.62,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 2.24,
+                                "point": 4.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2023-12-06T09:53:38Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-06T09:49:37Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 1.64,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 2.22,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Draymond Green",
+                                "price": 1.65,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Draymond Green",
+                                "price": 2.2,
+                                "point": 5.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-06T09:55:19Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Klay Thompson",
+                                "price": 1.9,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Klay Thompson",
+                                "price": 1.87,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Andrew Wiggins",
+                                "price": 1.83,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Andrew Wiggins",
+                                "price": 1.94,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Draymond Green",
+                                "price": 1.94,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Draymond Green",
+                                "price": 1.83,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 1.88,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 1.88,
+                                "point": 27.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-06T09:55:19Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Klay Thompson",
+                                "price": 1.68,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Klay Thompson",
+                                "price": 2.14,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Andrew Wiggins",
+                                "price": 1.77,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Andrew Wiggins",
+                                "price": 2.02,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Draymond Green",
+                                "price": 1.68,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Draymond Green",
+                                "price": 2.16,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 1.74,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 2.06,
+                                "point": 4.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2023-12-06T09:53:48Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-06T09:51:08Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Draymond Green",
+                                "price": 1.74,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Draymond Green",
+                                "price": 2.05,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 1.62,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 2.2,
+                                "point": 4.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-06T09:51:08Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Andrew Wiggins",
+                                "price": 1.8,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Andrew Wiggins",
+                                "price": 1.95,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Draymond Green",
+                                "price": 1.87,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Draymond Green",
+                                "price": 1.87,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Klay Thompson",
+                                "price": 1.77,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Klay Thompson",
+                                "price": 2.0,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 1.87,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 1.87,
+                                "point": 27.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-06T09:51:08Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Andrew Wiggins",
+                                "price": 1.74,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Andrew Wiggins",
+                                "price": 2.05,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Draymond Green",
+                                "price": 2.05,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Draymond Green",
+                                "price": 1.74,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Klay Thompson",
+                                "price": 1.67,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Klay Thompson",
+                                "price": 2.15,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 1.67,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 2.15,
+                                "point": 4.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "Caesars",
+                "last_update": "2023-12-06T09:52:38Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-06T09:55:55Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 1.65,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 2.12,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Klay Thompson",
+                                "price": 1.6,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Klay Thompson",
+                                "price": 2.2,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Andrew Wiggins",
+                                "price": 2.26,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Andrew Wiggins",
+                                "price": 1.57,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Draymond Green",
+                                "price": 1.69,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Draymond Green",
+                                "price": 2.06,
+                                "point": 5.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-06T09:55:55Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Draymond Green",
+                                "price": 1.88,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Draymond Green",
+                                "price": 1.83,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Klay Thompson",
+                                "price": 1.76,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Klay Thompson",
+                                "price": 1.96,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 1.88,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 1.83,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Andrew Wiggins",
+                                "price": 1.76,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Andrew Wiggins",
+                                "price": 1.96,
+                                "point": 13.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-06T09:55:55Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Klay Thompson",
+                                "price": 1.61,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Klay Thompson",
+                                "price": 2.18,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Andrew Wiggins",
+                                "price": 1.64,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Andrew Wiggins",
+                                "price": 2.14,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Draymond Green",
+                                "price": 2.0,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Draymond Green",
+                                "price": 1.73,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 1.62,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 2.16,
+                                "point": 4.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetus",
+                "title": "PointsBet (US)",
+                "last_update": "2023-12-06T09:54:51Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-06T09:50:59Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Draymond Green",
+                                "price": 1.69,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Draymond Green",
+                                "price": 2.1,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 1.67,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 2.15,
+                                "point": 4.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-06T09:50:59Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Andrew Wiggins",
+                                "price": 1.83,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Andrew Wiggins",
+                                "price": 1.91,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Draymond Green",
+                                "price": 1.87,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Draymond Green",
+                                "price": 1.87,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Klay Thompson",
+                                "price": 1.8,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Klay Thompson",
+                                "price": 1.95,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 1.87,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 1.87,
+                                "point": 27.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-06T09:50:59Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Andrew Wiggins",
+                                "price": 1.62,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Andrew Wiggins",
+                                "price": 2.2,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Draymond Green",
+                                "price": 2.0,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Draymond Green",
+                                "price": 1.77,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Klay Thompson",
+                                "price": 1.62,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Klay Thompson",
+                                "price": 2.2,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 1.62,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 2.2,
+                                "point": 4.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betonlineag",
+                "title": "BetOnline.ag",
+                "last_update": "2023-12-06T09:54:51Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-12-06T09:56:01Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 1.65,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 2.19,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Draymond Green",
+                                "price": 1.71,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Draymond Green",
+                                "price": 2.08,
+                                "point": 5.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-12-06T09:56:01Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 1.89,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 1.87,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Draymond Green",
+                                "price": 1.9,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Draymond Green",
+                                "price": 1.85,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Andrew Wiggins",
+                                "price": 1.83,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Andrew Wiggins",
+                                "price": 1.93,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Klay Thompson",
+                                "price": 1.8,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Klay Thompson",
+                                "price": 1.97,
+                                "point": 16.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-12-06T09:56:01Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Stephen Curry",
+                                "price": 1.66,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Stephen Curry",
+                                "price": 2.16,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Draymond Green",
+                                "price": 2.03,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Draymond Green",
+                                "price": 1.75,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Andrew Wiggins",
+                                "price": 1.7,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Andrew Wiggins",
+                                "price": 2.1,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Klay Thompson",
+                                "price": 1.65,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Klay Thompson",
+                                "price": 2.18,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

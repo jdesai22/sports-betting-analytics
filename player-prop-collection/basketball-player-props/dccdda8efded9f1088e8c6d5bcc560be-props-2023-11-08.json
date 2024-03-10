@@ -1,0 +1,2524 @@
+{
+    "timestamp": "2023-11-08T09:55:41Z",
+    "previous_timestamp": "2023-11-08T09:50:41Z",
+    "next_timestamp": "2023-11-08T10:00:42Z",
+    "data": {
+        "id": "dccdda8efded9f1088e8c6d5bcc560be",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2023-11-09T01:00:00Z",
+        "home_team": "Oklahoma City Thunder",
+        "away_team": "Cleveland Cavaliers",
+        "bookmakers": [
+            {
+                "key": "barstool",
+                "title": "Barstool Sportsbook",
+                "last_update": "2023-11-08T09:54:36Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-08T09:55:32Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Darius Garland",
+                                "price": 1.8,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Darius Garland",
+                                "price": 1.95,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Shai Gilgeous-Alexander",
+                                "price": 2.1,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Shai Gilgeous-Alexander",
+                                "price": 1.69,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Donovan Mitchell",
+                                "price": 2.15,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Donovan Mitchell",
+                                "price": 1.67,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Josh Giddey",
+                                "price": 2.65,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Josh Giddey",
+                                "price": 1.44,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Williams",
+                                "price": 1.87,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Williams",
+                                "price": 1.87,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Evan Mobley",
+                                "price": 1.67,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Evan Mobley",
+                                "price": 2.15,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Max Strus",
+                                "price": 2.0,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Max Strus",
+                                "price": 1.77,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Chet Holmgren",
+                                "price": 2.25,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Chet Holmgren",
+                                "price": 1.57,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jarrett Allen",
+                                "price": 1.8,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jarrett Allen",
+                                "price": 1.95,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luguentz Dort",
+                                "price": 2.45,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luguentz Dort",
+                                "price": 1.5,
+                                "point": 1.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-08T09:55:32Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Donovan Mitchell",
+                                "price": 1.91,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Donovan Mitchell",
+                                "price": 1.83,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Shai Gilgeous-Alexander",
+                                "price": 1.83,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Shai Gilgeous-Alexander",
+                                "price": 1.91,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Darius Garland",
+                                "price": 1.95,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Darius Garland",
+                                "price": 1.8,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Williams",
+                                "price": 1.8,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Williams",
+                                "price": 1.95,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Evan Mobley",
+                                "price": 1.83,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Evan Mobley",
+                                "price": 1.91,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Chet Holmgren",
+                                "price": 1.91,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Chet Holmgren",
+                                "price": 1.83,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Josh Giddey",
+                                "price": 2.0,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Josh Giddey",
+                                "price": 1.77,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luguentz Dort",
+                                "price": 1.77,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luguentz Dort",
+                                "price": 2.0,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Max Strus",
+                                "price": 1.95,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Max Strus",
+                                "price": 1.8,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jarrett Allen",
+                                "price": 1.8,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jarrett Allen",
+                                "price": 1.95,
+                                "point": 11.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-08T09:55:32Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jarrett Allen",
+                                "price": 1.91,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jarrett Allen",
+                                "price": 1.83,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Evan Mobley",
+                                "price": 1.83,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Evan Mobley",
+                                "price": 1.91,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Chet Holmgren",
+                                "price": 1.74,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Chet Holmgren",
+                                "price": 2.05,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Josh Giddey",
+                                "price": 1.95,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Josh Giddey",
+                                "price": 1.8,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luguentz Dort",
+                                "price": 1.67,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luguentz Dort",
+                                "price": 2.15,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Shai Gilgeous-Alexander",
+                                "price": 2.05,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Shai Gilgeous-Alexander",
+                                "price": 1.74,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Williams",
+                                "price": 1.62,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Williams",
+                                "price": 2.2,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Donovan Mitchell",
+                                "price": 1.74,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Donovan Mitchell",
+                                "price": 2.05,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Max Strus",
+                                "price": 1.57,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Max Strus",
+                                "price": 2.25,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Darius Garland",
+                                "price": 2.0,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Darius Garland",
+                                "price": 1.77,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2023-11-08T09:55:26Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-08T09:52:38Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Max Strus",
+                                "price": 2.22,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Max Strus",
+                                "price": 1.64,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Darius Garland",
+                                "price": 1.7,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Darius Garland",
+                                "price": 2.12,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Josh Giddey",
+                                "price": 1.96,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Josh Giddey",
+                                "price": 1.82,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Donovan Mitchell",
+                                "price": 2.26,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Donovan Mitchell",
+                                "price": 1.62,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Williams",
+                                "price": 1.85,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Williams",
+                                "price": 1.93,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Shai Gilgeous-Alexander",
+                                "price": 2.02,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Shai Gilgeous-Alexander",
+                                "price": 1.77,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Evan Mobley",
+                                "price": 1.64,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Evan Mobley",
+                                "price": 2.22,
+                                "point": 2.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-08T09:52:38Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Luguentz Dort",
+                                "price": 1.85,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luguentz Dort",
+                                "price": 1.93,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Donovan Mitchell",
+                                "price": 1.88,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Donovan Mitchell",
+                                "price": 1.88,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Darius Garland",
+                                "price": 1.96,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Darius Garland",
+                                "price": 1.82,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Max Strus",
+                                "price": 1.98,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Max Strus",
+                                "price": 1.8,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Shai Gilgeous-Alexander",
+                                "price": 1.82,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Shai Gilgeous-Alexander",
+                                "price": 1.96,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Evan Mobley",
+                                "price": 1.88,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Evan Mobley",
+                                "price": 1.88,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Williams",
+                                "price": 1.82,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Williams",
+                                "price": 1.96,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Josh Giddey",
+                                "price": 1.98,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Josh Giddey",
+                                "price": 1.78,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jarrett Allen",
+                                "price": 1.88,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jarrett Allen",
+                                "price": 1.88,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Chet Holmgren",
+                                "price": 1.98,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Chet Holmgren",
+                                "price": 1.8,
+                                "point": 15.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-08T09:52:38Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Luguentz Dort",
+                                "price": 1.77,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luguentz Dort",
+                                "price": 2.02,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Max Strus",
+                                "price": 2.18,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Max Strus",
+                                "price": 1.67,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Darius Garland",
+                                "price": 2.12,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Darius Garland",
+                                "price": 1.7,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Williams",
+                                "price": 1.76,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Williams",
+                                "price": 2.04,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Chet Holmgren",
+                                "price": 1.82,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Chet Holmgren",
+                                "price": 1.96,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Shai Gilgeous-Alexander",
+                                "price": 2.12,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Shai Gilgeous-Alexander",
+                                "price": 1.7,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Donovan Mitchell",
+                                "price": 1.83,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Donovan Mitchell",
+                                "price": 1.94,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jarrett Allen",
+                                "price": 1.9,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jarrett Allen",
+                                "price": 1.87,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Josh Giddey",
+                                "price": 2.0,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Josh Giddey",
+                                "price": 1.78,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Evan Mobley",
+                                "price": 1.88,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Evan Mobley",
+                                "price": 1.88,
+                                "point": 9.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetus",
+                "title": "PointsBet (US)",
+                "last_update": "2023-11-08T09:54:17Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-08T09:52:54Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Chet Holmgren",
+                                "price": 2.2,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Chet Holmgren",
+                                "price": 1.62,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Darius Garland",
+                                "price": 1.8,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Darius Garland",
+                                "price": 1.95,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Donovan Mitchell",
+                                "price": 2.15,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Donovan Mitchell",
+                                "price": 1.67,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Evan Mobley",
+                                "price": 1.77,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Evan Mobley",
+                                "price": 2.0,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Williams",
+                                "price": 1.87,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Williams",
+                                "price": 1.87,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joshua Giddey",
+                                "price": 1.87,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joshua Giddey",
+                                "price": 1.87,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Max Strus",
+                                "price": 1.95,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Max Strus",
+                                "price": 1.8,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Shai Gilgeous-Alexander",
+                                "price": 2.15,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Shai Gilgeous-Alexander",
+                                "price": 1.67,
+                                "point": 5.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-08T09:52:54Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Chet Holmgren",
+                                "price": 1.91,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Chet Holmgren",
+                                "price": 1.83,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Darius Garland",
+                                "price": 1.91,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Darius Garland",
+                                "price": 1.83,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Donovan Mitchell",
+                                "price": 1.91,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Donovan Mitchell",
+                                "price": 1.83,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Evan Mobley",
+                                "price": 1.83,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Evan Mobley",
+                                "price": 1.91,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Williams",
+                                "price": 1.83,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Williams",
+                                "price": 1.91,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jarrett Allen",
+                                "price": 1.83,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jarrett Allen",
+                                "price": 1.91,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joshua Giddey",
+                                "price": 1.91,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joshua Giddey",
+                                "price": 1.83,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luguentz Dort",
+                                "price": 2.05,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luguentz Dort",
+                                "price": 1.71,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Max Strus",
+                                "price": 1.91,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Max Strus",
+                                "price": 1.83,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Shai Gilgeous-Alexander",
+                                "price": 1.83,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Shai Gilgeous-Alexander",
+                                "price": 1.91,
+                                "point": 28.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-08T09:52:54Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Chet Holmgren",
+                                "price": 1.69,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Chet Holmgren",
+                                "price": 2.1,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Darius Garland",
+                                "price": 2.0,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Darius Garland",
+                                "price": 1.77,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Donovan Mitchell",
+                                "price": 1.69,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Donovan Mitchell",
+                                "price": 2.1,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Evan Mobley",
+                                "price": 1.83,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Evan Mobley",
+                                "price": 1.91,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Williams",
+                                "price": 1.67,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Williams",
+                                "price": 2.15,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jarrett Allen",
+                                "price": 1.83,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jarrett Allen",
+                                "price": 1.91,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Joshua Giddey",
+                                "price": 1.95,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Joshua Giddey",
+                                "price": 1.8,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luguentz Dort",
+                                "price": 1.69,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luguentz Dort",
+                                "price": 2.1,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Max Strus",
+                                "price": 2.2,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Max Strus",
+                                "price": 1.62,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Shai Gilgeous-Alexander",
+                                "price": 2.05,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Shai Gilgeous-Alexander",
+                                "price": 1.71,
+                                "point": 5.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2023-11-08T09:55:09Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-08T09:56:06Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Chet Holmgren",
+                                "price": 2.25,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Chet Holmgren",
+                                "price": 1.61,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Darius Garland",
+                                "price": 1.8,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Donovan Mitchell",
+                                "price": 2.15,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Donovan Mitchell",
+                                "price": 1.67,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Evan Mobley",
+                                "price": 1.69,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Evan Mobley",
+                                "price": 2.1,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Williams",
+                                "price": 1.91,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Williams",
+                                "price": 1.83,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Josh Giddey",
+                                "price": 1.83,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Josh Giddey",
+                                "price": 1.91,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Max Strus",
+                                "price": 2.0,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Max Strus",
+                                "price": 1.77,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Shai Gilgeous-Alexander",
+                                "price": 2.15,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Shai Gilgeous-Alexander",
+                                "price": 1.67,
+                                "point": 5.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-08T09:56:06Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Chet Holmgren",
+                                "price": 1.91,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Chet Holmgren",
+                                "price": 1.83,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Darius Garland",
+                                "price": 1.95,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Darius Garland",
+                                "price": 1.8,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Donovan Mitchell",
+                                "price": 1.91,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Donovan Mitchell",
+                                "price": 1.83,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Evan Mobley",
+                                "price": 1.83,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Evan Mobley",
+                                "price": 1.91,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Williams",
+                                "price": 1.8,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Williams",
+                                "price": 1.95,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jarrett Allen",
+                                "price": 1.8,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jarrett Allen",
+                                "price": 1.95,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Josh Giddey",
+                                "price": 2.0,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Josh Giddey",
+                                "price": 1.77,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luguentz Dort",
+                                "price": 1.77,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luguentz Dort",
+                                "price": 2.0,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Max Strus",
+                                "price": 1.95,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Max Strus",
+                                "price": 1.8,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Shai Gilgeous-Alexander",
+                                "price": 1.83,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Shai Gilgeous-Alexander",
+                                "price": 1.91,
+                                "point": 28.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-08T09:56:06Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Chet Holmgren",
+                                "price": 1.74,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Chet Holmgren",
+                                "price": 2.05,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Darius Garland",
+                                "price": 2.0,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Darius Garland",
+                                "price": 1.77,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Donovan Mitchell",
+                                "price": 1.74,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Donovan Mitchell",
+                                "price": 2.05,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Evan Mobley",
+                                "price": 1.83,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Evan Mobley",
+                                "price": 1.91,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Williams",
+                                "price": 1.67,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Williams",
+                                "price": 2.15,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jarrett Allen",
+                                "price": 1.87,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jarrett Allen",
+                                "price": 1.87,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Josh Giddey",
+                                "price": 2.0,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Josh Giddey",
+                                "price": 1.77,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luguentz Dort",
+                                "price": 1.67,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luguentz Dort",
+                                "price": 2.15,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Max Strus",
+                                "price": 2.2,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Max Strus",
+                                "price": 1.62,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Shai Gilgeous-Alexander",
+                                "price": 2.1,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Shai Gilgeous-Alexander",
+                                "price": 1.69,
+                                "point": 5.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2023-11-08T09:54:10Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-08T09:55:44Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Chet Holmgren",
+                                "price": 2.25,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Chet Holmgren",
+                                "price": 1.61,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Darius Garland",
+                                "price": 1.8,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Darius Garland",
+                                "price": 2.0,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Donovan Mitchell",
+                                "price": 2.15,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Donovan Mitchell",
+                                "price": 1.69,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Evan Mobley",
+                                "price": 1.71,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Evan Mobley",
+                                "price": 2.1,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Williams",
+                                "price": 1.91,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Williams",
+                                "price": 1.87,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Josh Giddey",
+                                "price": 1.87,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Josh Giddey",
+                                "price": 1.91,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Max Strus",
+                                "price": 2.0,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Max Strus",
+                                "price": 1.77,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Shai Gilgeous-Alexander",
+                                "price": 2.2,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Shai Gilgeous-Alexander",
+                                "price": 1.65,
+                                "point": 5.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-08T09:55:44Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Chet Holmgren",
+                                "price": 1.91,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Chet Holmgren",
+                                "price": 1.87,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Darius Garland",
+                                "price": 1.95,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Darius Garland",
+                                "price": 1.83,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Donovan Mitchell",
+                                "price": 1.91,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Donovan Mitchell",
+                                "price": 1.83,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Evan Mobley",
+                                "price": 1.87,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Evan Mobley",
+                                "price": 1.91,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Williams",
+                                "price": 1.83,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Williams",
+                                "price": 1.95,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jarrett Allen",
+                                "price": 1.83,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jarrett Allen",
+                                "price": 1.95,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Josh Giddey",
+                                "price": 2.0,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Josh Giddey",
+                                "price": 1.8,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luguentz Dort",
+                                "price": 1.77,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luguentz Dort",
+                                "price": 2.0,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Max Strus",
+                                "price": 1.95,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Max Strus",
+                                "price": 1.83,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Shai Gilgeous-Alexander",
+                                "price": 1.83,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Shai Gilgeous-Alexander",
+                                "price": 1.91,
+                                "point": 28.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-08T09:55:44Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Chet Holmgren",
+                                "price": 1.74,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Chet Holmgren",
+                                "price": 2.05,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Darius Garland",
+                                "price": 2.0,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Darius Garland",
+                                "price": 1.77,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Donovan Mitchell",
+                                "price": 1.74,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Donovan Mitchell",
+                                "price": 2.05,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Evan Mobley",
+                                "price": 1.83,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Evan Mobley",
+                                "price": 1.91,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Williams",
+                                "price": 1.67,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Williams",
+                                "price": 2.2,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jarrett Allen",
+                                "price": 1.91,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jarrett Allen",
+                                "price": 1.87,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Josh Giddey",
+                                "price": 2.0,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Josh Giddey",
+                                "price": 1.8,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luguentz Dort",
+                                "price": 1.69,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luguentz Dort",
+                                "price": 2.15,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Max Strus",
+                                "price": 2.25,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Max Strus",
+                                "price": 1.62,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Shai Gilgeous-Alexander",
+                                "price": 2.1,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Shai Gilgeous-Alexander",
+                                "price": 1.69,
+                                "point": 5.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "Caesars",
+                "last_update": "2023-11-08T09:53:00Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-08T09:56:02Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Shai Gilgeous-Alexander",
+                                "price": 2.1,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Shai Gilgeous-Alexander",
+                                "price": 1.66,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Williams",
+                                "price": 1.88,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Williams",
+                                "price": 1.83,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Josh Giddey",
+                                "price": 1.83,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Josh Giddey",
+                                "price": 1.88,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jarrett Allen",
+                                "price": 1.79,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jarrett Allen",
+                                "price": 1.93,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Evan Mobley",
+                                "price": 1.7,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Evan Mobley",
+                                "price": 2.04,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Donovan Mitchell",
+                                "price": 2.12,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Donovan Mitchell",
+                                "price": 1.65,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Chet Holmgren",
+                                "price": 2.26,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Chet Holmgren",
+                                "price": 1.57,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Max Strus",
+                                "price": 2.0,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Max Strus",
+                                "price": 1.73,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Darius Garland",
+                                "price": 1.72,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Darius Garland",
+                                "price": 2.02,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luguentz Dort",
+                                "price": 2.46,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luguentz Dort",
+                                "price": 1.49,
+                                "point": 1.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-08T09:56:02Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Chet Holmgren",
+                                "price": 1.88,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Chet Holmgren",
+                                "price": 1.83,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Shai Gilgeous-Alexander",
+                                "price": 1.85,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Shai Gilgeous-Alexander",
+                                "price": 1.85,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Josh Giddey",
+                                "price": 1.94,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Josh Giddey",
+                                "price": 1.78,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Darius Garland",
+                                "price": 1.87,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Darius Garland",
+                                "price": 1.84,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Donovan Mitchell",
+                                "price": 1.88,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Donovan Mitchell",
+                                "price": 1.83,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jarrett Allen",
+                                "price": 1.84,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jarrett Allen",
+                                "price": 1.87,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Evan Mobley",
+                                "price": 1.84,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Evan Mobley",
+                                "price": 1.87,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Max Strus",
+                                "price": 1.92,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Max Strus",
+                                "price": 1.8,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Williams",
+                                "price": 1.79,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Williams",
+                                "price": 1.93,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luguentz Dort",
+                                "price": 1.75,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luguentz Dort",
+                                "price": 1.97,
+                                "point": 11.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-08T09:56:02Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Darius Garland",
+                                "price": 1.96,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Darius Garland",
+                                "price": 1.76,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Shai Gilgeous-Alexander",
+                                "price": 1.97,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Shai Gilgeous-Alexander",
+                                "price": 1.75,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jarrett Allen",
+                                "price": 1.87,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jarrett Allen",
+                                "price": 1.84,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Josh Giddey",
+                                "price": 2.0,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Josh Giddey",
+                                "price": 1.73,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Max Strus",
+                                "price": 2.2,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Max Strus",
+                                "price": 1.6,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Evan Mobley",
+                                "price": 1.83,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Evan Mobley",
+                                "price": 1.88,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Chet Holmgren",
+                                "price": 1.8,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Chet Holmgren",
+                                "price": 1.92,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Donovan Mitchell",
+                                "price": 1.69,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Donovan Mitchell",
+                                "price": 2.06,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luguentz Dort",
+                                "price": 1.76,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luguentz Dort",
+                                "price": 1.96,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Williams",
+                                "price": 1.68,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Williams",
+                                "price": 2.08,
+                                "point": 4.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": "2023-11-08T09:55:03Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-08T09:56:18Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Donovan Mitchell",
+                                "price": 2.1,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Donovan Mitchell",
+                                "price": 1.67,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jarrett Allen",
+                                "price": 1.8,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jarrett Allen",
+                                "price": 1.91,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Evan Mobley",
+                                "price": 1.69,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Evan Mobley",
+                                "price": 2.1,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Darius Garland",
+                                "price": 1.83,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Darius Garland",
+                                "price": 1.87,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Williams",
+                                "price": 1.87,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Williams",
+                                "price": 1.87,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Shai Gilgeous-Alexander",
+                                "price": 2.2,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Shai Gilgeous-Alexander",
+                                "price": 1.65,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luguentz Dort",
+                                "price": 2.5,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luguentz Dort",
+                                "price": 1.5,
+                                "point": 1.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Josh Giddey",
+                                "price": 1.83,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Josh Giddey",
+                                "price": 1.91,
+                                "point": 4.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-08T09:56:18Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Donovan Mitchell",
+                                "price": 1.91,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Donovan Mitchell",
+                                "price": 1.83,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jarrett Allen",
+                                "price": 1.8,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jarrett Allen",
+                                "price": 1.95,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Evan Mobley",
+                                "price": 1.83,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Evan Mobley",
+                                "price": 1.91,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Williams",
+                                "price": 1.8,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Williams",
+                                "price": 1.95,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luguentz Dort",
+                                "price": 1.77,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luguentz Dort",
+                                "price": 2.0,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Shai Gilgeous-Alexander",
+                                "price": 1.83,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Shai Gilgeous-Alexander",
+                                "price": 1.91,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Darius Garland",
+                                "price": 1.95,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Darius Garland",
+                                "price": 1.8,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Josh Giddey",
+                                "price": 1.95,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Josh Giddey",
+                                "price": 1.77,
+                                "point": 15.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-08T09:56:18Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Donovan Mitchell",
+                                "price": 1.71,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Donovan Mitchell",
+                                "price": 2.05,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jarrett Allen",
+                                "price": 1.91,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jarrett Allen",
+                                "price": 1.83,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Evan Mobley",
+                                "price": 1.83,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Evan Mobley",
+                                "price": 1.91,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Darius Garland",
+                                "price": 2.0,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Darius Garland",
+                                "price": 1.77,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Williams",
+                                "price": 1.65,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Williams",
+                                "price": 2.15,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Shai Gilgeous-Alexander",
+                                "price": 2.05,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Shai Gilgeous-Alexander",
+                                "price": 1.71,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Luguentz Dort",
+                                "price": 1.67,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Luguentz Dort",
+                                "price": 2.1,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Josh Giddey",
+                                "price": 1.95,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Josh Giddey",
+                                "price": 1.77,
+                                "point": 7.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

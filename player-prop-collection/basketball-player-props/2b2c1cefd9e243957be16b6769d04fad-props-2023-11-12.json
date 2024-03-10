@@ -1,0 +1,2543 @@
+{
+    "timestamp": "2023-11-12T09:55:39Z",
+    "previous_timestamp": "2023-11-12T09:50:40Z",
+    "next_timestamp": "2023-11-12T10:00:40Z",
+    "data": {
+        "id": "2b2c1cefd9e243957be16b6769d04fad",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2023-11-12T20:40:00Z",
+        "home_team": "Los Angeles Clippers",
+        "away_team": "Memphis Grizzlies",
+        "bookmakers": [
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2023-11-12T09:54:56Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-12T09:55:09Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Desmond Bane",
+                                "price": 2.0,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Desmond Bane",
+                                "price": 1.8,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 1.83,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "James Harden",
+                                "price": 1.95,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaren Jackson Jr.",
+                                "price": 2.45,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaren Jackson Jr.",
+                                "price": 1.54,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.62,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 2.25,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Marcus Smart",
+                                "price": 1.87,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Marcus Smart",
+                                "price": 1.87,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 1.87,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paul George",
+                                "price": 1.91,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Russell Westbrook",
+                                "price": 2.2,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Russell Westbrook",
+                                "price": 1.65,
+                                "point": 5.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-12T09:55:09Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Desmond Bane",
+                                "price": 1.95,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Desmond Bane",
+                                "price": 1.83,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Ivica Zubac",
+                                "price": 2.0,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Ivica Zubac",
+                                "price": 1.77,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 1.8,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "James Harden",
+                                "price": 1.95,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaren Jackson Jr.",
+                                "price": 1.95,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaren Jackson Jr.",
+                                "price": 1.8,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.95,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.8,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Marcus Smart",
+                                "price": 1.95,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Marcus Smart",
+                                "price": 1.83,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 1.87,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paul George",
+                                "price": 1.91,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Russell Westbrook",
+                                "price": 1.91,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Russell Westbrook",
+                                "price": 1.87,
+                                "point": 14.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-12T09:55:09Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Desmond Bane",
+                                "price": 1.69,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Desmond Bane",
+                                "price": 2.1,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Ivica Zubac",
+                                "price": 1.71,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Ivica Zubac",
+                                "price": 2.05,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 2.15,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "James Harden",
+                                "price": 1.69,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaren Jackson Jr.",
+                                "price": 1.8,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaren Jackson Jr.",
+                                "price": 1.95,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.69,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 2.15,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Marcus Smart",
+                                "price": 1.77,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Marcus Smart",
+                                "price": 2.0,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 2.05,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paul George",
+                                "price": 1.74,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Russell Westbrook",
+                                "price": 1.71,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Russell Westbrook",
+                                "price": 2.1,
+                                "point": 5.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "mybookieag",
+                "title": "MyBookie.ag",
+                "last_update": "2023-11-12T09:54:30Z",
+                "markets": [
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-12T09:55:04Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Desmond Bane",
+                                "price": 1.53,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Desmond Bane",
+                                "price": 1.91,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Desmond Bane",
+                                "price": 2.35,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Desmond Bane",
+                                "price": 3.1,
+                                "point": 29.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Desmond Bane",
+                                "price": 4.15,
+                                "point": 31.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Desmond Bane",
+                                "price": 5.75,
+                                "point": 33.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Desmond Bane",
+                                "price": 8.0,
+                                "point": 35.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Desmond Bane",
+                                "price": 12.0,
+                                "point": 37.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Desmond Bane",
+                                "price": 19.0,
+                                "point": 39.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Russell Westbrook",
+                                "price": 1.36,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Russell Westbrook",
+                                "price": 1.91,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Russell Westbrook",
+                                "price": 2.15,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Russell Westbrook",
+                                "price": 2.4,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Russell Westbrook",
+                                "price": 2.7,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Russell Westbrook",
+                                "price": 3.4,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Russell Westbrook",
+                                "price": 4.5,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Russell Westbrook",
+                                "price": 6.0,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Russell Westbrook",
+                                "price": 8.25,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 1.38,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 1.87,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 2.1,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 2.35,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 2.65,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 3.3,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 4.15,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 5.5,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 7.25,
+                                "point": 30.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaren Jackson Jr.",
+                                "price": 1.56,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaren Jackson Jr.",
+                                "price": 1.83,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaren Jackson Jr.",
+                                "price": 2.2,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaren Jackson Jr.",
+                                "price": 2.7,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaren Jackson Jr.",
+                                "price": 3.45,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaren Jackson Jr.",
+                                "price": 4.5,
+                                "point": 29.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaren Jackson Jr.",
+                                "price": 6.0,
+                                "point": 31.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaren Jackson Jr.",
+                                "price": 8.0,
+                                "point": 33.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaren Jackson Jr.",
+                                "price": 10.25,
+                                "point": 35.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 1.36,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 1.87,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 2.1,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 2.35,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 2.65,
+                                "point": 27.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 3.4,
+                                "point": 29.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 4.5,
+                                "point": 31.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 6.0,
+                                "point": 33.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 8.0,
+                                "point": 35.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.36,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.95,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 2.2,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 2.45,
+                                "point": 26.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 2.75,
+                                "point": 28.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 3.4,
+                                "point": 30.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 4.5,
+                                "point": 32.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 6.0,
+                                "point": 34.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 8.25,
+                                "point": 36.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Ivica Zubac",
+                                "price": 1.91,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Ivica Zubac",
+                                "price": 2.15,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Ivica Zubac",
+                                "price": 2.9,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Ivica Zubac",
+                                "price": 4.15,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Ivica Zubac",
+                                "price": 6.0,
+                                "point": 18.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Ivica Zubac",
+                                "price": 9.0,
+                                "point": 20.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Ivica Zubac",
+                                "price": 12.5,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Ivica Zubac",
+                                "price": 16.0,
+                                "point": 24.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Ivica Zubac",
+                                "price": 1.43,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Marcus Smart",
+                                "price": 1.32,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Marcus Smart",
+                                "price": 1.95,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Marcus Smart",
+                                "price": 2.2,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Marcus Smart",
+                                "price": 2.5,
+                                "point": 15.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Marcus Smart",
+                                "price": 3.5,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Marcus Smart",
+                                "price": 5.0,
+                                "point": 19.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Marcus Smart",
+                                "price": 7.5,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Marcus Smart",
+                                "price": 12.0,
+                                "point": 23.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Marcus Smart",
+                                "price": 20.0,
+                                "point": 25.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betonlineag",
+                "title": "BetOnline.ag",
+                "last_update": "2023-11-12T09:54:39Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-12T09:55:30Z",
+                        "outcomes": [
+                            {
+                                "name": "Under",
+                                "description": "Jaren Jackson Jr.",
+                                "price": 1.55,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaren Jackson Jr.",
+                                "price": 2.39,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.59,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 2.29,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paul George",
+                                "price": 1.89,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 1.87,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Desmond Bane",
+                                "price": 2.02,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Desmond Bane",
+                                "price": 1.76,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Russell Westbrook",
+                                "price": 1.68,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Russell Westbrook",
+                                "price": 2.13,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Marcus Smart",
+                                "price": 1.91,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Marcus Smart",
+                                "price": 1.85,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 1.85,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "James Harden",
+                                "price": 1.91,
+                                "point": 6.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-12T09:55:30Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Jaren Jackson Jr.",
+                                "price": 1.84,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaren Jackson Jr.",
+                                "price": 1.92,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Ivica Zubac",
+                                "price": 1.98,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Ivica Zubac",
+                                "price": 1.79,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.95,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.81,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 1.77,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paul George",
+                                "price": 2.0,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Desmond Bane",
+                                "price": 1.82,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Desmond Bane",
+                                "price": 1.94,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Russell Westbrook",
+                                "price": 1.92,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Russell Westbrook",
+                                "price": 1.84,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Marcus Smart",
+                                "price": 1.91,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Marcus Smart",
+                                "price": 1.85,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 1.85,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "James Harden",
+                                "price": 1.91,
+                                "point": 16.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-12T09:55:30Z",
+                        "outcomes": [
+                            {
+                                "name": "Under",
+                                "description": "Jaren Jackson Jr.",
+                                "price": 2.1,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaren Jackson Jr.",
+                                "price": 1.7,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Ivica Zubac",
+                                "price": 1.74,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Ivica Zubac",
+                                "price": 2.04,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.68,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 2.13,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paul George",
+                                "price": 1.73,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 2.06,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Desmond Bane",
+                                "price": 2.11,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Desmond Bane",
+                                "price": 1.69,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Russell Westbrook",
+                                "price": 1.71,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Russell Westbrook",
+                                "price": 2.08,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Marcus Smart",
+                                "price": 1.8,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Marcus Smart",
+                                "price": 1.97,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "James Harden",
+                                "price": 1.7,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 2.1,
+                                "point": 5.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "Caesars",
+                "last_update": "2023-11-12T09:51:49Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-12T09:54:04Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Desmond Bane",
+                                "price": 1.9,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Desmond Bane",
+                                "price": 1.81,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Ivica Zubac",
+                                "price": 2.04,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Ivica Zubac",
+                                "price": 1.7,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 1.83,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paul George",
+                                "price": 1.88,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.64,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 2.14,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Russell Westbrook",
+                                "price": 2.16,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Russell Westbrook",
+                                "price": 1.62,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 1.78,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "James Harden",
+                                "price": 1.94,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaren Jackson Jr.",
+                                "price": 2.36,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaren Jackson Jr.",
+                                "price": 1.53,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Marcus Smart",
+                                "price": 1.87,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Marcus Smart",
+                                "price": 1.84,
+                                "point": 5.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-12T09:54:04Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Marcus Smart",
+                                "price": 1.93,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Marcus Smart",
+                                "price": 1.79,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Ivica Zubac",
+                                "price": 1.97,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Ivica Zubac",
+                                "price": 1.75,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.94,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.78,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 1.84,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paul George",
+                                "price": 1.87,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 1.85,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "James Harden",
+                                "price": 1.85,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Desmond Bane",
+                                "price": 1.93,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Desmond Bane",
+                                "price": 1.79,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Russell Westbrook",
+                                "price": 1.94,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Russell Westbrook",
+                                "price": 1.78,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaren Jackson Jr.",
+                                "price": 1.94,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaren Jackson Jr.",
+                                "price": 1.78,
+                                "point": 22.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-12T09:54:04Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Ivica Zubac",
+                                "price": 1.74,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Ivica Zubac",
+                                "price": 1.99,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 2.02,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "James Harden",
+                                "price": 1.72,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Desmond Bane",
+                                "price": 1.66,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Desmond Bane",
+                                "price": 2.1,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 2.04,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paul George",
+                                "price": 1.7,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaren Jackson Jr.",
+                                "price": 1.75,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaren Jackson Jr.",
+                                "price": 1.97,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.65,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 2.12,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Marcus Smart",
+                                "price": 1.76,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Marcus Smart",
+                                "price": 1.96,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Russell Westbrook",
+                                "price": 1.72,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Russell Westbrook",
+                                "price": 2.02,
+                                "point": 5.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2023-11-12T09:53:49Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-12T09:46:32Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Marcus Smart",
+                                "price": 1.87,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Marcus Smart",
+                                "price": 1.9,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 1.78,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "James Harden",
+                                "price": 2.0,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.56,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 2.38,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Desmond Bane",
+                                "price": 2.02,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Desmond Bane",
+                                "price": 1.77,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Russell Westbrook",
+                                "price": 2.14,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Russell Westbrook",
+                                "price": 1.68,
+                                "point": 5.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-12T09:46:32Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Marcus Smart",
+                                "price": 1.85,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Marcus Smart",
+                                "price": 1.93,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.94,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.83,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Ivica Zubac",
+                                "price": 1.94,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Ivica Zubac",
+                                "price": 1.83,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Russell Westbrook",
+                                "price": 1.98,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Russell Westbrook",
+                                "price": 1.8,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaren Jackson Jr.",
+                                "price": 1.87,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaren Jackson Jr.",
+                                "price": 1.9,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 1.9,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "James Harden",
+                                "price": 1.87,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 1.83,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paul George",
+                                "price": 1.96,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Desmond Bane",
+                                "price": 1.88,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Desmond Bane",
+                                "price": 1.88,
+                                "point": 25.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-12T09:46:32Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 2.12,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "James Harden",
+                                "price": 1.7,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Ivica Zubac",
+                                "price": 1.77,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Ivica Zubac",
+                                "price": 2.02,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaren Jackson Jr.",
+                                "price": 1.9,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaren Jackson Jr.",
+                                "price": 1.87,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Marcus Smart",
+                                "price": 1.9,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Marcus Smart",
+                                "price": 1.87,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 2.1,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.71,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Desmond Bane",
+                                "price": 1.7,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Desmond Bane",
+                                "price": 2.12,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 2.12,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paul George",
+                                "price": 1.7,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Russell Westbrook",
+                                "price": 1.72,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Russell Westbrook",
+                                "price": 2.08,
+                                "point": 5.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetus",
+                "title": "PointsBet (US)",
+                "last_update": "2023-11-12T09:54:26Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-12T09:55:53Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Desmond Bane",
+                                "price": 1.95,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Desmond Bane",
+                                "price": 1.8,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 1.83,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "James Harden",
+                                "price": 1.91,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaren Jackson Jr.",
+                                "price": 2.4,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaren Jackson Jr.",
+                                "price": 1.56,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.61,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 2.25,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Marcus Smart",
+                                "price": 1.87,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Marcus Smart",
+                                "price": 1.87,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 1.87,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paul George",
+                                "price": 1.87,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Russell Westbrook",
+                                "price": 2.2,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Russell Westbrook",
+                                "price": 1.62,
+                                "point": 5.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-12T09:55:53Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Desmond Bane",
+                                "price": 2.0,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Desmond Bane",
+                                "price": 1.77,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Ivica Zubac",
+                                "price": 1.95,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Ivica Zubac",
+                                "price": 1.8,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 1.83,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "James Harden",
+                                "price": 1.91,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaren Jackson Jr.",
+                                "price": 1.87,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaren Jackson Jr.",
+                                "price": 1.87,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.91,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.83,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Marcus Smart",
+                                "price": 1.91,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Marcus Smart",
+                                "price": 1.83,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 1.87,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paul George",
+                                "price": 1.87,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Russell Westbrook",
+                                "price": 1.91,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Russell Westbrook",
+                                "price": 1.83,
+                                "point": 14.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-12T09:55:53Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Desmond Bane",
+                                "price": 1.69,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Desmond Bane",
+                                "price": 2.1,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Ivica Zubac",
+                                "price": 1.77,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Ivica Zubac",
+                                "price": 2.0,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 2.05,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "James Harden",
+                                "price": 1.71,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaren Jackson Jr.",
+                                "price": 1.83,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaren Jackson Jr.",
+                                "price": 1.91,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.67,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 2.15,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Marcus Smart",
+                                "price": 1.71,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Marcus Smart",
+                                "price": 2.05,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 2.0,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paul George",
+                                "price": 1.77,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Russell Westbrook",
+                                "price": 1.71,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Russell Westbrook",
+                                "price": 2.05,
+                                "point": 5.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2023-11-12T09:54:22Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-12T09:55:41Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Desmond Bane",
+                                "price": 2.0,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Desmond Bane",
+                                "price": 1.77,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 1.8,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "James Harden",
+                                "price": 1.95,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaren Jackson Jr.",
+                                "price": 2.45,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaren Jackson Jr.",
+                                "price": 1.53,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Marcus Smart",
+                                "price": 1.87,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Marcus Smart",
+                                "price": 1.87,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 1.83,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paul George",
+                                "price": 1.91,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Russell Westbrook",
+                                "price": 2.2,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Russell Westbrook",
+                                "price": 1.62,
+                                "point": 5.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-12T09:55:41Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Desmond Bane",
+                                "price": 1.95,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Desmond Bane",
+                                "price": 1.8,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Ivica Zubac",
+                                "price": 2.0,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Ivica Zubac",
+                                "price": 1.77,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 1.8,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "James Harden",
+                                "price": 1.95,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaren Jackson Jr.",
+                                "price": 1.94,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.95,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.8,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Marcus Smart",
+                                "price": 1.95,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Marcus Smart",
+                                "price": 1.8,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 1.83,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paul George",
+                                "price": 1.91,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Russell Westbrook",
+                                "price": 1.91,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Russell Westbrook",
+                                "price": 1.83,
+                                "point": 14.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-12T09:55:41Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Desmond Bane",
+                                "price": 1.69,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Desmond Bane",
+                                "price": 2.1,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Ivica Zubac",
+                                "price": 1.74,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Ivica Zubac",
+                                "price": 2.05,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 2.15,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "James Harden",
+                                "price": 1.67,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaren Jackson Jr.",
+                                "price": 1.8,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaren Jackson Jr.",
+                                "price": 1.95,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.69,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Marcus Smart",
+                                "price": 1.77,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Marcus Smart",
+                                "price": 2.0,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 2.05,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paul George",
+                                "price": 1.74,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Russell Westbrook",
+                                "price": 1.69,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Russell Westbrook",
+                                "price": 2.1,
+                                "point": 5.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "barstool",
+                "title": "Barstool Sportsbook",
+                "last_update": "2023-11-12T09:53:57Z",
+                "markets": [
+                    {
+                        "key": "player_assists",
+                        "last_update": "2023-11-12T09:56:00Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 1.8,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "James Harden",
+                                "price": 1.95,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Marcus Smart",
+                                "price": 1.83,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Marcus Smart",
+                                "price": 1.91,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Russell Westbrook",
+                                "price": 2.2,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Russell Westbrook",
+                                "price": 1.62,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Desmond Bane",
+                                "price": 1.95,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Desmond Bane",
+                                "price": 1.8,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.57,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 2.25,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 1.83,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paul George",
+                                "price": 1.91,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaren Jackson Jr",
+                                "price": 2.4,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaren Jackson Jr",
+                                "price": 1.51,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Ivica Zubac",
+                                "price": 2.1,
+                                "point": 0.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Ivica Zubac",
+                                "price": 1.71,
+                                "point": 0.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-12T09:56:00Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Desmond Bane",
+                                "price": 1.91,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Desmond Bane",
+                                "price": 1.83,
+                                "point": 25.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 2.0,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 1.77,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaren Jackson Jr",
+                                "price": 1.95,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaren Jackson Jr",
+                                "price": 1.8,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 1.87,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paul George",
+                                "price": 1.87,
+                                "point": 21.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 1.8,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "James Harden",
+                                "price": 1.95,
+                                "point": 16.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Russell Westbrook",
+                                "price": 1.95,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Russell Westbrook",
+                                "price": 1.8,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Marcus Smart",
+                                "price": 1.95,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Marcus Smart",
+                                "price": 1.8,
+                                "point": 11.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Ivica Zubac",
+                                "price": 2.0,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Ivica Zubac",
+                                "price": 1.77,
+                                "point": 10.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "player_rebounds",
+                        "last_update": "2023-11-12T09:56:00Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Ivica Zubac",
+                                "price": 1.71,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Ivica Zubac",
+                                "price": 2.1,
+                                "point": 8.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jaren Jackson Jr",
+                                "price": 1.77,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jaren Jackson Jr",
+                                "price": 2.0,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Kawhi Leonard",
+                                "price": 1.62,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Kawhi Leonard",
+                                "price": 2.2,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Russell Westbrook",
+                                "price": 1.71,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Russell Westbrook",
+                                "price": 2.1,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "James Harden",
+                                "price": 2.15,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "James Harden",
+                                "price": 1.67,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Paul George",
+                                "price": 2.1,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Paul George",
+                                "price": 1.71,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Desmond Bane",
+                                "price": 1.67,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Desmond Bane",
+                                "price": 2.15,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Marcus Smart",
+                                "price": 1.77,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Marcus Smart",
+                                "price": 2.0,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

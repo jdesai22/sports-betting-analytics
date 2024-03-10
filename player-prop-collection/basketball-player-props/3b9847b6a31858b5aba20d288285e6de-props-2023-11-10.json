@@ -1,0 +1,137 @@
+{
+    "timestamp": "2023-11-10T09:55:43Z",
+    "previous_timestamp": "2023-11-10T09:50:42Z",
+    "next_timestamp": "2023-11-10T10:00:43Z",
+    "data": {
+        "id": "3b9847b6a31858b5aba20d288285e6de",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2023-11-11T01:10:00Z",
+        "home_team": "Houston Rockets",
+        "away_team": "New Orleans Pelicans",
+        "bookmakers": [
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2023-11-10T09:55:26Z",
+                "markets": [
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-10T09:56:48Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Fred VanVleet",
+                                "price": 1.78,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Fred VanVleet",
+                                "price": 2.0,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jabari Smith",
+                                "price": 1.87,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jabari Smith",
+                                "price": 1.9,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Dillon Brooks",
+                                "price": 2.0,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dillon Brooks",
+                                "price": 1.78,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Green",
+                                "price": 1.96,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Green",
+                                "price": 1.82,
+                                "point": 22.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2023-11-10T09:54:45Z",
+                "markets": [
+                    {
+                        "key": "player_points",
+                        "last_update": "2023-11-10T09:55:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "description": "Dillon Brooks",
+                                "price": 2.05,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Dillon Brooks",
+                                "price": 1.74,
+                                "point": 12.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Fred VanVleet",
+                                "price": 1.74,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Fred VanVleet",
+                                "price": 2.05,
+                                "point": 17.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jabari Smith",
+                                "price": 1.87,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jabari Smith",
+                                "price": 1.87,
+                                "point": 13.5
+                            },
+                            {
+                                "name": "Over",
+                                "description": "Jalen Green",
+                                "price": 2.05,
+                                "point": 22.5
+                            },
+                            {
+                                "name": "Under",
+                                "description": "Jalen Green",
+                                "price": 1.74,
+                                "point": 22.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
