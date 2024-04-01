@@ -56,24 +56,28 @@ def count_success(results_file, date):
 
     return (
         {
-            f"{date}" : {
-                "over_correct" : count_over_correct,
-                "over_predicted" : count_over_predicted,
-                "under_correct" : count_under_correct,
-                "under_predicted" : count_under_predicted,
-                "total_predicted" : count_total_rows
-            }
+            "date" : date, 
+            "over_correct" : count_over_correct,
+            "over_predicted" : count_over_predicted,
+            "under_correct" : count_under_correct,
+            "under_predicted" : count_under_predicted,
+            "total_predicted" : count_total_rows
         }
     )
 
 def add_to_analysis(analysis_file, res):
-    res_df = pd.DataFrame(res).transpose()
-    res_df.to_csv(analysis_file, mode='a', header=False, index_label='date')
 
     df = pd.read_csv(analysis_file)
-    df.drop_duplicates(inplace=True)
-    df = df[['date', 'over_correct', 'over_predicted', 'under_correct', 'under_predicted', 'total_predicted']]
-    df.to_csv(analysis_file, index=False)
+
+    if res['date'] not in df['date'].values:
+        new_row = pd.DataFrame([res])
+
+        # Append the new row to the CSV file
+        new_row.to_csv(analysis_file, mode='a', header=False, index=False)
+
+    else:
+        print(f"date {res['date']} already in csv file")
+
 
 
 def testing():

@@ -1,6 +1,6 @@
 from utils.evaluate import *
 
-DATES = ["2024-03-29"]
+DATES = ["2024-03-27", "2024-03-28", "2024-03-29", "2024-03-30", "2024-03-31"]
 RESULTS_FILE = "prediction_results.csv"
 ANALYSIS_FILE = "overall_results.csv"
 COMBINED_FILE = "combined.csv"
@@ -12,6 +12,8 @@ if __name__ == "__main__":
         df = get_player_log_df()
 
     for DATE in DATES:
+        print(f"\n\nworking on {DATE}")
+
         prediction_dir = f"prediction-{DATE}"
 
         dir_results_file = f"{prediction_dir}/{RESULTS_FILE}"
@@ -27,6 +29,8 @@ if __name__ == "__main__":
         print("results calculated, calculating success")
 
         res = count_success(dir_results_file, DATE)
+
+        print(res)
 
         add_to_analysis(ANALYSIS_FILE, res)
 
