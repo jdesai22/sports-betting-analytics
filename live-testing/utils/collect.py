@@ -167,7 +167,7 @@ def next_game_pred(player_log_file, prediction_file):
 
 
     df = df[df['PTS_np'] != 'NA']
-    df = df[['PLAYER_NAME', 'TEAM_ABBREVIATION', 'PTS_np', 'GAME_DATE']]
+    df = df[['PLAYER_NAME', 'TEAM_ABBREVIATION', 'PTS_np', 'pred_type', 'GAME_DATE']]
 
     df.to_csv(prediction_file, index=False)
 

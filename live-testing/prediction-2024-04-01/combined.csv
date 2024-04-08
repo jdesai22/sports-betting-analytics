@@ -1,18 +1,18 @@
-Player,TEAM_ABBREVIATION,PTS_np,player_points_over_book,player_points_over_line,player_points_over,player_points_under_book,player_points_under_line,player_points_under,PROPS_DATE,LAST_GAME
-Franz Wagner,ORL,under,Bovada,17.5,1.95,Bovada,17.5,1.8,2024-04-01T23:10:00Z,2024-03-30T00:00:00
-Paolo Banchero,ORL,under,Bovada,21.5,1.95,Bovada,21.5,1.8,2024-04-01T23:10:00Z,2024-03-30T00:00:00
-Alex Caruso,CHI,over,BetMGM,11.5,2.0,BetMGM,11.5,1.74,2024-04-02T00:10:00Z,2024-03-31T00:00:00
-Bogdan Bogdanovic,ATL,over,BetMGM,19.5,1.95,BetMGM,19.5,1.8,2024-04-02T00:10:00Z,2024-03-30T00:00:00
-Devin Booker,PHX,under,BetMGM,25.5,1.8,BetMGM,25.5,1.95,2024-04-02T00:10:00Z,2024-03-29T00:00:00
-Eric Gordon,PHX,under,BetMGM,7.5,1.95,BetMGM,7.5,1.77,2024-04-02T00:10:00Z,2024-03-29T00:00:00
-Jonas Valanciunas,NOP,under,BetMGM,10.5,1.95,BetMGM,10.5,1.77,2024-04-02T00:10:00Z,2024-03-30T00:00:00
-Jusuf Nurkic,PHX,under,BetMGM,9.5,1.95,BetMGM,9.5,1.77,2024-04-02T00:10:00Z,2024-03-29T00:00:00
-Royce O'Neale,PHX,under,BetMGM,5.5,2.0,BetMGM,5.5,1.74,2024-04-02T00:10:00Z,2024-03-29T00:00:00
-Myles Turner,IND,under,BetMGM,14.5,1.8,BetMGM,14.5,1.95,2024-04-01T23:00:00Z,2024-03-29T00:00:00
-Pascal Siakam,TOR,under,BetMGM,22.5,1.91,BetMGM,22.5,1.83,2024-04-01T23:00:00Z,2024-01-15T00:00:00
-Mikal Bridges,BKN,under,Unibet,21.5,3.15,Unibet,21.5,1.27,2024-04-01T23:00:00Z,2024-03-31T00:00:00
-Dorian Finney-Smith,BKN,under,Unibet,5.5,1.42,Unibet,5.5,2.6,2024-04-01T23:00:00Z,2024-03-31T00:00:00
-Santi Aldama,MEM,under,Bovada,10.5,2.0,Bovada,10.5,1.77,2024-04-01T23:10:00Z,2024-03-27T00:00:00
-Jaylen Brown,BOS,under,BetMGM,22.5,1.8,BetMGM,22.5,1.91,2024-04-01T23:10:00Z,2024-03-30T00:00:00
-Jayson Tatum,BOS,under,BetMGM,27.5,1.91,BetMGM,27.5,1.83,2024-04-01T23:10:00Z,2024-03-30T00:00:00
-Miles Bridges,CHA,over,Unibet,19.5,1.63,Unibet,19.5,2.15,2024-04-01T23:10:00Z,2024-03-31T00:00:00
+Player,TEAM_ABBREVIATION,PTS_np,pred_type,player_points_over_book,player_points_over_line,player_points_over,player_points_under_book,player_points_under_line,player_points_under,PROPS_DATE,LAST_GAME
+Franz Wagner,ORL,under,under momentum,Bovada,17.5,1.95,Bovada,17.5,1.8,2024-04-01T23:10:00Z,2024-03-30T00:00:00
+Paolo Banchero,ORL,under,under momentum,Bovada,21.5,1.95,Bovada,21.5,1.8,2024-04-01T23:10:00Z,2024-03-30T00:00:00
+Alex Caruso,CHI,over,over momentum on non-star players,BetMGM,11.5,2.0,BetMGM,11.5,1.74,2024-04-02T00:10:00Z,2024-03-31T00:00:00
+Bogdan Bogdanovic,ATL,over,over momentum on non-star players,BetMGM,19.5,1.95,BetMGM,19.5,1.8,2024-04-02T00:10:00Z,2024-03-30T00:00:00
+Devin Booker,PHX,under,under momentum,BetMGM,25.5,1.8,BetMGM,25.5,1.95,2024-04-02T00:10:00Z,2024-03-29T00:00:00
+Eric Gordon,PHX,under,under momentum,BetMGM,7.5,1.95,BetMGM,7.5,1.77,2024-04-02T00:10:00Z,2024-03-29T00:00:00
+Jonas Valanciunas,NOP,under,under momentum,BetMGM,10.5,1.95,BetMGM,10.5,1.77,2024-04-02T00:10:00Z,2024-03-30T00:00:00
+Jusuf Nurkic,PHX,under,under momentum,BetMGM,9.5,1.95,BetMGM,9.5,1.77,2024-04-02T00:10:00Z,2024-03-29T00:00:00
+Royce O'Neale,PHX,under,under momentum,BetMGM,5.5,2.0,BetMGM,5.5,1.74,2024-04-02T00:10:00Z,2024-03-29T00:00:00
+Myles Turner,IND,under,under momentum,BetMGM,14.5,1.8,BetMGM,14.5,1.95,2024-04-01T23:00:00Z,2024-03-29T00:00:00
+Pascal Siakam,TOR,under,under momentum,BetMGM,22.5,1.91,BetMGM,22.5,1.83,2024-04-01T23:00:00Z,2024-01-15T00:00:00
+Mikal Bridges,BKN,under,under momentum,Unibet,21.5,3.15,Unibet,21.5,1.27,2024-04-01T23:00:00Z,2024-03-31T00:00:00
+Dorian Finney-Smith,BKN,under,under momentum,Unibet,5.5,1.42,Unibet,5.5,2.6,2024-04-01T23:00:00Z,2024-03-31T00:00:00
+Santi Aldama,MEM,under,under momentum,Bovada,10.5,2.0,Bovada,10.5,1.77,2024-04-01T23:10:00Z,2024-03-27T00:00:00
+Jaylen Brown,BOS,under,under momentum,BetMGM,22.5,1.8,BetMGM,22.5,1.91,2024-04-01T23:10:00Z,2024-03-30T00:00:00
+Jayson Tatum,BOS,under,under momentum,BetMGM,27.5,1.91,BetMGM,27.5,1.83,2024-04-01T23:10:00Z,2024-03-30T00:00:00
+Miles Bridges,CHA,over,over momentum on non-star players,Unibet,19.5,1.63,Unibet,19.5,2.15,2024-04-01T23:10:00Z,2024-03-31T00:00:00

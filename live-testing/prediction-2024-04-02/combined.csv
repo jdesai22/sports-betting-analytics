@@ -1,28 +1,28 @@
-Player,TEAM_ABBREVIATION,PTS_np,player_points_over_book,player_points_over_line,player_points_over,player_points_under_book,player_points_under_line,player_points_under,PROPS_DATE,LAST_GAME
-Dillon Brooks,HOU,under,BetMGM,10.5,2.0,BetMGM,10.5,1.74,2024-04-03T00:10:00Z,2024-03-31T00:00:00
-Fred VanVleet,HOU,under,BetMGM,14.5,1.87,BetMGM,14.5,1.87,2024-04-03T00:10:00Z,2024-03-31T00:00:00
-Jalen Green,HOU,under,BetMGM,24.5,1.91,BetMGM,24.5,1.83,2024-04-03T00:10:00Z,2024-03-31T00:00:00
-Mike Conley,MIN,over,BetMGM,13.5,1.87,BetMGM,13.5,1.87,2024-04-03T00:10:00Z,2024-03-31T00:00:00
-Duncan Robinson,MIA,under,BetMGM,10.5,1.77,BetMGM,10.5,2.0,2024-04-02T23:40:00Z,2024-03-31T00:00:00
-Isaiah Hartenstein,NYK,over,BetMGM,7.5,1.69,BetMGM,7.5,2.1,2024-04-02T23:40:00Z,2024-03-31T00:00:00
-Jimmy Butler,MIA,under,BetMGM,19.5,1.8,BetMGM,19.5,1.95,2024-04-02T23:40:00Z,2024-03-31T00:00:00
-Austin Reaves,LAL,under,Bovada,16.5,1.8,Bovada,16.5,1.95,2024-04-02T23:10:00Z,2024-03-31T00:00:00
-Immanuel Quickley,TOR,under,Bovada,19.5,1.95,Bovada,19.5,1.8,2024-04-02T23:10:00Z,2024-03-17T00:00:00
-LeBron James,LAL,under,Bovada,26.5,1.95,Bovada,26.5,1.8,2024-04-02T23:10:00Z,2024-03-31T00:00:00
-Andrew Wiggins,GSW,under,BetMGM,12.5,1.8,BetMGM,12.5,1.95,2024-04-03T02:10:00Z,2024-03-31T00:00:00
-Draymond Green,GSW,over,BetMGM,7.5,1.87,BetMGM,7.5,1.87,2024-04-03T02:10:00Z,2024-03-31T00:00:00
-Klay Thompson,GSW,under,BetMGM,17.5,1.8,BetMGM,17.5,1.95,2024-04-03T02:10:00Z,2024-03-31T00:00:00
-Jalen Williams,OKC,over,Bovada,19.5,1.87,Bovada,19.5,1.87,2024-04-02T23:40:00Z,2024-03-31T00:00:00
-Shai Gilgeous-Alexander,OKC,under,Bovada,28.5,1.87,Bovada,28.5,1.87,2024-04-02T23:40:00Z,2024-03-31T00:00:00
-Tyrese Maxey,PHI,under,Bovada,25.5,1.8,Bovada,25.5,1.95,2024-04-02T23:40:00Z,2024-03-29T00:00:00
-Harrison Barnes,SAC,over,BetMGM,14.5,1.87,BetMGM,14.5,1.87,2024-04-03T02:10:00Z,2024-03-31T00:00:00
-Ivica Zubac,LAC,over,BetMGM,10.5,2.05,BetMGM,10.5,1.71,2024-04-03T02:10:00Z,2024-03-31T00:00:00
-James Harden,LAC,under,BetMGM,15.5,2.0,BetMGM,15.5,1.77,2024-04-03T02:10:00Z,2024-03-31T00:00:00
-Paul George,LAC,over,BetMGM,22.5,1.83,BetMGM,22.5,1.91,2024-04-03T02:10:00Z,2024-03-31T00:00:00
-Darius Garland,CLE,under,Bovada,15.5,1.91,Bovada,15.5,1.83,2024-04-03T01:10:00Z,2024-03-31T00:00:00
-Donovan Mitchell,CLE,under,Bovada,23.5,1.91,Bovada,23.5,1.83,2024-04-03T01:10:00Z,2024-03-31T00:00:00
-Max Strus,CLE,under,Bovada,10.5,1.91,Bovada,10.5,1.83,2024-04-03T01:10:00Z,2024-03-31T00:00:00
-Walker Kessler,UTA,under,Bovada,9.5,2.0,Bovada,9.5,1.77,2024-04-03T01:10:00Z,2024-03-31T00:00:00
-Aaron Gordon,DEN,under,Bovada,14.5,1.87,Bovada,14.5,1.87,2024-04-03T01:10:00Z,2024-03-31T00:00:00
-Kentavious Caldwell-Pope,DEN,over,Bovada,10.5,1.83,Bovada,10.5,1.91,2024-04-03T01:10:00Z,2024-03-31T00:00:00
-Victor Wembanyama,SAS,over,Bovada,25.5,1.95,Bovada,25.5,1.8,2024-04-03T01:10:00Z,2024-03-31T00:00:00
+Player,TEAM_ABBREVIATION,PTS_np,pred_type,player_points_over_book,player_points_over_line,player_points_over,player_points_under_book,player_points_under_line,player_points_under,PROPS_DATE,LAST_GAME
+Dillon Brooks,HOU,under,under momentum,BetMGM,10.5,2.0,BetMGM,10.5,1.74,2024-04-03T00:10:00Z,2024-03-31T00:00:00
+Fred VanVleet,HOU,under,under momentum,BetMGM,14.5,1.87,BetMGM,14.5,1.87,2024-04-03T00:10:00Z,2024-03-31T00:00:00
+Jalen Green,HOU,under,under momentum,BetMGM,24.5,1.91,BetMGM,24.5,1.83,2024-04-03T00:10:00Z,2024-03-31T00:00:00
+Mike Conley,MIN,over,over momentum on non-star players,BetMGM,13.5,1.87,BetMGM,13.5,1.87,2024-04-03T00:10:00Z,2024-03-31T00:00:00
+Duncan Robinson,MIA,under,under momentum,BetMGM,10.5,1.77,BetMGM,10.5,2.0,2024-04-02T23:40:00Z,2024-03-31T00:00:00
+Isaiah Hartenstein,NYK,over,over momentum on non-star players,BetMGM,7.5,1.69,BetMGM,7.5,2.1,2024-04-02T23:40:00Z,2024-03-31T00:00:00
+Jimmy Butler,MIA,under,under momentum,BetMGM,19.5,1.8,BetMGM,19.5,1.95,2024-04-02T23:40:00Z,2024-03-31T00:00:00
+Austin Reaves,LAL,under,under momentum,Bovada,16.5,1.8,Bovada,16.5,1.95,2024-04-02T23:10:00Z,2024-03-31T00:00:00
+Immanuel Quickley,TOR,under,under momentum,Bovada,19.5,1.95,Bovada,19.5,1.8,2024-04-02T23:10:00Z,2024-03-17T00:00:00
+LeBron James,LAL,under,fade star players,Bovada,26.5,1.95,Bovada,26.5,1.8,2024-04-02T23:10:00Z,2024-03-31T00:00:00
+Andrew Wiggins,GSW,under,under momentum,BetMGM,12.5,1.8,BetMGM,12.5,1.95,2024-04-03T02:10:00Z,2024-03-31T00:00:00
+Draymond Green,GSW,over,over momentum on non-star players,BetMGM,7.5,1.87,BetMGM,7.5,1.87,2024-04-03T02:10:00Z,2024-03-31T00:00:00
+Klay Thompson,GSW,under,under momentum,BetMGM,17.5,1.8,BetMGM,17.5,1.95,2024-04-03T02:10:00Z,2024-03-31T00:00:00
+Jalen Williams,OKC,over,over momentum on non-star players,Bovada,19.5,1.87,Bovada,19.5,1.87,2024-04-02T23:40:00Z,2024-03-31T00:00:00
+Shai Gilgeous-Alexander,OKC,under,under momentum,Bovada,28.5,1.87,Bovada,28.5,1.87,2024-04-02T23:40:00Z,2024-03-31T00:00:00
+Tyrese Maxey,PHI,under,under momentum,Bovada,25.5,1.8,Bovada,25.5,1.95,2024-04-02T23:40:00Z,2024-03-29T00:00:00
+Harrison Barnes,SAC,over,over momentum on non-star players,BetMGM,14.5,1.87,BetMGM,14.5,1.87,2024-04-03T02:10:00Z,2024-03-31T00:00:00
+Ivica Zubac,LAC,over,over momentum on non-star players,BetMGM,10.5,2.05,BetMGM,10.5,1.71,2024-04-03T02:10:00Z,2024-03-31T00:00:00
+James Harden,LAC,under,under momentum,BetMGM,15.5,2.0,BetMGM,15.5,1.77,2024-04-03T02:10:00Z,2024-03-31T00:00:00
+Paul George,LAC,over,over momentum on non-star players,BetMGM,22.5,1.83,BetMGM,22.5,1.91,2024-04-03T02:10:00Z,2024-03-31T00:00:00
+Darius Garland,CLE,under,under momentum,Bovada,15.5,1.91,Bovada,15.5,1.83,2024-04-03T01:10:00Z,2024-03-31T00:00:00
+Donovan Mitchell,CLE,under,under momentum,Bovada,23.5,1.91,Bovada,23.5,1.83,2024-04-03T01:10:00Z,2024-03-31T00:00:00
+Max Strus,CLE,under,under momentum,Bovada,10.5,1.91,Bovada,10.5,1.83,2024-04-03T01:10:00Z,2024-03-31T00:00:00
+Walker Kessler,UTA,under,under momentum,Bovada,9.5,2.0,Bovada,9.5,1.77,2024-04-03T01:10:00Z,2024-03-31T00:00:00
+Aaron Gordon,DEN,under,under momentum,Bovada,14.5,1.87,Bovada,14.5,1.87,2024-04-03T01:10:00Z,2024-03-31T00:00:00
+Kentavious Caldwell-Pope,DEN,over,over momentum on non-star players,Bovada,10.5,1.83,Bovada,10.5,1.91,2024-04-03T01:10:00Z,2024-03-31T00:00:00
+Victor Wembanyama,SAS,over,over momentum on non-star players,Bovada,25.5,1.95,Bovada,25.5,1.8,2024-04-03T01:10:00Z,2024-03-31T00:00:00

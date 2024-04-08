@@ -1,6 +1,6 @@
-PLAYER_ID,PLAYER_NAME,GAME_DATE,PTS,REB,AST,TEAM_ABBREVIATION,PTS_np,player_points_over_book,player_points_over_line,player_points_over,player_points_under_book,player_points_under_line,player_points_under,PROPS_DATE,LAST_GAME,RES
-1627736,Malik Beasley,2024-03-28T00:00:00,20,2,0,MIL,over,Bovada,10.5,1.8,Bovada,10.5,1.95,2024-03-29T00:10:00Z,2024-03-26T00:00:00,over
-201950,Jrue Holiday,2024-03-28T00:00:00,13,7,5,BOS,under,Bovada,9.5,1.77,Bovada,9.5,2.0,2024-03-28T23:40:00Z,2024-03-17T00:00:00,over
-202685,Jonas Valanciunas,2024-03-28T00:00:00,17,10,1,NOP,under,Bovada,9.5,1.95,Bovada,9.5,1.8,2024-03-29T00:10:00Z,2024-03-26T00:00:00,over
-1626192,Pat Connaughton,2024-03-28T00:00:00,3,1,1,MIL,under,BetMGM,4.5,1.74,BetMGM,4.5,2.0,2024-03-29T00:10:00Z,2024-03-26T00:00:00,under
-201572,Brook Lopez,2024-03-28T00:00:00,7,5,1,MIL,under,Bovada,9.5,1.74,Bovada,9.5,2.05,2024-03-29T00:10:00Z,2024-03-26T00:00:00,under
+PLAYER_ID,PLAYER_NAME,GAME_DATE,PTS,REB,AST,TEAM_ABBREVIATION,PTS_np,pred_type,player_points_over_book,player_points_over_line,player_points_over,player_points_under_book,player_points_under_line,player_points_under,PROPS_DATE,LAST_GAME,RES
+1627736,Malik Beasley,2024-03-28T00:00:00,20,2,0,MIL,over,over momentum on non-star players,Bovada,10.5,1.8,Bovada,10.5,1.95,2024-03-29T00:10:00Z,2024-03-26T00:00:00,over
+202685,Jonas Valanciunas,2024-03-28T00:00:00,17,10,1,NOP,under,under momentum,Bovada,9.5,1.95,Bovada,9.5,1.8,2024-03-29T00:10:00Z,2024-03-26T00:00:00,over
+201572,Brook Lopez,2024-03-28T00:00:00,7,5,1,MIL,under,under momentum,Bovada,9.5,1.74,Bovada,9.5,2.05,2024-03-29T00:10:00Z,2024-03-26T00:00:00,under
+201950,Jrue Holiday,2024-03-28T00:00:00,13,7,5,BOS,under,under momentum,Bovada,9.5,1.77,Bovada,9.5,2.0,2024-03-28T23:40:00Z,2024-03-17T00:00:00,over
+1626192,Pat Connaughton,2024-03-28T00:00:00,3,1,1,MIL,under,under momentum,BetMGM,4.5,1.74,BetMGM,4.5,2.0,2024-03-29T00:10:00Z,2024-03-26T00:00:00,under

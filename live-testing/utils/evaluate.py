@@ -46,21 +46,26 @@ def append_game_result(results_file):
 def count_success(results_file, date):
     res = pd.read_csv(results_file)
 
-    count_over_correct = len(res[(res['PTS_np'] == 'over') & (res['RES'] == 'over')])
-    count_over_predicted = len(res[res['PTS_np'] == 'over'])
+    count_under_momentum_correct = len(res[(res['pred_type'] == 'under momentum') & (res['RES'] == 'under')])
+    count_under_momentum_predicted = len(res[res['pred_type'] == 'under momentum'])
 
-    count_under_correct = len(res[(res['PTS_np'] == 'under') & (res['RES'] == 'under')])
-    count_under_predicted = len(res[res['PTS_np'] == 'under'])
+    count_over_bench_correct = len(res[(res['pred_type'] == 'over momentum on non-star players') & (res['RES'] == 'over')])
+    count_over_bench_predicted = len(res[res['pred_type'] == 'over momentum on non-star players'])
+
+    count_under_star_correct = len(res[(res['pred_type'] == 'fade star players') & (res['RES'] == 'under')])
+    count_under_star_predicted = len(res[res['pred_type'] == 'fade star players'])
 
     count_total_rows = len(res)
 
     return (
         {
             "date" : date, 
-            "over_correct" : count_over_correct,
-            "over_predicted" : count_over_predicted,
-            "under_correct" : count_under_correct,
-            "under_predicted" : count_under_predicted,
+            "correct over momentum on non-star players" : count_over_bench_correct,
+            "predicted over momentum on non-star players" : count_over_bench_predicted,
+            "correct under momentum" : count_under_momentum_correct,
+            "predicted under momentum" : count_under_momentum_predicted,
+            "correct fade star players" : count_under_star_correct,
+            "predicted fade star players" : count_under_star_predicted,
             "total_predicted" : count_total_rows
         }
     )

@@ -1,8 +1,8 @@
 from utils.evaluate import *
 
-DATES = ["2024-04-05", "2024-04-06"]
+DATES = ["2024-04-07"]
 RESULTS_FILE = "prediction_results.csv"
-ANALYSIS_FILE = "overall_results.csv"
+ANALYSIS_FILE = "overall_results_grouped.csv"
 COMBINED_FILE = "combined.csv"
 
 if __name__ == "__main__":
