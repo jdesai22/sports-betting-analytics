@@ -160,6 +160,12 @@ def next_game_pred(player_log_file, prediction_file):
     df.loc[(df['PTS_ra'] < 25) & (df['PTS_z'] > z_thresh_map['over_u25_over']), 'PTS_np'] = 'over'
     df.loc[df['PTS_z'] < z_thresh_map['under_all'], 'PTS_np'] = 'under'
     
+    df['pred_type'] = 'NA'
+    df.loc[(df['PTS_ra'] > 25) & (df['PTS_z'] > z_thresh_map['over_g25_fade']), 'pred_type'] = 'fade star players'
+    df.loc[(df['PTS_ra'] < 25) & (df['PTS_z'] > z_thresh_map['over_u25_over']), 'pred_type'] = 'over momentum on non-star players'
+    df.loc[df['PTS_z'] < z_thresh_map['under_all'], 'pred_type'] = 'under momentum'
+
+
     df = df[df['PTS_np'] != 'NA']
     df = df[['PLAYER_NAME', 'TEAM_ABBREVIATION', 'PTS_np', 'GAME_DATE']]
 

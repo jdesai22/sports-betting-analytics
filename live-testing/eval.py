@@ -1,6 +1,6 @@
 from utils.evaluate import *
 
-DATES = ["2024-03-27", "2024-03-28", "2024-03-29", "2024-03-30", "2024-03-31"]
+DATES = ["2024-04-05", "2024-04-06"]
 RESULTS_FILE = "prediction_results.csv"
 ANALYSIS_FILE = "overall_results.csv"
 COMBINED_FILE = "combined.csv"

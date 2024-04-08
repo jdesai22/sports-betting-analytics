@@ -1,0 +1,874 @@
+{
+    "id": "cb3afc2d097c75d351e50bf9aefdb9d8",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2024-04-06T00:10:00Z",
+    "home_team": "New Orleans Pelicans",
+    "away_team": "San Antonio Spurs",
+    "bookmakers": [
+        {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "markets": [
+                {
+                    "key": "player_points",
+                    "last_update": "2024-04-05T16:52:50Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Zion Williamson",
+                            "price": 1.91,
+                            "point": 27.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Zion Williamson",
+                            "price": 1.83,
+                            "point": 27.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "pointsbetus",
+            "title": "PointsBet (US)",
+            "markets": [
+                {
+                    "key": "player_points",
+                    "last_update": "2024-04-05T16:53:24Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Tre Jones",
+                            "price": 1.87,
+                            "point": 10.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Tre Jones",
+                            "price": 1.87,
+                            "point": 10.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": 1.87,
+                            "point": 25.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": 1.87,
+                            "point": 25.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Zion Williamson",
+                            "price": 1.87,
+                            "point": 27.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Zion Williamson",
+                            "price": 1.87,
+                            "point": 27.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "markets": [
+                {
+                    "key": "player_points",
+                    "last_update": "2024-04-05T16:54:11Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Zion Williamson",
+                            "price": 1.88,
+                            "point": 27.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Zion Williamson",
+                            "price": 1.88,
+                            "point": 27.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": 1.88,
+                            "point": 25.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": 1.88,
+                            "point": 25.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tre Jones",
+                            "price": 1.87,
+                            "point": 10.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Tre Jones",
+                            "price": 1.93,
+                            "point": 10.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "betonlineag",
+            "title": "BetOnline.ag",
+            "markets": [
+                {
+                    "key": "player_points",
+                    "last_update": "2024-04-05T16:52:36Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Zion Williamson",
+                            "price": 1.93,
+                            "point": 27.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Zion Williamson",
+                            "price": 1.83,
+                            "point": 27.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Tre Jones",
+                            "price": 1.9,
+                            "point": 10.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tre Jones",
+                            "price": 1.86,
+                            "point": 10.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": 1.77,
+                            "point": 25.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": 2.0,
+                            "point": 25.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "bovada",
+            "title": "Bovada",
+            "markets": [
+                {
+                    "key": "player_points",
+                    "last_update": "2024-04-05T16:54:00Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Zion Williamson",
+                            "price": 1.91,
+                            "point": 27.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Zion Williamson",
+                            "price": 1.83,
+                            "point": 27.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "unibet_us",
+            "title": "Unibet",
+            "markets": [
+                {
+                    "key": "player_points",
+                    "last_update": "2024-04-05T16:54:08Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Zion Williamson",
+                            "price": 1.5,
+                            "point": 25.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Zion Williamson",
+                            "price": 2.35,
+                            "point": 25.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tre Jones",
+                            "price": 1.88,
+                            "point": 10.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Tre Jones",
+                            "price": 1.85,
+                            "point": 10.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": 1.51,
+                            "point": 23.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": 2.33,
+                            "point": 23.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tre Jones",
+                            "price": 2.2,
+                            "point": 11.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Tre Jones",
+                            "price": 1.6,
+                            "point": 11.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": 1.83,
+                            "point": 25.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": 1.91,
+                            "point": 25.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Zion Williamson",
+                            "price": 1.38,
+                            "point": 24.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Zion Williamson",
+                            "price": 2.7,
+                            "point": 24.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": 2.02,
+                            "point": 26.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": 1.75,
+                            "point": 26.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Zion Williamson",
+                            "price": 1.85,
+                            "point": 27.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Zion Williamson",
+                            "price": 1.88,
+                            "point": 27.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tre Jones",
+                            "price": 1.62,
+                            "point": 9.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Tre Jones",
+                            "price": 2.17,
+                            "point": 9.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": 1.4,
+                            "point": 22.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": 2.63,
+                            "point": 22.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": 3.1,
+                            "point": 30.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": 1.28,
+                            "point": 30.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tre Jones",
+                            "price": 1.41,
+                            "point": 8.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Tre Jones",
+                            "price": 2.6,
+                            "point": 8.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": 1.66,
+                            "point": 24.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": 2.12,
+                            "point": 24.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Zion Williamson",
+                            "price": 3.0,
+                            "point": 31.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Zion Williamson",
+                            "price": 1.3,
+                            "point": 31.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tre Jones",
+                            "price": 2.6,
+                            "point": 12.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Tre Jones",
+                            "price": 1.41,
+                            "point": 12.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Zion Williamson",
+                            "price": 2.3,
+                            "point": 29.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Zion Williamson",
+                            "price": 1.54,
+                            "point": 29.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Zion Williamson",
+                            "price": 2.6,
+                            "point": 30.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Zion Williamson",
+                            "price": 1.4,
+                            "point": 30.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Zion Williamson",
+                            "price": 2.07,
+                            "point": 28.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Zion Williamson",
+                            "price": 1.7,
+                            "point": 28.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Zion Williamson",
+                            "price": 1.67,
+                            "point": 26.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Zion Williamson",
+                            "price": 2.1,
+                            "point": 26.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": 2.75,
+                            "point": 29.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": 1.36,
+                            "point": 29.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": 2.2,
+                            "point": 27.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": 1.6,
+                            "point": 27.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Zion Williamson",
+                            "price": 1.27,
+                            "point": 23.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Zion Williamson",
+                            "price": 3.1,
+                            "point": 23.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": 2.45,
+                            "point": 28.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": 1.47,
+                            "point": 28.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": 1.3,
+                            "point": 21.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": 3.0,
+                            "point": 21.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tre Jones",
+                            "price": 3.1,
+                            "point": 13.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Tre Jones",
+                            "price": 1.27,
+                            "point": 13.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "betrivers",
+            "title": "BetRivers",
+            "markets": [
+                {
+                    "key": "player_points",
+                    "last_update": "2024-04-05T16:54:10Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Zion Williamson",
+                            "price": 1.5,
+                            "point": 25.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Zion Williamson",
+                            "price": 2.35,
+                            "point": 25.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tre Jones",
+                            "price": 1.88,
+                            "point": 10.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Tre Jones",
+                            "price": 1.85,
+                            "point": 10.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": 1.51,
+                            "point": 23.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": 2.33,
+                            "point": 23.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tre Jones",
+                            "price": 2.2,
+                            "point": 11.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Tre Jones",
+                            "price": 1.6,
+                            "point": 11.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": 1.83,
+                            "point": 25.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": 1.91,
+                            "point": 25.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Zion Williamson",
+                            "price": 1.38,
+                            "point": 24.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Zion Williamson",
+                            "price": 2.7,
+                            "point": 24.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": 2.02,
+                            "point": 26.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": 1.75,
+                            "point": 26.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Zion Williamson",
+                            "price": 1.85,
+                            "point": 27.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Zion Williamson",
+                            "price": 1.88,
+                            "point": 27.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tre Jones",
+                            "price": 1.62,
+                            "point": 9.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Tre Jones",
+                            "price": 2.17,
+                            "point": 9.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": 1.4,
+                            "point": 22.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": 2.63,
+                            "point": 22.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": 3.1,
+                            "point": 30.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": 1.28,
+                            "point": 30.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tre Jones",
+                            "price": 1.41,
+                            "point": 8.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Tre Jones",
+                            "price": 2.6,
+                            "point": 8.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": 1.66,
+                            "point": 24.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": 2.12,
+                            "point": 24.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Zion Williamson",
+                            "price": 3.0,
+                            "point": 31.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Zion Williamson",
+                            "price": 1.3,
+                            "point": 31.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tre Jones",
+                            "price": 2.6,
+                            "point": 12.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Tre Jones",
+                            "price": 1.41,
+                            "point": 12.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Zion Williamson",
+                            "price": 2.3,
+                            "point": 29.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Zion Williamson",
+                            "price": 1.54,
+                            "point": 29.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Zion Williamson",
+                            "price": 2.6,
+                            "point": 30.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Zion Williamson",
+                            "price": 1.4,
+                            "point": 30.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Zion Williamson",
+                            "price": 2.07,
+                            "point": 28.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Zion Williamson",
+                            "price": 1.7,
+                            "point": 28.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Zion Williamson",
+                            "price": 1.67,
+                            "point": 26.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Zion Williamson",
+                            "price": 2.1,
+                            "point": 26.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": 2.75,
+                            "point": 29.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": 1.36,
+                            "point": 29.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": 2.2,
+                            "point": 27.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": 1.6,
+                            "point": 27.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Zion Williamson",
+                            "price": 1.27,
+                            "point": 23.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Zion Williamson",
+                            "price": 3.1,
+                            "point": 23.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": 2.45,
+                            "point": 28.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": 1.47,
+                            "point": 28.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Victor Wembanyama",
+                            "price": 1.3,
+                            "point": 21.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Victor Wembanyama",
+                            "price": 3.0,
+                            "point": 21.5
+                        },
+                        {
+                            "name": "Over",
+                            "description": "Tre Jones",
+                            "price": 3.1,
+                            "point": 13.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Tre Jones",
+                            "price": 1.27,
+                            "point": 13.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "betmgm",
+            "title": "BetMGM",
+            "markets": [
+                {
+                    "key": "player_points",
+                    "last_update": "2024-04-05T16:54:09Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Zion Williamson",
+                            "price": 1.91,
+                            "point": 27.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Zion Williamson",
+                            "price": 1.83,
+                            "point": 27.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "williamhill_us",
+            "title": "Caesars",
+            "markets": [
+                {
+                    "key": "player_points",
+                    "last_update": "2024-04-05T16:52:14Z",
+                    "outcomes": [
+                        {
+                            "name": "Over",
+                            "description": "Zion Williamson",
+                            "price": 1.92,
+                            "point": 27.5
+                        },
+                        {
+                            "name": "Under",
+                            "description": "Zion Williamson",
+                            "price": 1.8,
+                            "point": 27.5
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
